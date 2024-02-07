@@ -18,19 +18,19 @@ Fetch the data by retrieving the url:
 Every file is formatted as follows:
 
 ``` 
-# name				- The full human readable track name
-# turn				- An array of all the Turn data
-	# name			- Turn Name
-	# marker		- The percentage point of the Apex
-	# start			- OPTIONAL The percentage point turn start
-	# end			- OPTIONAL The percentage point turn end
-# sector			- An array of all the track Sectors
-	# name			- The name of the Sector
-	# marker		- The percentage point of the Sector
-# time				- OPTIONAL An array of estimated time delays
-	# class			- The car class (sim dependant)
-		# name		- Name of the time delay
-		# time		- Time delay in seconds
+# name        - The full human readable track name
+# turn        - An array of all the Turn data
+  # name      - Turn Name
+  # marker    - The percentage point of the Apex
+  # start     - OPTIONAL The percentage point turn start
+  # end       - OPTIONAL The percentage point turn end
+# sector      - An array of all the track Sectors
+  # name      - The name of the Sector
+  # marker    - The percentage point of the Sector
+# time        - OPTIONAL An array of estimated time delays
+  # class     - The car class (sim dependant)
+    # name    - Name of the time delay
+    # time    - Time delay in seconds
 ```
 
 ### Example 
