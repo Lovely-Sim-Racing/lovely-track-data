@@ -50,10 +50,10 @@ Every file is formatted as follows:
     {"name": "La Caixa", "marker": 0.758, "start": 0.725, "end": 0.770},
     {"name": 11, "marker": 0.785},
     {"name": "Banc Sabadell", "marker": 0.819, "start": 0.795, "end": 0.840},
-    {"name": "Europcar", "apex": 0.869, "start": 0.850, "end": 0.875},
-    {"name": 14, "apex": 0.895},
-    {"name": "Chicane RACC", "apex": 0.908, "start": 0.885, "end": 0.908},
-    {"name": "New Holland", "apex": 0.944, "start": 0.915, "end": 0.960}
+    {"name": "Europcar", "marker": 0.869, "start": 0.850, "end": 0.875},
+    {"name": 14, "marker": 0.895},
+    {"name": "Chicane RACC", "marker": 0.908, "start": 0.885, "end": 0.908},
+    {"name": "New Holland", "marker": 0.944, "start": 0.915, "end": 0.960}
   ],
   "sector": [
     {"name": 1, "marker": 0.350},
