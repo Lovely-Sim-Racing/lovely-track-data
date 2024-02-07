@@ -36,36 +36,36 @@ Every file is formatted as follows:
 ### Example 
 ```JSON
 {
-    "name": "Barcelona",
-    "turn": [
-        {"name": "Elf", "marker": 0.185, "start": 0.155, "end": 0.220},
-        {"name": 2, "marker": 0.209},
-        {"name": "Renault", "marker": 0.281, "start": 0.230, "end": 0.320},
-        {"name": "Repsol", "marker": 0.377, "start": 0.355, "end": 0.420},
-        {"name": "Seat", "marker": 0.461, "start": 0.440, "end": 0.478},
-        {"name": 6, "marker": 0.518},
-        {"name": "Würth", "marker": 0.556, "start": 0.535, "end": 0.583},
-        {"name": 8, "apex": 0.577},
-        {"name": "Campsa", "marker": 0.633, "start": 0.600, "end": 0.655},
-        {"name": "La Caixa", "marker": 0.758, "start": 0.725, "end": 0.770},
-        {"name": 11, "marker": 0.785},
-        {"name": "Banc Sabadell", "marker": 0.819, "start": 0.795, "end": 0.840},
-        {"name": "Europcar", "apex": 0.869, "start": 0.850, "end": 0.875},
-        {"name": 14, "apex": 0.895},
-        {"name": "Chicane RACC", "apex": 0.908, "start": 0.885, "end": 0.908},
-        {"name": "New Holland", "apex": 0.944, "start": 0.915, "end": 0.960}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.350},
-        {"name": 2, "marker": 0.733},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-    	{ "gt3": [
-    		{"name": "sg30", "time": 77},
-    		{"name": "dt", "time": 42}
-		]}
-    ]
+  "name": "Barcelona",
+  "turn": [
+    {"name": "Elf", "marker": 0.185, "start": 0.155, "end": 0.220},
+    {"name": 2, "marker": 0.209},
+    {"name": "Renault", "marker": 0.281, "start": 0.230, "end": 0.320},
+    {"name": "Repsol", "marker": 0.377, "start": 0.355, "end": 0.420},
+    {"name": "Seat", "marker": 0.461, "start": 0.440, "end": 0.478},
+    {"name": 6, "marker": 0.518},
+    {"name": "Würth", "marker": 0.556, "start": 0.535, "end": 0.583},
+    {"name": 8, "apex": 0.577},
+    {"name": "Campsa", "marker": 0.633, "start": 0.600, "end": 0.655},
+    {"name": "La Caixa", "marker": 0.758, "start": 0.725, "end": 0.770},
+    {"name": 11, "marker": 0.785},
+    {"name": "Banc Sabadell", "marker": 0.819, "start": 0.795, "end": 0.840},
+    {"name": "Europcar", "apex": 0.869, "start": 0.850, "end": 0.875},
+    {"name": 14, "apex": 0.895},
+    {"name": "Chicane RACC", "apex": 0.908, "start": 0.885, "end": 0.908},
+    {"name": "New Holland", "apex": 0.944, "start": 0.915, "end": 0.960}
+  ],
+  "sector": [
+    {"name": 1, "marker": 0.350},
+    {"name": 2, "marker": 0.733},
+    {"name": 3, "marker": 1}
+  ],
+  "time": [
+    { "gt3": [
+      {"name": "sg30", "time": 77},
+      {"name": "dt", "time": 42}
+    ]}
+  ]
 }
 ```
 
