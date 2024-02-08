@@ -37,7 +37,7 @@ Every file is formatted as follows:
 ### Example for `barcelona.json`
 ```JSON
 {
-    "name": "Barcelona",\
+    "name": "Barcelona",
     "country": "ES",
     "turn": [
         {"name": "Elf", "marker": 0.185, "start": 0.155, "end": 0.220},
