@@ -1,22 +1,24 @@
 {
     "name": "Lime Rock Park",
+    "country": "US",
     "turn": [
-        {"1": 0.118},
-        {"2": 0.184},
-        {"3": 0.291},
-        {"4": 0.338},
-        {"5": 0.517},
-        {"6": 0.675},
-        {"7": 0.815}
+        {"name": 1, "marker": 0.118},
+        {"name": 2, "marker": 0.184},
+        {"name": 3, "marker": 0.291},
+        {"name": 4, "marker": 0.338},
+        {"name": 5, "marker": 0.517},
+        {"name": 6, "marker": 0.675},
+        {"name": 7, "marker": 0.815}
     ],
-    "sector": {
-        "1": 0.417,
-        "2": 0.744,
-        "5": 1
-    },
-    "gt3": {
-        "pitstop": 47,
-        "sg30": 47,
-        "dt": 14
-    }
+    "sector": [
+        {"name": 1, "marker": 0.417},
+        {"name": 2, "marker": 0.744},
+        {"name": 3, "marker": 1}
+    ],
+    "time": [
+        { "gt3": [
+            {"name": "sg30", "time": 47},
+            {"name": "dt", "time": 14}
+        ]}
+    ]
 }

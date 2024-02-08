@@ -1,0 +1,28 @@
+{
+    "name": "Laguna Seca",
+    "country": "US",
+    "turn": [
+        {"name": 1, "marker": 0.075},
+        {"name": 2, "marker": 0.145},
+        {"name": 3, "marker": 0.220},
+        {"name": 4, "marker": 0.300},
+        {"name": 5, "marker": 0.430},
+        {"name": 6, "marker": 0.546},
+        {"name": 7, "marker": 0.664},
+        {"name": 8, "marker": 0.694},
+        {"name": 9, "marker": 0.757},
+        {"name": 10, "marker": 0.832},
+        {"name": 11, "marker": 0.913}
+    ],
+    "sector": [
+        {"name": 1, "marker": 0.254},
+        {"name": 2, "marker": 0.636},
+        {"name": 3, "marker": 1}
+    ],
+    "time": [
+        { "gt3": [
+            {"name": "sg30", "time": 67},
+            {"name": "dt", "time": 33}
+        ]}
+    ]
+}

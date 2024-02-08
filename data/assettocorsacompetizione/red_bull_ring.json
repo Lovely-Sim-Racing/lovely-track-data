@@ -1,0 +1,27 @@
+{
+    "name": "Red Bull Ring",
+    "country": "AT",
+    "turn": [
+        {"name": 1, "marker": 0.106},
+        {"name": 2, "marker": 0.254},
+        {"name": 3, "marker": 0.324},
+        {"name": 4, "marker": 0.514},
+        {"name": 5, "marker": 0.570},
+        {"name": 6, "marker": 0.640},
+        {"name": 7, "marker": 0.709},
+        {"name": 8, "marker": 0.740},
+        {"name": 9, "marker": 0.879},
+        {"name": 10, "marker": 0.926}
+    ],
+    "sector": [
+        {"name": 1, "marker": 0.287},
+        {"name": 2, "marker": 0.687},
+        {"name": 3, "marker": 1}
+    ],
+    "time": [
+        { "gt3": [
+            {"name": "sg30", "time": 80},
+            {"name": "dt", "time": 42}
+        ]}
+    ]
+}

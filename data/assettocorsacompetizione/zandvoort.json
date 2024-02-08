@@ -1,0 +1,31 @@
+{
+    "name": "Zandvoort",
+    "country": "NL",
+    "turn": [
+        {"name": 1, "marker": 0.091},
+        {"name": 2, "marker": 0.167},
+        {"name": 3, "marker": 0.205},
+        {"name": 4, "marker": 0.265},
+        {"name": 5, "marker": 0.310},
+        {"name": 6, "marker": 0.345},
+        {"name": 7, "marker": 0.406},
+        {"name": 8, "marker": 0.487},
+        {"name": 9, "marker": 0.541},
+        {"name": 10, "marker": 0.599},
+        {"name": 11, "marker": 0.736},
+        {"name": 12, "marker": 0.752},
+        {"name": 13, "marker": 0.830},
+        {"name": 14, "marker": 0.900}
+    ],
+    "sector": [
+        {"name": 1, "marker": 0.322},
+        {"name": 2, "marker": 0.659},
+        {"name": 3, "marker": 1}
+    ],
+    "time": [
+        { "gt3": [
+            {"name": "sg30", "time": 60},
+            {"name": "dt", "time": 25}
+        ]}
+    ]
+}

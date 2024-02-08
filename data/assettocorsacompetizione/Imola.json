@@ -1,0 +1,36 @@
+{
+    "name": "Imola",
+    "country": "IT",
+    "turn": [
+        {"name": 1, "marker": 0.025},
+        {"name": 2, "marker": 0.144},
+        {"name": 3, "marker": 0.159},
+        {"name": 4, "marker": 0.186},
+        {"name": 5, "marker": 0.274},
+        {"name": 6, "marker": 0.292},
+        {"name": 7, "marker": 0.349},
+        {"name": 8, "marker": 0.432},
+        {"name": 9, "marker": 0.476},
+        {"name": 10, "marker": 0.519},
+        {"name": 11, "marker": 0.557},
+        {"name": 12, "marker": 0.584},
+        {"name": 13, "marker": 0.607},
+        {"name": 14, "marker": 0.683},
+        {"name": 15, "marker": 0.697},
+        {"name": 16, "marker": 0.806},
+        {"name": 17, "marker": 0.846},
+        {"name": 18, "marker": 0.874},
+        {"name": 19, "marker": 0.939}
+    ],
+    "sector": [
+        {"name": 1, "marker": 0.258},
+        {"name": 2, "marker": 0.557},
+        {"name": 3, "marker": 1}
+    ],
+    "time": [
+        { "gt3": [
+            {"name": "sg30", "time": 78},
+            {"name": "dt", "time": 43}
+        ]}
+    ]
+}

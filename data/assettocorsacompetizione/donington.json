@@ -1,0 +1,29 @@
+{
+    "name": "Donington Park",
+    "country": "GB",
+    "turn": [
+        {"name": 1, "marker": 0.109},
+        {"name": 2, "marker": 0.177},
+        {"name": 3, "marker": 0.236},
+        {"name": 4, "marker": 0.298},
+        {"name": 5, "marker": 0.354},
+        {"name": 6, "marker": 0.423},
+        {"name": 7, "marker": 0.459},
+        {"name": 8, "marker": 0.559},
+        {"name": 9, "marker": 0.728},
+        {"name": 10, "marker": 0.740},
+        {"name": 11, "marker": 0.853},
+        {"name": 12, "marker": 0.954}
+    ],
+    "sector": [
+        {"name": 1, "marker": 0.255},
+        {"name": 2, "marker": 0.679},
+        {"name": 3, "marker": 1}
+    ],
+    "time": [
+        { "gt3": [
+            {"name": "sg30", "time": 60},
+            {"name": "dt", "time": 25}
+        ]}
+    ]
+}
