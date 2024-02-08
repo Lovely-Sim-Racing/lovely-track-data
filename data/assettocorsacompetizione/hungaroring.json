@@ -1,31 +1,90 @@
 {
-    "name": "Hungaroring",
-    "country": "HU",
-    "turn": [
-        {"name": 1, "marker": 0.149},
-        {"name": 2, "marker": 0.267},
-        {"name": 3, "marker": 0.310},
-        {"name": 4, "marker": 0.421},
-        {"name": 5, "marker": 0.476},
-        {"name": 6, "marker": 0.544},
-        {"name": 7, "marker": 0.559},
-        {"name": 8, "marker": 0.600},
-        {"name": 9, "marker": 0.627},
-        {"name": 10, "marker": 0.675},
-        {"name": 11, "marker": 0.717},
-        {"name": 12, "marker": 0.811},
-        {"name": 13, "marker": 0.872},
-        {"name": 14, "marker": 0.939}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.397},
-        {"name": 2, "marker": 0.750},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 75},
-            {"name": "dt", "time": 39}
-        ]}
-    ]
+  "country": "HU",
+  "name": "Hungaroring",
+  "sector": [
+    {
+      "marker": 0.397,
+      "name": 1
+    },
+    {
+      "marker": 0.75,
+      "name": 2
+    },
+    {
+      "marker": 1,
+      "name": 3
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 75
+        },
+        {
+          "name": "dt",
+          "time": 39
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.149,
+      "name": 1
+    },
+    {
+      "marker": 0.267,
+      "name": 2
+    },
+    {
+      "marker": 0.31,
+      "name": 3
+    },
+    {
+      "marker": 0.421,
+      "name": 4
+    },
+    {
+      "marker": 0.476,
+      "name": 5
+    },
+    {
+      "marker": 0.544,
+      "name": 6
+    },
+    {
+      "marker": 0.559,
+      "name": 7
+    },
+    {
+      "marker": 0.6,
+      "name": 8
+    },
+    {
+      "marker": 0.627,
+      "name": 9
+    },
+    {
+      "marker": 0.675,
+      "name": 10
+    },
+    {
+      "marker": 0.717,
+      "name": 11
+    },
+    {
+      "marker": 0.811,
+      "name": 12
+    },
+    {
+      "marker": 0.872,
+      "name": 13
+    },
+    {
+      "marker": 0.939,
+      "name": 14
+    }
+  ]
 }

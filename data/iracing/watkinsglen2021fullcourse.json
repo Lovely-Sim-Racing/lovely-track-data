@@ -1,32 +1,94 @@
 {
-    "name": "Watkins Glen",
-    "country": "US",
-    "turn": [
-        {"name": 1, "marker": 0.065},
-        {"name": 2, "marker": 0.135},
-        {"name": 3, "marker": 0.178},
-        {"name": 4, "marker": 0.229},
-        {"name": 5, "marker": 0.352},
-        {"name": 6, "marker": 0.378},
-        {"name": 7, "marker": 0.422},
-        {"name": 8, "marker": 0.516},
-        {"name": 9, "marker": 0.609},
-        {"name": 10, "marker": 0.736},
-        {"name": 11, "marker": 0.798},
-        {"name": 12, "marker": 0.872},
-        {"name": 13, "marker": 0.929}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.300},
-        {"name": 2, "marker": 0.473},
-        {"name": 3, "marker": 0.685},
-        {"name": 4, "marker": 0.839},
-        {"name": 5, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 78},
-            {"name": "dt", "time": 43}
-        ]}
-    ]
+  "country": "US",
+  "name": "Watkins Glen",
+  "sector": [
+    {
+      "marker": 0.3,
+      "name": 1
+    },
+    {
+      "marker": 0.473,
+      "name": 2
+    },
+    {
+      "marker": 0.685,
+      "name": 3
+    },
+    {
+      "marker": 0.839,
+      "name": 4
+    },
+    {
+      "marker": 1,
+      "name": 5
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 78
+        },
+        {
+          "name": "dt",
+          "time": 43
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.065,
+      "name": 1
+    },
+    {
+      "marker": 0.135,
+      "name": 2
+    },
+    {
+      "marker": 0.178,
+      "name": 3
+    },
+    {
+      "marker": 0.229,
+      "name": 4
+    },
+    {
+      "marker": 0.352,
+      "name": 5
+    },
+    {
+      "marker": 0.378,
+      "name": 6
+    },
+    {
+      "marker": 0.422,
+      "name": 7
+    },
+    {
+      "marker": 0.516,
+      "name": 8
+    },
+    {
+      "marker": 0.609,
+      "name": 9
+    },
+    {
+      "marker": 0.736,
+      "name": 10
+    },
+    {
+      "marker": 0.798,
+      "name": 11
+    },
+    {
+      "marker": 0.872,
+      "name": 12
+    },
+    {
+      "marker": 0.929,
+      "name": 13
+    }
+  ]
 }

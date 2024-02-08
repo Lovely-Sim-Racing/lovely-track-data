@@ -1,37 +1,114 @@
 {
-    "name": "Circuit of the Americas",
-    "country": "US",
-    "turn": [
-        {"name": 1, "marker": 0.121},
-        {"name": 2, "marker": 0.169},
-        {"name": 3, "marker": 0.214},
-        {"name": 4, "marker": 0.232},
-        {"name": 5, "marker": 0.249},
-        {"name": 6, "marker": 0.269},
-        {"name": 7, "marker": 0.315},
-        {"name": 8, "marker": 0.344},
-        {"name": 9, "marker": 0.360},
-        {"name": 10, "marker": 0.398},
-        {"name": 11, "marker": 0.471},
-        {"name": 12, "marker": 0.690},
-        {"name": 13, "marker": 0.731},
-        {"name": 14, "marker": 0.750},
-        {"name": 15, "marker": 0.782},
-        {"name": 16, "marker": 0.825},
-        {"name": 17, "marker": 0.838},
-        {"name": 18, "marker": 0.857},
-        {"name": 19, "marker": 0.920},
-        {"name": 20, "marker": 0.972}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.239},
-        {"name": 2, "marker": 0.659},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 79},
-            {"name": "dt", "time": 42}
-        ]}
-    ]
+  "country": "US",
+  "name": "Circuit of the Americas",
+  "sector": [
+    {
+      "marker": 0.239,
+      "name": 1
+    },
+    {
+      "marker": 0.659,
+      "name": 2
+    },
+    {
+      "marker": 1,
+      "name": 3
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 79
+        },
+        {
+          "name": "dt",
+          "time": 42
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.121,
+      "name": 1
+    },
+    {
+      "marker": 0.169,
+      "name": 2
+    },
+    {
+      "marker": 0.214,
+      "name": 3
+    },
+    {
+      "marker": 0.232,
+      "name": 4
+    },
+    {
+      "marker": 0.249,
+      "name": 5
+    },
+    {
+      "marker": 0.269,
+      "name": 6
+    },
+    {
+      "marker": 0.315,
+      "name": 7
+    },
+    {
+      "marker": 0.344,
+      "name": 8
+    },
+    {
+      "marker": 0.36,
+      "name": 9
+    },
+    {
+      "marker": 0.398,
+      "name": 10
+    },
+    {
+      "marker": 0.471,
+      "name": 11
+    },
+    {
+      "marker": 0.69,
+      "name": 12
+    },
+    {
+      "marker": 0.731,
+      "name": 13
+    },
+    {
+      "marker": 0.75,
+      "name": 14
+    },
+    {
+      "marker": 0.782,
+      "name": 15
+    },
+    {
+      "marker": 0.825,
+      "name": 16
+    },
+    {
+      "marker": 0.838,
+      "name": 17
+    },
+    {
+      "marker": 0.857,
+      "name": 18
+    },
+    {
+      "marker": 0.92,
+      "name": 19
+    },
+    {
+      "marker": 0.972,
+      "name": 20
+    }
+  ]
 }

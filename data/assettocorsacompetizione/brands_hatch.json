@@ -1,26 +1,70 @@
 {
-    "name": "Brands Hatch",
-    "country": "GB",
-    "turn": [
-        {"name": 1, "marker": 0.067},
-        {"name": 2, "marker": 0.158},
-        {"name": 3, "marker": 0.223},
-        {"name": 4, "marker": 0.316},
-        {"name": 5, "marker": 0.524},
-        {"name": 6, "marker": 0.611},
-        {"name": 7, "marker": 0.711},
-        {"name": 8, "marker": 0.768},
-        {"name": 9, "marker": 0.901}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.294},
-        {"name": 2, "marker": 0.568},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 63},
-            {"name": "dt", "time": 28}
-        ]}
-    ]
+  "country": "GB",
+  "name": "Brands Hatch",
+  "sector": [
+    {
+      "marker": 0.294,
+      "name": 1
+    },
+    {
+      "marker": 0.568,
+      "name": 2
+    },
+    {
+      "marker": 1,
+      "name": 3
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 63
+        },
+        {
+          "name": "dt",
+          "time": 28
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.067,
+      "name": 1
+    },
+    {
+      "marker": 0.158,
+      "name": 2
+    },
+    {
+      "marker": 0.223,
+      "name": 3
+    },
+    {
+      "marker": 0.316,
+      "name": 4
+    },
+    {
+      "marker": 0.524,
+      "name": 5
+    },
+    {
+      "marker": 0.611,
+      "name": 6
+    },
+    {
+      "marker": 0.711,
+      "name": 7
+    },
+    {
+      "marker": 0.768,
+      "name": 8
+    },
+    {
+      "marker": 0.901,
+      "name": 9
+    }
+  ]
 }

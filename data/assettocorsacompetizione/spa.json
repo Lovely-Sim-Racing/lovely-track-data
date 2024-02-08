@@ -1,37 +1,114 @@
 {
-    "name": "Spa Francorchamps",
-    "country": "BE",
-    "turn": [
-        {"name": 1, "marker": 0.051},
-        {"name": 2, "marker": 0.101},
-        {"name": 3, "marker": 0.148},
-        {"name": 4, "marker": 0.165},
-        {"name": 5, "marker": 0.181},
-        {"name": 6, "marker": 0.227},
-        {"name": 7, "marker": 0.343},
-        {"name": 8, "marker": 0.356},
-        {"name": 9, "marker": 0.377},
-        {"name": 10, "marker": 0.431},
-        {"name": 11, "marker": 0.468},
-        {"name": 12, "marker": 0.557},
-        {"name": 13, "marker": 0.641},
-        {"name": 14, "marker": 0.660},
-        {"name": 15, "marker": 0.703},
-        {"name": 16, "marker": 0.741},
-        {"name": 17, "marker": 0.844},
-        {"name": 18, "marker": 0.884},
-        {"name": 19, "marker": 0.962},
-        {"name": 20, "marker": 0.969}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.333},
-        {"name": 2, "marker": 0.719},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 123},
-            {"name": "dt", "time": 88}
-        ]}
-    ]
+  "country": "BE",
+  "name": "Spa Francorchamps",
+  "sector": [
+    {
+      "marker": 0.333,
+      "name": 1
+    },
+    {
+      "marker": 0.719,
+      "name": 2
+    },
+    {
+      "marker": 1,
+      "name": 3
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 123
+        },
+        {
+          "name": "dt",
+          "time": 88
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.051,
+      "name": 1
+    },
+    {
+      "marker": 0.101,
+      "name": 2
+    },
+    {
+      "marker": 0.148,
+      "name": 3
+    },
+    {
+      "marker": 0.165,
+      "name": 4
+    },
+    {
+      "marker": 0.181,
+      "name": 5
+    },
+    {
+      "marker": 0.227,
+      "name": 6
+    },
+    {
+      "marker": 0.343,
+      "name": 7
+    },
+    {
+      "marker": 0.356,
+      "name": 8
+    },
+    {
+      "marker": 0.377,
+      "name": 9
+    },
+    {
+      "marker": 0.431,
+      "name": 10
+    },
+    {
+      "marker": 0.468,
+      "name": 11
+    },
+    {
+      "marker": 0.557,
+      "name": 12
+    },
+    {
+      "marker": 0.641,
+      "name": 13
+    },
+    {
+      "marker": 0.66,
+      "name": 14
+    },
+    {
+      "marker": 0.703,
+      "name": 15
+    },
+    {
+      "marker": 0.741,
+      "name": 16
+    },
+    {
+      "marker": 0.844,
+      "name": 17
+    },
+    {
+      "marker": 0.884,
+      "name": 18
+    },
+    {
+      "marker": 0.962,
+      "name": 19
+    },
+    {
+      "marker": 0.969,
+      "name": 20
+    }
+  ]
 }

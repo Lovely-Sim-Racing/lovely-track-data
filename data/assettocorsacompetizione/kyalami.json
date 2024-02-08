@@ -1,33 +1,98 @@
 {
-    "name": "Kyalami",
-    "country": "ZA",
-    "turn": [
-        {"name": 1, "marker": 0.055},
-        {"name": 2, "marker": 0.147},
-        {"name": 3, "marker": 0.184},
-        {"name": 4, "marker": 0.205},
-        {"name": 5, "marker": 0.229},
-        {"name": 6, "marker": 0.359},
-        {"name": 7, "marker": 0.435},
-        {"name": 8, "marker": 0.503},
-        {"name": 9, "marker": 0.536},
-        {"name": 10, "marker": 0.634},
-        {"name": 11, "marker": 0.657},
-        {"name": 12, "marker": 0.754},
-        {"name": 13, "marker": 0.821},
-        {"name": 14, "marker": 0.858},
-        {"name": 15, "marker": 0.885},
-        {"name": 16, "marker": 0.942}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.323},
-        {"name": 2, "marker": 0.717},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 65},
-            {"name": "dt", "time": 29}
-        ]}
-    ]
+  "country": "ZA",
+  "name": "Kyalami",
+  "sector": [
+    {
+      "marker": 0.323,
+      "name": 1
+    },
+    {
+      "marker": 0.717,
+      "name": 2
+    },
+    {
+      "marker": 1,
+      "name": 3
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 65
+        },
+        {
+          "name": "dt",
+          "time": 29
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.055,
+      "name": 1
+    },
+    {
+      "marker": 0.147,
+      "name": 2
+    },
+    {
+      "marker": 0.184,
+      "name": 3
+    },
+    {
+      "marker": 0.205,
+      "name": 4
+    },
+    {
+      "marker": 0.229,
+      "name": 5
+    },
+    {
+      "marker": 0.359,
+      "name": 6
+    },
+    {
+      "marker": 0.435,
+      "name": 7
+    },
+    {
+      "marker": 0.503,
+      "name": 8
+    },
+    {
+      "marker": 0.536,
+      "name": 9
+    },
+    {
+      "marker": 0.634,
+      "name": 10
+    },
+    {
+      "marker": 0.657,
+      "name": 11
+    },
+    {
+      "marker": 0.754,
+      "name": 12
+    },
+    {
+      "marker": 0.821,
+      "name": 13
+    },
+    {
+      "marker": 0.858,
+      "name": 14
+    },
+    {
+      "marker": 0.885,
+      "name": 15
+    },
+    {
+      "marker": 0.942,
+      "name": 16
+    }
+  ]
 }

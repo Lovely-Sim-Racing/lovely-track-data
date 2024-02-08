@@ -1,31 +1,90 @@
 {
-    "name": "Daytona",
-    "country": "US",
-    "turn": [
-        {"name": 1, "marker": 0.085},
-        {"name": 2, "marker": 0.115},
-        {"name": 3, "marker": 0.169},
-        {"name": 4, "marker": 0.255},
-        {"name": 5, "marker": 0.309},
-        {"name": 6, "marker": 0.376},
-        {"name": 7, "marker": 0.451},
-        {"name": 8, "marker": 0.670},
-        {"name": 9, "marker": 0.680},
-        {"name": 10, "marker": 0.692},
-        {"name": 11, "marker": 0.703},
-        {"name": 12, "marker": 0.810}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.140},
-        {"name": 2, "marker": 0.272},
-        {"name": 3, "marker": 0.355},
-        {"name": 4, "marker": 0.630},
-        {"name": 5, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 73},
-            {"name": "dt", "time": 40}
-        ]}
-    ]
+  "country": "US",
+  "name": "Daytona",
+  "sector": [
+    {
+      "marker": 0.14,
+      "name": 1
+    },
+    {
+      "marker": 0.272,
+      "name": 2
+    },
+    {
+      "marker": 0.355,
+      "name": 3
+    },
+    {
+      "marker": 0.63,
+      "name": 4
+    },
+    {
+      "marker": 1,
+      "name": 5
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 73
+        },
+        {
+          "name": "dt",
+          "time": 40
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.085,
+      "name": 1
+    },
+    {
+      "marker": 0.115,
+      "name": 2
+    },
+    {
+      "marker": 0.169,
+      "name": 3
+    },
+    {
+      "marker": 0.255,
+      "name": 4
+    },
+    {
+      "marker": 0.309,
+      "name": 5
+    },
+    {
+      "marker": 0.376,
+      "name": 6
+    },
+    {
+      "marker": 0.451,
+      "name": 7
+    },
+    {
+      "marker": 0.67,
+      "name": 8
+    },
+    {
+      "marker": 0.68,
+      "name": 9
+    },
+    {
+      "marker": 0.692,
+      "name": 10
+    },
+    {
+      "marker": 0.703,
+      "name": 11
+    },
+    {
+      "marker": 0.81,
+      "name": 12
+    }
+  ]
 }

@@ -1,28 +1,78 @@
 {
-    "name": "Zolder",
-    "country": "BE",
-    "turn": [
-        {"name": 1, "marker": 0.076},
-        {"name": 2, "marker": 0.150},
-        {"name": 3, "marker": 0.203},
-        {"name": 4, "marker": 0.288},
-        {"name": 5, "marker": 0.450},
-        {"name": 6, "marker": 0.530},
-        {"name": 7, "marker": 0.594},
-        {"name": 8, "marker": 0.643},
-        {"name": 9, "marker": 0.763},
-        {"name": 10, "marker": 0.796},
-        {"name": 11, "marker": 0.905}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.368},
-        {"name": 2, "marker": 0.693},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 84},
-            {"name": "dt", "time": 50}
-        ]}
-    ]
+  "country": "BE",
+  "name": "Zolder",
+  "sector": [
+    {
+      "marker": 0.368,
+      "name": 1
+    },
+    {
+      "marker": 0.693,
+      "name": 2
+    },
+    {
+      "marker": 1,
+      "name": 3
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 84
+        },
+        {
+          "name": "dt",
+          "time": 50
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.076,
+      "name": 1
+    },
+    {
+      "marker": 0.15,
+      "name": 2
+    },
+    {
+      "marker": 0.203,
+      "name": 3
+    },
+    {
+      "marker": 0.288,
+      "name": 4
+    },
+    {
+      "marker": 0.45,
+      "name": 5
+    },
+    {
+      "marker": 0.53,
+      "name": 6
+    },
+    {
+      "marker": 0.594,
+      "name": 7
+    },
+    {
+      "marker": 0.643,
+      "name": 8
+    },
+    {
+      "marker": 0.763,
+      "name": 9
+    },
+    {
+      "marker": 0.796,
+      "name": 10
+    },
+    {
+      "marker": 0.905,
+      "name": 11
+    }
+  ]
 }

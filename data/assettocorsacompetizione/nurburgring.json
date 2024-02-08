@@ -1,33 +1,98 @@
 {
-    "name": "Nürburgring",
-    "country": "DE",
-    "turn": [
-        {"name": 1, "marker": 0.013},
-        {"name": 2, "marker": 0.016},
-        {"name": 3, "marker": 0.021},
-        {"name": 4, "marker": 0.235},
-        {"name": 5, "marker": 0.260},
-        {"name": 6, "marker": 0.320},
-        {"name": 7, "marker": 0.360},
-        {"name": 8, "marker": 0.480},
-        {"name": 9, "marker": 0.550},
-        {"name": 10, "marker": 0.580},
-        {"name": 11, "marker": 0.665},
-        {"name": 12, "marker": 0.705},
-        {"name": 13, "marker": 0.800},
-        {"name": 14, "marker": 0.880},
-        {"name": 15, "marker": 0.900},
-        {"name": 16, "marker": 0.943}
-    ],
-    "sector": [
-        {"name": 1, "marker": 0.453},
-        {"name": 2, "marker": 0.861},
-        {"name": 3, "marker": 1}
-    ],
-    "time": [
-        { "gt3": [
-            {"name": "sg30", "time": 78},
-            {"name": "dt", "time": 43}
-        ]}
-    ]
+  "country": "DE",
+  "name": "N\u00fcrburgring",
+  "sector": [
+    {
+      "marker": 0.453,
+      "name": 1
+    },
+    {
+      "marker": 0.861,
+      "name": 2
+    },
+    {
+      "marker": 1,
+      "name": 3
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 78
+        },
+        {
+          "name": "dt",
+          "time": 43
+        }
+      ]
+    }
+  ],
+  "turn": [
+    {
+      "marker": 0.013,
+      "name": 1
+    },
+    {
+      "marker": 0.016,
+      "name": 2
+    },
+    {
+      "marker": 0.021,
+      "name": 3
+    },
+    {
+      "marker": 0.235,
+      "name": 4
+    },
+    {
+      "marker": 0.26,
+      "name": 5
+    },
+    {
+      "marker": 0.32,
+      "name": 6
+    },
+    {
+      "marker": 0.36,
+      "name": 7
+    },
+    {
+      "marker": 0.48,
+      "name": 8
+    },
+    {
+      "marker": 0.55,
+      "name": 9
+    },
+    {
+      "marker": 0.58,
+      "name": 10
+    },
+    {
+      "marker": 0.665,
+      "name": 11
+    },
+    {
+      "marker": 0.705,
+      "name": 12
+    },
+    {
+      "marker": 0.8,
+      "name": 13
+    },
+    {
+      "marker": 0.88,
+      "name": 14
+    },
+    {
+      "marker": 0.9,
+      "name": 15
+    },
+    {
+      "marker": 0.943,
+      "name": 16
+    }
+  ]
 }
