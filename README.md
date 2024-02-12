@@ -71,9 +71,9 @@ Every file is formatted as follows:
     { "name": "18", "marker": 0.949 }
   ],
   "sector": [
-    { "name": 1, "marker": 0.32 },
-    { "name": 2, "marker": 0.709 },
-    { "name": 3, "marker": 1 }
+    { "name": "1", "marker": 0.32 },
+    { "name": "2", "marker": 0.709 },
+    { "name": "3", "marker": 1 }
   ],
   "time": [{
     "gt3": [
