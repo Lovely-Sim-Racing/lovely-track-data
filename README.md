@@ -14,6 +14,9 @@ A comprehensive list of Track Data for Sim Racing games.
 Fetch the data by retrieving the url:
 `/data/{simId}/{trackId}.json`
 
+* `{simID}` is the lowercase Simhub game id `DataCorePlugin.CurrentGame`
+* `{track}` is the lowercase Simhub track id `TrackId`
+
 ## File Format
 Every file is formatted as follows:
 
