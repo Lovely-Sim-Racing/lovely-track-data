@@ -1,7 +1,7 @@
 {
   "name": "Watkins Glen",
   "country": "US",
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.065
