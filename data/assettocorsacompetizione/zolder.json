@@ -1,7 +1,7 @@
 {
   "name": "Zolder",
   "country": "BE",
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.076
