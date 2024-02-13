@@ -2,7 +2,7 @@
   "name": "Donington Park",
   "country": "GB",
   "length": 4020,
-  "turn": [
+  "segment": [
     {
       "name": "WheatCroft Straight",
       "start": 0,
