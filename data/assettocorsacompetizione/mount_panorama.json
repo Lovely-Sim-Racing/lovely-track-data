@@ -1,18 +1,112 @@
 {
-  "country": "AU",
   "name": "Mount Panorama",
+  "country": "AU",
+  "turn": [
+    {
+      "name": "1",
+      "marker": 0.062
+    },
+    {
+      "name": "2",
+      "marker": 0.246
+    },
+    {
+      "name": "3",
+      "marker": 0.308
+    },
+    {
+      "name": "4",
+      "marker": 0.325
+    },
+    {
+      "name": "5",
+      "marker": 0.347
+    },
+    {
+      "name": "6",
+      "marker": 0.377
+    },
+    {
+      "name": "7",
+      "marker": 0.395
+    },
+    {
+      "name": "8",
+      "marker": 0.42
+    },
+    {
+      "name": "9",
+      "marker": 0.44
+    },
+    {
+      "name": "10",
+      "marker": 0.49
+    },
+    {
+      "name": "11",
+      "marker": 0.535
+    },
+    {
+      "name": "12",
+      "marker": 0.546
+    },
+    {
+      "name": "13",
+      "marker": 0.557
+    },
+    {
+      "name": "14",
+      "marker": 0.569
+    },
+    {
+      "name": "15",
+      "marker": 0.578
+    },
+    {
+      "name": "16",
+      "marker": 0.596
+    },
+    {
+      "name": "17",
+      "marker": 0.609
+    },
+    {
+      "name": "18",
+      "marker": 0.63
+    },
+    {
+      "name": "19",
+      "marker": 0.668
+    },
+    {
+      "name": "20",
+      "marker": 0.846
+    },
+    {
+      "name": "21",
+      "marker": 0.89
+    },
+    {
+      "name": "22",
+      "marker": 0.905
+    },
+    {
+      "name": "23",
+      "marker": 0.98
+    }
+  ],
   "sector": [
     {
-      "marker": 0.316,
-      "name": 1
+      "name": "1",
+      "marker": 0.316
     },
     {
-      "marker": 0.764,
-      "name": 2
+      "name": "2",
+      "marker": 0.764
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,100 +121,6 @@
           "time": 39
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.062,
-      "name": 1
-    },
-    {
-      "marker": 0.246,
-      "name": 2
-    },
-    {
-      "marker": 0.308,
-      "name": 3
-    },
-    {
-      "marker": 0.325,
-      "name": 4
-    },
-    {
-      "marker": 0.347,
-      "name": 5
-    },
-    {
-      "marker": 0.377,
-      "name": 6
-    },
-    {
-      "marker": 0.395,
-      "name": 7
-    },
-    {
-      "marker": 0.42,
-      "name": 8
-    },
-    {
-      "marker": 0.44,
-      "name": 9
-    },
-    {
-      "marker": 0.49,
-      "name": 10
-    },
-    {
-      "marker": 0.535,
-      "name": 11
-    },
-    {
-      "marker": 0.546,
-      "name": 12
-    },
-    {
-      "marker": 0.557,
-      "name": 13
-    },
-    {
-      "marker": 0.569,
-      "name": 14
-    },
-    {
-      "marker": 0.578,
-      "name": 15
-    },
-    {
-      "marker": 0.596,
-      "name": 16
-    },
-    {
-      "marker": 0.609,
-      "name": 17
-    },
-    {
-      "marker": 0.63,
-      "name": 18
-    },
-    {
-      "marker": 0.668,
-      "name": 19
-    },
-    {
-      "marker": 0.846,
-      "name": 20
-    },
-    {
-      "marker": 0.89,
-      "name": 21
-    },
-    {
-      "marker": 0.905,
-      "name": 22
-    },
-    {
-      "marker": 0.98,
-      "name": 23
     }
   ]
 }

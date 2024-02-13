@@ -1,18 +1,115 @@
 {
-  "country": "GB",
   "name": "Brands Hatch",
+  "country": "GB",
+  "length": 3916,
+  "turn": [
+    {
+      "name": "Brabham Straight",
+      "start": 0,
+      "end": 0.6
+    },
+    {
+      "name": "Paddock Hill",
+      "marker": 0.067,
+      "start": 0.01,
+      "end": 0.095
+    },
+    {
+      "name": "Pilgrim's Rise",
+      "start": 0.095,
+      "end": 0.135
+    },
+    {
+      "name": "Druids",
+      "marker": 0.158,
+      "start": 0.135,
+      "end": 0.17
+    },
+    {
+      "name": "Graham Hill Bend",
+      "marker": 0.223,
+      "start": 0.19,
+      "end": 0.235
+    },
+    {
+      "name": "Cooper Straight",
+      "start": 0.235,
+      "end": 0.27
+    },
+    {
+      "name": "Surtees",
+      "marker": 0.316,
+      "start": 0.28,
+      "end": 0.35
+    },
+    {
+      "name": "Pilgrim's Drop",
+      "start": 0.418,
+      "end": 0.48
+    },
+    {
+      "name": "Hawthron bend",
+      "marker": 0.524,
+      "start": 0.48,
+      "end": 0.55
+    },
+    {
+      "name": "Derek Minter Straight",
+      "start": 0.55,
+      "end": 0.58
+    },
+    {
+      "name": "Westfield Bend",
+      "marker": 0.611,
+      "start": 0.58,
+      "end": 0.63
+    },
+    {
+      "name": "Dingle Dell",
+      "start": 0.63,
+      "end": 0.65
+    },
+    {
+      "name": "Sheene's",
+      "marker": 0.711,
+      "start": 0.65,
+      "end": 0.72
+    },
+    {
+      "name": "Stirling's",
+      "marker": 0.768,
+      "start": 0.735,
+      "end": 0.787
+    },
+    {
+      "name": "Clearways",
+      "start": 0.787,
+      "end": 0.855
+    },
+    {
+      "name": "Clark Curve",
+      "marker": 0.901,
+      "start": 0.855,
+      "end": 0.94
+    },
+    {
+      "name": "Brabham Straight",
+      "start": 0.955,
+      "end": 0.999
+    }
+  ],
   "sector": [
     {
-      "marker": 0.294,
-      "name": 1
+      "name": "1",
+      "marker": 0.294
     },
     {
-      "marker": 0.568,
-      "name": 2
+      "name": "2",
+      "marker": 0.568
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,44 +124,6 @@
           "time": 28
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.067,
-      "name": 1
-    },
-    {
-      "marker": 0.158,
-      "name": 2
-    },
-    {
-      "marker": 0.223,
-      "name": 3
-    },
-    {
-      "marker": 0.316,
-      "name": 4
-    },
-    {
-      "marker": 0.524,
-      "name": 5
-    },
-    {
-      "marker": 0.611,
-      "name": 6
-    },
-    {
-      "marker": 0.711,
-      "name": 7
-    },
-    {
-      "marker": 0.768,
-      "name": 8
-    },
-    {
-      "marker": 0.901,
-      "name": 9
     }
   ]
 }

@@ -1,18 +1,105 @@
 {
-  "country": "HU",
   "name": "Hungaroring",
+  "country": "HU",
+  "length": 4381,
+  "turn": [
+    {
+      "name": "T1",
+      "marker": 0.149,
+      "start": 0.115,
+      "end": 0.2
+    },
+    {
+      "name": "T2",
+      "marker": 0.267,
+      "start": 0.22,
+      "end": 0.285
+    },
+    {
+      "name": "T3",
+      "marker": 0.31,
+      "start": 0.29,
+      "end": 0.325
+    },
+    {
+      "name": "T4",
+      "marker": 0.421,
+      "start": 0.39,
+      "end": 0.435
+    },
+    {
+      "name": "T5",
+      "marker": 0.476,
+      "start": 0.445,
+      "end": 0.512
+    },
+    {
+      "name": "T6",
+      "marker": 0.544,
+      "start": 0.53,
+      "end": 0.552
+    },
+    {
+      "name": "T7",
+      "marker": 0.559,
+      "start": 0.552,
+      "end": 0.57
+    },
+    {
+      "name": "T8",
+      "marker": 0.6,
+      "start": 0.58,
+      "end": 0.605
+    },
+    {
+      "name": "T9",
+      "marker": 0.627,
+      "start": 0.612,
+      "end": 0.645
+    },
+    {
+      "name": "T10",
+      "marker": 0.675,
+      "start": 0.655,
+      "end": 0.688
+    },
+    {
+      "name": "T11",
+      "marker": 0.717,
+      "start": 0.7,
+      "end": 0.738
+    },
+    {
+      "name": "T12",
+      "marker": 0.811,
+      "start": 0.785,
+      "end": 0.85
+    },
+    {
+      "name": "T13",
+      "marker": 0.872,
+      "start": 0.85,
+      "end": 0.895
+    },
+    {
+      "name": "T14",
+      "marker": 0.939,
+      "start": 0.905,
+      "end": 0.965
+    }
+  ],
   "sector": [
     {
-      "marker": 0.397,
-      "name": 1
+      "name": "1",
+      "marker": 0.397
     },
     {
-      "marker": 0.75,
-      "name": 2
+      "name": "2",
+      "marker": 0.75
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,64 +114,6 @@
           "time": 39
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.149,
-      "name": 1
-    },
-    {
-      "marker": 0.267,
-      "name": 2
-    },
-    {
-      "marker": 0.31,
-      "name": 3
-    },
-    {
-      "marker": 0.421,
-      "name": 4
-    },
-    {
-      "marker": 0.476,
-      "name": 5
-    },
-    {
-      "marker": 0.544,
-      "name": 6
-    },
-    {
-      "marker": 0.559,
-      "name": 7
-    },
-    {
-      "marker": 0.6,
-      "name": 8
-    },
-    {
-      "marker": 0.627,
-      "name": 9
-    },
-    {
-      "marker": 0.675,
-      "name": 10
-    },
-    {
-      "marker": 0.717,
-      "name": 11
-    },
-    {
-      "marker": 0.811,
-      "name": 12
-    },
-    {
-      "marker": 0.872,
-      "name": 13
-    },
-    {
-      "marker": 0.939,
-      "name": 14
     }
   ]
 }

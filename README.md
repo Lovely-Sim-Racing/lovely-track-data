@@ -22,7 +22,7 @@ Every file is formatted as follows:
 
 ``` 
 # name          - The full human readable track name
-# country       - The track's country code (ISO 3166 Alpha 2)
+# country       - (OPTIONAL) The track's country code (ISO 3166 Alpha 2)
 # length        - (OPTIONAL) Length of the track in meters
 # segments      - An array of all the Segment data
   # name        - Segment or Turn Name / Number
@@ -46,7 +46,6 @@ Every file is formatted as follows:
 ```JSON
 {
   "name": "Silverstone",
-  "country": "GB",
   "segment": [
     { "name": "1", "marker": 0.042 },
     { "name": "2", "marker": 0.133 },
@@ -160,3 +159,6 @@ $ pre-commit run --all-files
 check json...............................................................Passed
 pretty format json.......................................................Passed
 ```
+
+## Credits
+Corner and Straights names are from [Racing Circuits](https://www.racingcircuits.info). Big thanks to Nicolas of [Simhub](https://www.simhubdash.com) for giveing feedback on the File Format.

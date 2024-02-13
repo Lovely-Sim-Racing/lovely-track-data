@@ -1,18 +1,72 @@
 {
-  "country": "FR",
   "name": "Paul Ricard",
+  "country": "FR",
+  "turn": [
+    {
+      "name": "1",
+      "marker": 0.11
+    },
+    {
+      "name": "2",
+      "marker": 0.133
+    },
+    {
+      "name": "3",
+      "marker": 0.228
+    },
+    {
+      "name": "4",
+      "marker": 0.243
+    },
+    {
+      "name": "5",
+      "marker": 0.263
+    },
+    {
+      "name": "6",
+      "marker": 0.287
+    },
+    {
+      "name": "7",
+      "marker": 0.327
+    },
+    {
+      "name": "8",
+      "marker": 0.673
+    },
+    {
+      "name": "9",
+      "marker": 0.758
+    },
+    {
+      "name": "10",
+      "marker": 0.826
+    },
+    {
+      "name": "11",
+      "marker": 0.866
+    },
+    {
+      "name": "12",
+      "marker": 0.913
+    },
+    {
+      "name": "13",
+      "marker": 0.944
+    }
+  ],
   "sector": [
     {
-      "marker": 0.263,
-      "name": 1
+      "name": "1",
+      "marker": 0.263
     },
     {
-      "marker": 0.597,
-      "name": 2
+      "name": "2",
+      "marker": 0.597
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,60 +81,6 @@
           "time": 32
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.11,
-      "name": 1
-    },
-    {
-      "marker": 0.133,
-      "name": 2
-    },
-    {
-      "marker": 0.228,
-      "name": 3
-    },
-    {
-      "marker": 0.243,
-      "name": 4
-    },
-    {
-      "marker": 0.263,
-      "name": 5
-    },
-    {
-      "marker": 0.287,
-      "name": 6
-    },
-    {
-      "marker": 0.327,
-      "name": 7
-    },
-    {
-      "marker": 0.673,
-      "name": 8
-    },
-    {
-      "marker": 0.758,
-      "name": 9
-    },
-    {
-      "marker": 0.826,
-      "name": 10
-    },
-    {
-      "marker": 0.866,
-      "name": 11
-    },
-    {
-      "marker": 0.913,
-      "name": 12
-    },
-    {
-      "marker": 0.944,
-      "name": 13
     }
   ]
 }

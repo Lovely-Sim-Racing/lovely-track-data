@@ -1,18 +1,68 @@
 {
-  "country": "GB",
   "name": "Snetterton",
+  "country": "GB",
+  "turn": [
+    {
+      "name": "1",
+      "marker": 0.085
+    },
+    {
+      "name": "2",
+      "marker": 0.171
+    },
+    {
+      "name": "3",
+      "marker": 0.248
+    },
+    {
+      "name": "4",
+      "marker": 0.359
+    },
+    {
+      "name": "5",
+      "marker": 0.422
+    },
+    {
+      "name": "6",
+      "marker": 0.473
+    },
+    {
+      "name": "7",
+      "marker": 0.524
+    },
+    {
+      "name": "8",
+      "marker": 0.712
+    },
+    {
+      "name": "9",
+      "marker": 0.727
+    },
+    {
+      "name": "10",
+      "marker": 0.774
+    },
+    {
+      "name": "11",
+      "marker": 0.858
+    },
+    {
+      "name": "12",
+      "marker": 0.9
+    }
+  ],
   "sector": [
     {
-      "marker": 0.329,
-      "name": 1
+      "name": "1",
+      "marker": 0.329
     },
     {
-      "marker": 0.674,
-      "name": 2
+      "name": "2",
+      "marker": 0.674
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,56 +77,6 @@
           "time": 23
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.085,
-      "name": 1
-    },
-    {
-      "marker": 0.171,
-      "name": 2
-    },
-    {
-      "marker": 0.248,
-      "name": 3
-    },
-    {
-      "marker": 0.359,
-      "name": 4
-    },
-    {
-      "marker": 0.422,
-      "name": 5
-    },
-    {
-      "marker": 0.473,
-      "name": 6
-    },
-    {
-      "marker": 0.524,
-      "name": 7
-    },
-    {
-      "marker": 0.712,
-      "name": 8
-    },
-    {
-      "marker": 0.727,
-      "name": 9
-    },
-    {
-      "marker": 0.774,
-      "name": 10
-    },
-    {
-      "marker": 0.858,
-      "name": 11
-    },
-    {
-      "marker": 0.9,
-      "name": 12
     }
   ]
 }

@@ -1,18 +1,91 @@
 {
-  "country": "IT",
   "name": "Imola",
+  "country": "IT",
+  "length": 4909,
+  "turn": [
+    {
+      "name": "T1",
+      "marker": 0.025
+    },
+    {
+      "name": "Variante Tamburello",
+      "marker": 0.144,
+      "start": 0.115,
+      "end": 0.195
+    },
+    {
+      "name": "T4",
+      "marker": 0.186
+    },
+    {
+      "name": "Variante Villeneuve",
+      "marker": 0.274,
+      "start": 0.252,
+      "end": 0.302
+    },
+    {
+      "name": "Tosa",
+      "marker": 0.349,
+      "start": 0.325,
+      "end": 0.37
+    },
+    {
+      "name": "T8",
+      "marker": 0.432
+    },
+    {
+      "name": "Piratella",
+      "marker": 0.476,
+      "start": 0.448,
+      "end": 0.508
+    },
+    {
+      "name": "T10",
+      "marker": 0.519
+    },
+    {
+      "name": "Acque Minerali",
+      "marker": 0.557,
+      "start": 0.54,
+      "end": 0.598
+    },
+    {
+      "name": "T13",
+      "marker": 0.607
+    },
+    {
+      "name": "GRESINI",
+      "marker": 0.683,
+      "start": 0.655,
+      "end": 0.705
+    },
+    {
+      "name": "T16",
+      "marker": 0.806
+    },
+    {
+      "name": "Rivazza",
+      "marker": 0.874,
+      "start": 0.818,
+      "end": 0.887
+    },
+    {
+      "name": "T19",
+      "marker": 0.939
+    }
+  ],
   "sector": [
     {
-      "marker": 0.258,
-      "name": 1
+      "name": "1",
+      "marker": 0.258
     },
     {
-      "marker": 0.557,
-      "name": 2
+      "name": "2",
+      "marker": 0.557
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,84 +100,6 @@
           "time": 43
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.025,
-      "name": 1
-    },
-    {
-      "marker": 0.144,
-      "name": 2
-    },
-    {
-      "marker": 0.159,
-      "name": 3
-    },
-    {
-      "marker": 0.186,
-      "name": 4
-    },
-    {
-      "marker": 0.274,
-      "name": 5
-    },
-    {
-      "marker": 0.292,
-      "name": 6
-    },
-    {
-      "marker": 0.349,
-      "name": 7
-    },
-    {
-      "marker": 0.432,
-      "name": 8
-    },
-    {
-      "marker": 0.476,
-      "name": 9
-    },
-    {
-      "marker": 0.519,
-      "name": 10
-    },
-    {
-      "marker": 0.557,
-      "name": 11
-    },
-    {
-      "marker": 0.584,
-      "name": 12
-    },
-    {
-      "marker": 0.607,
-      "name": 13
-    },
-    {
-      "marker": 0.683,
-      "name": 14
-    },
-    {
-      "marker": 0.697,
-      "name": 15
-    },
-    {
-      "marker": 0.806,
-      "name": 16
-    },
-    {
-      "marker": 0.846,
-      "name": 17
-    },
-    {
-      "marker": 0.874,
-      "name": 18
-    },
-    {
-      "marker": 0.939,
-      "name": 19
     }
   ]
 }

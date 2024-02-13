@@ -1,18 +1,92 @@
 {
-  "country": "JP",
   "name": "Suzuka",
+  "country": "JP",
+  "turn": [
+    {
+      "name": "1",
+      "marker": 0.071
+    },
+    {
+      "name": "2",
+      "marker": 0.098
+    },
+    {
+      "name": "3",
+      "marker": 0.142
+    },
+    {
+      "name": "4",
+      "marker": 0.16
+    },
+    {
+      "name": "5",
+      "marker": 0.189
+    },
+    {
+      "name": "6",
+      "marker": 0.219
+    },
+    {
+      "name": "7",
+      "marker": 0.253
+    },
+    {
+      "name": "8",
+      "marker": 0.344
+    },
+    {
+      "name": "9",
+      "marker": 0.372
+    },
+    {
+      "name": "10",
+      "marker": 0.429
+    },
+    {
+      "name": "11",
+      "marker": 0.452
+    },
+    {
+      "name": "12",
+      "marker": 0.496
+    },
+    {
+      "name": "13",
+      "marker": 0.604
+    },
+    {
+      "name": "14",
+      "marker": 0.638
+    },
+    {
+      "name": "15",
+      "marker": 0.809
+    },
+    {
+      "name": "16",
+      "marker": 0.88
+    },
+    {
+      "name": "17",
+      "marker": 0.889
+    },
+    {
+      "name": "18",
+      "marker": 0.911
+    }
+  ],
   "sector": [
     {
-      "marker": 0.328,
-      "name": 1
+      "name": "1",
+      "marker": 0.328
     },
     {
-      "marker": 0.763,
-      "name": 2
+      "name": "2",
+      "marker": 0.763
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,80 +101,6 @@
           "time": 35
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.071,
-      "name": 1
-    },
-    {
-      "marker": 0.098,
-      "name": 2
-    },
-    {
-      "marker": 0.142,
-      "name": 3
-    },
-    {
-      "marker": 0.16,
-      "name": 4
-    },
-    {
-      "marker": 0.189,
-      "name": 5
-    },
-    {
-      "marker": 0.219,
-      "name": 6
-    },
-    {
-      "marker": 0.253,
-      "name": 7
-    },
-    {
-      "marker": 0.344,
-      "name": 8
-    },
-    {
-      "marker": 0.372,
-      "name": 9
-    },
-    {
-      "marker": 0.429,
-      "name": 10
-    },
-    {
-      "marker": 0.452,
-      "name": 11
-    },
-    {
-      "marker": 0.496,
-      "name": 12
-    },
-    {
-      "marker": 0.604,
-      "name": 13
-    },
-    {
-      "marker": 0.638,
-      "name": 14
-    },
-    {
-      "marker": 0.809,
-      "name": 15
-    },
-    {
-      "marker": 0.88,
-      "name": 16
-    },
-    {
-      "marker": 0.889,
-      "name": 17
-    },
-    {
-      "marker": 0.911,
-      "name": 18
     }
   ]
 }

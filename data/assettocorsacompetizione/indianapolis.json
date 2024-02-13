@@ -1,18 +1,81 @@
 {
-  "country": "US",
   "name": "Indianapolis",
+  "country": "US",
+  "length": 4170,
+  "turn": [
+    {
+      "name": "T1",
+      "marker": 0.161
+    },
+    {
+      "name": "T2",
+      "marker": 0.188
+    },
+    {
+      "name": "T3",
+      "marker": 0.221
+    },
+    {
+      "name": "T4",
+      "marker": 0.261
+    },
+    {
+      "name": "T5",
+      "marker": 0.31
+    },
+    {
+      "name": "T6",
+      "marker": 0.372
+    },
+    {
+      "name": "T7",
+      "marker": 0.408
+    },
+    {
+      "name": "T8",
+      "marker": 0.565
+    },
+    {
+      "name": "T9",
+      "marker": 0.603
+    },
+    {
+      "name": "T10",
+      "marker": 0.62
+    },
+    {
+      "name": "T11",
+      "marker": 0.648
+    },
+    {
+      "name": "T12",
+      "marker": 0.726
+    },
+    {
+      "name": "T13",
+      "marker": 0.805
+    },
+    {
+      "name": "T14",
+      "marker": 0.84
+    },
+    {
+      "name": "T15",
+      "marker": 0.9
+    }
+  ],
   "sector": [
     {
-      "marker": 0.398,
-      "name": 1
+      "name": "1",
+      "marker": 0.398
     },
     {
-      "marker": 0.714,
-      "name": 2
+      "name": "2",
+      "marker": 0.714
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,68 +90,6 @@
           "time": 69
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.161,
-      "name": 1
-    },
-    {
-      "marker": 0.188,
-      "name": 2
-    },
-    {
-      "marker": 0.221,
-      "name": 3
-    },
-    {
-      "marker": 0.261,
-      "name": 4
-    },
-    {
-      "marker": 0.31,
-      "name": 5
-    },
-    {
-      "marker": 0.372,
-      "name": 6
-    },
-    {
-      "marker": 0.408,
-      "name": 7
-    },
-    {
-      "marker": 0.565,
-      "name": 8
-    },
-    {
-      "marker": 0.603,
-      "name": 9
-    },
-    {
-      "marker": 0.62,
-      "name": 10
-    },
-    {
-      "marker": 0.648,
-      "name": 11
-    },
-    {
-      "marker": 0.726,
-      "name": 12
-    },
-    {
-      "marker": 0.805,
-      "name": 13
-    },
-    {
-      "marker": 0.84,
-      "name": 14
-    },
-    {
-      "marker": 0.9,
-      "name": 15
     }
   ]
 }

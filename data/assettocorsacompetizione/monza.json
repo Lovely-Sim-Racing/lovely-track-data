@@ -1,18 +1,65 @@
 {
-  "country": "IT",
   "name": "Monza",
+  "country": "IT",
+  "length": 5793,
+  "turn": [
+    {
+      "name": "1",
+      "marker": 0.162
+    },
+    {
+      "name": "2",
+      "marker": 0.169
+    },
+    {
+      "name": "3",
+      "marker": 0.262
+    },
+    {
+      "name": "4",
+      "marker": 0.372
+    },
+    {
+      "name": "5",
+      "marker": 0.379
+    },
+    {
+      "name": "6",
+      "marker": 0.443
+    },
+    {
+      "name": "7",
+      "marker": 0.499
+    },
+    {
+      "name": "8",
+      "marker": 0.684
+    },
+    {
+      "name": "9",
+      "marker": 0.7
+    },
+    {
+      "name": "10",
+      "marker": 0.716
+    },
+    {
+      "name": "11",
+      "marker": 0.896
+    }
+  ],
   "sector": [
     {
-      "marker": 0.339,
-      "name": 1
+      "name": "1",
+      "marker": 0.339
     },
     {
-      "marker": 0.666,
-      "name": 2
+      "name": "2",
+      "marker": 0.666
     },
     {
-      "marker": 1,
-      "name": 3
+      "name": "3",
+      "marker": 1
     }
   ],
   "time": [
@@ -27,52 +74,6 @@
           "time": 39
         }
       ]
-    }
-  ],
-  "turn": [
-    {
-      "marker": 0.162,
-      "name": 1
-    },
-    {
-      "marker": 0.169,
-      "name": 2
-    },
-    {
-      "marker": 0.262,
-      "name": 3
-    },
-    {
-      "marker": 0.372,
-      "name": 4
-    },
-    {
-      "marker": 0.379,
-      "name": 5
-    },
-    {
-      "marker": 0.443,
-      "name": 6
-    },
-    {
-      "marker": 0.499,
-      "name": 7
-    },
-    {
-      "marker": 0.684,
-      "name": 8
-    },
-    {
-      "marker": 0.7,
-      "name": 9
-    },
-    {
-      "marker": 0.716,
-      "name": 10
-    },
-    {
-      "marker": 0.896,
-      "name": 11
     }
   ]
 }
