@@ -2,7 +2,7 @@
   "name": "Imola",
   "country": "IT",
   "length": 4909,
-  "turn": [
+  "segment": [
     {
       "name": "T1",
       "marker": 0.025
