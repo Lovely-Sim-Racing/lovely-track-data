@@ -2,7 +2,7 @@
   "name": "Mount Panorama",
   "country": "AU",
   "length": 6213,
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.062
