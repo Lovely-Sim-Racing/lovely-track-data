@@ -2,7 +2,7 @@
   "name": "Hungaroring",
   "country": "HU",
   "length": 4381,
-  "turn": [
+  "segment": [
     {
       "name": "T1",
       "marker": 0.149,
