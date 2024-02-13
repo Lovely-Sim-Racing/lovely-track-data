@@ -6,6 +6,6 @@ repos:
     types: [file]  # override `types: [json]`
     files: \.(json)$
   - id: pretty-format-json
-    args: [--autofix --no-sort-keys]
+    args: ['--autofix', '--no-sort-keys']
     types: [file]  # override `types: [json]`
     files: \.(json)$
