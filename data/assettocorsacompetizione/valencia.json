@@ -1,7 +1,7 @@
 {
   "name": "Valencia",
   "country": "ES",
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.136
