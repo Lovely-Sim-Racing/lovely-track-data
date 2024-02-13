@@ -2,7 +2,7 @@
   "name": "Brands Hatch",
   "country": "GB",
   "length": 3916,
-  "turn": [
+  "segment": [
     {
       "name": "Brabham Straight",
       "start": 0,
