@@ -2,7 +2,7 @@
   "name": "Monza",
   "country": "IT",
   "length": 5793,
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.162
