@@ -2,7 +2,7 @@
   "name": "Kyalami",
   "country": "ZA",
   "length": 4580,
-  "turn": [
+  "segment": [
     {
       "name": "The Kink",
       "marker": 0.055,
