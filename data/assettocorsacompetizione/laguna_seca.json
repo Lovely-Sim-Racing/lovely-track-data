@@ -2,7 +2,7 @@
   "name": "Laguna Seca",
   "country": "US",
   "length": 3602,
-  "turn": [
+  "segment": [
     {
       "name": "T1",
       "marker": 0.075
