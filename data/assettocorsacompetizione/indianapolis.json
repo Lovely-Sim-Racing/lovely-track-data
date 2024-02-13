@@ -2,7 +2,7 @@
   "name": "Indianapolis",
   "country": "US",
   "length": 4170,
-  "turn": [
+  "segment": [
     {
       "name": "T1",
       "marker": 0.161
