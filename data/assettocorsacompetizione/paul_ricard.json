@@ -1,7 +1,7 @@
 {
   "name": "Paul Ricard",
   "country": "FR",
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.11
