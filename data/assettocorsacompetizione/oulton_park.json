@@ -1,7 +1,7 @@
 {
   "name": "Oulton Park",
   "country": "GB",
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.067
