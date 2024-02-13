@@ -1,7 +1,7 @@
 {
   "name": "Zandvoort",
   "country": "NL",
-  "turn": [
+  "segment": [
     {
       "name": "1",
       "marker": 0.091
