@@ -2,7 +2,7 @@
   "name": "Misano",
   "country": "IT",
   "length": 4200,
-  "turn": [
+  "segment": [
     {
       "name": "Variante del Parco",
       "marker": 0.066,
