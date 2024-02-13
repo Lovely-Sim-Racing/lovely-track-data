@@ -2,7 +2,7 @@
   "name": "Spa Francorchamps",
   "country": "BE",
   "length": 7004,
-  "turn": [
+  "segment": [
     {
       "name": "La Source",
       "marker": 0.051,
