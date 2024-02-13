@@ -2,7 +2,7 @@
   "name": "Barcelona",
   "country": "ES",
   "length": 4675,
-  "turn": [
+  "segment": [
     {
       "name": "Elf",
       "marker": 0.185,
