@@ -2,7 +2,7 @@
   "name": "Circuit of the Americas",
   "country": "US",
   "length": 5513,
-  "turn": [
+  "segment": [
     {
       "name": "T1",
       "marker": 0.121,
