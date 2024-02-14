@@ -1,33 +1,34 @@
 {
   "name": "Lime Rock Park",
   "country": "US",
+  "length": 2372,
   "segment": [
     {
-      "name": "1",
+      "name": "Big Bend",
       "marker": 0.118
     },
     {
-      "name": "2",
+      "name": "Esses",
       "marker": 0.184
     },
     {
-      "name": "3",
+      "name": "T3",
       "marker": 0.291
     },
     {
-      "name": "4",
+      "name": "T4",
       "marker": 0.338
     },
     {
-      "name": "5",
+      "name": "T5",
       "marker": 0.517
     },
     {
-      "name": "6",
+      "name": "West Bend",
       "marker": 0.675
     },
     {
-      "name": "7",
+      "name": "Diving Turn",
       "marker": 0.815
     }
   ],

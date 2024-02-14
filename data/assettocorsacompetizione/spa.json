@@ -4,88 +4,111 @@
   "length": 7004,
   "segment": [
     {
+      "type": 0,
+      "scale": 1,
+      "direction": 1,
       "name": "La Source",
       "marker": 0.051,
       "start": 0.035,
       "end": 0.058
     },
     {
+      "type": 0,
+      "scale": 4,
+      "direction": 0,
       "name": "Eau Rouge",
       "marker": 0.101,
       "start": 0.13,
       "end": 0.152
     },
     {
+      "type": 0,
+      "scale": 6,
+      "direction": 0,
       "name": "Raidillon",
       "marker": 0.165,
       "start": 0.152,
       "end": 0.185
     },
     {
+      "type": 0,
+      "scale": 6,
+      "direction": 1,
       "name": "Kemmel",
       "marker": 0.227,
       "start": 0.205,
       "end": 0.233
     },
     {
+      "type": 1,
       "name": "Kemmel Straight",
       "start": 0.233,
       "end": 0.3
     },
     {
+      "type": 0,
       "name": "Les Combes",
       "marker": 0.343,
       "start": 0.318,
       "end": 0.36
     },
     {
+      "type": 0,
       "name": "Malmedy",
       "marker": 0.37,
       "start": 0.365,
       "end": 0.385
     },
     {
+      "type": 0,
       "name": "Bruxelles",
       "marker": 0.431,
       "start": 0.41,
       "end": 0.45
     },
     {
+      "type": 0,
       "name": "Double Gauche",
       "marker": 0.557,
       "start": 0.525,
       "end": 0.595
     },
     {
+      "type": 0,
       "name": "Les Fagnes",
       "marker": 0.641,
       "start": 0.62,
       "end": 0.672
     },
     {
+      "type": 0,
       "name": "Campus",
       "marker": 0.703,
       "start": 0.69,
       "end": 0.715
     },
     {
+      "type": 0,
       "name": "Stavelot",
       "marker": 0.741,
       "start": 0.715,
       "end": 0.745
     },
     {
+      "type": 0,
       "name": "Courbe Paul Frere",
       "start": 0.77,
       "end": 0.81
     },
     {
+      "type": 0,
       "name": "Blanchimont",
       "marker": 0.884,
       "start": 0.865,
       "end": 0.9
     },
     {
+      "type": 0,
       "name": "Chicane",
       "marker": 0.962,
       "start": 0.935,
