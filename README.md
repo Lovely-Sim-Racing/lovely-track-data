@@ -35,26 +35,26 @@ Every file is formatted as follows:
   # start       (Int)    - (OPTIONAL) The percentage point segment start
   # end         (Int)    - (OPTIONAL) The percentage point segment end
   # extra                - (OPTIONAL) An array of properties
-    # keys      (?)      - Key:Value
+    # keys      (Mixed)  - Key:Value
 # straight               - An array of all the Straight data
   # number      (Int)    - Straight Number
   # name        (String) - Straight Name
   # start       (Int)    - (OPTIONAL) The percentage point segment start
   # end         (Int)    - (OPTIONAL) The percentage point segment end
   # extra                - (OPTIONAL) An array of properties
-    # keys      (?)      - Key:Value
+    # keys      (Mixed)  - Key:Value
 # sector                 - An array of all the Sector data
   # number      (Int)    - Sector Number
   # name        (String) - Sector Name
   # marker      (Int)    - The percentage point of the Sector
   # extra                - (OPTIONAL) An array of properties
-    # keys      (?)      - Key:Value
+    # keys      (Mixed)  - Key:Value
 # time                   - (OPTIONAL) An array of estimated time delays
   # class       (String) - The car class (sim dependant)
     # name      (String) - Name of the time delay
     # time      (Int)    - Time delay in seconds
 # extra                  - (OPTIONAL) An array of properties
-  # keys        (?)      - Key:Value
+  # keys        (Mixed)  - Key:Value
 ```
 
 ### Example for `silverstone.json`
