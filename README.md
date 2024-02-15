@@ -5,7 +5,8 @@
 <h1 align="center">Lovely Track Data</h1>
 
 <p align="center">
-A comprehensive list of Track Data for Sim Racing games.
+A comprehensive list of Track Data for Sim Racing games.<br>
+<strong>v1.0.0 Beta</strong>
 </p>
 
 ---
@@ -81,7 +82,7 @@ Every file is formatted as follows:
     { "number": 16, "name": "T16", "marker": 0.858 },
     { "number": 17, "name": "T17", "marker": 0.887 },
     { "number": 18, "name": "T18", "marker": 0.949}
-number  ],
+  ],
   "straight": [
     { "number": 1, "name": "Hangar Straight", "start": 0.235, "end": 0.355 },
     { "number": 2, "name": "Hamilton Straight", "start": 0.515, "end": 0.560},
@@ -149,7 +150,7 @@ number  ],
 
 ```
 
-#### Full Track Data with Extra Data Example (GT7)
+#### Full Track with Extra Data Example (GT7)
 ```JSON
 {
   "name": "Silverstone",
