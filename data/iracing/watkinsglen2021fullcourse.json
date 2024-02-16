@@ -1,78 +1,96 @@
 {
   "name": "Watkins Glen",
   "country": "US",
-  "segment": [
+  "turn": [
     {
-      "name": "1",
+      "number": 1,
+      "name": "T1",
       "marker": 0.065
     },
     {
-      "name": "2",
+      "number": 2,
+      "name": "T2",
       "marker": 0.135
     },
     {
-      "name": "3",
+      "number": 3,
+      "name": "T3",
       "marker": 0.178
     },
     {
-      "name": "4",
+      "number": 4,
+      "name": "T4",
       "marker": 0.229
     },
     {
-      "name": "5",
+      "number": 5,
+      "name": "T5",
       "marker": 0.352
     },
     {
-      "name": "6",
+      "number": 6,
+      "name": "T6",
       "marker": 0.378
     },
     {
-      "name": "7",
+      "number": 7,
+      "name": "T7",
       "marker": 0.422
     },
     {
-      "name": "8",
+      "number": 8,
+      "name": "T8",
       "marker": 0.516
     },
     {
-      "name": "9",
+      "number": 9,
+      "name": "T9",
       "marker": 0.609
     },
     {
-      "name": "10",
+      "number": 10,
+      "name": "T10",
       "marker": 0.736
     },
     {
-      "name": "11",
+      "number": 11,
+      "name": "T11",
       "marker": 0.798
     },
     {
-      "name": "12",
+      "number": 12,
+      "name": "T12",
       "marker": 0.872
     },
     {
-      "name": "13",
+      "number": 13,
+      "name": "T13",
       "marker": 0.929
     }
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.3
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.473
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 0.685
     },
     {
+      "number": 4,
       "name": "4",
       "marker": 0.839
     },
     {
+      "number": 5,
       "name": "5",
       "marker": 1
     }
