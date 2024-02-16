@@ -2,86 +2,100 @@
   "name": "Hungaroring",
   "country": "HU",
   "length": 4381,
-  "segment": [
+  "turn": [
     {
+      "number": 1,
       "name": "T1",
       "marker": 0.149,
       "start": 0.115,
       "end": 0.2
     },
     {
+      "number": 2,
       "name": "T2",
       "marker": 0.267,
       "start": 0.22,
       "end": 0.285
     },
     {
+      "number": 3,
       "name": "T3",
       "marker": 0.31,
       "start": 0.29,
       "end": 0.325
     },
     {
+      "number": 4,
       "name": "T4",
       "marker": 0.421,
       "start": 0.39,
       "end": 0.435
     },
     {
+      "number": 5,
       "name": "T5",
       "marker": 0.476,
       "start": 0.445,
       "end": 0.512
     },
     {
+      "number": 6,
       "name": "T6",
       "marker": 0.544,
       "start": 0.53,
       "end": 0.552
     },
     {
+      "number": 7,
       "name": "T7",
       "marker": 0.559,
       "start": 0.552,
       "end": 0.57
     },
     {
+      "number": 8,
       "name": "T8",
       "marker": 0.6,
       "start": 0.58,
       "end": 0.605
     },
     {
+      "number": 9,
       "name": "T9",
       "marker": 0.627,
       "start": 0.612,
       "end": 0.645
     },
     {
+      "number": 10,
       "name": "T10",
       "marker": 0.675,
       "start": 0.655,
       "end": 0.688
     },
     {
+      "number": 11,
       "name": "T11",
       "marker": 0.717,
       "start": 0.7,
       "end": 0.738
     },
     {
+      "number": 12,
       "name": "T12",
       "marker": 0.811,
       "start": 0.785,
       "end": 0.85
     },
     {
+      "number": 13,
       "name": "T13",
       "marker": 0.872,
       "start": 0.85,
       "end": 0.895
     },
     {
+      "number": 14,
       "name": "T14",
       "marker": 0.939,
       "start": 0.905,
@@ -90,14 +104,17 @@
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.397
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.75
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }

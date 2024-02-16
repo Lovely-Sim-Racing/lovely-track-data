@@ -2,79 +2,95 @@
   "name": "Donington Park",
   "country": "GB",
   "length": 4020,
-  "segment": [
+  "turn": [
     {
-      "name": "WheatCroft Straight",
-      "start": 0,
-      "end": 0.08
-    },
-    {
+      "number": 1,
       "name": "Redgate",
       "marker": 0.109,
       "start": 0.085,
       "end": 0.135
     },
     {
+      "number": 2,
       "name": "Hollywood",
       "marker": 0.177,
       "start": 0.165,
       "end": 0.2
     },
     {
+      "number": 3,
       "name": "Craner Curves",
       "marker": 0.236,
       "start": 0.22,
       "end": 0.25
     },
     {
+      "number": 4,
       "name": "Old Hairpin",
       "marker": 0.298,
       "start": 0.28,
       "end": 0.31
     },
     {
-      "name": "Starkey's Bridge",
-      "start": 0.325,
-      "end": 0.355
-    },
-    {
+      "number": 5,
       "name": "Schwantz Curve",
       "marker": 0.423,
       "start": 0.4,
       "end": 0.425
     },
     {
+      "number": 6,
       "name": "McLeans",
       "marker": 0.459
     },
     {
+      "number": 7,
       "name": "Coppice",
       "marker": 0.559
     },
     {
-      "name": "Starkey's Straight",
-      "start": 0.62,
-      "end": 0.69
-    },
-    {
+      "number": 8,
       "name": "Fogarty Esses",
       "marker": 0.728,
       "start": 0.7,
       "end": 0.75
     },
     {
+      "number": 9,
       "name": "Melbourne Hairpin",
       "marker": 0.853,
       "start": 0.81,
       "end": 0.87
     },
     {
+      "number": 10,
       "name": "Goddards",
       "marker": 0.954,
       "start": 0.92,
       "end": 0.965
+    }
+  ],
+  "segment": [
+    {
+      "number": 1,
+      "name": "WheatCroft Straight",
+      "start": 0,
+      "end": 0.08
     },
     {
+      "number": 2,
+      "name": "Starkey's Bridge",
+      "start": 0.325,
+      "end": 0.355
+    },
+    {
+      "number": 3,
+      "name": "Starkey's Straight",
+      "start": 0.62,
+      "end": 0.69
+    },
+    {
+      "number": 4,
       "name": "WheatCroft Straight",
       "start": 0.975,
       "end": 1
@@ -82,14 +98,17 @@
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.255
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.679
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }
