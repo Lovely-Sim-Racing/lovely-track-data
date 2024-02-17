@@ -70,30 +70,24 @@
       "end": 0.965
     }
   ],
-  "segment": [
+  "straight": [
     {
       "number": 1,
-      "name": "WheatCroft Straight",
-      "start": 0,
-      "end": 0.08
-    },
-    {
-      "number": 2,
       "name": "Starkey's Bridge",
       "start": 0.325,
       "end": 0.355
     },
     {
-      "number": 3,
+      "number": 2,
       "name": "Starkey's Straight",
       "start": 0.62,
       "end": 0.69
     },
     {
-      "number": 4,
+      "number": 3,
       "name": "WheatCroft Straight",
       "start": 0.975,
-      "end": 1
+      "end": 0.08
     }
   ],
   "sector": [
