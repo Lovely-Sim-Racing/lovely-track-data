@@ -1,70 +1,87 @@
 {
   "name": "Paul Ricard",
   "country": "FR",
-  "segment": [
+  "length": 5770,
+  "turn": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.11
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.133
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 0.228
     },
     {
+      "number": 4,
       "name": "4",
       "marker": 0.243
     },
     {
+      "number": 5,
       "name": "5",
       "marker": 0.263
     },
     {
+      "number": 6,
       "name": "6",
       "marker": 0.287
     },
     {
+      "number": 7,
       "name": "7",
       "marker": 0.327
     },
     {
+      "number": 8,
       "name": "8",
       "marker": 0.673
     },
     {
+      "number": 9,
       "name": "9",
       "marker": 0.758
     },
     {
+      "number": 10,
       "name": "10",
       "marker": 0.826
     },
     {
+      "number": 11,
       "name": "11",
       "marker": 0.866
     },
     {
+      "number": 12,
       "name": "12",
       "marker": 0.913
     },
     {
+      "number": 13,
       "name": "13",
       "marker": 0.944
     }
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.263
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.597
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }

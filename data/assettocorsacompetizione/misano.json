@@ -2,68 +2,81 @@
   "name": "Misano",
   "country": "IT",
   "length": 4200,
-  "segment": [
+  "turn": [
     {
+      "number": 1,
       "name": "Variante del Parco",
       "marker": 0.066,
       "start": 0.04,
       "end": 0.14
     },
     {
+      "number": 2,
       "name": "Curva del Rio",
       "marker": 0.195,
       "start": 0.17,
       "end": 0.235
     },
     {
+      "number": 3,
       "name": "T6",
       "marker": 0.241
     },
     {
+      "number": 4,
       "name": "T7",
       "marker": 0.334
     },
     {
+      "number": 5,
       "name": "Curva Quercia",
       "marker": 0.401,
       "start": 0.36,
       "end": 0.42
     },
     {
+      "number": 6,
       "name": "T9",
       "marker": 0.491
     },
     {
+      "number": 7,
       "name": "Curva Tramonto",
       "marker": 0.515,
       "start": 0.495,
       "end": 0.532
     },
     {
+      "number": 8,
       "name": "Curvone",
       "marker": 0.67,
       "start": 0.645,
       "end": 0.725
     },
     {
+      "number": 9,
       "name": "T12",
       "marker": 0.735
     },
     {
+      "number": 10,
       "name": "T13",
       "marker": 0.774
     },
     {
+      "number": 11,
       "name": "Curva del Carro",
       "marker": 0.816,
       "start": 0.785,
       "end": 0.828
     },
     {
+      "number": 12,
       "name": "T15",
       "marker": 0.865
     },
     {
+      "number": 13,
       "name": "Curva Misano",
       "marker": 0.929,
       "start": 0.9,
@@ -72,14 +85,17 @@
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.224
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.625
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }

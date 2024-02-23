@@ -1,58 +1,72 @@
 {
   "name": "Red Bull Ring",
   "country": "AT",
-  "segment": [
+  "length": 4318,
+  "turn": [
     {
-      "name": "1",
+      "number": 1,
+      "name": "Niki Lauda Kurve",
       "marker": 0.106
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.254
     },
     {
-      "name": "3",
+      "number": 3,
+      "name": "Remus",
       "marker": 0.324
     },
     {
+      "number": 4,
       "name": "4",
       "marker": 0.514
     },
     {
+      "number": 5,
       "name": "5",
       "marker": 0.57
     },
     {
-      "name": "6",
+      "number": 6,
+      "name": "Rauch",
       "marker": 0.64
     },
     {
-      "name": "7",
+      "number": 7,
+      "name": "Wurth",
       "marker": 0.709
     },
     {
+      "number": 8,
       "name": "8",
       "marker": 0.74
     },
     {
-      "name": "9",
+      "number": 9,
+      "name": "Rindt",
       "marker": 0.879
     },
     {
-      "name": "10",
+      "number": 10,
+      "name": "Red Bull Mobile",
       "marker": 0.926
     }
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.287
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.687
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }

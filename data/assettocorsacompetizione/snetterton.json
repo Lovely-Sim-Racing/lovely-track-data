@@ -1,66 +1,82 @@
 {
   "name": "Snetterton",
   "country": "GB",
-  "segment": [
+  "length": 4779,
+  "turn": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.085
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.171
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 0.248
     },
     {
+      "number": 4,
       "name": "4",
       "marker": 0.359
     },
     {
+      "number": 5,
       "name": "5",
       "marker": 0.422
     },
     {
+      "number": 6,
       "name": "6",
       "marker": 0.473
     },
     {
+      "number": 7,
       "name": "7",
       "marker": 0.524
     },
     {
+      "number": 8,
       "name": "8",
       "marker": 0.712
     },
     {
+      "number": 9,
       "name": "9",
       "marker": 0.727
     },
     {
+      "number": 10,
       "name": "10",
       "marker": 0.774
     },
     {
+      "number": 11,
       "name": "11",
       "marker": 0.858
     },
     {
+      "number": 12,
       "name": "12",
       "marker": 0.9
     }
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.329
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.674
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }

@@ -24,8 +24,10 @@ Every file is formatted as follows:
 ``` 
 # name          (String) - The full human readable track name
 # country       (String) - (OPTIONAL) The track's country code (ISO 3166 Alpha 2)
-# length        (Int)    - (OPTIONAL) Length of the track in meters
 # year          (Int)    - (OPTIONAL) The track's active year
+# length        (Int)    - (OPTIONAL) Length of the track in meters
+# pitentry      (Int)    - (OPTIONAL) The percentage point of the pit entry
+# pitexit       (Int)    - (OPTIONAL) The percentage point of the pit exit
 # turn                   - An array of all the Turn data
   # number      (Int)    - Turn Number
   # name        (String) - Turn Name

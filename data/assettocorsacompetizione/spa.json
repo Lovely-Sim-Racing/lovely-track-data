@@ -2,9 +2,9 @@
   "name": "Spa Francorchamps",
   "country": "BE",
   "length": 7004,
-  "segment": [
+  "turn": [
     {
-      "type": 0,
+      "number": 1,
       "scale": 1,
       "direction": 1,
       "name": "La Source",
@@ -13,7 +13,7 @@
       "end": 0.058
     },
     {
-      "type": 0,
+      "number": 2,
       "scale": 4,
       "direction": 0,
       "name": "Eau Rouge",
@@ -22,7 +22,7 @@
       "end": 0.152
     },
     {
-      "type": 0,
+      "number": 3,
       "scale": 6,
       "direction": 0,
       "name": "Raidillon",
@@ -31,7 +31,7 @@
       "end": 0.185
     },
     {
-      "type": 0,
+      "number": 4,
       "scale": 6,
       "direction": 1,
       "name": "Kemmel",
@@ -40,91 +40,96 @@
       "end": 0.233
     },
     {
-      "type": 1,
-      "name": "Kemmel Straight",
-      "start": 0.233,
-      "end": 0.3
-    },
-    {
-      "type": 0,
+      "number": 5,
       "name": "Les Combes",
       "marker": 0.343,
       "start": 0.318,
       "end": 0.36
     },
     {
-      "type": 0,
+      "number": 6,
       "name": "Malmedy",
       "marker": 0.37,
       "start": 0.365,
       "end": 0.385
     },
     {
-      "type": 0,
+      "number": 7,
       "name": "Bruxelles",
       "marker": 0.431,
       "start": 0.41,
       "end": 0.45
     },
     {
-      "type": 0,
+      "number": 8,
       "name": "Double Gauche",
       "marker": 0.557,
       "start": 0.525,
       "end": 0.595
     },
     {
-      "type": 0,
+      "number": 9,
       "name": "Les Fagnes",
       "marker": 0.641,
       "start": 0.62,
       "end": 0.672
     },
     {
-      "type": 0,
+      "number": 10,
       "name": "Campus",
       "marker": 0.703,
       "start": 0.69,
       "end": 0.715
     },
     {
-      "type": 0,
+      "number": 11,
       "name": "Stavelot",
       "marker": 0.741,
       "start": 0.715,
       "end": 0.745
     },
     {
-      "type": 0,
+      "number": 12,
       "name": "Courbe Paul Frere",
       "start": 0.77,
       "end": 0.81
     },
     {
-      "type": 0,
+      "number": 13,
       "name": "Blanchimont",
       "marker": 0.884,
       "start": 0.865,
       "end": 0.9
     },
     {
-      "type": 0,
+      "number": 14,
       "name": "Chicane",
       "marker": 0.962,
       "start": 0.935,
       "end": 0.975
     }
   ],
+  "straight": [
+    {
+      "number": 1,
+      "name": "Kemmel Straight",
+      "start": 0.233,
+      "end": 0.3
+    }
+  ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.333
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.719
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }

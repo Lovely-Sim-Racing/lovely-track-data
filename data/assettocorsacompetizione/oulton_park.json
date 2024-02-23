@@ -1,86 +1,107 @@
 {
   "name": "Oulton Park",
   "country": "GB",
-  "segment": [
+  "length": 4333,
+  "turn": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.067
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.14
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 0.18
     },
     {
+      "number": 4,
       "name": "4",
       "marker": 0.323
     },
     {
+      "number": 5,
       "name": "5",
       "marker": 0.388
     },
     {
+      "number": 6,
       "name": "6",
       "marker": 0.449
     },
     {
+      "number": 7,
       "name": "7",
       "marker": 0.475
     },
     {
+      "number": 8,
       "name": "8",
       "marker": 0.485
     },
     {
+      "number": 9,
       "name": "9",
       "marker": 0.499
     },
     {
+      "number": 10,
       "name": "10",
       "marker": 0.605
     },
     {
+      "number": 11,
       "name": "11",
       "marker": 0.617
     },
     {
+      "number": 12,
       "name": "12",
       "marker": 0.645
     },
     {
+      "number": 13,
       "name": "13",
       "marker": 0.716
     },
     {
+      "number": 14,
       "name": "14",
       "marker": 0.759
     },
     {
+      "number": 15,
       "name": "15",
       "marker": 0.803
     },
     {
+      "number": 16,
       "name": "16",
       "marker": 0.925
     },
     {
+      "number": 17,
       "name": "17",
       "marker": 0.971
     }
   ],
   "sector": [
     {
+      "number": 1,
       "name": "1",
       "marker": 0.272
     },
     {
+      "number": 2,
       "name": "2",
       "marker": 0.716
     },
     {
+      "number": 3,
       "name": "3",
       "marker": 1
     }
