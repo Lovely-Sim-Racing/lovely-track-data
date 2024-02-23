@@ -3,89 +3,72 @@
   "country": "US",
   "turn": [
     {
-      "number": 1,
       "name": "T1",
       "marker": 0.085
     },
     {
-      "number": 2,
       "name": "T2",
       "marker": 0.115
     },
     {
-      "number": 3,
       "name": "T3",
       "marker": 0.169
     },
     {
-      "number": 4,
       "name": "T4",
       "marker": 0.255
     },
     {
-      "number": 5,
       "name": "T5",
       "marker": 0.309
     },
     {
-      "number": 6,
       "name": "T6",
       "marker": 0.376
     },
     {
-      "number": 7,
       "name": "T7",
       "marker": 0.451
     },
     {
-      "number": 8,
       "name": "T8",
       "marker": 0.67
     },
     {
-      "number": 9,
       "name": "T9",
       "marker": 0.68
     },
     {
-      "number": 10,
       "name": "T10",
       "marker": 0.692
     },
     {
-      "number": 11,
       "name": "T11",
       "marker": 0.703
     },
     {
-      "number": 12,
       "name": "T12",
       "marker": 0.81
     }
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.14
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.272
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 0.355
     },
     {
-      "number": 4,
       "name": "4",
       "marker": 0.63
     },
     {
-      "number": 5,
       "name": "5",
       "marker": 1
     }

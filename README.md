@@ -29,7 +29,6 @@ Every file is formatted as follows:
 # pitentry      (Int)    - (OPTIONAL) The percentage point of the pit entry
 # pitexit       (Int)    - (OPTIONAL) The percentage point of the pit exit
 # turn                   - An array of all the Turn data
-  # number      (Int)    - Turn Number
   # name        (String) - Turn Name
   # marker      (Int)    - The percentage point of the Apex
   # scale       (Int)    - (OPTIONAL) 1-6: Turn (Hairpin > Wide)
@@ -38,15 +37,13 @@ Every file is formatted as follows:
   # end         (Int)    - (OPTIONAL) The percentage point of turn end
   # extra                - (OPTIONAL) An array of properties
     # keys      (Mixed)  - Key:Value
-# straight               - An array of all the Straight data
-  # number      (Int)    - Straight Number
+# straight               - (OPTIONAL) An array of all the Straight data
   # name        (String) - Straight Name
   # start       (Int)    - The percentage point of straight start
   # end         (Int)    - The percentage point of straight end
   # extra                - (OPTIONAL) An array of properties
     # keys      (Mixed)  - Key:Value
 # sector                 - An array of all the Sector data
-  # number      (Int)    - Sector Number
   # name        (String) - Sector Name
   # marker      (Int)    - The percentage point of the Sector
   # extra                - (OPTIONAL) An array of properties

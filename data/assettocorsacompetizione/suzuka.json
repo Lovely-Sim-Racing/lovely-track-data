@@ -4,109 +4,88 @@
   "length": 5807,
   "turn": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.071
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.098
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 0.142
     },
     {
-      "number": 4,
       "name": "4",
       "marker": 0.16
     },
     {
-      "number": 5,
       "name": "5",
       "marker": 0.189
     },
     {
-      "number": 6,
       "name": "6",
       "marker": 0.219
     },
     {
-      "number": 7,
       "name": "7",
       "marker": 0.253
     },
     {
-      "number": 8,
       "name": "8",
       "marker": 0.344
     },
     {
-      "number": 9,
       "name": "9",
       "marker": 0.372
     },
     {
-      "number": 10,
       "name": "10",
       "marker": 0.429
     },
     {
-      "number": 11,
       "name": "11",
       "marker": 0.452
     },
     {
-      "number": 12,
       "name": "12",
       "marker": 0.496
     },
     {
-      "number": 13,
       "name": "13",
       "marker": 0.604
     },
     {
-      "number": 14,
       "name": "14",
       "marker": 0.638
     },
     {
-      "number": 15,
       "name": "15",
       "marker": 0.809
     },
     {
-      "number": 16,
       "name": "16",
       "marker": 0.88
     },
     {
-      "number": 17,
       "name": "17",
       "marker": 0.889
     },
     {
-      "number": 18,
       "name": "18",
       "marker": 0.911
     }
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.328
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.763
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

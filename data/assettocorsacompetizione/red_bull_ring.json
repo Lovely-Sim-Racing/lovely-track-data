@@ -4,69 +4,56 @@
   "length": 4318,
   "turn": [
     {
-      "number": 1,
       "name": "Niki Lauda Kurve",
       "marker": 0.106
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.254
     },
     {
-      "number": 3,
       "name": "Remus",
       "marker": 0.324
     },
     {
-      "number": 4,
       "name": "4",
       "marker": 0.514
     },
     {
-      "number": 5,
       "name": "5",
       "marker": 0.57
     },
     {
-      "number": 6,
       "name": "Rauch",
       "marker": 0.64
     },
     {
-      "number": 7,
       "name": "Wurth",
       "marker": 0.709
     },
     {
-      "number": 8,
       "name": "8",
       "marker": 0.74
     },
     {
-      "number": 9,
       "name": "Rindt",
       "marker": 0.879
     },
     {
-      "number": 10,
       "name": "Red Bull Mobile",
       "marker": 0.926
     }
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.287
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.687
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

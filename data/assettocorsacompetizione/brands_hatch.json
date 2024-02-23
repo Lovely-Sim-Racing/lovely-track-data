@@ -4,63 +4,54 @@
   "length": 3916,
   "turn": [
     {
-      "number": 1,
       "name": "Paddock Hill",
       "marker": 0.067,
       "start": 0.01,
       "end": 0.095
     },
     {
-      "number": 2,
       "name": "Druids",
       "marker": 0.158,
       "start": 0.135,
       "end": 0.17
     },
     {
-      "number": 3,
       "name": "Graham Hill Bend",
       "marker": 0.223,
       "start": 0.19,
       "end": 0.235
     },
     {
-      "number": 4,
       "name": "Surtees",
       "marker": 0.316,
       "start": 0.28,
       "end": 0.35
     },
     {
-      "number": 5,
       "name": "Hawthron bend",
       "marker": 0.524,
       "start": 0.48,
       "end": 0.55
     },
     {
-      "number": 6,
       "name": "Westfield Bend",
       "marker": 0.611,
       "start": 0.58,
       "end": 0.63
     },
     {
-      "number": 7,
       "name": "Sheene's",
       "marker": 0.711,
       "start": 0.65,
       "end": 0.72
     },
     {
-      "number": 8,
       "name": "Stirling's",
       "marker": 0.768,
       "start": 0.735,
       "end": 0.787
     },
     {
-      "number": 9,
       "name": "Clark Curve",
       "marker": 0.901,
       "start": 0.855,
@@ -69,49 +60,41 @@
   ],
   "straight": [
     {
-      "number": 1,
       "name": "Brabham Straight",
       "start": 0,
       "end": 0.6
     },
     {
-      "number": 2,
       "name": "Pilgrim's Rise",
       "start": 0.095,
       "end": 0.135
     },
     {
-      "number": 3,
       "name": "Cooper Straight",
       "start": 0.235,
       "end": 0.27
     },
     {
-      "number": 4,
       "name": "Pilgrim's Drop",
       "start": 0.418,
       "end": 0.48
     },
     {
-      "number": 5,
       "name": "Derek Minter Straight",
       "start": 0.55,
       "end": 0.58
     },
     {
-      "number": 6,
       "name": "Dingle Dell",
       "start": 0.63,
       "end": 0.65
     },
     {
-      "number": 7,
       "name": "Clearways",
       "start": 0.787,
       "end": 0.855
     },
     {
-      "number": 8,
       "name": "Brabham Straight",
       "start": 0.955,
       "end": 0.999
@@ -119,17 +102,14 @@
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.294
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.568
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

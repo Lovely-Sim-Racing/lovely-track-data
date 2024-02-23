@@ -4,140 +4,120 @@
   "length": 5513,
   "turn": [
     {
-      "number": 1,
       "name": "T1",
       "marker": 0.121,
       "start": 0.1,
       "end": 0.132
     },
     {
-      "number": 2,
       "name": "T2",
       "marker": 0.169,
       "start": 0.15,
       "end": 0.184
     },
     {
-      "number": 3,
       "name": "T3",
       "marker": 0.214,
       "start": 0.2,
       "end": 0.22
     },
     {
-      "number": 4,
       "name": "T4",
       "marker": 0.232,
       "start": 0.22,
       "end": 0.236
     },
     {
-      "number": 5,
       "name": "T5",
       "marker": 0.249,
       "start": 0.236,
       "end": 0.255
     },
     {
-      "number": 6,
       "name": "T6",
       "marker": 0.269,
       "start": 0.255,
       "end": 0.298
     },
     {
-      "number": 7,
       "name": "T7",
       "marker": 0.315,
       "start": 0.305,
       "end": 0.325
     },
     {
-      "number": 8,
       "name": "T8",
       "marker": 0.344,
       "start": 0.328,
       "end": 0.352
     },
     {
-      "number": 9,
       "name": "T9",
       "marker": 0.36,
       "start": 0.352,
       "end": 0.37
     },
     {
-      "number": 10,
       "name": "T10",
       "marker": 0.398,
       "start": 0.385,
       "end": 0.405
     },
     {
-      "number": 11,
       "name": "T11",
       "marker": 0.471,
       "start": 0.445,
       "end": 0.478
     },
     {
-      "number": 12,
       "name": "T12",
       "marker": 0.69,
       "start": 0.673,
       "end": 0.7
     },
     {
-      "number": 13,
       "name": "T13",
       "marker": 0.731,
       "start": 0.718,
       "end": 0.739
     },
     {
-      "number": 14,
       "name": "T14",
       "marker": 0.75,
       "start": 0.739,
       "end": 0.76
     },
     {
-      "number": 15,
       "name": "T15",
       "marker": 0.782,
       "start": 0.76,
       "end": 0.79
     },
     {
-      "number": 16,
       "name": "T16",
       "marker": 0.82,
       "start": 0.81,
       "end": 0.825
     },
     {
-      "number": 17,
       "name": "T17",
       "marker": 0.838,
       "start": 0.825,
       "end": 0.84
     },
     {
-      "number": 18,
       "name": "T18",
       "marker": 0.857,
       "start": 0.84,
       "end": 0.89
     },
     {
-      "number": 19,
       "name": "T19",
       "marker": 0.92,
       "start": 0.9,
       "end": 0.925
     },
     {
-      "number": 20,
       "name": "T20",
       "marker": 0.972,
       "start": 0.95,
@@ -146,17 +126,14 @@
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.239
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.659
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

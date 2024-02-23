@@ -4,89 +4,72 @@
   "length": 4005,
   "turn": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.136
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.231
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 0.275
     },
     {
-      "number": 4,
       "name": "4",
       "marker": 0.318
     },
     {
-      "number": 5,
       "name": "5",
       "marker": 0.36
     },
     {
-      "number": 6,
       "name": "6",
       "marker": 0.434
     },
     {
-      "number": 7,
       "name": "7",
       "marker": 0.518
     },
     {
-      "number": 8,
       "name": "8",
       "marker": 0.575
     },
     {
-      "number": 9,
       "name": "9",
       "marker": 0.62
     },
     {
-      "number": 10,
       "name": "10",
       "marker": 0.649
     },
     {
-      "number": 11,
       "name": "11",
       "marker": 0.683
     },
     {
-      "number": 12,
       "name": "12",
       "marker": 0.766
     },
     {
-      "number": 13,
       "name": "13",
       "marker": 0.819
     },
     {
-      "number": 14,
       "name": "14",
       "marker": 0.901
     }
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.379
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.728
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

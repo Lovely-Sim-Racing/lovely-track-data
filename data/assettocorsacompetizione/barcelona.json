@@ -4,102 +4,86 @@
   "length": 4675,
   "turn": [
     {
-      "number": 1,
       "name": "Elf",
       "marker": 0.185,
       "start": 0.155,
       "end": 0.22
     },
     {
-      "number": 2,
       "name": "T2",
       "marker": 0.209
     },
     {
-      "number": 3,
       "name": "Renault",
       "marker": 0.281,
       "start": 0.23,
       "end": 0.32
     },
     {
-      "number": 4,
       "name": "Repsol",
       "marker": 0.377,
       "start": 0.355,
       "end": 0.42
     },
     {
-      "number": 5,
       "name": "Seat",
       "marker": 0.461,
       "start": 0.44,
       "end": 0.478
     },
     {
-      "number": 6,
       "name": "T6",
       "marker": 0.518
     },
     {
-      "number": 7,
       "name": "Wurth",
       "marker": 0.556,
       "start": 0.535,
       "end": 0.583
     },
     {
-      "number": 8,
       "name": "T8",
       "apex": 0.577
     },
     {
-      "number": 9,
       "name": "Campsa",
       "marker": 0.633,
       "start": 0.6,
       "end": 0.655
     },
     {
-      "number": 10,
       "name": "La Caixa",
       "marker": 0.758,
       "start": 0.725,
       "end": 0.77
     },
     {
-      "number": 11,
       "name": "T11",
       "marker": 0.785
     },
     {
-      "number": 12,
       "name": "Banc Sabadell",
       "marker": 0.819,
       "start": 0.795,
       "end": 0.84
     },
     {
-      "number": 13,
       "name": "Europcar",
       "marker": 0.869,
       "start": 0.85,
       "end": 0.875
     },
     {
-      "number": 14,
       "name": "T14",
       "marker": 0.895
     },
     {
-      "number": 15,
       "name": "Chicane RACC",
       "marker": 0.908,
       "start": 0.885,
       "end": 0.908
     },
     {
-      "number": 16,
       "name": "New Holland",
       "marker": 0.944,
       "start": 0.915,
@@ -108,17 +92,14 @@
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.35
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.733
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

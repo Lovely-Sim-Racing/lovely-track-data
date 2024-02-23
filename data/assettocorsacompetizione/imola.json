@@ -5,136 +5,114 @@
   "year": 2021,
   "turn": [
     {
-      "number": 1,
       "name": "T1",
       "marker": 0.025
     },
     {
-      "number": 2,
       "name": "Variante Tamburello",
       "marker": 0.144,
       "start": 0.115,
       "end": 0.15
     },
     {
-      "number": 3,
       "name": "Variante Tamburello",
       "marker": 0.159,
       "start": 0.151,
       "end": 0.165
     },
     {
-      "number": 4,
       "name": "T4",
       "marker": 0.186
     },
     {
-      "number": 5,
       "name": "Variante Villeneuve",
       "marker": 0.274,
       "start": 0.252,
       "end": 0.28
     },
     {
-      "number": 6,
       "name": "Variante Villeneuve",
       "marker": 0.292,
       "start": 0.281,
       "end": 0.302
     },
     {
-      "number": 7,
       "name": "Tosa",
       "marker": 0.349,
       "start": 0.325,
       "end": 0.37
     },
     {
-      "number": 8,
       "name": "T8",
       "marker": 0.432
     },
     {
-      "number": 9,
       "name": "Piratella",
       "marker": 0.476,
       "start": 0.448,
       "end": 0.508
     },
     {
-      "number": 10,
       "name": "T10",
       "marker": 0.519
     },
     {
-      "number": 11,
       "name": "Acque Minerali",
       "marker": 0.557,
       "start": 0.54,
       "end": 0.575
     },
     {
-      "number": 12,
       "name": "Acque Minerali",
       "marker": 0.584,
       "start": 0.575,
       "end": 0.598
     },
     {
-      "number": 13,
       "name": "T13",
       "marker": 0.607
     },
     {
-      "number": 14,
       "name": "GRESINI",
       "marker": 0.683,
       "start": 0.655,
       "end": 0.69
     },
     {
-      "number": 15,
       "name": "GRESINI",
       "marker": 0.697,
       "start": 0.69,
       "end": 0.705
     },
     {
-      "number": 16,
       "name": "T16",
       "marker": 0.806
     },
     {
-      "number": 17,
       "name": "T17",
       "marker": 0.846
     },
     {
-      "number": 18,
       "name": "Rivazza",
       "marker": 0.874,
       "start": 0.818,
       "end": 0.887
     },
     {
-      "number": 19,
       "name": "T20",
       "marker": 0.939
     }
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.258
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.557
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

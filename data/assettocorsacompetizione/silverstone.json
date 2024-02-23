@@ -4,7 +4,6 @@
   "length": 5890,
   "turn": [
     {
-      "number": 1,
       "name": "Copse",
       "marker": 0.042,
       "scale": 4,
@@ -13,35 +12,30 @@
       "end": 0.045
     },
     {
-      "number": 2,
       "name": "T2",
       "marker": 0.133,
       "scale": 5,
       "direction": 0
     },
     {
-      "number": 3,
       "name": "Maggots",
       "marker": 0.151,
       "scale": 3,
       "direction": 1
     },
     {
-      "number": 4,
       "name": "T4",
       "marker": 0.176,
       "scale": 3,
       "direction": 0
     },
     {
-      "number": 5,
       "name": "Becketts",
       "marker": 0.201,
       "scale": 3,
       "direction": 1
     },
     {
-      "number": 6,
       "name": "Chapel",
       "marker": 0.229,
       "scale": 5,
@@ -50,7 +44,6 @@
       "end": 0.238
     },
     {
-      "number": 7,
       "name": "Stowe",
       "marker": 0.377,
       "scale": 4,
@@ -59,7 +52,6 @@
       "end": 0.385
     },
     {
-      "number": 8,
       "name": "Vale",
       "marker": 0.432,
       "scale": 1,
@@ -68,7 +60,6 @@
       "end": 0.44
     },
     {
-      "number": 9,
       "name": "Club",
       "marker": 0.469,
       "scale": 3,
@@ -77,14 +68,12 @@
       "end": 0.5
     },
     {
-      "number": 10,
       "name": "T10",
       "marker": 0.499,
       "scale": 5,
       "direction": 1
     },
     {
-      "number": 11,
       "name": "Abbey",
       "marker": 0.594,
       "scale": 4,
@@ -93,7 +82,6 @@
       "end": 0.595
     },
     {
-      "number": 12,
       "name": "Farm",
       "marker": 0.628,
       "scale": 6,
@@ -102,7 +90,6 @@
       "end": 0.635
     },
     {
-      "number": 13,
       "name": "Village",
       "marker": 0.672,
       "scale": 1,
@@ -111,7 +98,6 @@
       "end": 0.68
     },
     {
-      "number": 14,
       "name": "Loop",
       "marker": 0.696,
       "scale": 1,
@@ -120,7 +106,6 @@
       "end": 0.705
     },
     {
-      "number": 15,
       "name": "Aintree",
       "marker": 0.731,
       "scale": 2,
@@ -129,7 +114,6 @@
       "end": 0.738
     },
     {
-      "number": 16,
       "name": "Brooklands",
       "marker": 0.858,
       "scale": 2,
@@ -138,7 +122,6 @@
       "end": 0.865
     },
     {
-      "number": 17,
       "name": "Luffield",
       "marker": 0.887,
       "scale": 1,
@@ -147,7 +130,6 @@
       "end": 0.91
     },
     {
-      "number": 18,
       "name": "Woodcote",
       "marker": 0.949,
       "scale": 6,
@@ -158,21 +140,18 @@
   ],
   "straight": [
     {
-      "number": 1,
       "name": "Hangar Straight",
       "scale": 0,
       "start": 0.235,
       "end": 0.355
     },
     {
-      "number": 2,
       "name": "Hamilton Straight",
       "scale": 0,
       "start": 0.515,
       "end": 0.56
     },
     {
-      "number": 3,
       "name": "Wellington Straight",
       "scale": 0,
       "start": 0.76,
@@ -181,17 +160,14 @@
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.32
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.709
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

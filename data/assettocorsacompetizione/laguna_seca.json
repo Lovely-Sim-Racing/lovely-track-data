@@ -4,73 +4,62 @@
   "length": 3602,
   "turn": [
     {
-      "number": 1,
       "name": "T1",
       "marker": 0.075
     },
     {
-      "number": 2,
       "name": "Andretti Hairpin",
       "marker": 0.145,
       "start": 0.1,
       "end": 0.16
     },
     {
-      "number": 4,
       "name": "T3",
       "marker": 0.22,
       "start": 0.185,
       "end": 0.243
     },
     {
-      "number": 4,
       "name": "T4",
       "marker": 0.3,
       "start": 0.258,
       "end": 0.312
     },
     {
-      "number": 5,
       "name": "T5",
       "marker": 0.43,
       "start": 0.39,
       "end": 0.47
     },
     {
-      "number": 6,
       "name": "T6",
       "marker": 0.546,
       "start": 0.52,
       "end": 0.555
     },
     {
-      "number": 7,
       "name": "T7",
       "marker": 0.664
     },
     {
-      "number": 8,
       "name": "The Corkscrew",
       "marker": 0.694,
       "start": 0.674,
       "end": 0.718
     },
     {
-      "number": 9,
       "name": "T9",
       "marker": 0.757,
       "start": 0.74,
       "end": 0.785
     },
     {
-      "number": 10,
       "name": "T10",
       "marker": 0.832,
       "start": 0.805,
       "end": 0.862
     },
     {
-      "number": 11,
       "name": "T11",
       "marker": 0.913,
       "start": 0.88,
@@ -79,7 +68,6 @@
   ],
   "straight": [
     {
-      "number": 1,
       "name": "Rahal Straight",
       "start": 0.57,
       "end": 0.65
@@ -87,17 +75,14 @@
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.254
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.636
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }

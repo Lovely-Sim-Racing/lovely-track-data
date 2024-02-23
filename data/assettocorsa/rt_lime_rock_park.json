@@ -4,54 +4,44 @@
   "length": 2372,
   "turn": [
     {
-      "number": 1,
       "name": "Big Bend",
       "marker": 0.118
     },
     {
-      "number": 2,
       "name": "Esses",
       "marker": 0.184
     },
     {
-      "number": 3,
       "name": "T3",
       "marker": 0.291
     },
     {
-      "number": 4,
       "name": "T4",
       "marker": 0.338
     },
     {
-      "number": 5,
       "name": "T5",
       "marker": 0.517
     },
     {
-      "number": 6,
       "name": "West Bend",
       "marker": 0.675
     },
     {
-      "number": 7,
       "name": "Diving Turn",
       "marker": 0.815
     }
   ],
   "sector": [
     {
-      "number": 1,
       "name": "1",
       "marker": 0.417
     },
     {
-      "number": 2,
       "name": "2",
       "marker": 0.744
     },
     {
-      "number": 3,
       "name": "3",
       "marker": 1
     }
