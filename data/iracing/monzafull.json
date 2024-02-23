@@ -1,0 +1,103 @@
+{
+  "name": "Monza Full",
+  "country": "IT",
+  "length": 5793,
+  "turn": [
+    {
+      "number": 1,
+      "name": "T1",
+      "marker": 0.162
+    },
+    {
+      "number": 2,
+      "name": "T2",
+      "marker": 0.169
+    },
+    {
+      "number": 3,
+      "name": "T3",
+      "marker": 0.268
+    },
+    {
+      "number": 4,
+      "name": "T4",
+      "marker": 0.371
+    },
+    {
+      "number": 5,
+      "name": "T5",
+      "marker": 0.378
+    },
+    {
+      "number": 6,
+      "name": "T6",
+      "marker": 0.444
+    },
+    {
+      "number": 7,
+      "name": "T7",
+      "marker": 0.499
+    },
+    {
+      "number": 8,
+      "name": "T8",
+      "marker": 0.684
+    },
+    {
+      "number": 9,
+      "name": "T9",
+      "marker": 0.699
+    },
+    {
+      "number": 10,
+      "name": "T10",
+      "marker": 0.715
+    },
+    {
+      "number": 11,
+      "name": "T11",
+      "marker": 0.907
+    }
+  ],
+  "sector": [
+    {
+      "number": 1,
+      "name": "1",
+      "marker": 0.346
+    },
+    {
+      "number": 2,
+      "name": "2",
+      "marker": 0.476
+    },
+    {
+      "number": 3,
+      "name": "3",
+      "marker": 0.657
+    },
+    {
+      "number": 4,
+      "name": "4",
+      "marker": 0.853
+    },
+    {
+      "number": 5,
+      "name": "5",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 48
+        },
+        {
+          "name": "dt",
+          "time": 43
+        }
+      ]
+    }
+  ]
+}

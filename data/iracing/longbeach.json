@@ -1,0 +1,98 @@
+{
+  "name": "Longbeach",
+  "country": "US",
+  "length": 3167,
+  "turn": [
+    {
+      "number": 1,
+      "name": "T1",
+      "marker": 0.223
+    },
+    {
+      "number": 2,
+      "name": "T2",
+      "marker": 0.283
+    },
+    {
+      "number": 3,
+      "name": "T3",
+      "marker": 0.295
+    },
+    {
+      "number": 4,
+      "name": "T4",
+      "marker": 0.331
+    },
+    {
+      "number": 5,
+      "name": "T5",
+      "marker": 0.378
+    },
+    {
+      "number": 6,
+      "name": "T6",
+      "marker": 0.505
+    },
+    {
+      "number": 7,
+      "name": "T7",
+      "marker": 0.536
+    },
+    {
+      "number": 8,
+      "name": "T8",
+      "marker": 0.602
+    },
+    {
+      "number": 9,
+      "name": "T9",
+      "marker": 0.801
+    },
+    {
+      "number": 10,
+      "name": "T10",
+      "marker": 0.842
+    },
+    {
+      "number": 11,
+      "name": "T11",
+      "marker": 0.882
+    }
+  ],
+  "sector": [
+    {
+      "number": 1,
+      "name": "1",
+      "marker": 0.312
+    },
+    {
+      "number": 2,
+      "name": "2",
+      "marker": 0.455
+    },
+    {
+      "number": 3,
+      "name": "3",
+      "marker": 0.726
+    },
+    {
+      "number": 4,
+      "name": "4",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 70
+        },
+        {
+          "name": "dt",
+          "time": 31
+        }
+      ]
+    }
+  ]
+}
