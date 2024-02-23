@@ -14,28 +14,36 @@
       "end": 0.045
     },
     {
-      "name": "T2",
+      "name": "Maggots",
       "marker": 0.133,
       "scale": 5,
-      "direction": 0
+      "direction": 0,
+      "start": 0.115,
+      "end": 0.145
     },
     {
       "name": "Maggots",
       "marker": 0.151,
       "scale": 3,
-      "direction": 1
+      "direction": 1,
+      "start": 0.145,
+      "end": 0.161
     },
     {
-      "name": "T4",
+      "name": "Becketts",
       "marker": 0.176,
       "scale": 3,
-      "direction": 0
+      "direction": 0,
+      "start": 0.161,
+      "end": 0.185
     },
     {
       "name": "Becketts",
       "marker": 0.201,
       "scale": 3,
-      "direction": 1
+      "direction": 1,
+      "start": 0.185, 
+      "end": 0.210
     },
     {
       "name": "Chapel",
@@ -143,19 +151,16 @@
   "straight": [
     {
       "name": "Hangar Straight",
-      "scale": 0,
       "start": 0.235,
       "end": 0.355
     },
     {
       "name": "Hamilton Straight",
-      "scale": 0,
       "start": 0.515,
       "end": 0.56
     },
     {
       "name": "Wellington Straight",
-      "scale": 0,
       "start": 0.76,
       "end": 0.81
     }

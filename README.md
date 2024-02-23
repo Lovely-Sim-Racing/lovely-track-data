@@ -127,9 +127,9 @@ Every file is formatted as follows:
     { "name": "Woodcote", "marker": 0.949, "scale": 6, "direction": 1, "start": 0.930, "end": 0.960 }
   ],
   "straight": [
-    { "name": "Hangar Straight", "scale": 0, "start": 0.235, "end": 0.355 },
-    { "name": "Hamilton Straight", "scale": 0, "start": 0.515, "end": 0.560},
-    { "name": "Wellington Straight", "scale": 0, "start": 0.760, "end": 0.810}
+    { "name": "Hangar Straight","start": 0.235, "end": 0.355 },
+    { "name": "Hamilton Straight", "start": 0.515, "end": 0.560},
+    { "name": "Wellington Straight", "start": 0.760, "end": 0.810}
   ],
   "sector": [
     { "name": "1", "marker": 0.320 },
@@ -155,10 +155,10 @@ Every file is formatted as follows:
   "year": 2022,
   "turn": [
     { "name": "Copse", "marker": 0.042, "scale": 4, "direction": 1, "start": 0.024, "end": 0.045 },
-    { "name": "T2", "marker": 0.133, "scale": 5, "direction": 0 },
-    { "name": "Maggots", "marker": 0.151, "scale": 3, "direction": 1 },
-    { "name": "T4", "marker": 0.176, "scale": 3, "direction": 0 },
-    { "name": "Becketts", "marker": 0.201, "scale": 3, "direction": 1 },
+    { "name": "Maggots", "marker": 0.133, "scale": 5, "direction": 0, "start": 0.115, "end": 0.145 },
+    { "name": "Maggots", "marker": 0.151, "scale": 3, "direction": 1, "start": 0.145, "end": 0.161 },
+    { "name": "Becketts", "marker": 0.176, "scale": 3, "direction": 0, "start": 0.161, "end": 0.185 },
+    { "name": "Becketts", "marker": 0.201, "scale": 3, "direction": 1, "start": 0.185, "end": 0.210 },
     { "name": "Chapel", "marker": 0.229, "scale": 5, "direction": 0, "start": 0.210, "end": 0.238 },
     { "name": "Stowe", "marker": 0.377, "scale": 4, "direction": 1, "start": 0.350, "end": 0.385 },
     { "name": "Vale", "marker": 0.432, "scale": 1, "direction": 0, "start": 0.400, "end": 0.440 },
@@ -174,9 +174,9 @@ Every file is formatted as follows:
     { "name": "Woodcote", "marker": 0.949, "scale": 6, "direction": 1, "start": 0.930, "end": 0.960 }
   ],
   "straight": [
-    { "name": "Hangar Straight", "scale": 0, "start": 0.235, "end": 0.355 },
-    { "name": "Hamilton Straight", "scale": 0, "start": 0.515, "end": 0.560},
-    { "name": "Wellington Straight", "scale": 0, "start": 0.760, "end": 0.810}
+    { "name": "Hangar Straight", "start": 0.235, "end": 0.355 },
+    { "name": "Hamilton Straight", "start": 0.515, "end": 0.560},
+    { "name": "Wellington Straight", "start": 0.760, "end": 0.810}
   ],
   "sector": [
     { "name": "1", "marker": 0.320 },
