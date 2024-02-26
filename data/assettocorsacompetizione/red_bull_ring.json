@@ -2,6 +2,8 @@
   "name": "Red Bull Ring",
   "country": "AT",
   "length": 4318,
+  "pitentry": 0.893,
+  "pitexit": 0.124,
   "turn": [
     {
       "name": "Niki Lauda Kurve",
