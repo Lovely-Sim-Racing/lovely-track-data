@@ -2,61 +2,92 @@
   "name": "Valencia",
   "country": "ES",
   "length": 4005,
+  "year": 1999,
+  "pitentry": 0.931,
+  "pitexit": 0.122,
   "turn": [
     {
-      "name": "1",
+      "name": "Curva Aspar",
+      "start": 0.098,
+      "end": 0.173,
       "marker": 0.136
     },
     {
-      "name": "2",
+      "name": "Curva Doohan",
+      "start": 0.200,
+      "end": 0.258,
       "marker": 0.231
     },
     {
-      "name": "3",
+      "name": "T3",
+      "start": 0.263,
+      "end": 0.289,
       "marker": 0.275
     },
     {
-      "name": "4",
+      "name": "T4",
+      "start": 0.298,
+      "end": 0.334,
       "marker": 0.318
     },
     {
-      "name": "5",
+      "name": "T5",
+      "start": 0.339,
+      "end": 0.384,
       "marker": 0.36
     },
     {
-      "name": "6",
+      "name": "Curva Nieto",
+      "start": 0.405,
+      "end": 0.457,
       "marker": 0.434
     },
     {
-      "name": "7",
+      "name": "Curva Aficion",
+      "start": 0.494,
+      "end": 0.534,
       "marker": 0.518
     },
     {
-      "name": "8",
+      "name": "T8",
+      "start": 0.544,
+      "end": 0.595,
       "marker": 0.575
     },
     {
-      "name": "9",
+      "name": "T9",
+      "start": 0.603,
+      "end": 0.632,
       "marker": 0.62
     },
     {
-      "name": "10",
+      "name": "T10",
+      "start": 0.640,
+      "end": 0.658,
       "marker": 0.649
     },
     {
-      "name": "11",
+      "name": "T11",
+      "start": 0.660,
+      "end": 0.706,
       "marker": 0.683
     },
     {
-      "name": "12",
+      "name": "Curva Champi Herreros",
+      "start": 0.745,
+      "end": 0.785,
       "marker": 0.766
     },
     {
-      "name": "13",
+      "name": "T13",
+      "start": 0.798,
+      "end": 0.856,
       "marker": 0.819
     },
     {
-      "name": "14",
+      "name": "Curva A. Campos",
+      "start": 0.864,
+      "end": 0.925,
       "marker": 0.901
     }
   ],
