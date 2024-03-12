@@ -75,5 +75,13 @@
         }
       ]
     }
+  ],
+  "companion": [
+    {
+      "top": -165,
+      "left": -260,
+      "rotation": -95,
+      "scale": 1.7
+    }
   ]
 }
