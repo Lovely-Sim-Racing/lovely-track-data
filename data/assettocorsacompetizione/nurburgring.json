@@ -4,67 +4,67 @@
   "length": 5137,
   "turn": [
     {
-      "name": "1",
+      "name": "T1",
       "marker": 0.013
     },
     {
-      "name": "2",
+      "name": "T2",
       "marker": 0.016
     },
     {
-      "name": "3",
+      "name": "T3",
       "marker": 0.021
     },
     {
-      "name": "4",
+      "name": "T4",
       "marker": 0.235
     },
     {
-      "name": "5",
+      "name": "T5",
       "marker": 0.26
     },
     {
-      "name": "6",
+      "name": "T6",
       "marker": 0.32
     },
     {
-      "name": "7",
+      "name": "T7",
       "marker": 0.36
     },
     {
-      "name": "8",
+      "name": "T8",
       "marker": 0.48
     },
     {
-      "name": "9",
+      "name": "T9",
       "marker": 0.55
     },
     {
-      "name": "10",
+      "name": "T10",
       "marker": 0.58
     },
     {
-      "name": "11",
+      "name": "T11",
       "marker": 0.665
     },
     {
-      "name": "12",
+      "name": "T12",
       "marker": 0.705
     },
     {
-      "name": "13",
+      "name": "T13",
       "marker": 0.8
     },
     {
-      "name": "14",
+      "name": "T14",
       "marker": 0.88
     },
     {
-      "name": "15",
+      "name": "T15",
       "marker": 0.9
     },
     {
-      "name": "16",
+      "name": "T16",
       "marker": 0.943
     }
   ],
@@ -86,12 +86,8 @@
     {
       "gt3": [
         {
-          "name": "sg30",
-          "time": 78
-        },
-        {
-          "name": "dt",
-          "time": 43
+          "sg30": 78,
+          "dt": 43
         }
       ]
     }
