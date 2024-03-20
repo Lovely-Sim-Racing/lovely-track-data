@@ -59,5 +59,13 @@
         }
       ]
     }
+  ],
+  "companion": [
+    {
+      "top": 10,
+      "left": 51,
+      "rotation": 0,
+      "scale": 0.9
+    }
   ]
 }
