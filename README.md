@@ -52,7 +52,7 @@ Every file is formatted as follows:
   # class       (String) - The car class (sim dependant)
     # name      (String) - Name of the time delay
     # time      (Int)    - Time delay in seconds
-# companion              - Optimal display of the Track Map on the Lovely Dashboard Companion
+# companion              - (OPTIONAL) Optimal display of the Track Map on the Lovely Dashboard Companion
   # top         (Int)    - Distance to top
   # left        (Int)    - Distance to left
   # rotation    (Int)    - Rotation
