@@ -103,5 +103,13 @@
         }
       ]
     }
+  ],
+  "companion": [
+    {
+      "top": -10,
+      "left": 15,
+      "rotation": 30,
+      "scale": 1
+    }
   ]
 }
