@@ -146,7 +146,13 @@ Every file is formatted as follows:
       { "name": "sg30", "time": 72 },
       { "name": "dt", "time": 37 }
     ]}
-  ]
+  ],
+  "companion": [{
+      "top": -140,
+      "left": -270,
+      "rotation": -95,
+      "scale": 1.7
+  }]
 }
 
 ```
