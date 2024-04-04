@@ -106,8 +106,8 @@
   ],
   "companion": [
     {
-      "top": -200,
-      "left": -345,
+      "top": 15,
+      "left": -40,
       "rotation": 195,
       "scale": 1.1
     }
