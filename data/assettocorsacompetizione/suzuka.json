@@ -4,39 +4,39 @@
   "length": 5807,
   "turn": [
     {
-      "name": "1",
+      "name": "First Corner",
       "marker": 0.071
     },
     {
-      "name": "2",
+      "name": "First Corner",
       "marker": 0.098
     },
     {
-      "name": "3",
+      "name": "Snake",
       "marker": 0.142
     },
     {
-      "name": "4",
+      "name": "Snake",
       "marker": 0.16
     },
     {
-      "name": "5",
+      "name": "Snake",
       "marker": 0.189
     },
     {
-      "name": "6",
+      "name": "Anti-Banked Curve",
       "marker": 0.219
     },
     {
-      "name": "7",
+      "name": "Dunlop",
       "marker": 0.253
     },
     {
-      "name": "8",
+      "name": "Degner 1",
       "marker": 0.344
     },
     {
-      "name": "9",
+      "name": "Degner 2",
       "marker": 0.372
     },
     {
@@ -44,35 +44,35 @@
       "marker": 0.429
     },
     {
-      "name": "11",
+      "name": "Hairpin",
       "marker": 0.452
     },
     {
-      "name": "12",
+      "name": "200R",
       "marker": 0.496
     },
     {
-      "name": "13",
+      "name": "Spoon",
       "marker": 0.604
     },
     {
-      "name": "14",
+      "name": "Spoon",
       "marker": 0.638
     },
     {
-      "name": "15",
+      "name": "130R",
       "marker": 0.809
     },
     {
-      "name": "16",
+      "name": "Casino Triangle",
       "marker": 0.88
     },
     {
-      "name": "17",
+      "name": "Casino Triangle",
       "marker": 0.889
     },
     {
-      "name": "18",
+      "name": "Last Curve",
       "marker": 0.911
     }
   ],
