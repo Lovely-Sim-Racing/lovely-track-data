@@ -1,0 +1,35 @@
+{
+
+    "name": "Monaco",
+    "country": "Monaco",
+    "year": 2015,
+    "length": 3323,
+    "pitentry": 0.8871,
+    "pitexit": 0.0797,
+    "sector": [
+      { "marker": 0.3195, "name": "1" },
+      { "marker": 0.7442, "name": "2" },
+      { "marker": 0.1, "name": "3" }
+    ],
+      "turn": [
+      { "start": 0.0905, "marker": 0.0663, "end": 0.0711, "direction": 1, "scale": 6, "name": "T1" },
+      { "start": 0.1513, "marker": 0.1559, "end": 0.1606, "direction": 0, "scale": 2, "name": "T2" },
+      { "start": 0.2036, "marker": 0.2318, "end": 0.2540, "direction": 1, "scale": 2, "name": "T3" },
+      { "start": 0.2665, "marker": 0.2690, "end": 0.2836, "direction": 0, "scale": 3, "name": "T4" },
+      { "start": 0.3359, "marker": 0.3427, "end": 0.3526, "direction": 0, "scale": 3, "name": "T5" },
+      { "start": 0.3741, "marker": 0.3817, "end": 0.3874, "direction": 1, "scale": 3, "name": "T6" },
+      { "start": 0.4015, "marker": 0.4062, "end": 0.4110, "direction": 0, "scale": 2, "name": "T7" },
+      { "start": 0.4298, "marker": 0.4333, "end": 0.4378, "direction": 1, "scale": 6, "name": "T8" },
+      { "start": 0.5047, "marker": 0.5267, "end": 0.5438, "direction": 0, "scale": 3, "name": "T9" },
+      { "start": 0.6300, "marker": 0.6322, "end": 0.6350, "direction": 0, "scale": 4, "name": "T10" },
+      { "start": 0.6350, "marker": 0.6377, "end": 0.6511, "direction": 1, "scale": 3, "name": "T11" },
+      { "start": 0.7142, "marker": 0.7176, "end": 0.7350, "direction": 1, "scale": 2, "name": "T12" },
+      { "start": 0.7611, "marker": 0.7634, "end": 0.7690, "direction": 0, "scale": 3, "name": "T13" },
+      { "start": 0.7690, "marker": 0.7766, "end": 0.7845, "direction": 1, "scale": 1, "name": "T14" },
+      { "start": 0.8080, "marker": 0.8115, "end": 0.8173, "direction": 0, "scale": 1, "name": "T15" },
+      { "start": 0.8173, "marker": 0.8237, "end": 0.8318, "direction": 1, "scale": 6, "name": "T16" },
+      { "start": 0.8753, "marker": 0.8830, "end": 0.8847, "direction": 0, "scale": 3, "name": "T17" },
+      { "start": 0.8943, "marker": 0.9086, "end": 0.9121, "direction": 0, "scale": 3, "name": "T18" },
+      { "start": 0.9121, "marker": 0.9165, "end": 0.9208, "direction": 1, "scale": 5, "name": "T19" }  
+    ]
+}
