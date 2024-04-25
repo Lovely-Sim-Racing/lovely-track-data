@@ -8,10 +8,10 @@
     "sector": [
       { "marker": 0.3195, "name": "1" },
       { "marker": 0.7442, "name": "2" },
-      { "marker": 0.1, "name": "3" }
+      { "marker": 1.0000, "name": "3" }
     ],
     "turn": [
-      { "start": 0.0905, "marker": 0.0663, "end": 0.0711, "direction": 1, "scale": 2, "name": "Sainte Devote" },
+      { "start": 0.0605, "marker": 0.0663, "end": 0.0711, "direction": 1, "scale": 2, "name": "Sainte Devote" },
       { "start": 0.1513, "marker": 0.1559, "end": 0.1606, "direction": 0, "scale": 5, "name": "Beau Rivage" },
       { "start": 0.2036, "marker": 0.2318, "end": 0.2540, "direction": 0, "scale": 3, "name": "Massenet" },
       { "start": 0.2665, "marker": 0.2690, "end": 0.2836, "direction": 1, "scale": 3, "name": "Casino" },
