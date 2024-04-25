@@ -1,0 +1,34 @@
+{
+    "name": "Imola",
+    "country": "Italy",
+    "year": 2021,
+    "length": 4910,
+    "pitentry": 0.9509,
+    "pitexit": 0.1395,
+    "sector": [
+      { "marker": 0.3670, "name": "1" },
+      { "marker": 0.6904, "name": "2" },
+      { "marker": 1.0000, "name": "3" }
+    ],
+    "turn": [
+      { "start": 0.0497, "marker": 0.0536, "end": 0.0575, "direction": 1, "scale": 6, "name": "T1" },
+      { "start": 0.1840, "marker": 0.1870, "end": 0.1903, "direction": 0, "scale": 2, "name": "Variante Tamburello" },
+      { "start": 0.1963, "marker": 0.1990, "end": 0.2035, "direction": 1, "scale": 2, "name": "Variante Tamburello" },
+      { "start": 0.2229, "marker": 0.2258, "end": 0.2316, "direction": 0, "scale": 3, "name": "Variante Tamburello" },
+      { "start": 0.3140, "marker": 0.3172, "end": 0.3201, "direction": 0, "scale": 3, "name": "Variante Villeneuve" },
+      { "start": 0.3310, "marker": 0.3338, "end": 0.3376, "direction": 1, "scale": 3, "name": "Variante Villeneuve" },
+      { "start": 0.3811, "marker": 0.3967, "end": 0.4043, "direction": 0, "scale": 2, "name": "Tosa" },
+      { "start": 0.4710, "marker": 0.4861, "end": 0.4883, "direction": 1, "scale": 6, "name": "T8" },
+      { "start": 0.5135, "marker": 0.5199, "end": 0.5275, "direction": 0, "scale": 3, "name": "Piratella" },
+      { "start": 0.5429, "marker": 0.5604, "end": 0.5644, "direction": 0, "scale": 4, "name": "T10" },
+      { "start": 0.6002, "marker": 0.6027, "end": 0.6065, "direction": 1, "scale": 3, "name": "Acque Minerali" },
+      { "start": 0.6237, "marker": 0.6266, "end": 0.6291, "direction": 1, "scale": 2, "name": "T12" },
+      { "start": 0.6356, "marker": 0.6385, "end": 0.6434, "direction": 0, "scale": 3, "name": "T13" },
+      { "start": 0.7259, "marker": 0.7290, "end": 0.7313, "direction": 1, "scale": 1, "name": "Variante Alta" },
+      { "start": 0.7331, "marker": 0.7368, "end": 0.7383, "direction": 0, "scale": 1, "name": "Variante Alta" },
+      { "start": 0.8441, "marker": 0.8539, "end": 0.8593, "direction": 1, "scale": 6, "name": "T16" },
+      { "start": 0.8850, "marker": 0.8889, "end": 0.8935, "direction": 0, "scale": 3, "name": "Rivazza" },
+      { "start": 0.9097, "marker": 0.9156, "end": 0.9209, "direction": 0, "scale": 3, "name": "Rivazza" },
+      { "start": 0.9720, "marker": 0.9848, "end": 0.9948, "direction": 1, "scale": 5, "name": "Variante Bassa" }
+      ]
+}
