@@ -8,7 +8,7 @@
     "sector": [
       { "marker": 0.3670, "name": "1" },
       { "marker": 0.6904, "name": "2" },
-      { "marker": 0.1, "name": "3" }
+      { "marker": 1.0000, "name": "3" }
     ],
     "turn": [
       { "start": 0.0497, "marker": 0.0536, "end": 0.0575, "direction": 1, "scale": 6, "name": "T1" },
