@@ -2,6 +2,8 @@
   "name": "Zolder",
   "country": "BE",
   "length": 4010,
+  "pitEntry": 0.904,
+  "pitExit": 0.131,
   "turn": [
     {
       "name": "1",
