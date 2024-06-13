@@ -85,5 +85,27 @@
 			"marker": 1.0,
 			"name": "5"
 		}
+	],
+	"time": [
+		{
+			"gt3": [
+				{
+					"name": "sg30",
+					"time": 78
+				},
+				{
+					"name": "dt",
+					"time": 43
+				}
+			]
+		}
+	],
+	"companion": [
+		{
+			"top": -180,
+			"left": -330,
+			"rotation": -89,
+			"scale": 1.8
+		}
 	]
 }
