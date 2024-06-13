@@ -2,8 +2,8 @@
   "name": "Snetterton 300 Circuit",
   "country": "UK",
   "length": 4740,
-  "pitentry": 0.940,
-  "pitexit": 0.020,
+  "pitentry": 0.971,
+  "pitexit": 0.065,
   "turn": [
 	{"start": 0.046, "end": 0.077, "name": "La Source"},
     {"start": 0.138, "end": 0.155, "name": "Eau Rouge"},
