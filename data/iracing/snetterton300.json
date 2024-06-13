@@ -1,0 +1,30 @@
+{
+  "name": "Snetterton 300 Circuit",
+  "country": "UK",
+  "length": 4740,
+  "pitentry": 0.940,
+  "pitexit": 0.020,
+  "turn": [
+    {"start": 0.049, "end": 0.118, "name": "Riches"},
+	{"start": 0.150, "end": 0.189, "name": "Wilson"},
+	{"start": 0.221, "end": 0.271, "name": "Palmer"},
+	{"start": 0.325, "end": 0.377, "name": "Agostini"},
+	{"start": 0.404, "end": 0.440, "name": "Hamilton"},
+	{"start": 0.456, "end": 0.492, "name": "Oggies"},
+	{"start": 0.504, "end": 0.549, "name": "Williams"},
+	{"start": 0.675, "end": 0.741, "name": "Brundle"},
+	{"start": 0.755, "end": 0.796, "name": "Bomb Hole"},
+	{"start": 0.808, "end": 0.890, "name": "Coram"},
+	{"start": 0.891, "end": 0.913, "name": "Murrays"}
+  ],
+  "straight": [
+	{"start": 0.000, "marker": 0.022, "end": 0.044, "name": "Senna Straight"},
+	{"start": 0.550, "marker": 0.600, "end": 0.674, "name": "Bentley Straight"},
+	{"start": 0.950, "marker": 0.970, "end": 1.000, "name": "Senna Straight"}
+  ],
+  "sector": [
+    {"marker": 0.321,"name": "1"},
+    {"marker": 0.662,"name": "2"},
+    {"marker": 1.000,"name": "3"}
+  ]
+}
