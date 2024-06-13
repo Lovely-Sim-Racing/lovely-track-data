@@ -31,7 +31,7 @@
       "name": "Inner Loop",
       "marker": 0.366,
       "start": 0.335,
-      "end": 0.390
+      "end": 0.39
     },
     {
       "name": "Outer Loop",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Chute",
-      "marker": 0.520,
+      "marker": 0.52,
       "start": 0.497,
       "end": 0.546
     },
