@@ -1,0 +1,34 @@
+{
+  "name": "Snetterton 300 Circuit",
+  "country": "UK",
+  "length": 4740,
+  "pitentry": 0.940,
+  "pitexit": 0.020,
+  "turn": [
+	{"start": 0.046, "end": 0.077, "name": "La Source"},
+    {"start": 0.138, "end": 0.155, "name": "Eau Rouge"},
+	{"start": 0.156, "end": 0.190, "name": "Raidillon"},
+	{"start": 0.216, "end": 0.239, "name": "Kemmel"},
+	{"start": 0.328, "end": 0.365, "name": "Les Combes"},
+	{"start": 0.371, "end": 0.400, "name": "Malmedy"},
+	{"start": 0.420, "end": 0.454, "name": "Bruxelles"},
+	{"start": 0.462, "end": 0.490, "name": "Speaker's Corner"},
+	{"start": 0.532, "end": 0.605, "name": "Double Gauche"},
+	{"start": 0.630, "end": 0.680, "name": "Les Fagnes"},
+	{"start": 0.693, "end": 0.718, "name": "Campus"},
+	{"start": 0.727, "end": 0.754, "name": "Stavelot"},
+	{"start": 0.766, "end": 0.811, "name": "Courbe Paul Frere"},
+	{"start": 0.869, "end": 0.906, "name": "Blanchimont"},
+	{"start": 0.953, "end": 0.986, "name": "Chicane"}
+  ],
+  "straight": [
+	{"start": 0.240, "marker": 0.280, "end": 0.320, "name": "Kemmel Straight"}
+  ],
+  "sector": [
+    {"marker": 0.310,"name": "1"},
+    {"marker": 0.522,"name": "2"},
+	{"marker": 0.693,"name": "3"},
+	{"marker": 0.931,"name": "4"},
+    {"marker": 1.000,"name": "5"}
+  ]
+}
