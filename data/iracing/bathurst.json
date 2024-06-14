@@ -1,0 +1,120 @@
+{
+  "name": "Mount Panorama Circuit",
+  "country": "AU",
+  "length": 6140,
+  "pitentry": 0.95,
+  "pitexit": 0.072,
+  "turn": [
+    {
+      "start": 0.046,
+      "end": 0.075,
+      "name": "Hell Corner"
+    },
+    {
+      "start": 0.22,
+      "end": 0.267,
+      "name": "Quarry Bend"
+    },
+    {
+      "start": 0.3,
+      "end": 0.33,
+      "name": "The Cutting"
+    },
+    {
+      "start": 0.334,
+      "end": 0.356,
+      "name": "Griffin's Mount"
+    },
+    {
+      "start": 0.365,
+      "end": 0.384,
+      "name": "Reid Park"
+    },
+    {
+      "start": 0.39,
+      "end": 0.458,
+      "name": "Sulman Park"
+    },
+    {
+      "start": 0.463,
+      "end": 0.507,
+      "name": "McPhillamy Park"
+    },
+    {
+      "start": 0.517,
+      "end": 0.55,
+      "name": "Skyline"
+    },
+    {
+      "start": 0.551,
+      "end": 0.599,
+      "name": "The Esses"
+    },
+    {
+      "start": 0.6,
+      "end": 0.614,
+      "name": "The Dipper"
+    },
+    {
+      "start": 0.616,
+      "end": 0.67,
+      "name": "Forest's Elbow"
+    },
+    {
+      "start": 0.87,
+      "end": 0.926,
+      "name": "The Chase"
+    },
+    {
+      "start": 0.965,
+      "end": 0.993,
+      "name": "Murray's Corner"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.0,
+      "marker": 0.022,
+      "end": 0.045,
+      "name": "Pit Straight"
+    },
+    {
+      "start": 0.076,
+      "marker": 0.14,
+      "end": 0.219,
+      "name": "Mountain Straight"
+    },
+    {
+      "start": 0.67,
+      "marker": 0.75,
+      "end": 0.82,
+      "name": "Conrod Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.182,
+      "name": "1"
+    },
+    {
+      "marker": 0.36,
+      "name": "2"
+    },
+    {
+      "marker": 0.521,
+      "name": "3"
+    },
+    {
+      "marker": 0.594,
+      "name": "4"
+    },
+    {
+      "marker": 0.629,
+      "name": "5"
+    },
+    {
+      "marker": 1.0,
+      "name": "6"
+    }
+  ]
+}
