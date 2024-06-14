@@ -14,7 +14,7 @@
     },
     {
       "name": "Curva Doohan",
-      "start": 0.200,
+      "start": 0.2,
       "end": 0.258,
       "marker": 0.231
     },
@@ -62,13 +62,13 @@
     },
     {
       "name": "T10",
-      "start": 0.640,
+      "start": 0.64,
       "end": 0.658,
       "marker": 0.649
     },
     {
       "name": "T11",
-      "start": 0.660,
+      "start": 0.66,
       "end": 0.706,
       "marker": 0.683
     },
@@ -121,7 +121,7 @@
   ],
   "companion": [
     {
-      "top": -140, 
+      "top": -140,
       "left": -265,
       "rotation": 35,
       "scale": 1.7
