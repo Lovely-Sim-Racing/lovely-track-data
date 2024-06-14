@@ -14,7 +14,7 @@
 	{"start": 0.635, "end": 0.665, "name": "T11"},
 	{"start": 0.710, "end": 0.750, "name": "T12"},
 	{"start": 0.878, "end": 0.899, "name": "T13"},
-	{"start": 0.900, "end": 0.922, "name": "T14 - Wall of Champions"},
+	{"start": 0.900, "end": 0.922, "name": "T14 - Wall of Champions"}
   ],
   "straight": [
 	{"start": 0.751, "marker": 0.810, "end": 0.872, "name": "Droit du Casino"}
