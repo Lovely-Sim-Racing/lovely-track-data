@@ -5,23 +5,77 @@
   "pitentry": 0.896,
   "pitexit": 0.073,
   "turn": [
-    {"start": 0.037, "end": 0.100, "name": "Virage Senna"},
-	{"start": 0.145, "end": 0.195, "name": "T3/T4"},
-	{"start": 0.206, "end": 0.251, "name": "T5"},
-	{"start": 0.273, "end": 0.330, "name": "T6/T7"},
-	{"start": 0.440, "end": 0.500, "name": "T8/T9"},
-	{"start": 0.595, "end": 0.634, "name": "L'Epingle"},
-	{"start": 0.635, "end": 0.665, "name": "T11"},
-	{"start": 0.710, "end": 0.750, "name": "T12"},
-	{"start": 0.878, "end": 0.899, "name": "T13"},
-	{"start": 0.900, "end": 0.922, "name": "T14 - Wall of Champions"}
+    {
+      "start": 0.037,
+      "end": 0.1,
+      "name": "Virage Senna"
+    },
+    {
+      "start": 0.145,
+      "end": 0.195,
+      "name": "T3/T4"
+    },
+    {
+      "start": 0.206,
+      "end": 0.251,
+      "name": "T5"
+    },
+    {
+      "start": 0.273,
+      "end": 0.33,
+      "name": "T6/T7"
+    },
+    {
+      "start": 0.44,
+      "end": 0.5,
+      "name": "T8/T9"
+    },
+    {
+      "start": 0.595,
+      "end": 0.634,
+      "name": "L'Epingle"
+    },
+    {
+      "start": 0.635,
+      "end": 0.665,
+      "name": "T11"
+    },
+    {
+      "start": 0.71,
+      "end": 0.75,
+      "name": "T12"
+    },
+    {
+      "start": 0.878,
+      "end": 0.899,
+      "name": "T13"
+    },
+    {
+      "start": 0.9,
+      "end": 0.922,
+      "name": "T14 - Wall of Champions"
+    }
   ],
   "straight": [
-	{"start": 0.751, "marker": 0.810, "end": 0.872, "name": "Droit du Casino"}
+    {
+      "start": 0.751,
+      "marker": 0.81,
+      "end": 0.872,
+      "name": "Droit du Casino"
+    }
   ],
   "sector": [
-    {"marker": 0.253,"name": "1"},
-    {"marker": 0.554,"name": "2"},
-    {"marker": 1.000,"name": "3"}
+    {
+      "marker": 0.253,
+      "name": "1"
+    },
+    {
+      "marker": 0.554,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
   ]
 }
