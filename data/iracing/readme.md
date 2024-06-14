@@ -12,7 +12,7 @@
 | Autodromo Internazionale del Mugello         | Short                            | Mugello Short                    | 2        |        |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Grand Prix                       | Imola Grand Prix                 | 1        | done       |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Moto                             | Imola Moto                       | 2        |        |         |
-| Autódromo José Carlos Pace                   | Grand Prix                       | Interlagos Grand Prix            | 1        |        |         |
+| Autódromo José Carlos Pace                   | Grand Prix                       | Interlagos Grand Prix            | 1        | done   |         |
 | Autódromo José Carlos Pace                   | Moto                             | Interlagos Moto                  | 2        |        |         |
 | Autodromo Nazionale Monza                    | Combined                         | Monza Combined                   | 3        |        |         |
 | Autodromo Nazionale Monza                    | Combined without chicanes        | Monza Combined no Chicanes       | 3        |        |         |
@@ -47,7 +47,7 @@
 | Circuit de Spa-Francorchamps                 | Grand Prix Pits                  | Spa GP Pits                      | 1        | done       |         |
 | Circuit des 24 Heures du Mans                | 24 Heures du Mans                | LeMans 24 Heures                 | 1        |        |         |
 | Circuit des 24 Heures du Mans                | Historic                         | LeMans Historic                  | 1        |        |         |
-| Circuit Gilles Villeneuve                    |                              | Circuit Gilles Villeneuve        | 1        |        |         |
+| Circuit Gilles Villeneuve                    |                              | Circuit Gilles Villeneuve        | 1        | done       |         |
 | Circuit of the Americas                      | East                             | COTA East                        | 3        |        |         |
 | Circuit of the Americas                      | Grand Prix                       | COTA Grand Prix                  | 1        |        |         |
 | Circuit of the Americas                      | West                             | COTA West                        | 3        |        |         |

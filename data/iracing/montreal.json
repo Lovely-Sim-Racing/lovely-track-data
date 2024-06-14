@@ -1,0 +1,27 @@
+{
+  "name": "Circuit Gilles Villeneuve",
+  "country": "CA",
+  "length": 4310,
+  "pitentry": 0.896,
+  "pitexit": 0.073,
+  "turn": [
+    {"start": 0.037, "end": 0.100, "name": "Virage Senna"},
+	{"start": 0.145, "end": 0.195, "name": "T3/T4"},
+	{"start": 0.206, "end": 0.251, "name": "T5"},
+	{"start": 0.273, "end": 0.330, "name": "T6/T7"},
+	{"start": 0.440, "end": 0.500, "name": "T8/T9"},
+	{"start": 0.595, "end": 0.634, "name": "L'Epingle"},
+	{"start": 0.635, "end": 0.665, "name": "T11"},
+	{"start": 0.710, "end": 0.750, "name": "T12"},
+	{"start": 0.878, "end": 0.899, "name": "T13"},
+	{"start": 0.900, "end": 0.922, "name": "T14 - Wall of Champions"},
+  ],
+  "straight": [
+	{"start": 0.751, "marker": 0.810, "end": 0.872, "name": "Droit du Casino"}
+  ],
+  "sector": [
+    {"marker": 0.253,"name": "1"},
+    {"marker": 0.554,"name": "2"},
+    {"marker": 1.000,"name": "3"}
+  ]
+}
