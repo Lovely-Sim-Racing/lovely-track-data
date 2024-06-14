@@ -2,7 +2,7 @@
   "name": "Silverstone",
   "country": "GB",
   "length": 5890,
-  "pitentry": 0.970,
+  "pitentry": 0.97,
   "pitexit": 0.029,
   "turn": [
     {
@@ -42,8 +42,8 @@
       "marker": 0.201,
       "scale": 3,
       "direction": 1,
-      "start": 0.185, 
-      "end": 0.210
+      "start": 0.185,
+      "end": 0.21
     },
     {
       "name": "Chapel",

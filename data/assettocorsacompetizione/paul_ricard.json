@@ -7,18 +7,18 @@
       "name": "S de la Verrerie",
       "marker": 0.1,
       "start": 0.98,
-      "end": 0.120
+      "end": 0.12
     },
     {
       "name": "S de la Verrerie",
       "marker": 0.133,
-      "start": 0.120,
-      "end": 0.150
+      "start": 0.12,
+      "end": 0.15
     },
     {
       "name": "Virage de L'Hotel",
       "marker": 0.228,
-      "start": 0.210,
+      "start": 0.21,
       "end": 0.234
     },
     {
@@ -28,8 +28,8 @@
     {
       "name": "Virage du Camp",
       "marker": 0.263,
-      "start": 0.250,
-      "end": 0.270
+      "start": 0.25,
+      "end": 0.27
     },
     {
       "name": "6",
@@ -38,7 +38,7 @@
     {
       "name": "Virage de la Sainte-Beaume",
       "marker": 0.327,
-      "start": 0.310,
+      "start": 0.31,
       "end": 0.347
     },
     {
@@ -51,12 +51,12 @@
       "name": "Double Droite De Beausset",
       "marker": 0.758,
       "start": 0.722,
-      "end": 0.800
+      "end": 0.8
     },
     {
       "name": "Virage de Bendor",
       "marker": 0.826,
-      "start": 0.810,
+      "start": 0.81,
       "end": 0.846
     },
     {
@@ -68,7 +68,7 @@
     {
       "name": "Virage de la Tour",
       "marker": 0.913,
-      "start": 0.900,
+      "start": 0.9,
       "end": 0.934
     },
     {
@@ -81,8 +81,8 @@
   "straight": [
     {
       "name": "Ligne Droit du Mistral",
-      "start": 0.350,
-      "end": 0.640
+      "start": 0.35,
+      "end": 0.64
     }
   ],
   "sector": [

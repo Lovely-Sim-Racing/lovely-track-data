@@ -17,19 +17,19 @@
     },
     {
       "name": "Valvoline Curve",
-      "start": 0.040,
+      "start": 0.04,
       "marker": 0.046,
       "end": 0.049
     },
     {
       "name": "Ford Curve",
-      "start": 0.050,
+      "start": 0.05,
       "marker": 0.053,
       "end": 0.058
     },
     {
       "name": "Dunlop Hairpin",
-      "start": 0.070,
+      "start": 0.07,
       "marker": 0.077,
       "end": 0.082
     },
@@ -67,11 +67,11 @@
       "name": "NGK Chicane",
       "start": 0.152,
       "marker": 0.158,
-      "end": 0.160
+      "end": 0.16
     },
     {
       "name": "NGK Chicane",
-      "start": 0.160,
+      "start": 0.16,
       "marker": 0.162,
       "end": 0.165
     },
@@ -102,13 +102,13 @@
     {
       "name": "Hatzenbach",
       "start": 0.197,
-      "marker": 0.210,
+      "marker": 0.21,
       "end": 0.222
     },
     {
       "name": "Hoheichen",
       "start": 0.224,
-      "marker": 0.210,
+      "marker": 0.21,
       "end": 0.235
     },
     {
@@ -126,7 +126,7 @@
     {
       "name": "Kotenborn",
       "start": 0.285,
-      "marker": 0.290,
+      "marker": 0.29,
       "end": 0.295
     },
     {
@@ -144,7 +144,7 @@
     {
       "name": "Fuchsrohre / Foxhole",
       "start": 0.337,
-      "marker": 0.350,
+      "marker": 0.35,
       "end": 0.362
     },
     {
@@ -175,7 +175,7 @@
       "name": "Spiegelkurve",
       "start": 0.433,
       "marker": 0.436,
-      "end": 0.440
+      "end": 0.44
     },
     {
       "name": "Miss Hit Miss",
@@ -228,7 +228,7 @@
     {
       "name": "Mutkurve",
       "start": 0.594,
-      "marker": 0.600,
+      "marker": 0.6,
       "end": 0.603
     },
     {
@@ -241,7 +241,7 @@
       "name": "Karussell",
       "start": 0.639,
       "marker": 0.645,
-      "end": 0.650
+      "end": 0.65
     },
     {
       "name": "Hohe Acht",
@@ -263,7 +263,7 @@
     },
     {
       "name": "Eschbach",
-      "start": 0.710,
+      "start": 0.71,
       "marker": 0.719,
       "end": 0.728
     },
@@ -276,13 +276,13 @@
     {
       "name": "Eiskurve",
       "start": 0.747,
-      "marker": 0.750,
+      "marker": 0.75,
       "end": 0.754
     },
     {
       "name": "Eiskurve",
       "start": 0.747,
-      "marker": 0.750,
+      "marker": 0.75,
       "end": 0.754
     },
     {
@@ -318,8 +318,8 @@
     {
       "name": "Galgenkopf",
       "start": 0.848,
-      "marker": 0.860,
-      "end": 0.870
+      "marker": 0.86,
+      "end": 0.87
     },
     {
       "name": "Antoniusbuche",

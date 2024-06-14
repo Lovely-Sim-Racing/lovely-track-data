@@ -3,7 +3,7 @@
   "country": "US",
   "length": 5954,
   "pitentry": 0.962,
-  "pitexit": 0.080,
+  "pitexit": 0.08,
   "turn": [
     {
       "name": "Turn One",
@@ -20,7 +20,7 @@
     {
       "name": "T3",
       "start": 0.152,
-      "end": 0.170,
+      "end": 0.17,
       "marker": 0.164
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "name": "T12",
-      "start": 0.530,
+      "start": 0.53,
       "end": 0.548,
       "marker": 0.539
     },
@@ -85,13 +85,13 @@
     },
     {
       "name": "Bishop Bend",
-      "start": 0.620,
+      "start": 0.62,
       "end": 0.675,
       "marker": 0.638
     },
     {
       "name": "Gendebien Bend",
-      "start": 0.680,
+      "start": 0.68,
       "end": 0.707,
       "marker": 0.698
     },
@@ -105,7 +105,7 @@
       "name": "Sunset Bend",
       "start": 0.881,
       "end": 0.972,
-      "marker": 0.930
+      "marker": 0.93
     }
   ],
   "straight": [
@@ -118,8 +118,8 @@
     {
       "name": "Ulmann Straight",
       "start": 0.754,
-      "end": 0.880,
-      "marker": 0.820
+      "end": 0.88,
+      "marker": 0.82
     }
   ],
   "sector": [
