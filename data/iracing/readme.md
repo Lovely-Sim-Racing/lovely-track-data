@@ -1,6 +1,6 @@
 | **Track**                                    | **Config**                       | **Short Name**                   | **Prio** | **Status** | **Comment** |
 |----------------------------------------------|----------------------------------|----------------------------------|----------|------------|-------------|
-| Algarve International Circuit                | Grand Prix                       | Algarve - Grand Prix             | 1        |        |         |
+| Algarve International Circuit                | Grand Prix                       | Algarve - Grand Prix             | 1        | done       |         |
 | Algarve International Circuit                | Grand Prix - Chicanes            | Algarve - Grand Prix - Chicanes  | 2        |        |         |
 | Algarve International Circuit                | Moto                             | Algarve - Moto                   | 3        |        |         |
 | Algarve International Circuit                | Moto - Chicanes                  | Algarve - Moto - Chicanes        | 3        |        |         |
