@@ -24,7 +24,7 @@
 | Barber Motorsports Park                      | Full Course                      | Barber Full                      | 2        |        |         |
 | Barber Motorsports Park                      | Short A                          | Barber Short A                   | 2        |        |         |
 | Barber Motorsports Park                      | Short B                          | Barber Short B                   | 2        |        |         |
-| Brands Hatch Circuit                         | Grand Prix                       | Brands Hatch Grand Prix          | 1        | done       |         |
+| Brands Hatch Circuit                         | Grand Prix                       | Brands Hatch Grand Prix          | 1        | done      |         |
 | Brands Hatch Circuit                         | Indy                             | Brands Hatch Indy                | 2        |        |         |
 | Canadian Tire Motorsports Park               |                              | Mosport                          | 1        |        |         |
 | Charlotte Motor Speedway                     | Legends RC Long - 2018           | Legends RC Long - 2018           | 3        |        |         |
@@ -156,7 +156,7 @@
 | Nürburgring Grand-Prix-Strecke               | Sprintstrecke                    | Sprintstrecke                    | 2        |        |         |
 | Nürburgring Nordschleife                     | Industriefahrten                 | Industriefahrten                 | 1        |        |         |
 | Nürburgring Nordschleife                     | Touristenfahrten                 | Touristenfahrten                 | 1        | done       |         |
-| Okayama International Circuit                | Full Course                      | Okayama Full                     | 1        |        |         |
+| Okayama International Circuit                | Full Course                      | Okayama Full                     | 1        | done       |         |
 | Okayama International Circuit                | Short                            | Okayama Short                    | 3        |        |         |
 | Oran Park Raceway                            | Grand Prix                       | Oran Park Grand Prix             | 1        |        |         |
 | Oran Park Raceway                            | Moto                             | Oran Park Moto                   | 3        |        |         |
