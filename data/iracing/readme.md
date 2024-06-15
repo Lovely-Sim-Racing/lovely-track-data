@@ -19,7 +19,7 @@
 | Autodromo Nazionale Monza                    | Combined without first chicane   | Monza Combined no First Chicane  | 3        |        |         |
 | Autodromo Nazionale Monza                    | GP without chicanes              | Monza GP no Chicanes             | 3        |        |         |
 | Autodromo Nazionale Monza                    | GP without first chicane         | Monza GP No First Chicane        | 3        |        |         |
-| Autodromo Nazionale Monza                    | Grand Prix                       | Monza Grand Prix                 | 1        | done       | x           |
+| Autodromo Nazionale Monza                    | Grand Prix                       | Monza Grand Prix                 | 1        | done       |            |
 | Autodromo Nazionale Monza                    | Junior                           | Monza Junior                     | 2        |        |         |
 | Barber Motorsports Park                      | Full Course                      | Barber Full                      | 2        |        |         |
 | Barber Motorsports Park                      | Short A                          | Barber Short A                   | 2        |        |         |

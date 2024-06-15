@@ -1,73 +1,67 @@
 {
   "name": "Monza Full",
   "country": "IT",
-  "length": 5793,
+  "length": 5750,
+  "pitentry": 0.94,
+  "pitexit": 0.061,
   "turn": [
     {
-      "name": "T1",
-      "marker": 0.162
+      "start": 0.143,
+      "end": 0.206,
+      "name": "Prima Variante"
     },
     {
-      "name": "T2",
-      "marker": 0.169
+      "start": 0.218,
+      "end": 0.32,
+      "name": "Curva Biassono"
     },
     {
-      "name": "T3",
-      "marker": 0.268
+      "start": 0.35,
+      "end": 0.392,
+      "name": "Seconda Variante"
     },
     {
-      "name": "T4",
-      "marker": 0.371
+      "start": 0.423,
+      "end": 0.467,
+      "name": "Prima Curva di Lesmo"
     },
     {
-      "name": "T5",
-      "marker": 0.378
+      "start": 0.484,
+      "end": 0.52,
+      "name": "Seconda Curva di Lesmo"
     },
     {
-      "name": "T6",
-      "marker": 0.444
+      "start": 0.555,
+      "end": 0.594,
+      "name": "Curva del Serraglio"
     },
     {
-      "name": "T7",
-      "marker": 0.499
+      "start": 0.65,
+      "end": 0.73,
+      "name": "Variante Ascari"
     },
     {
-      "name": "T8",
-      "marker": 0.684
-    },
-    {
-      "name": "T9",
-      "marker": 0.699
-    },
-    {
-      "name": "T10",
-      "marker": 0.715
-    },
-    {
-      "name": "T11",
-      "marker": 0.907
+      "start": 0.866,
+      "end": 0.96,
+      "name": "Curva Parabolica"
     }
   ],
   "sector": [
     {
-      "name": "1",
-      "marker": 0.346
+      "marker": 0.345,
+      "name": "1"
     },
     {
-      "name": "2",
-      "marker": 0.476
+      "marker": 0.476,
+      "name": "2"
     },
     {
-      "name": "3",
-      "marker": 0.657
+      "marker": 0.658,
+      "name": "3"
     },
     {
-      "name": "4",
-      "marker": 0.853
-    },
-    {
-      "name": "5",
-      "marker": 1
+      "marker": 1.0,
+      "name": "4"
     }
   ],
   "time": [
