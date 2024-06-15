@@ -108,8 +108,8 @@
 | Las Vegas Motor Speedway                     | Road Course Long                 | Las Vegas Road Long              | 2        |        |         |
 | Las Vegas Motor Speedway                     | Road Course Short                | Las Vegas Road Short             | 2        |        |         |
 | Lime Rock Park                               | Chicanes                         | Lime Rock Chicanes               | 2        |        |         |
-| Lime Rock Park                               | Classic                          | Lime Rock Classic                | 2        |        |         |
-| Lime Rock Park                               | Grand Prix                       | Lime Rock Grand Prix             | 1        |        |         |
+| Lime Rock Park                               | Classic                          | Lime Rock Classic                | 2        | done       |         |
+| Lime Rock Park                               | Grand Prix                       | Lime Rock Grand Prix             | 1        | done       |         |
 | Lime Rock Park                               | School                           | Lime Rock - School               | 2        |        |         |
 | Lime Rock Park                               | West Bend Chicane                | Lime Rock West Bend Chicane      | 2        |        |         |
 | Long Beach Street Circuit                    |                              | Long Beach                       | 1        | done       | x           |
