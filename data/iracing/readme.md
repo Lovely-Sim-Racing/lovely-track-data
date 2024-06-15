@@ -45,8 +45,8 @@
 | Circuit de Spa-Francorchamps                 | Classic Pits                     | Spa Classic Pits                 | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Endurance                        | Spa Endurance                    | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Grand Prix Pits                  | Spa GP Pits                      | 1        | done       |         |
-| Circuit des 24 Heures du Mans                | 24 Heures du Mans                | LeMans 24 Heures                 | 1        |        |         |
-| Circuit des 24 Heures du Mans                | Historic                         | LeMans Historic                  | 1        |        |         |
+| Circuit des 24 Heures du Mans                | 24 Heures du Mans                | LeMans 24 Heures                 | 1        | done       |         |
+| Circuit des 24 Heures du Mans                | Historic                         | LeMans Historic                  | 1        | done       |         |
 | Circuit Gilles Villeneuve                    |                              | Circuit Gilles Villeneuve        | 1        | done       |         |
 | Circuit of the Americas                      | East                             | COTA East                        | 3        |        |         |
 | Circuit of the Americas                      | Grand Prix                       | COTA Grand Prix                  | 1        |        |         |
