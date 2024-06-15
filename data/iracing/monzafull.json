@@ -1,87 +1,81 @@
 {
-  "name": "Monza Full",
-  "country": "IT",
-  "length": 5793,
-  "turn": [
-    {
-      "name": "T1",
-      "marker": 0.162
-    },
-    {
-      "name": "T2",
-      "marker": 0.169
-    },
-    {
-      "name": "T3",
-      "marker": 0.268
-    },
-    {
-      "name": "T4",
-      "marker": 0.371
-    },
-    {
-      "name": "T5",
-      "marker": 0.378
-    },
-    {
-      "name": "T6",
-      "marker": 0.444
-    },
-    {
-      "name": "T7",
-      "marker": 0.499
-    },
-    {
-      "name": "T8",
-      "marker": 0.684
-    },
-    {
-      "name": "T9",
-      "marker": 0.699
-    },
-    {
-      "name": "T10",
-      "marker": 0.715
-    },
-    {
-      "name": "T11",
-      "marker": 0.907
-    }
-  ],
-  "sector": [
-    {
-      "name": "1",
-      "marker": 0.346
-    },
-    {
-      "name": "2",
-      "marker": 0.476
-    },
-    {
-      "name": "3",
-      "marker": 0.657
-    },
-    {
-      "name": "4",
-      "marker": 0.853
-    },
-    {
-      "name": "5",
-      "marker": 1
-    }
-  ],
-  "time": [
-    {
-      "gt3": [
-        {
-          "name": "sg30",
-          "time": 48
-        },
-        {
-          "name": "dt",
-          "time": 43
-        }
-      ]
-    }
-  ]
+	"name": "Monza Full",
+	"country": "IT",
+	"length": 5750,
+	"pitentry": 0.94,
+	"pitexit": 0.061,
+	"turn": [
+		{
+			"start": 0.143,
+			"end": 0.206,
+			"name": "Prima Variante"
+		},
+		{
+			"start": 0.218,
+			"end": 0.32,
+			"name": "Curva Biassono"
+		},
+		{
+			"start": 0.35,
+			"end": 0.392,
+			"name": "Seconda Variante"
+		},
+		{
+			"start": 0.423,
+			"end": 0.467,
+			"name": "Prima Curva di Lesmo"
+		},
+		{
+			"start": 0.484,
+			"end": 0.52,
+			"name": "Seconda Curva di Lesmo"
+		},
+		{
+			"start": 0.555,
+			"end": 0.594,
+			"name": "Curva del Serraglio"
+		},
+		{
+			"start": 0.65,
+			"end": 0.73,
+			"name": "Variante Ascari"
+		},
+		{
+			"start": 0.866,
+			"end": 0.96,
+			"name": "Curva Parabolica"
+		}
+	],
+	"sector": [
+		{
+			"marker": 0.345,
+			"name": "1"
+		},
+		{
+			"marker": 0.476,
+			"name": "2"
+		},
+		{
+			"marker": 0.658,
+			"name": "3"
+		},
+		{
+			"marker": 1.0,
+			"name": "4"
+		}
+	],
+	"time": [
+		{
+			"gt3": [
+				{
+					"name": "sg30",
+					"time": 48
+				},
+				{
+					"name": "dt",
+					"time": 43
+				}
+			]
+		}
+	]
 }
