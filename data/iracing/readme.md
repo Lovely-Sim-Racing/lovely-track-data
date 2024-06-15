@@ -53,7 +53,7 @@
 | Circuit of the Americas                      | West                             | COTA West                        | 3        |        |         |
 | Circuit Park Zandvoort                       | Chicane - 2009                   | Zandvoort Chicane - 2009         | 3        |        |         |
 | Circuit Park Zandvoort                       | Club - 2009                      | Zandvoort Club - 2009            | 3        |        |         |
-| Circuit Park Zandvoort                       | Grand Prix                       | Zandvoort GP                     | 1        |        |         |
+| Circuit Park Zandvoort                       | Grand Prix                       | Zandvoort GP                     | 1        | done       |         |
 | Circuit Park Zandvoort                       | Grand Prix - 2009                | Zandvoort Grand Prix - 2009      | 3        |        |         |
 | Circuit Park Zandvoort                       | Grand Prix w/chicane             | Zandvoort GP w/chicane           | 2        |        |         |
 | Circuit Park Zandvoort                       | Nationaal                        | Nationaal                        | 3        |        |         |
