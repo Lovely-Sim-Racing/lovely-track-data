@@ -75,8 +75,8 @@
 | Daytona International Speedway               | Short                            | Daytona Short                    | 3        |        |         |
 | Daytona International Speedway               | Short - 2008                     | Daytona 2008 Short               | 3        |        |         |
 | Detroit Grand Prix at Belle Isle             | Belle Isle                       | Belle Isle                       | 1        |        |         |
-| Donington Park Racing Circuit                | Grand Prix                       | Donnington GP                    | 1        |        |         |
-| Donington Park Racing Circuit                | National                         | Donnington National              | 1        |        |         |
+| Donington Park Racing Circuit                | Grand Prix                       | Donnington GP                    | 1        | done       |         |
+| Donington Park Racing Circuit                | National                         | Donnington National              | 1        | done       |         |
 | Fuji International Speedway                  | Grand Prix                       | Fuji Grand Prix                  | 1        |        |         |
 | Fuji International Speedway                  | No Chicane                       | Fuji No Chicane                  | 2        |        |         |
 | Hockenheimring Baden-Württemberg             | Grand Prix                       | Hockenheim Grand Prix            | 1        |        |         |
