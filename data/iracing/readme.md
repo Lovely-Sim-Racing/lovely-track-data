@@ -238,7 +238,7 @@
 | Watkins Glen International                   | [Retired] Classic                | Watkins Glen Classic [Retired]   | 3        |        |         |
 | Watkins Glen International                   | [Retired] Classic Boot           | Watkins Glen Classic Boot [Ret]  | 3        |        |         |
 | Watkins Glen International                   | [Retired] Cup                    | Watkins Glen Cup [Retired]       | 3        |        |         |
-| WeatherTech Raceway at Laguna Seca           | Full Course                      | Laguna Seca                      | 1        |        |         |
+| WeatherTech Raceway at Laguna Seca           | Full Course                      | Laguna Seca                      | 1        | done       |         |
 | WeatherTech Raceway at Laguna Seca           | School                           | Laguna Seca School               | 3        |        |         |
 | Willow Springs International Raceway         | Big Willow                       | Big Willow                       | 1        |        |         |
 | Winton Motor Raceway                         | Club Circuit                     | Winton Club Circuit              | 1        |        |         |
