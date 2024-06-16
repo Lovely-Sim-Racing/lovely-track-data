@@ -30,7 +30,7 @@
 | Charlotte Motor Speedway                     | Legends RC Long - 2018           | Legends RC Long - 2018           | 3        |        |         |
 | Charlotte Motor Speedway                     | Legends RC Medium - 2018         | Legends RC Medium - 2018         | 3        |        |         |
 | Charlotte Motor Speedway                     | Legends RC Short - 2018          | Legends RC Short - 2018          | 3        |        |         |
-| Charlotte Motor Speedway                     | Roval                            | Charlotte Roval                  | 1        |        |         |
+| Charlotte Motor Speedway                     | Roval                            | Charlotte Roval                  | 1        | done       |         |
 | Charlotte Motor Speedway                     | Roval - 2018                     | Charlotte Roval - 2018           | 3        |        |         |
 | Charlotte Motor Speedway                     | Roval Long - 2018                | Charlotte Roval Long - 2018      | 3        |        |         |
 | Chicago Street Course                        | 2023 Cup                         | 2023 Cup                         | 2        |        |         |
