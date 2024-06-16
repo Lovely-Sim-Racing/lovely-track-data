@@ -218,7 +218,7 @@
 | Tsukuba Circuit                              | 2000 Full                        | Tsukuba 2000 Full                | 1        |        |         |
 | Tsukuba Circuit                              | 2000 Moto                        | Tsukuba 2000 Moto                | 3        |        |         |
 | Tsukuba Circuit                              | 2000 Short                       | Tsukuba 2000 Short               | 3        |        |         |
-| Virginia International Raceway               | Full Course                      | VIR Full Course                  | 1        |        |         |
+| Virginia International Raceway               | Full Course                      | VIR Full Course                  | 1        | done       |         |
 | Virginia International Raceway               | Grand Course                     | VIR Grand Course                 | 1        |        |         |
 | Virginia International Raceway               | North Course                     | VIR North Course                 | 2        |        |         |
 | Virginia International Raceway               | Patriot Course                   | VIR Patriot Course               | 3        |        |         |
