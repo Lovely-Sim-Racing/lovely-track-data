@@ -30,7 +30,7 @@
 | Charlotte Motor Speedway                     | Legends RC Long - 2018           | Legends RC Long - 2018           | 3        |        |         |
 | Charlotte Motor Speedway                     | Legends RC Medium - 2018         | Legends RC Medium - 2018         | 3        |        |         |
 | Charlotte Motor Speedway                     | Legends RC Short - 2018          | Legends RC Short - 2018          | 3        |        |         |
-| Charlotte Motor Speedway                     | Roval                            | Charlotte Roval                  | 1        |        |         |
+| Charlotte Motor Speedway                     | Roval                            | Charlotte Roval                  | 1        | done       |         |
 | Charlotte Motor Speedway                     | Roval - 2018                     | Charlotte Roval - 2018           | 3        |        |         |
 | Charlotte Motor Speedway                     | Roval Long - 2018                | Charlotte Roval Long - 2018      | 3        |        |         |
 | Chicago Street Course                        | 2023 Cup                         | 2023 Cup                         | 2        |        |         |
@@ -41,7 +41,7 @@
 | Circuit de Barcelona Catalunya               | Moto                             | Barcelona Moto                   | 3        |        |         |
 | Circuit de Barcelona Catalunya               | National                         | Barcelona National               | 3        |        |         |
 | Circuit de Lédenon                           |                              | Circuit de Lédenon               | 1        |        |         |
-| Circuit de Nevers Magny-Cours                | Grand Prix                       | Magny-Cours GP                   | 1        |        |         |
+| Circuit de Nevers Magny-Cours                | Grand Prix                       | Magny-Cours GP                   | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Classic Pits                     | Spa Classic Pits                 | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Endurance                        | Spa Endurance                    | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Grand Prix Pits                  | Spa GP Pits                      | 1        | done       |         |
@@ -61,7 +61,7 @@
 | Circuit Park Zandvoort                       | Oostelijk                        | Oostelijk                        | 3        |        |         |
 | Circuit Park Zandvoort                       | Oostelijk - 2009                 | Zandvoort Oostelijk - 2009       | 3        |        |         |
 | Circuit Zolder                               | Alternate                        | Zolder Alternate                 | 3        |        |         |
-| Circuit Zolder                               | Grand Prix                       | Zolder Grand Prix                | 1        |        |         |
+| Circuit Zolder                               | Grand Prix                       | Zolder Grand Prix                | 1        | done       |         |
 | Circuito de Jerez - Ángel Nieto              | Grand Prix                       | Jerez GP                         | 1        |        |         |
 | Circuito de Jerez - Ángel Nieto              | Moto                             | Moto                             | 3        |        |         |
 | Circuito de Navarra                          | Speed Circuit                    | Speed Circuit                    | 1        |        |         |
@@ -75,8 +75,8 @@
 | Daytona International Speedway               | Short                            | Daytona Short                    | 3        |        |         |
 | Daytona International Speedway               | Short - 2008                     | Daytona 2008 Short               | 3        |        |         |
 | Detroit Grand Prix at Belle Isle             | Belle Isle                       | Belle Isle                       | 1        |        |         |
-| Donington Park Racing Circuit                | Grand Prix                       | Donnington GP                    | 1        |        |         |
-| Donington Park Racing Circuit                | National                         | Donnington National              | 1        |        |         |
+| Donington Park Racing Circuit                | Grand Prix                       | Donnington GP                    | 1        | done       |         |
+| Donington Park Racing Circuit                | National                         | Donnington National              | 1        | done       |         |
 | Fuji International Speedway                  | Grand Prix                       | Fuji Grand Prix                  | 1        |        |         |
 | Fuji International Speedway                  | No Chicane                       | Fuji No Chicane                  | 2        |        |         |
 | Hockenheimring Baden-Württemberg             | Grand Prix                       | Hockenheim Grand Prix            | 1        |        |         |
@@ -218,7 +218,7 @@
 | Tsukuba Circuit                              | 2000 Full                        | Tsukuba 2000 Full                | 1        |        |         |
 | Tsukuba Circuit                              | 2000 Moto                        | Tsukuba 2000 Moto                | 3        |        |         |
 | Tsukuba Circuit                              | 2000 Short                       | Tsukuba 2000 Short               | 3        |        |         |
-| Virginia International Raceway               | Full Course                      | VIR Full Course                  | 1        |        |         |
+| Virginia International Raceway               | Full Course                      | VIR Full Course                  | 1        | done       |         |
 | Virginia International Raceway               | Grand Course                     | VIR Grand Course                 | 1        |        |         |
 | Virginia International Raceway               | North Course                     | VIR North Course                 | 2        |        |         |
 | Virginia International Raceway               | Patriot Course                   | VIR Patriot Course               | 3        |        |         |
@@ -238,7 +238,7 @@
 | Watkins Glen International                   | [Retired] Classic                | Watkins Glen Classic [Retired]   | 3        |        |         |
 | Watkins Glen International                   | [Retired] Classic Boot           | Watkins Glen Classic Boot [Ret]  | 3        |        |         |
 | Watkins Glen International                   | [Retired] Cup                    | Watkins Glen Cup [Retired]       | 3        |        |         |
-| WeatherTech Raceway at Laguna Seca           | Full Course                      | Laguna Seca                      | 1        |        |         |
+| WeatherTech Raceway at Laguna Seca           | Full Course                      | Laguna Seca                      | 1        | done       |         |
 | WeatherTech Raceway at Laguna Seca           | School                           | Laguna Seca School               | 3        |        |         |
 | Willow Springs International Raceway         | Big Willow                       | Big Willow                       | 1        |        |         |
 | Winton Motor Raceway                         | Club Circuit                     | Winton Club Circuit              | 1        |        |         |
