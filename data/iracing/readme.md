@@ -41,7 +41,7 @@
 | Circuit de Barcelona Catalunya               | Moto                             | Barcelona Moto                   | 3        |        |         |
 | Circuit de Barcelona Catalunya               | National                         | Barcelona National               | 3        |        |         |
 | Circuit de Lédenon                           |                              | Circuit de Lédenon               | 1        |        |         |
-| Circuit de Nevers Magny-Cours                | Grand Prix                       | Magny-Cours GP                   | 1        |        |         |
+| Circuit de Nevers Magny-Cours                | Grand Prix                       | Magny-Cours GP                   | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Classic Pits                     | Spa Classic Pits                 | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Endurance                        | Spa Endurance                    | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Grand Prix Pits                  | Spa GP Pits                      | 1        | done       |         |
