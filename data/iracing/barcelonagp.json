@@ -62,10 +62,10 @@
     },
     {
       "name": "Europcar",
-      "start": 0.850,
+      "start": 0.85,
       "end": 0.875
     },
-	{
+    {
       "name": "Chicane RACC",
       "start": 0.877,
       "end": 0.915
