@@ -4,11 +4,11 @@
 | Algarve International Circuit                | Grand Prix - Chicanes            | Algarve - Grand Prix - Chicanes  | 2        |        |         |
 | Algarve International Circuit                | Moto                             | Algarve - Moto                   | 3        |        |         |
 | Algarve International Circuit                | Moto - Chicanes                  | Algarve - Moto - Chicanes        | 3        |        |         |
-| Atlanta Motor Speedway                       | Road - 2008                      | Atlanta Road - 2008              | 1        |        |         |
+| Atlanta Motor Speedway                       | Road - 2008                      | Atlanta Road - 2008              | 1        |        | Donutz does not own this track |
 | Auto Club Speedway                           | Competition                      | Auto Club Competition            | 3        |        |         |
 | Auto Club Speedway                           | Interior                         | Auto Club Interior               | 3        |        |         |
 | Auto Club Speedway                           | Moto                             | Auto Club Moto                   | 3        |        |         |
-| Autodromo Internazionale del Mugello         | Grand Prix                       | Mugello Grand Prix               | 1        |        |         |
+| Autodromo Internazionale del Mugello         | Grand Prix                       | Mugello Grand Prix               | 1        |        | Donutz does not own this track        |
 | Autodromo Internazionale del Mugello         | Short                            | Mugello Short                    | 2        |        |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Grand Prix                       | Imola Grand Prix                 | 1        | done       |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Moto                             | Imola Moto                       | 2        |        |         |
@@ -36,7 +36,7 @@
 | Chicago Street Course                        | 2023 Cup                         | 2023 Cup                         | 2        |        |         |
 | Chicago Street Course                        | Prototype                        | Prototype                        | 2        |        |         |
 | Circuit de Barcelona Catalunya               | Club                             | Barcelona Club                   | 2        |        |         |
-| Circuit de Barcelona Catalunya               | Grand Prix                       | Barcelona Grand Prix             | 1        |        |         |
+| Circuit de Barcelona Catalunya               | Grand Prix                       | Barcelona Grand Prix             | 1        | done       |         |
 | Circuit de Barcelona Catalunya               | Historic                         | Barcelona Historic               | 1        | done       |         |
 | Circuit de Barcelona Catalunya               | Moto                             | Barcelona Moto                   | 3        |        |         |
 | Circuit de Barcelona Catalunya               | National                         | Barcelona National               | 3        |        |         |
