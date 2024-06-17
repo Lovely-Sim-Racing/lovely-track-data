@@ -49,7 +49,7 @@
 | Circuit des 24 Heures du Mans                | Historic                         | LeMans Historic                  | 1        | done       |         |
 | Circuit Gilles Villeneuve                    |                              | Circuit Gilles Villeneuve        | 1        | done       |         |
 | Circuit of the Americas                      | East                             | COTA East                        | 3        |        |         |
-| Circuit of the Americas                      | Grand Prix                       | COTA Grand Prix                  | 1        |        |         |
+| Circuit of the Americas                      | Grand Prix                       | COTA Grand Prix                  | 1        |        | Donutz does not own this track        |
 | Circuit of the Americas                      | West                             | COTA West                        | 3        |        |         |
 | Circuit Park Zandvoort                       | Chicane - 2009                   | Zandvoort Chicane - 2009         | 3        |        |         |
 | Circuit Park Zandvoort                       | Club - 2009                      | Zandvoort Club - 2009            | 3        |        |         |
@@ -74,7 +74,7 @@
 | Daytona International Speedway               | Road Course - 2008               | Daytona 2008 Road                | 3        |        |         |
 | Daytona International Speedway               | Short                            | Daytona Short                    | 3        |        |         |
 | Daytona International Speedway               | Short - 2008                     | Daytona 2008 Short               | 3        |        |         |
-| Detroit Grand Prix at Belle Isle             | Belle Isle                       | Belle Isle                       | 1        |        |         |
+| Detroit Grand Prix at Belle Isle             | Belle Isle                       | Belle Isle                       | 1        |        | Donutz does not own this track        |
 | Donington Park Racing Circuit                | Grand Prix                       | Donnington GP                    | 1        | done       |         |
 | Donington Park Racing Circuit                | National                         | Donnington National              | 1        | done       |         |
 | Fuji International Speedway                  | Grand Prix                       | Fuji Grand Prix                  | 1        |        |         |
@@ -98,13 +98,13 @@
 | Iowa Speedway                                | Road Course                      | Iowa Road                        | 2        |        |         |
 | Kansas Speedway                              | Infield Road Course              | Kansas Infield Road              | 2        |        |         |
 | Kansas Speedway                              | Road Course                      | Kansas Road                      | 2        |        |         |
-| Knockhill Racing Circuit                     | International                    | Knockhill International          | 1        |        |         |
+| Knockhill Racing Circuit                     | International                    | Knockhill International          | 1        |        | Donutz does not own this track        |
 | Knockhill Racing Circuit                     | International Reverse            | Knockhill International Reverse  | 2        |        |         |
 | Knockhill Racing Circuit                     | National                         | Knockhill National               | 2        |        |         |
 | Knockhill Racing Circuit                     | National Reverse                 | Knockhill National Reverse       | 2        |        |         |
 | Lånkebanen (Hell RX)                         | Road Long                        | Lånkebanen Road Long             | 3        |        |         |
 | Lånkebanen (Hell RX)                         | Road Short                       | Lånkebanen Road Short            | 3        |        |         |
-| Las Vegas Motor Speedway                     | Road Course Combined             | Las Vegas Road Combined          | 1        |        |         |
+| Las Vegas Motor Speedway                     | Road Course Combined             | Las Vegas Road Combined          | 1        |        | Donutz does not own this track        |
 | Las Vegas Motor Speedway                     | Road Course Long                 | Las Vegas Road Long              | 2        |        |         |
 | Las Vegas Motor Speedway                     | Road Course Short                | Las Vegas Road Short             | 2        |        |         |
 | Lime Rock Park                               | Chicanes                         | Lime Rock Chicanes               | 2        |        |         |
@@ -115,17 +115,17 @@
 | Long Beach Street Circuit                    |                              | Long Beach                       | 1        | done       | x           |
 | Mid-Ohio Sports Car Course                   | Alt Oval                         | Mid-Ohio Alt Oval                | 3        |        |         |
 | Mid-Ohio Sports Car Course                   | Chicane                          | Mid-Ohio Chicane                 | 3        |        |         |
-| Mid-Ohio Sports Car Course                   | Full Course                      | Mid-Ohio Full                    | 1        |        |         |
+| Mid-Ohio Sports Car Course                   | Full Course                      | Mid-Ohio Full                    | 1        |        | Donutz does not own this track        |
 | Mid-Ohio Sports Car Course                   | Short                            | Mid-Ohio Short                   | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Club                             | Misano Club                      | 3        |        |         |
-| Misano World Circuit Marco Simoncelli        | Grand Prix                       | Misano Grand Prix                | 1        |        |         |
+| Misano World Circuit Marco Simoncelli        | Grand Prix                       | Misano Grand Prix                | 1        |        | Donutz does not own this track        |
 | Misano World Circuit Marco Simoncelli        | Grand Prix - 2007                | Misano Grand Prix - 2007         | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Grand Prix - Historic Reverse    | Misano GP - Historic Reverse     | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Truck                            | Misano Truck                     | 3        |        |         |
 | Mobility Resort Motegi                       | East                             | Twin Ring Motegi East            | 3        |        |         |
-| Mobility Resort Motegi                       | Grand Prix                       | Twin Ring Motegi GP              | 1        |        |         |
+| Mobility Resort Motegi                       | Grand Prix                       | Twin Ring Motegi GP              | 1        |        | Donutz does not own this track        |
 | Mobility Resort Motegi                       | West                             | Twin Ring Motegi West            | 3        |        |         |
-| MotorLand Aragón                             | Grand Prix                       | Aragón GP                        | 1        |        |         |
+| MotorLand Aragón                             | Grand Prix                       | Aragón GP                        | 1        |        | Donutz does not own this track        |
 | MotorLand Aragón                             | Motorcycle Grand Prix            | Motorcycle Grand Prix            | 3        |        |         |
 | MotorLand Aragón                             | Motorcycle National              | Motorcycle National              | 3        |        |         |
 | MotorLand Aragón                             | National                         | National                         | 3        |        |         |
@@ -144,7 +144,7 @@
 | New Jersey Motorsports Park                  | Thunderbolt w/both chicanes      | New Jersey w/both Chicanes       | 3        |        |         |
 | New Jersey Motorsports Park                  | Thunderbolt w/first chicane      | New Jersey w/First Chicane       | 3        |        |         |
 | New Jersey Motorsports Park                  | Thunderbolt w/second chicane     | New Jersey w/Second Chicane      | 3        |        |         |
-| Nürburgring Combined                         | Gesamtstrecke 24h                | Gesamtstrecke 24h                | 1        |        |         |
+| Nürburgring Combined                         | Gesamtstrecke 24h                | Gesamtstrecke 24h                | 1        | done       |         |
 | Nürburgring Combined                         | Gesamtstrecke Long               | Gesamtstrecke Long               | 1        |        |         |
 | Nürburgring Combined                         | Gesamtstrecke Short w/out Arena  | Gesamtstrecke Short              | 1        |        |         |
 | Nürburgring Combined                         | Gesamtstrecke VLN                | Gesamtstrecke VLN                | 1        |        |         |
@@ -199,7 +199,7 @@
 | Sonoma Raceway                               | NASCAR Long                      | Sonoma NASCAR Long               | 3        |        |         |
 | Sonoma Raceway                               | NASCAR Short                     | Sonoma NASCAR Short              | 3        |        |         |
 | Sonoma Raceway                               | Open Wheel 2008-2011             | Sonoma Open Wheel 08-11          | 3        |        |         |
-| Sonoma Raceway                               | Open Wheel 2012-2018             | Sonoma Open Wheel 2012-2018      | 1        |        |         |
+| Sonoma Raceway                               | Open Wheel 2012-2018             | Sonoma Open Wheel 2012-2018      | 1        |        | Donutz does not own this track        |
 | Sonoma Raceway                               | Open Wheel pre-2008              | Sonoma Open Wheel 2007           | 3        |        |         |
 | Summit Point Raceway                         | Jefferson Circuit                | Summit Point Jefferson           | 3        |        |         |
 | Summit Point Raceway                         | Jefferson Reverse                | Summit Point Jefferson Reverse   | 3        |        |         |
@@ -243,7 +243,7 @@
 | Willow Springs International Raceway         | Big Willow                       | Big Willow                       | 1        |        |         |
 | Winton Motor Raceway                         | Club Circuit                     | Winton Club Circuit              | 1        |        |         |
 | Winton Motor Raceway                         | National Circuit                 | Winton National Circuit          | 1        | done       |         |
-| World Wide Technology Raceway (Gateway)      | Road Course                      | Gateway Road                     | 1        |        |         |
+| World Wide Technology Raceway (Gateway)      | Road Course                      | Gateway Road                     | 1        |        | Donutz does not own this track        |
 | [Legacy] Charlotte Motor Speedway - 2008     | Infield Road Course              | Charlotte Infield                | 3        |        |         |
 | [Legacy] Charlotte Motor Speedway - 2008     | Road Course                      | Charlotte Road                   | 3        |        |         |
 | [Legacy] Lime Rock Park - 2008               | Chicane                          | Lime Rock Chicane                | 3        |        |         |
