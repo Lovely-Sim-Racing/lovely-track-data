@@ -185,7 +185,7 @@
 | Rockingham Speedway                          | Road Course                      | Rockingham Road Course           | 3        |        |         |
 | Rockingham Speedway                          | Short Road Course                | Rockingham Short Road            | 3        |        |         |
 | Rudskogen Motorsenter                        |                              | Rudskogen Motorsenter            | 1        |        |         |
-| Sachsenring                                  |                              | Sachsenring                      | 1        |        |         |
+| Sachsenring                                  |                              | Sachsenring                      | 1        | done       |         |
 | Sandown International Motor Raceway          |                              | Sandown                          | 2        |        |         |
 | Sebring International Raceway                | Club                             | Sebring Club                     | 3        |        |         |
 | Sebring International Raceway                | International                    | Sebring International            | 1        | done       |         |

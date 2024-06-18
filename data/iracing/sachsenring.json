@@ -1,0 +1,27 @@
+{
+  "name": "Sachsenring",
+  "country": "DE",
+  "length": 3590,
+  "pitentry": 0.974,
+  "pitexit": 0.147,
+  "turn": [
+    {"start": 0.129, "end": 0.181, "name": "auto motor und sport-Kurve"},
+	{"start": 0.190, "end": 0.307, "name": "Omega-Kurve"},
+	{"start": 0.308, "end": 0.383, "name": "Kleine Kuppe-Kurve"},
+	{"start": 0.410, "end": 0.453, "name": "Karthallen-Kurve"},
+	{"start": 0.510, "end": 0.555, "name": "Volkswagen-Kurve"},
+	{"start": 0.580, "end": 0.615, "name": "Grosse Kuppe-Kurve"},
+	{"start": 0.620, "end": 0.665, "name": "Nordkurve "},
+	{"start": 0.668, "end": 0.749, "name": "Ralf-Waldmann-Kurve"},
+	{"start": 0.797, "end": 0.876, "name": "Sachsen Kurve"},
+	{"start": 0.915, "end": 0.980, "name": "Queckenberg Kurve"}
+  ],
+  "straight": [
+	{"start": 0.750, "marker": 0.775, "end": 0.796, "name": "Wasserfall"}
+  ],
+  "sector": [
+    {"marker": 0.458,"name": "1"},
+    {"marker": 0.724,"name": "2"},
+    {"marker": 1.000,"name": "3"}
+  ]
+}
