@@ -40,7 +40,7 @@
 | Circuit de Barcelona Catalunya               | Historic                         | Barcelona Historic               | 1        | done       |         |
 | Circuit de Barcelona Catalunya               | Moto                             | Barcelona Moto                   | 3        |        |         |
 | Circuit de Barcelona Catalunya               | National                         | Barcelona National               | 3        |        |         |
-| Circuit de Lédenon                           |                              | Circuit de Lédenon               | 1        |        |         |
+| Circuit de Lédenon                           |                              | Circuit de Lédenon               | 1        | done       |         |
 | Circuit de Nevers Magny-Cours                | Grand Prix                       | Magny-Cours GP                   | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Classic Pits                     | Spa Classic Pits                 | 1        | done       |         |
 | Circuit de Spa-Francorchamps                 | Endurance                        | Spa Endurance                    | 1        | done       |         |
@@ -64,7 +64,7 @@
 | Circuit Zolder                               | Grand Prix                       | Zolder Grand Prix                | 1        | done       |         |
 | Circuito de Jerez - Ángel Nieto              | Grand Prix                       | Jerez GP                         | 1        | done       |         |
 | Circuito de Jerez - Ángel Nieto              | Moto                             | Moto                             | 3        | done       |         |
-| Circuito de Navarra                          | Speed Circuit                    | Speed Circuit                    | 1        |        |         |
+| Circuito de Navarra                          | Speed Circuit                    | Speed Circuit                    | 1        | done       |         |
 | Circuito de Navarra                          | Speed Circuit - Medium           | Speed Circuit - Medium           | 3        |        |         |
 | Circuito de Navarra                          | Speed Circuit - Short            | Speed Circuit - Short            | 3        |        |         |
 | Daytona International Speedway               | Moto                             | Daytona Bike                     | 3        |        |         |
@@ -158,7 +158,7 @@
 | Nürburgring Nordschleife                     | Touristenfahrten                 | Touristenfahrten                 | 1        | done       |         |
 | Okayama International Circuit                | Full Course                      | Okayama Full                     | 1        | done       |         |
 | Okayama International Circuit                | Short                            | Okayama Short                    | 3        |        |         |
-| Oran Park Raceway                            | Grand Prix                       | Oran Park Grand Prix             | 1        |        |         |
+| Oran Park Raceway                            | Grand Prix                       | Oran Park Grand Prix             | 1        | done       |         |
 | Oran Park Raceway                            | Moto                             | Oran Park Moto                   | 3        |        |         |
 | Oran Park Raceway                            | North                            | Oran Park North                  | 3        |        |         |
 | Oran Park Raceway                            | North A                          | Oran Park North A                | 3        |        |         |
@@ -166,7 +166,7 @@
 | Oran Park Raceway                            | South                            | Oran Park South                  | 3        |        |         |
 | Oulton Park Circuit                          | Fosters                          | Outlon Park Fosters              | 3        |        |         |
 | Oulton Park Circuit                          | Fosters w/Hislop                 | Oulton Park Fosters w/Hislop     | 3        |        |         |
-| Oulton Park Circuit                          | International                    | Oulton Park International        | 1        |        |         |
+| Oulton Park Circuit                          | International                    | Oulton Park International        | 1        | done       |         |
 | Oulton Park Circuit                          | Intl w/no Chicanes               | Oulton Park Intl no Chicanes     | 3        |        |         |
 | Oulton Park Circuit                          | Intl w/out Brittens              | Outlon Park w/out Brittens       | 1        | done       |         |
 | Oulton Park Circuit                          | Intl w/out Hislop                | Outlon Park w/out Hislop         | 3        |        |         |
