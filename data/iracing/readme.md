@@ -63,7 +63,7 @@
 | Circuit Zolder                               | Alternate                        | Zolder Alternate                 | 3        |        |         |
 | Circuit Zolder                               | Grand Prix                       | Zolder Grand Prix                | 1        | done       |         |
 | Circuito de Jerez - Ángel Nieto              | Grand Prix                       | Jerez GP                         | 1        | done       |         |
-| Circuito de Jerez - Ángel Nieto              | Moto                             | Moto                             | 3        |        |         |
+| Circuito de Jerez - Ángel Nieto              | Moto                             | Moto                             | 3        | done       |         |
 | Circuito de Navarra                          | Speed Circuit                    | Speed Circuit                    | 1        |        |         |
 | Circuito de Navarra                          | Speed Circuit - Medium           | Speed Circuit - Medium           | 3        |        |         |
 | Circuito de Navarra                          | Speed Circuit - Short            | Speed Circuit - Short            | 3        |        |         |
