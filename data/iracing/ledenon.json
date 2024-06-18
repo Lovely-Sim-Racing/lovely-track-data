@@ -5,18 +5,59 @@
   "pitentry": 0.891,
   "pitexit": 0.062,
   "turn": [
-    {"start": 0.047, "end": 0.188, "name": "Triple Gauche"},
-	{"start": 0.231, "end": 0.300, "name": "Virage du Pont"},
-	{"start": 0.348, "end": 0.398, "name": "La Carrierasse"},
-	{"start": 0.399, "end": 0.467, "name": "La Courmelle"},
-	{"start": 0.484, "end": 0.530, "name": "Virage du Camion"},
-	{"start": 0.531, "end": 0.595, "name": "Le Cavalet"},
-	{"start": 0.675, "end": 0.750, "name": "La servie"},
-	{"start": 0.827, "end": 0.880, "name": "La cuvette"}
+    {
+      "start": 0.047,
+      "end": 0.188,
+      "name": "Triple Gauche"
+    },
+    {
+      "start": 0.231,
+      "end": 0.3,
+      "name": "Virage du Pont"
+    },
+    {
+      "start": 0.348,
+      "end": 0.398,
+      "name": "La Carrierasse"
+    },
+    {
+      "start": 0.399,
+      "end": 0.467,
+      "name": "La Courmelle"
+    },
+    {
+      "start": 0.484,
+      "end": 0.53,
+      "name": "Virage du Camion"
+    },
+    {
+      "start": 0.531,
+      "end": 0.595,
+      "name": "Le Cavalet"
+    },
+    {
+      "start": 0.675,
+      "end": 0.75,
+      "name": "La servie"
+    },
+    {
+      "start": 0.827,
+      "end": 0.88,
+      "name": "La cuvette"
+    }
   ],
   "sector": [
-    {"marker": 0.335,"name": "1"},
-    {"marker": 0.618,"name": "2"},
-    {"marker": 1.000,"name": "3"}
+    {
+      "marker": 0.335,
+      "name": "1"
+    },
+    {
+      "marker": 0.618,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
   ]
 }
