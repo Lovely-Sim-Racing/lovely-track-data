@@ -26,7 +26,7 @@
 | Barber Motorsports Park                      | Short B                          | Barber Short B                   | 2        |        |         |
 | Brands Hatch Circuit                         | Grand Prix                       | Brands Hatch Grand Prix          | 1        | done      |         |
 | Brands Hatch Circuit                         | Indy                             | Brands Hatch Indy                | 2        |        |         |
-| Canadian Tire Motorsports Park               |                              | Mosport                          | 1        |        |         |
+| Canadian Tire Motorsports Park               |                              | Mosport                          | 1        |        | Donutz does not own this track        |
 | Charlotte Motor Speedway                     | Legends RC Long - 2018           | Legends RC Long - 2018           | 3        |        |         |
 | Charlotte Motor Speedway                     | Legends RC Medium - 2018         | Legends RC Medium - 2018         | 3        |        |         |
 | Charlotte Motor Speedway                     | Legends RC Short - 2018          | Legends RC Short - 2018          | 3        |        |         |

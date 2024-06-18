@@ -1,5 +1,5 @@
 {
-  "name": "Circuito de Jerez - GP",
+  "name": "Circuito de Jerez - Moto",
   "country": "ES",
   "length": 4370,
   "pitentry": 0.884,
@@ -12,7 +12,7 @@
 	{"start": 0.470, "end": 0.649, "name": "Aspar"},
 	{"start": 0.650, "end": 0.695, "name": "Angel Nieto"},
 	{"start": 0.696, "end": 0.735, "name": "Peluqui"},
-	{"start": 0.752, "end": 0.813, "name": "Ayrton Senna Chicane"},
+	{"start": 0.752, "end": 0.805, "name": "Alex Criville"},
 	{"start": 0.817, "end": 0.855, "name": "Ferrari"},
 	{"start": 0.872, "end": 0.930, "name": "Lorenzo"}
   ],
