@@ -62,7 +62,7 @@
 | Circuit Park Zandvoort                       | Oostelijk - 2009                 | Zandvoort Oostelijk - 2009       | 3        |        |         |
 | Circuit Zolder                               | Alternate                        | Zolder Alternate                 | 3        |        |         |
 | Circuit Zolder                               | Grand Prix                       | Zolder Grand Prix                | 1        | done       |         |
-| Circuito de Jerez - Ángel Nieto              | Grand Prix                       | Jerez GP                         | 1        |        |         |
+| Circuito de Jerez - Ángel Nieto              | Grand Prix                       | Jerez GP                         | 1        | done       |         |
 | Circuito de Jerez - Ángel Nieto              | Moto                             | Moto                             | 3        |        |         |
 | Circuito de Navarra                          | Speed Circuit                    | Speed Circuit                    | 1        |        |         |
 | Circuito de Navarra                          | Speed Circuit - Medium           | Speed Circuit - Medium           | 3        |        |         |
@@ -77,9 +77,9 @@
 | Detroit Grand Prix at Belle Isle             | Belle Isle                       | Belle Isle                       | 1        |        | Donutz does not own this track        |
 | Donington Park Racing Circuit                | Grand Prix                       | Donnington GP                    | 1        | done       |         |
 | Donington Park Racing Circuit                | National                         | Donnington National              | 1        | done       |         |
-| Fuji International Speedway                  | Grand Prix                       | Fuji Grand Prix                  | 1        |        |         |
+| Fuji International Speedway                  | Grand Prix                       | Fuji Grand Prix                  | 1        |        | Donutz does not own this track        |
 | Fuji International Speedway                  | No Chicane                       | Fuji No Chicane                  | 2        |        |         |
-| Hockenheimring Baden-Württemberg             | Grand Prix                       | Hockenheim Grand Prix            | 1        |        |         |
+| Hockenheimring Baden-Württemberg             | Grand Prix                       | Hockenheim Grand Prix            | 1        | done       |         |
 | Hockenheimring Baden-Württemberg             | National A                       | Hockenheim National A            | 3        |        |         |
 | Hockenheimring Baden-Württemberg             | National B                       | Hockenheim National B            | 3        |        |         |
 | Hockenheimring Baden-Württemberg             | Outer                            | Hockenheim Outer                 | 3        |        |         |
@@ -173,8 +173,8 @@
 | Oulton Park Circuit                          | Island                           | Oulton Park Island               | 3        |        |         |
 | Oulton Park Circuit                          | Island Historic                  | Oulton Park Island Historic      | 2        |        |         |
 | Phillip Island Circuit                       |                              | Phillip Island                   | 1        |        |         |
-| Red Bull Ring                                | Grand Prix                       | Red Bull Grand Prix              | 1        |        |         |
-| Red Bull Ring                                | National                         | Red Bull National                |      |        |         |
+| Red Bull Ring                                | Grand Prix                       | Red Bull Grand Prix              | 1        | done       |         |
+| Red Bull Ring                                | National                         | Red Bull National                | 3    |        |         |
 | Red Bull Ring                                | North                            | Red Bull North                   | 3        |        |         |
 | Road America                                 | Bend                             | Road America Bend                | 3        |        |         |
 | Road America                                 | Full Course                      | Road America Full                | 1        | done       |         |

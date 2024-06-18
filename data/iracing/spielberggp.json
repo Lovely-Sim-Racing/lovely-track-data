@@ -1,0 +1,21 @@
+{
+  "name": "Red Bull Ring - GP",
+  "country": "AT",
+  "length": 4280,
+  "pitentry": 0.890,
+  "pitexit": 0.112,
+  "turn": [
+    {"start": 0.075, "end": 0.125, "name": "Niki Lauda Kurve"},
+	{"start": 0.290, "end": 0.345, "name": "Remus"},
+	{"start": 0.470, "end": 0.540, "name": "Schlossgold"},
+	{"start": 0.590, "end": 0.660, "name": "Rauch"},
+	{"start": 0.675, "end": 0.780, "name": "Wuerth"},
+	{"start": 0.830, "end": 0.900, "name": "Rindt"},
+	{"start": 0.905, "end": 0.951, "name": "Red Bull Mobile"}
+  ],
+  "sector": [
+    {"marker": 0.272,"name": "1"},
+    {"marker": 0.668,"name": "2"},
+    {"marker": 1.000,"name": "3"}
+  ]
+}

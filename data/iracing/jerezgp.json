@@ -1,0 +1,25 @@
+{
+  "name": "Circuito de Jerez - Angel Nieto",
+  "country": "ES",
+  "length": 4370,
+  "pitentry": 0.884,
+  "pitexit": 0.055,
+  "turn": [
+    {"start": 0.030, "end": 0.088, "name": "Expo 92"},
+	{"start": 0.095, "end": 0.140, "name": "Michelin"},
+	{"start": 0.250, "end": 0.350, "name": "Sito Pons"},
+	{"start": 0.435, "end": 0.490, "name": "Dry Sack"},
+	{"start": 0.470, "end": 0.649, "name": "Aspar"},
+	{"start": 0.650, "end": 0.695, "name": "Angel Nieto"},
+	{"start": 0.696, "end": 0.735, "name": "Peluqui"},
+	{"start": 0.752, "end": 0.813, "name": "Ayrton Senna Chicane"},
+	{"start": 0.817, "end": 0.855, "name": "Ferrari"},
+	{"start": 0.872, "end": 0.930, "name": "Lorenzo"}
+  ],
+  "sector": [
+    {"marker": 0.253,"name": "1"},
+    {"marker": 0.418,"name": "2"},
+    {"marker": 0.697,"name": "3"},
+	{"marker": 1.000,"name": "4"}
+  ]
+}
