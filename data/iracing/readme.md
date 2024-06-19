@@ -207,7 +207,7 @@
 | Summit Point Raceway                         | Short                            | Summit Point Short               | 3        |        |         |
 | Summit Point Raceway                         | Summit Point Raceway             | Summit Point                     | 1        | done       |         |
 | Suzuka International Racing Course           | East                             | Suzuka East                      | 3        |        |         |
-| Suzuka International Racing Course           | Grand Prix                       | Suzuka Grand Prix                | 1        |        |         |
+| Suzuka International Racing Course           | Grand Prix                       | Suzuka Grand Prix                | 1        | done       |         |
 | Suzuka International Racing Course           | Moto                             | Suzuka Moto                      | 3        |        |         |
 | Suzuka International Racing Course           | West                             | Suzuka West                      | 3        |        |         |
 | Suzuka International Racing Course           | West w/chicane                   | Suzuka West Chicane              | 3        |        |         |
