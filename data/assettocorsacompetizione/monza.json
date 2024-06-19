@@ -2,49 +2,73 @@
   "name": "Monza",
   "country": "IT",
   "length": 5793,
+  "pitentry": 0.963,
+  "pitexit": 0.079,
   "turn": [
     {
-      "name": "1",
+      "name": "Variante Rettifilo",
+      "start": 0.151,
+      "end": 0.164,
       "marker": 0.162
     },
     {
-      "name": "2",
+      "name": "Variante Rettifilo",
+      "start": 0.165,
+      "end": 0.181,
       "marker": 0.169
     },
     {
-      "name": "3",
+      "name": "Curva Grande",
+      "start": 0.222,
+      "end": 0.309,
       "marker": 0.262
     },
     {
-      "name": "4",
+      "name": "Variante della Roggia",
+      "start": 0.353,
+      "end": 0.374,
       "marker": 0.372
     },
     {
-      "name": "5",
+      "name": "Variante della Roggia",
+      "start": 0.375,
+      "end": 0.393,
       "marker": 0.379
     },
     {
-      "name": "6",
+      "name": "Lesmo 1",
+      "start": 0.423,
+      "end": 0.461,
       "marker": 0.443
     },
     {
-      "name": "7",
+      "name": "Lesmo 2",
+      "start": 0.485,
+      "end": 0.527,
       "marker": 0.499
     },
     {
-      "name": "8",
+      "name": "Variante Ascari",
+      "start": 0.666,
+      "end": 0.692,
       "marker": 0.684
     },
     {
-      "name": "9",
+      "name": "Variante Ascari",
+      "start": 0.693,
+      "end": 0.712,
       "marker": 0.7
     },
     {
-      "name": "10",
+      "name": "Variante Ascari",
+      "start": 0.713,
+      "end": 0.739,
       "marker": 0.716
     },
     {
-      "name": "11",
+      "name": "Parabolica",
+      "start": 0.875,
+      "end": 0.961,
       "marker": 0.896
     }
   ],
