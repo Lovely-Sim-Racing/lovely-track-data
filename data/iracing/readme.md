@@ -205,7 +205,7 @@
 | Summit Point Raceway                         | Jefferson Reverse                | Summit Point Jefferson Reverse   | 3        |        |         |
 | Summit Point Raceway                         | School                           | Summit Point School              | 3        |        |         |
 | Summit Point Raceway                         | Short                            | Summit Point Short               | 3        |        |         |
-| Summit Point Raceway                         | Summit Point Raceway             | Summit Point                     | 1        |        |         |
+| Summit Point Raceway                         | Summit Point Raceway             | Summit Point                     | 1        | done       |         |
 | Suzuka International Racing Course           | East                             | Suzuka East                      | 3        |        |         |
 | Suzuka International Racing Course           | Grand Prix                       | Suzuka Grand Prix                | 1        |        |         |
 | Suzuka International Racing Course           | Moto                             | Suzuka Moto                      | 3        |        |         |
