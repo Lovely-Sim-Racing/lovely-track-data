@@ -176,7 +176,7 @@
 | Red Bull Ring                                | Grand Prix                       | Red Bull Grand Prix              | 1        | done       |         |
 | Red Bull Ring                                | National                         | Red Bull National                | 3    |        |         |
 | Red Bull Ring                                | North                            | Red Bull North                   | 3        |        |         |
-| Road America                                 | Bend                             | Road America Bend                | 3        |        |         |
+| Road America                                 | Bend                             | Road America Bend                | 3        | done   |         |
 | Road America                                 | Full Course                      | Road America Full                | 1        | done       |         |
 | Road Atlanta                                 | Club                             | Road Atlanta Club                | 3        |        |         |
 | Road Atlanta                                 | Full Course                      | Road Atlanta Full                | 1        |        |         |
