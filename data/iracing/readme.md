@@ -190,9 +190,9 @@
 | Sebring International Raceway                | Club                             | Sebring Club                     | 3        |        |         |
 | Sebring International Raceway                | International                    | Sebring International            | 1        | done       |         |
 | Sebring International Raceway                | Modified                         | Sebring Modified                 | 3        |        |         |
-| Silverstone Circuit                          | Grand Prix                       | Silverstone Grand Prix           | 1        |        |         |
+| Silverstone Circuit                          | Grand Prix                       | Silverstone Grand Prix           | 1        | done       |         |
 | Silverstone Circuit                          | International                    | Silverstone International        | 3        |        |         |
-| Silverstone Circuit                          | National                         | Silverstone National             | 1        |        |         |
+| Silverstone Circuit                          | National                         | Silverstone National             | 2        |        |         |
 | Snetterton Circuit                           | 100                              | Snetterton 100                   | 2        |        |         |
 | Snetterton Circuit                           | 200                              | Snetterton 200                   | 2        |        |         |
 | Snetterton Circuit                           | 300                              | Snetterton 300                   | 1        | done       |         |
