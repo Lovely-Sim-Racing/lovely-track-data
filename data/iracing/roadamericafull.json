@@ -43,7 +43,7 @@
     {
       "start": 0.53,
       "end": 0.615,
-      "name": "Carousel"
+      "name": "The Carousel"
     },
     {
       "start": 0.64,
@@ -63,7 +63,7 @@
     {
       "start": 0.824,
       "end": 0.855,
-      "name": "Turn 13"
+      "name": "Bill Mitchell Bend"
     },
     {
       "start": 0.871,
@@ -77,6 +77,12 @@
       "marker": 0.465,
       "end": 0.48,
       "name": "Hurry Downs"
+    },
+    {
+      "start": 0.807,
+      "marker": 0.815,
+      "end": 0.823,
+      "name": "Thunder Valley"
     }
   ],
   "sector": [
