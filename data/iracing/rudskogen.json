@@ -1,0 +1,98 @@
+{
+  "name": "Rudskogen Motorsenter",
+  "country": "NO",
+  "year": 2012,
+  "length": 3150,
+  "pitentry": 0.907,
+  "pitexit": 0.132,
+  "turn": [
+    {
+      "start": 0.092,
+      "end": 0.125,
+      "name": "Turn 1"
+    },
+    {
+      "start": 0.132,
+      "end": 0.22,
+      "name": "Turn 2"
+    },
+    {
+      "start": 0.324,
+      "end": 0.407,
+      "name": "Turn 3"
+    },
+    {
+      "start": 0.408,
+      "end": 0.456,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.47,
+      "end": 0.499,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.5,
+      "end": 0.527,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.528,
+      "end": 0.552,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.553,
+      "end": 0.598,
+      "name": "Turn 8"
+    },
+    {
+      "start": 0.599,
+      "end": 0.642,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.671,
+      "end": 0.729,
+      "name": "Turn 10"
+    },
+    {
+      "start": 0.739,
+      "end": 0.774,
+      "name": "Turn 11"
+    },
+    {
+      "start": 0.775,
+      "end": 0.819,
+      "name": "Turn 12"
+    },
+    {
+      "start": 0.82,
+      "end": 0.854,
+      "name": "Turn 13"
+    },
+    {
+      "start": 0.855,
+      "end": 0.95,
+      "name": "Turn 14"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.336,
+      "name": "1"
+    },
+    {
+      "marker": 0.672,
+      "name": "2"
+    },
+    {
+      "marker": 0.822,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

@@ -93,7 +93,7 @@
 | Homestead Miami Speedway                     | Road Course B                    | Homestead Road B                 | 3        |        |         |
 | Hungaroring                                  |                              | Hungaroring                      | 1        |        |         |
 | Indianapolis Motor Speedway                  | Bike - 2009                      | Indianapolis 2009 Bike           | 3        |        |         |
-| Indianapolis Motor Speedway                  | Road Course                      | Indianapolis Road                | 1        |        |         |
+| Indianapolis Motor Speedway                  | Road Course                      | Indianapolis Road                | 1        | done       |         |
 | Indianapolis Motor Speedway                  | Road Course - 2009               | Indianapolis Road - 2009         | 3        |        |         |
 | Iowa Speedway                                | Road Course                      | Iowa Road                        | 2        |        |         |
 | Kansas Speedway                              | Infield Road Course              | Kansas Infield Road              | 2        |        |         |
@@ -172,27 +172,27 @@
 | Oulton Park Circuit                          | Intl w/out Hislop                | Outlon Park w/out Hislop         | 3        |        |         |
 | Oulton Park Circuit                          | Island                           | Oulton Park Island               | 3        |        |         |
 | Oulton Park Circuit                          | Island Historic                  | Oulton Park Island Historic      | 2        |        |         |
-| Phillip Island Circuit                       |                              | Phillip Island                   | 1        |        |         |
+| Phillip Island Circuit                       |                              | Phillip Island                   | 2        |        | Donutz does not own this track        |
 | Red Bull Ring                                | Grand Prix                       | Red Bull Grand Prix              | 1        | done       |         |
 | Red Bull Ring                                | National                         | Red Bull National                | 3    |        |         |
 | Red Bull Ring                                | North                            | Red Bull North                   | 3        |        |         |
 | Road America                                 | Bend                             | Road America Bend                | 3        | done   |         |
 | Road America                                 | Full Course                      | Road America Full                | 1        | done       |         |
 | Road Atlanta                                 | Club                             | Road Atlanta Club                | 3        |        |         |
-| Road Atlanta                                 | Full Course                      | Road Atlanta Full                | 1        |        |         |
+| Road Atlanta                                 | Full Course                      | Road Atlanta Full                | 1        | done       |         |
 | Road Atlanta                                 | Short                            | Road Atlanta Short               | 3        |        |         |
 | Rockingham Speedway                          | Infield Road Course              | Rockingham Infield Road          | 3        |        |         |
 | Rockingham Speedway                          | Road Course                      | Rockingham Road Course           | 3        |        |         |
 | Rockingham Speedway                          | Short Road Course                | Rockingham Short Road            | 3        |        |         |
-| Rudskogen Motorsenter                        |                              | Rudskogen Motorsenter            | 1        |        |         |
+| Rudskogen Motorsenter                        |                              | Rudskogen Motorsenter            | 1        | done       |         |
 | Sachsenring                                  |                              | Sachsenring                      | 1        | done       |         |
 | Sandown International Motor Raceway          |                              | Sandown                          | 2        |        |         |
 | Sebring International Raceway                | Club                             | Sebring Club                     | 3        |        |         |
 | Sebring International Raceway                | International                    | Sebring International            | 1        | done       |         |
 | Sebring International Raceway                | Modified                         | Sebring Modified                 | 3        |        |         |
-| Silverstone Circuit                          | Grand Prix                       | Silverstone Grand Prix           | 1        |        |         |
+| Silverstone Circuit                          | Grand Prix                       | Silverstone Grand Prix           | 1        | done       |         |
 | Silverstone Circuit                          | International                    | Silverstone International        | 3        |        |         |
-| Silverstone Circuit                          | National                         | Silverstone National             | 1        |        |         |
+| Silverstone Circuit                          | National                         | Silverstone National             | 2        |        |         |
 | Snetterton Circuit                           | 100                              | Snetterton 100                   | 2        |        |         |
 | Snetterton Circuit                           | 200                              | Snetterton 200                   | 2        |        |         |
 | Snetterton Circuit                           | 300                              | Snetterton 300                   | 1        | done       |         |
@@ -205,9 +205,9 @@
 | Summit Point Raceway                         | Jefferson Reverse                | Summit Point Jefferson Reverse   | 3        |        |         |
 | Summit Point Raceway                         | School                           | Summit Point School              | 3        |        |         |
 | Summit Point Raceway                         | Short                            | Summit Point Short               | 3        |        |         |
-| Summit Point Raceway                         | Summit Point Raceway             | Summit Point                     | 1        |        |         |
+| Summit Point Raceway                         | Summit Point Raceway             | Summit Point                     | 1        | done       |         |
 | Suzuka International Racing Course           | East                             | Suzuka East                      | 3        |        |         |
-| Suzuka International Racing Course           | Grand Prix                       | Suzuka Grand Prix                | 1        |        |         |
+| Suzuka International Racing Course           | Grand Prix                       | Suzuka Grand Prix                | 1        | done       |         |
 | Suzuka International Racing Course           | Moto                             | Suzuka Moto                      | 3        |        |         |
 | Suzuka International Racing Course           | West                             | Suzuka West                      | 3        |        |         |
 | Suzuka International Racing Course           | West w/chicane                   | Suzuka West Chicane              | 3        |        |         |
