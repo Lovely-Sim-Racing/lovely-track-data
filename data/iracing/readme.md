@@ -118,7 +118,7 @@
 | Mid-Ohio Sports Car Course                   | Full Course                      | Mid-Ohio Full                    | 1        |        | Donutz does not own this track        |
 | Mid-Ohio Sports Car Course                   | Short                            | Mid-Ohio Short                   | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Club                             | Misano Club                      | 3        |        |         |
-| Misano World Circuit Marco Simoncelli        | Grand Prix                       | Misano Grand Prix                | 1        |        | Donutz does not own this track        |
+| Misano World Circuit Marco Simoncelli        | Grand Prix                       | Misano Grand Prix                | 1        | done       |  |
 | Misano World Circuit Marco Simoncelli        | Grand Prix - 2007                | Misano Grand Prix - 2007         | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Grand Prix - Historic Reverse    | Misano GP - Historic Reverse     | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Truck                            | Misano Truck                     | 3        |        |         |
