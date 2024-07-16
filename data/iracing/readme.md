@@ -8,7 +8,7 @@
 | Auto Club Speedway                           | Competition                      | Auto Club Competition            | 3        |        |         |
 | Auto Club Speedway                           | Interior                         | Auto Club Interior               | 3        |        |         |
 | Auto Club Speedway                           | Moto                             | Auto Club Moto                   | 3        |        |         |
-| Autodromo Internazionale del Mugello         | Grand Prix                       | Mugello Grand Prix               | 1        |        | Donutz does not own this track        |
+| Autodromo Internazionale del Mugello         | Grand Prix                       | Mugello Grand Prix               | 1        | done       |   |
 | Autodromo Internazionale del Mugello         | Short                            | Mugello Short                    | 2        |        |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Grand Prix                       | Imola Grand Prix                 | 1        | done       |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Moto                             | Imola Moto                       | 2        |        |         |

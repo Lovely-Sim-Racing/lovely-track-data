@@ -1,0 +1,29 @@
+{
+  "name": "Mugello Grand Prix",
+  "country": "IT",
+  "length": 5190,
+  "pitentry": 0.912,
+  "pitexit": 0.060,
+  "turn": [
+    {"start": 0.116, "end": 0.167, "name": "San Donato"},
+	{"start": 0.170, "end": 0.194, "name": "Luco"},
+	{"start": 0.195, "end": 0.235, "name": "Poggiosecco"},
+	{"start": 0.268, "end": 0.294, "name": "Materassi"},
+	{"start": 0.295, "end": 0.320, "name": "Borgo San Lorenzo"},
+	{"start": 0.355, "end": 0.384, "name": "Casanova"},
+	{"start": 0.390, "end": 0.420, "name": "Savelli"},
+	{"start": 0.436, "end": 0.485, "name": "Arrabbiata 1"},
+	{"start": 0.495, "end": 0.535, "name": "Arrabbiata 2"},
+	{"start": 0.570, "end": 0.590, "name": "Scarperia"},
+	{"start": 0.592, "end": 0.625, "name": "Palagio"},
+	{"start": 0.666, "end": 0.722, "name": "Correntaio"},
+	{"start": 0.730, "end": 0.753, "name": "Biondetti 1"},
+	{"start": 0.755, "end": 0.770, "name": "Biondetti 2"},
+	{"start": 0.830, "end": 0.900, "name": "Bucine"}
+  ],
+  "sector": [
+    {"marker": 0.356,"name": "1"},
+    {"marker": 0.645,"name": "2"},
+    {"marker": 1.000,"name": "3"}
+  ]
+}
