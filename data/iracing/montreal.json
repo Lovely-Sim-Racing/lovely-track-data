@@ -77,5 +77,13 @@
       "marker": 1.0,
       "name": "3"
     }
+  ],
+  "companion": [
+    {
+      "top": -250,
+      "left": -420,
+      "rotation": -78,
+      "scale": 2
+    }
   ]
 }
