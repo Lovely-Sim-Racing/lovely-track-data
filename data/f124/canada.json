@@ -1,0 +1,29 @@
+{
+  "name": "Montreal",
+  "country": "Canada",
+  "year": 2002,
+  "length": 4371,
+  "pitentry": 0.8937,
+  "pitexit": 0.0849,
+  "sector": [
+    { "marker": 0.2521, "name": "1" },
+    { "marker": 0.5720, "name": "2" },
+    { "marker": 1.0000, "name": "3" }
+  ],
+  "turn": [
+    { "start": 0.0575, "marker": 0.0596, "end": 0.0629, "direction": 0, "scale": 2, "name": "Senna 'S'" },
+    { "start": 0.0704, "marker": 0.0758, "end": 0.0948, "direction": 1, "scale": 1, "name": "Senna 'S'" },
+    { "start": 0.1670, "marker": 0.1699, "end": 0.1733, "direction": 1, "scale": 2, "name": "T3" },
+    { "start": 0.1804, "marker": 0.1821, "end": 0.1857, "direction": 0, "scale": 3, "name": "T4" },
+    { "start": 0.2250, "marker": 0.2403, "end": 0.2529, "direction": 1, "scale": 4, "name": "T5" },
+    { "start": 0.2854, "marker": 0.2914, "end": 0.2970, "direction": 0, "scale": 2, "name": "T6" },
+    { "start": 0.3003, "marker": 0.3053, "end": 0.3243, "direction": 1, "scale": 3, "name": "T7" },
+    { "start": 0.4620, "marker": 0.4640, "end": 0.4661, "direction": 1, "scale": 2, "name": "Pont de la Concorde" },
+    { "start": 0.4695, "marker": 0.4735, "end": 0.4869, "direction": 0, "scale": 3, "name": "T9" },
+    { "start": 0.6145, "marker": 0.6228, "end": 0.6285, "direction": 1, "scale": 1, "name": "The Hairpin" },
+    { "start": 0.6429, "marker": 0.6471, "end": 0.6539, "direction": 0, "scale": 5, "name": "T11" },
+    { "start": 0.7296, "marker": 0.7353, "end": 0.7460, "direction": 1, "scale": 6, "name": "T12" },
+    { "start": 0.8943, "marker": 0.8970, "end": 0.8998, "direction": 1, "scale": 2, "name": "T13" },
+    { "start": 0.8998, "marker": 0.9040, "end": 0.9071, "direction": 0, "scale": 2, "name": "T14" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Catalunya",
+    "country": "Spain",
+    "year": 2023,
+    "length": 4664,
+    "pitentry": 0.9118,
+    "pitexit": 0.1636,
+    "sector": [
+      { "marker": 0.3485, "name": "1" },
+      { "marker": 0.7314, "name": "2" },
+      { "marker": 1.0000, "name": "3" }
+    ],
+    "turn": [
+      { "start": 0.1722, "marker": 0.1813, "end": 0.1889, "direction": 1, "scale": 2, "name": "Elf" },
+      { "start": 0.1928, "marker": 0.2008, "end": 0.2092, "direction": 0, "scale": 3, "name": "T2" },
+      { "start": 0.2222, "marker": 0.2521, "end": 0.3059, "direction": 1, "scale": 5, "name": "Renault" },
+      { "start": 0.3555, "marker": 0.3754, "end": 0.4107, "direction": 1, "scale": 4, "name": "Repsol" },
+      { "start": 0.4450, "marker": 0.4594, "end": 0.4680, "direction": 0, "scale": 1, "name": "Seat" },
+      { "start": 0.4996, "marker": 0.5106, "end": 0.5216, "direction": 0, "scale": 6, "name": "T6" },
+      { "start": 0.5398, "marker": 0.5492, "end": 0.5553, "direction": 0, "scale": 2, "name": "Würth, TV3" },
+      { "start": 0.5588, "marker": 0.5669, "end": 0.5732, "direction": 1, "scale": 4, "name": "T8" },
+      { "start": 0.6058, "marker": 0.6228, "end": 0.6388, "direction": 1, "scale": 3, "name": "Campsa" },
+      { "start": 0.7413, "marker": 0.7508, "end": 0.7577, "direction": 0, "scale": 1, "name": "La Caixa" },
+      { "start": 0.7591, "marker": 0.7693, "end": 0.7873, "direction": 0, "scale": 4, "name": "T11" },
+      { "start": 0.7916, "marker": 0.8128, "end": 0.8337, "direction": 1, "scale": 3, "name": "Banc Sabadell" },
+      { "start": 0.8625, "marker": 0.8756, "end": 0.8851, "direction": 1, "scale": 3, "name": "Europcar" },
+      { "start": 0.9165, "marker": 0.9348, "end": 0.9511, "direction": 1, "scale": 3, "name": "Catalunya" }
+    ]
+  }

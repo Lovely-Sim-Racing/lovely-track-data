@@ -1,0 +1,32 @@
+{
+
+    "name": "Sakhir (Bahrain)",
+    "country": "Bahrain",
+    "year": 2007,
+    "length": 5408,
+    "pitentry": 0.9649,
+    "pitexit": 0.1247,
+
+    "sector": [
+      { "marker": 0.3339, "name": "1" },
+      { "marker": 0.7410, "name": "2" },
+      { "marker": 1.0000, "name": "3" }
+    ],
+    "turn": [
+      { "start": 0.1327, "marker": 0.1372, "end": 0.1410, "direction": 1, "scale": 1, "name": "T1" },
+      { "start": 0.1525, "marker": 0.1559, "end": 0.1584, "direction": 0, "scale": 3, "name": "T2" },
+      { "start": 0.1668, "marker": 0.1741, "end": 0.1811, "direction": 1, "scale": 4, "name": "T3" },
+      { "start": 0.2784, "marker": 0.2831, "end": 0.2958, "direction": 1, "scale": 3, "name": "T4" },
+      { "start": 0.3128, "marker": 0.3260, "end": 0.3387, "direction": 0, "scale": 6, "name": "T5" },
+      { "start": 0.3445, "marker": 0.3525, "end": 0.3597, "direction": 1, "scale": 4, "name": "T6" },
+      { "start": 0.3655, "marker": 0.3742, "end": 0.3817, "direction": 0, "scale": 5, "name": "T7" },
+      { "start": 0.4164, "marker": 0.4215, "end": 0.4298, "direction": 1, "scale": 1, "name": "T8" },
+      { "start": 0.4819, "marker": 0.4874, "end": 0.4976, "direction": 0, "scale": 3, "name": "T9" },
+      { "start": 0.5047, "marker": 0.5080, "end": 0.5117, "direction": 0, "scale": 1, "name": "T10" },
+      { "start": 0.6359, "marker": 0.6426, "end": 0.6824, "direction": 0, "scale": 2, "name": "T11" },
+      { "start": 0.6907, "marker": 0.7134, "end": 0.7295, "direction": 1, "scale": 5, "name": "T12" },
+      { "start": 0.7507, "marker": 0.7655, "end": 0.7789, "direction": 1, "scale": 3, "name": "T13" },
+      { "start": 0.9076, "marker": 0.9134, "end": 0.9167, "direction": 1, "scale": 2, "name": "T14" },
+      { "start": 0.9211, "marker": 0.9261, "end": 0.9313, "direction": 1, "scale": 6, "name": "T15" }
+    ]
+  }
