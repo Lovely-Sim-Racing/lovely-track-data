@@ -1,0 +1,29 @@
+{
+    "name": "Melbourne",
+    "country": "Australia",
+    "year": 2021,
+    "length": 5276,
+    "pitentry": 0.9000,
+    "pitexit": 0.0671,
+    "sector": [
+      { "marker": 0.3342, "name": "1" },
+      { "marker": 0.6037, "name": "2" },
+      { "marker": 1.0000, "name": "3" }
+    ],
+    "turn": [
+      { "start": 0.0687, "marker": 0.0730, "end": 0.0764, "direction": 1, "scale": 2, "name": "T1" },
+      { "start": 0.0764, "marker": 0.0842, "end": 0.1067, "direction": 0, "scale": 3, "name": "T2" },
+      { "start": 0.2057, "marker": 0.2107, "end": 0.2189, "direction": 1, "scale": 2, "name": "T3" },
+      { "start": 0.2328, "marker": 0.2383, "end": 0.2437, "direction": 0, "scale": 2, "name": "T4" },
+      { "start": 0.2748, "marker": 0.2787, "end": 0.2847, "direction": 1, "scale": 3, "name": "T5" },
+      { "start": 0.3535, "marker": 0.3591, "end": 0.3651, "direction": 1, "scale": 2, "name": "T6" },
+      { "start": 0.3651, "marker": 0.3745, "end": 0.3844, "direction": 0, "scale": 4, "name": "T7" },
+      { "start": 0.3844, "marker": 0.4163, "end": 0.4359, "direction": 1, "scale": 5, "name": "T8" },
+      { "start": 0.6202, "marker": 0.6292, "end": 0.6385, "direction": 0, "scale": 4, "name": "T9" },
+      { "start": 0.6385, "marker": 0.6538, "end": 0.6623, "direction": 1, "scale": 3, "name": "T10" },
+      { "start": 0.7845, "marker": 0.7882, "end": 0.7920, "direction": 1, "scale": 2, "name": "T11" },
+      { "start": 0.8299, "marker": 0.8381, "end": 0.8457, "direction": 1, "scale": 2, "name": "T12" },
+      { "start": 0.8781, "marker": 0.8838, "end": 0.8897, "direction": 0, "scale": 2, "name": "T13" },
+      { "start": 0.9031, "marker": 0.9112, "end": 0.9208, "direction": 1, "scale": 2, "name": "T14" }
+    ]
+  }

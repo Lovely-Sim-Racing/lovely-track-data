@@ -1,0 +1,31 @@
+{
+    "name": "Shanghai",
+    "country": "China",
+    "year": 2004,
+    "length": 5441,
+    "pitentry": 0.9510,
+    "pitexit": 0.0785,
+    "sector": [
+      { "marker": 0.2607, "number": 1, "name": "1" },
+      { "marker": 0.5486, "number": 2, "name": "2" },
+      { "marker": 0.1000, "number": 3, "name": "3" }
+    ],
+    "turn": [
+      { "start": 0.0902, "marker": 0.1075, "end": 0.1355, "direction": 1, "scale": 3, "number": 1, "name": "T1" },
+      { "start": 0.1355, "marker": 0.1488, "end": 0.1551, "direction": 1, "scale": 3, "number": 2, "name": "T2" },
+      { "start": 0.1551, "marker": 0.1645, "end": 0.1799, "direction": 0, "scale": 2, "number": 3, "name": "T3" },
+      { "start": 0.1845, "marker": 0.1902, "end": 0.1984, "direction": 0, "scale": 3, "number": 4, "name": "T4" },
+      { "start": 0.2400, "marker": 0.2458, "end": 0.2508, "direction": 1, "scale": 5, "number": 5, "name": "T5" },
+      { "start": 0.2871, "marker": 0.2933, "end": 0.2994, "direction": 1, "scale": 1, "number": 6, "name": "T6" },
+      { "start": 0.3513, "marker": 0.3859, "end": 0.4017, "direction": 0, "scale": 6, "number": 7, "name": "T7" },
+      { "start": 0.4164, "marker": 0.4307, "end": 0.4516, "direction": 1, "scale": 5, "number": 8, "name": "T8" },
+      { "start": 0.4628, "marker": 0.4693, "end": 0.4741, "direction": 0, "scale": 2, "number": 9, "name": "T9" },
+      { "start": 0.4867, "marker": 0.4903, "end": 0.4934, "direction": 0, "scale": 3, "number": 10, "name": "T10" },
+      { "start": 0.5740, "marker": 0.5780, "end": 0.5813, "direction": 0, "scale": 2, "number": 11, "name": "T11" },
+      { "start": 0.5855, "marker": 0.5910, "end": 0.5990, "direction": 1, "scale": 3, "number": 12, "name": "T12" },
+      { "start": 0.6101, "marker": 0.6237, "end": 0.6562, "direction": 1, "scale": 4, "number": 13, "name": "T13" },
+      { "start": 0.8776, "marker": 0.8817, "end": 0.8837, "direction": 1, "scale": 1, "number": 14, "name": "T14" },
+      { "start": 0.8942, "marker": 0.8970, "end": 0.8988, "direction": 1, "scale": 6, "number": 15, "name": "T15" },
+      { "start": 0.9486, "marker": 0.9501, "end": 0.9516, "direction": 0, "scale": 3, "number": 16, "name": "T16" }
+    ]
+  }

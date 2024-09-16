@@ -1,0 +1,29 @@
+{
+    "name": "Hungaroring",
+    "country": "Hungary",
+    "year": 2003,
+    "length": 4378,
+    "pitentry": 0.8957,
+    "pitexit": 0.1131,
+    "sector": [
+      { "marker": 0.3861, "name": "1" },
+      { "marker": 0.7415, "name": "2" },
+      { "marker": 1.0000, "name": "3" }
+    ],
+    "turn": [
+      { "start": 0.1328, "marker": 0.1437, "end": 0.1516, "direction": 1, "scale": 1, "name": "T1" },
+      { "start": 0.2424, "marker": 0.2593, "end": 0.2752, "direction": 0, "scale": 1, "name": "T2" },
+      { "start": 0.2970, "marker": 0.3007, "end": 0.3113, "direction": 1, "scale": 3, "name": "T3" },
+      { "start": 0.4078, "marker": 0.4116, "end": 0.4173, "direction": 0, "scale": 3, "name": "T4" },
+      { "start": 0.4498, "marker": 0.4716, "end": 0.5030, "direction": 1, "scale": 3, "name": "T5" },
+      { "start": 0.5365, "marker": 0.5437, "end": 0.5468, "direction": 1, "scale": 2, "name": "T6" },
+      { "start": 0.5486, "marker": 0.5516, "end": 0.5547, "direction": 0, "scale": 2, "name": "T7" },
+      { "start": 0.5845, "marker": 0.5922, "end": 0.5974, "direction": 0, "scale": 3, "name": "T8" },
+      { "start": 0.6123, "marker": 0.6216, "end": 0.6313, "direction": 1, "scale": 2, "name": "T9" },
+      { "start": 0.6595, "marker": 0.6709, "end": 0.6796, "direction": 0, "scale": 3, "name": "T10" },
+      { "start": 0.6993, "marker": 0.7085, "end": 0.7198, "direction": 1, "scale": 2, "name": "T11" },
+      { "start": 0.8000, "marker": 0.8062, "end": 0.8103, "direction": 1, "scale": 2, "name": "T12" },
+      { "start": 0.8519, "marker": 0.8650, "end": 0.8811, "direction": 0, "scale": 1, "name": "T13" },
+      { "start": 0.9061, "marker": 0.9332, "end": 0.9536, "direction": 1, "scale": 1, "name": "T14" }
+    ]
+  }

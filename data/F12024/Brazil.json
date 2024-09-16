@@ -1,0 +1,30 @@
+{
+    "name": "Brazil",
+    "country": "Brazil",
+    "year": 2017,
+    "length": 4294,
+    "pitentry": 0.9057,
+    "pitexit": 0.2287,
+    "sector": [
+      { "marker": 0.2719, "name": "1" },
+      { "marker": 0.7254, "name": "2" },
+      { "marker": 1.0000, "name": "3" }
+    ],
+    "turn": [
+      { "start": 0.0591, "marker": 0.0794, "end": 0.0864, "direction": 0, "scale": 3, "name": "Senna 'S'" },
+      { "start": 0.0933, "marker": 0.0994, "end": 0.1054, "direction": 1, "scale": 3, "name": "Senna 'S'" },
+      { "start": 0.1106, "marker": 0.1415, "end": 0.1757, "direction": 0, "scale": 5, "name": "Curva do Sol" },
+      { "start": 0.3083, "marker": 0.3230, "end": 0.3332, "direction": 0, "scale": 2, "name": "Descida do Lago" },
+      { "start": 0.3495, "marker": 0.3679, "end": 0.3842, "direction": 0, "scale": 3, "name": "Descida do Lago" },
+      { "start": 0.4569, "marker": 0.4651, "end": 0.4732, "direction": 1, "scale": 3, "name": "Ferradura" },
+      { "start": 0.4862, "marker": 0.4952, "end": 0.5050, "direction": 1, "scale": 3, "name": "Laranjinha" },
+      { "start": 0.5262, "marker": 0.5373, "end": 0.5477, "direction": 1, "scale": 1, "name": "Esse" },
+      { "start": 0.5536, "marker": 0.5673, "end": 0.5851, "direction": 0, "scale": 2, "name": "Pinheirinho" },
+      { "start": 0.6255, "marker": 0.6364, "end": 0.6443, "direction": 1, "scale": 1, "name": "Bico de Pato" },
+      { "start": 0.6659, "marker": 0.6905, "end": 0.7093, "direction": 0, "scale": 3, "name": "Mergulho" },
+      { "start": 0.7432, "marker": 0.7513, "end": 0.7605, "direction": 0, "scale": 2, "name": "Junção" },
+      { "start": 0.7738, "marker": 0.7797, "end": 0.7891, "direction": 0, "scale": 4, "name": "T13" },
+      { "start": 0.8308, "marker": 0.8467, "end": 0.8581, "direction": 0, "scale": 5, "name": "Subida dos Boxes" },
+      { "start": 0.9090, "marker": 0.9346, "end": 0.9587, "direction": 0, "scale": 5, "name": "Arquibancadas" }
+    ]
+  }
