@@ -1,34 +1,176 @@
 {
-    "name": "Spa",
-    "country": "Belgium",
-    "year": 2022,
-    "length": 7007,
-    "pitentry": 0.9713,
-    "pitexit": 0.2340,
-    "sector": [
-      { "marker": 0.3317, "name": "1" },
-      { "marker": 0.7229, "name": "2" },
-      { "marker": 1.0000, "name": "3" }
-    ],
-    "turn": [
-      { "start": 0.0525, "marker": 0.0566, "end": 0.0596, "direction": 1, "scale": 1, "name": "La Source" },
-      { "start": 0.1496, "marker": 0.1518, "end": 0.1535, "direction": 0, "scale": 5, "name": "Eau Rouge" },
-      { "start": 0.1592, "marker": 0.1655, "end": 0.1757, "direction": 1, "scale": 4, "name": "Raidillon" },
-      { "start": 0.1812, "marker": 0.1846, "end": 0.1889, "direction": 0, "scale": 4, "name": "T4" },
-      { "start": 0.2224, "marker": 0.2311, "end": 0.2356, "direction": 1, "scale": 6, "name": "Kemmel" },
-      { "start": 0.3403, "marker": 0.3472, "end": 0.3522, "direction": 1, "scale": 2, "name": "Les Combes" },
-      { "start": 0.3522, "marker": 0.3573, "end": 0.3634, "direction": 0, "scale": 2, "name": "Les Combes" },
-      { "start": 0.3758, "marker": 0.3810, "end": 0.3855, "direction": 1, "scale": 2, "name": "Les Combes" },
-      { "start": 0.4267, "marker": 0.4387, "end": 0.4501, "direction": 1, "scale": 1, "name": "Bruxelles" },
-      { "start": 0.4670, "marker": 0.4726, "end": 0.4771, "direction": 0, "scale": 2, "name": "Speaker's Corner (Jacky Ickx Corner)" },
-      { "start": 0.5409, "marker": 0.5654, "end": 0.5923, "direction": 0, "scale": 4, "name": "Pouhon" },
-      { "start": 0.6365, "marker": 0.6473, "end": 0.6551, "direction": 1, "scale": 2, "name": "Les Fagnes" },
-      { "start": 0.6586, "marker": 0.6671, "end": 0.6754, "direction": 0, "scale": 2, "name": "Les Fagnes" },
-      { "start": 0.7024, "marker": 0.7084, "end": 0.7144, "direction": 1, "scale": 2, "name": "Campus" },
-      { "start": 0.7303, "marker": 0.7400, "end": 0.7496, "direction": 1, "scale": 3, "name": "Stavelot" },
-      { "start": 0.8293, "marker": 0.8429, "end": 0.8566, "direction": 0, "scale": 5, "name": "T16" },
-      { "start": 0.8770, "marker": 0.8864, "end": 0.8922, "direction": 0, "scale": 4, "name": "Blanchimont" },
-      { "start": 0.9561, "marker": 0.9640, "end": 0.9662, "direction": 1, "scale": 2, "name": "Chicane" },
-      { "start": 0.9691, "marker": 0.9719, "end": 0.9761, "direction": 0, "scale": 2, "name": "Chicane" }
-    ]
-  }
+  "name": "Spa",
+  "country": "Belgium",
+  "year": 2022,
+  "length": 7007,
+  "pitentry": 0.9713,
+  "pitexit": 0.234,
+  "sector": [
+    {
+      "marker": 0.3317,
+      "name": "1"
+    },
+    {
+      "marker": 0.7229,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ],
+  "turn": [
+    {
+      "start": 0.0525,
+      "marker": 0.0566,
+      "end": 0.0596,
+      "direction": 1,
+      "scale": 1,
+      "name": "La Source"
+    },
+    {
+      "start": 0.1496,
+      "marker": 0.1518,
+      "end": 0.1535,
+      "direction": 0,
+      "scale": 5,
+      "name": "Eau Rouge"
+    },
+    {
+      "start": 0.1592,
+      "marker": 0.1655,
+      "end": 0.1757,
+      "direction": 1,
+      "scale": 4,
+      "name": "Raidillon"
+    },
+    {
+      "start": 0.1812,
+      "marker": 0.1846,
+      "end": 0.1889,
+      "direction": 0,
+      "scale": 4,
+      "name": "T4"
+    },
+    {
+      "start": 0.2224,
+      "marker": 0.2311,
+      "end": 0.2356,
+      "direction": 1,
+      "scale": 6,
+      "name": "Kemmel"
+    },
+    {
+      "start": 0.3403,
+      "marker": 0.3472,
+      "end": 0.3522,
+      "direction": 1,
+      "scale": 2,
+      "name": "Les Combes"
+    },
+    {
+      "start": 0.3522,
+      "marker": 0.3573,
+      "end": 0.3634,
+      "direction": 0,
+      "scale": 2,
+      "name": "Les Combes"
+    },
+    {
+      "start": 0.3758,
+      "marker": 0.381,
+      "end": 0.3855,
+      "direction": 1,
+      "scale": 2,
+      "name": "Les Combes"
+    },
+    {
+      "start": 0.4267,
+      "marker": 0.4387,
+      "end": 0.4501,
+      "direction": 1,
+      "scale": 1,
+      "name": "Bruxelles"
+    },
+    {
+      "start": 0.467,
+      "marker": 0.4726,
+      "end": 0.4771,
+      "direction": 0,
+      "scale": 2,
+      "name": "Speaker's Corner (Jacky Ickx Corner)"
+    },
+    {
+      "start": 0.5409,
+      "marker": 0.5654,
+      "end": 0.5923,
+      "direction": 0,
+      "scale": 4,
+      "name": "Pouhon"
+    },
+    {
+      "start": 0.6365,
+      "marker": 0.6473,
+      "end": 0.6551,
+      "direction": 1,
+      "scale": 2,
+      "name": "Les Fagnes"
+    },
+    {
+      "start": 0.6586,
+      "marker": 0.6671,
+      "end": 0.6754,
+      "direction": 0,
+      "scale": 2,
+      "name": "Les Fagnes"
+    },
+    {
+      "start": 0.7024,
+      "marker": 0.7084,
+      "end": 0.7144,
+      "direction": 1,
+      "scale": 2,
+      "name": "Campus"
+    },
+    {
+      "start": 0.7303,
+      "marker": 0.74,
+      "end": 0.7496,
+      "direction": 1,
+      "scale": 3,
+      "name": "Stavelot"
+    },
+    {
+      "start": 0.8293,
+      "marker": 0.8429,
+      "end": 0.8566,
+      "direction": 0,
+      "scale": 5,
+      "name": "T16"
+    },
+    {
+      "start": 0.877,
+      "marker": 0.8864,
+      "end": 0.8922,
+      "direction": 0,
+      "scale": 4,
+      "name": "Blanchimont"
+    },
+    {
+      "start": 0.9561,
+      "marker": 0.964,
+      "end": 0.9662,
+      "direction": 1,
+      "scale": 2,
+      "name": "Chicane"
+    },
+    {
+      "start": 0.9691,
+      "marker": 0.9719,
+      "end": 0.9761,
+      "direction": 0,
+      "scale": 2,
+      "name": "Chicane"
+    }
+  ]
+}

@@ -1,32 +1,160 @@
 {
-    "name": "Mexico",
-    "country": "Mexico",
-    "year": 2023,
-    "length": 4525,
-    "pitentry": 0.9533,
-    "pitexit": 0.1372,
-    "sector": [
-      { "marker": 0.4502, "name": "1" },
-      { "marker": 0.7939, "name": "2" },
-      { "marker": 1.0000, "name": "3" }
-    ],
-    "turn": [
-      { "start": 0.2770, "marker": 0.2839, "end": 0.2878, "direction": 1, "scale": 2, "name": "Esses Moisés Solana" },
-      { "start": 0.2999, "marker": 0.3045, "end": 0.3071, "direction": 0, "scale": 3, "name": "Esses Moisés Solana" },
-      { "start": 0.3128, "marker": 0.3165, "end": 0.3194, "direction": 1, "scale": 3, "name": "Esses Moisés Solana" },
-      { "start": 0.4744, "marker": 0.4804, "end": 0.4830, "direction": 0, "scale": 2, "name": "Ese del Lago" },
-      { "start": 0.4935, "marker": 0.4968, "end": 0.5011, "direction": 1, "scale": 2, "name": "Ese del Lago" },
-      { "start": 0.5253, "marker": 0.5312, "end": 0.5382, "direction": 1, "scale": 1, "name": "Horquilla" },
-      { "start": 0.6034, "marker": 0.6092, "end": 0.6143, "direction": 0, "scale": 3, "name": "Esses" },
-      { "start": 0.6243, "marker": 0.6328, "end": 0.6414, "direction": 1, "scale": 5, "name": "Esses" },
-      { "start": 0.6448, "marker": 0.6553, "end": 0.6648, "direction": 0, "scale": 4, "name": "Esses" },
-      { "start": 0.6869, "marker": 0.6995, "end": 0.7094, "direction": 1, "scale": 5, "name": "T10" },
-      { "start": 0.7118, "marker": 0.7173, "end": 0.7257, "direction": 0, "scale": 5, "name": "T11" },
-      { "start": 0.8476, "marker": 0.8515, "end": 0.8547, "direction": 1, "scale": 3, "name": "T12" },
-      { "start": 0.8872, "marker": 0.8953, "end": 0.8986, "direction": 0, "scale": 1, "name": "Foro Sol" },
-      { "start": 0.9024, "marker": 0.9063, "end": 0.9111, "direction": 1, "scale": 2, "name": "T14" },
-      { "start": 0.9111, "marker": 0.9144, "end": 0.9192, "direction": 0, "scale": 6, "name": "T15" },
-      { "start": 0.9299, "marker": 0.9359, "end": 0.9415, "direction": 1, "scale": 2, "name": "T16" },
-      { "start": 0.9415, "marker": 0.9480, "end": 0.9834, "direction": 1, "scale": 5, "name": "Peraltada" }
-    ]
-  }
+  "name": "Mexico",
+  "country": "Mexico",
+  "year": 2023,
+  "length": 4525,
+  "pitentry": 0.9533,
+  "pitexit": 0.1372,
+  "sector": [
+    {
+      "marker": 0.4502,
+      "name": "1"
+    },
+    {
+      "marker": 0.7939,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ],
+  "turn": [
+    {
+      "start": 0.277,
+      "marker": 0.2839,
+      "end": 0.2878,
+      "direction": 1,
+      "scale": 2,
+      "name": "Esses Mois\u00e9s Solana"
+    },
+    {
+      "start": 0.2999,
+      "marker": 0.3045,
+      "end": 0.3071,
+      "direction": 0,
+      "scale": 3,
+      "name": "Esses Mois\u00e9s Solana"
+    },
+    {
+      "start": 0.3128,
+      "marker": 0.3165,
+      "end": 0.3194,
+      "direction": 1,
+      "scale": 3,
+      "name": "Esses Mois\u00e9s Solana"
+    },
+    {
+      "start": 0.4744,
+      "marker": 0.4804,
+      "end": 0.483,
+      "direction": 0,
+      "scale": 2,
+      "name": "Ese del Lago"
+    },
+    {
+      "start": 0.4935,
+      "marker": 0.4968,
+      "end": 0.5011,
+      "direction": 1,
+      "scale": 2,
+      "name": "Ese del Lago"
+    },
+    {
+      "start": 0.5253,
+      "marker": 0.5312,
+      "end": 0.5382,
+      "direction": 1,
+      "scale": 1,
+      "name": "Horquilla"
+    },
+    {
+      "start": 0.6034,
+      "marker": 0.6092,
+      "end": 0.6143,
+      "direction": 0,
+      "scale": 3,
+      "name": "Esses"
+    },
+    {
+      "start": 0.6243,
+      "marker": 0.6328,
+      "end": 0.6414,
+      "direction": 1,
+      "scale": 5,
+      "name": "Esses"
+    },
+    {
+      "start": 0.6448,
+      "marker": 0.6553,
+      "end": 0.6648,
+      "direction": 0,
+      "scale": 4,
+      "name": "Esses"
+    },
+    {
+      "start": 0.6869,
+      "marker": 0.6995,
+      "end": 0.7094,
+      "direction": 1,
+      "scale": 5,
+      "name": "T10"
+    },
+    {
+      "start": 0.7118,
+      "marker": 0.7173,
+      "end": 0.7257,
+      "direction": 0,
+      "scale": 5,
+      "name": "T11"
+    },
+    {
+      "start": 0.8476,
+      "marker": 0.8515,
+      "end": 0.8547,
+      "direction": 1,
+      "scale": 3,
+      "name": "T12"
+    },
+    {
+      "start": 0.8872,
+      "marker": 0.8953,
+      "end": 0.8986,
+      "direction": 0,
+      "scale": 1,
+      "name": "Foro Sol"
+    },
+    {
+      "start": 0.9024,
+      "marker": 0.9063,
+      "end": 0.9111,
+      "direction": 1,
+      "scale": 2,
+      "name": "T14"
+    },
+    {
+      "start": 0.9111,
+      "marker": 0.9144,
+      "end": 0.9192,
+      "direction": 0,
+      "scale": 6,
+      "name": "T15"
+    },
+    {
+      "start": 0.9299,
+      "marker": 0.9359,
+      "end": 0.9415,
+      "direction": 1,
+      "scale": 2,
+      "name": "T16"
+    },
+    {
+      "start": 0.9415,
+      "marker": 0.948,
+      "end": 0.9834,
+      "direction": 1,
+      "scale": 5,
+      "name": "Peraltada"
+    }
+  ]
+}
