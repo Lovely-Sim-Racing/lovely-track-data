@@ -1,9 +1,6 @@
 {
   "name": "Virginia International Raceway - Grand Course",
   "country": "US",
-  "length": 4580,
-  "pitentry": 0.95,
-  "pitexit": 0.09,
   "sector": [
     {
       "marker": 0.147,

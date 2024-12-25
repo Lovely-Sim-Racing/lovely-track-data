@@ -1,13 +1,13 @@
 {
-  "name": "Virginia International Raceway - South Course",
+  "name": "Virginia International Raceway - Patriot Course",
   "country": "US",
   "sector": [
     {
-      "marker": 0.392,
+      "marker": 0.37,
       "name": "1"
     },
     {
-      "marker": 0.711,
+      "marker": 0.73,
       "name": "2"
     },
     {
