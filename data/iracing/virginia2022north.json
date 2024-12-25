@@ -8,7 +8,7 @@
     {
       "start": 0.1,
       "end": 0.15,
-      "name": "Turn 1",
+      "name": "Horseshoe",
       "direction": 1
     },
     {
@@ -20,13 +20,13 @@
     {
       "start": 0.22,
       "end": 0.24,
-      "name": "Turn 3",
+      "name": "Nascar Bend",
       "direction": 0
     },
     {
       "start": 0.265,
       "end": 0.295,
-      "name": "Turn 4a",
+      "name": "Left Hook",
       "direction": 0
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "start": 0.385,
-      "end": 0.400,
+      "end": 0.4,
       "name": "Turn 6b",
       "direction": 0
     },
@@ -97,18 +97,18 @@
     },
     {
       "start": 0.683,
-      "end": 0.710,
-      "name": "Turn 10",
+      "end": 0.71,
+      "name": "Roller Coaster",
       "direction": 1
-    }, 
+    },
     {
       "start": 0.711,
-      "end": 0.740,
+      "end": 0.74,
       "name": "Turn 11",
       "direction": 0
     },
     {
-      "start": 0.760,
+      "start": 0.76,
       "end": 0.787,
       "name": "Turn 12a",
       "direction": 0
@@ -116,7 +116,7 @@
     {
       "start": 0.787,
       "end": 0.812,
-      "name": "Trun 12b",
+      "name": "Turn 12b",
       "direction": 1
     },
     {
@@ -126,7 +126,7 @@
       "direction": 1
     },
     {
-      "start": 0.950,
+      "start": 0.95,
       "end": 0.03,
       "name": "Turn 14",
       "direction": 1
@@ -134,7 +134,7 @@
   ],
   "straight": [
     {
-      "start": 0.870,
+      "start": 0.87,
       "end": 0.945,
       "name": "Front Straight"
     }
