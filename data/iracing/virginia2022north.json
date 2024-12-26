@@ -127,7 +127,7 @@
     },
     {
       "start": 0.95,
-      "end": 0.03,
+      "end": 0.999,
       "name": "Turn 14",
       "direction": 1
     }
