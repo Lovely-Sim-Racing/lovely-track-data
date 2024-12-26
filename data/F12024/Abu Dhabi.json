@@ -1,31 +1,152 @@
 {
-    "name": "Abu Dhabi",
-    "country": "United Arab Emirates",
-    "year": 2021,
-    "length": 5280,
-    "pitentry": 0.9521,
-    "pitexit": 0.1581,
-    "sector": [
-      { "marker": 0.2295, "name": "1" },
-      { "marker": 0.6703, "name": "2" },
-      { "marker": 1.0000, "name": "3" }
-    ],
-    "turn": [
-      { "start": 0.0696, "marker": 0.0774, "end": 0.0833, "direction": 0, "scale": 2, "name": "T1" },
-      { "start": 0.1166, "marker": 0.1236, "end": 0.1299, "direction": 0, "scale": 3, "name": "T2" },
-      { "start": 0.1434, "marker": 0.1600, "end": 0.1796, "direction": 1, "scale": 4, "name": "T3" },
-      { "start": 0.1900, "marker": 0.1987, "end": 0.2158, "direction": 0, "scale": 5, "name": "T4" },
-      { "start": 0.2630, "marker": 0.2776, "end": 0.2859, "direction": 0, "scale": 1, "name": "T5" },
-      { "start": 0.5012, "marker": 0.5039, "end": 0.5064, "direction": 0, "scale": 1, "name": "T6" },
-      { "start": 0.5131, "marker": 0.5167, "end": 0.5197, "direction": 1, "scale": 2, "name": "T7" },
-      { "start": 0.5323, "marker": 0.5536, "end": 0.5714, "direction": 0, "scale": 4, "name": "T8" },
-      { "start": 0.6880, "marker": 0.6984, "end": 0.7380, "direction": 0, "scale": 2, "name": "T9" },
-      { "start": 0.7734, "marker": 0.7798, "end": 0.7850, "direction": 1, "scale": 4, "name": "T10" },
-      { "start": 0.7985, "marker": 0.8046, "end": 0.8094, "direction": 1, "scale": 3, "name": "T11" },
-      { "start": 0.8254, "marker": 0.8291, "end": 0.8336, "direction": 1, "scale": 2, "name": "T12" },
-      { "start": 0.8446, "marker": 0.8487, "end": 0.8566, "direction": 0, "scale": 2, "name": "T13" },
-      { "start": 0.8673, "marker": 0.8710, "end": 0.8777, "direction": 0, "scale": 2, "name": "T14" },
-      { "start": 0.9177, "marker": 0.9280, "end": 0.9354, "direction": 1, "scale": 3, "name": "T15" },
-      { "start": 0.9592, "marker": 0.9703, "end": 0.9746, "direction": 1, "scale": 3, "name": "T16" }
-    ]
-  }
+  "name": "Abu Dhabi",
+  "country": "United Arab Emirates",
+  "year": 2021,
+  "length": 5280,
+  "pitentry": 0.9521,
+  "pitexit": 0.1581,
+  "sector": [
+    {
+      "marker": 0.2295,
+      "name": "1"
+    },
+    {
+      "marker": 0.6703,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ],
+  "turn": [
+    {
+      "start": 0.0696,
+      "marker": 0.0774,
+      "end": 0.0833,
+      "direction": 0,
+      "scale": 2,
+      "name": "T1"
+    },
+    {
+      "start": 0.1166,
+      "marker": 0.1236,
+      "end": 0.1299,
+      "direction": 0,
+      "scale": 3,
+      "name": "T2"
+    },
+    {
+      "start": 0.1434,
+      "marker": 0.16,
+      "end": 0.1796,
+      "direction": 1,
+      "scale": 4,
+      "name": "T3"
+    },
+    {
+      "start": 0.19,
+      "marker": 0.1987,
+      "end": 0.2158,
+      "direction": 0,
+      "scale": 5,
+      "name": "T4"
+    },
+    {
+      "start": 0.263,
+      "marker": 0.2776,
+      "end": 0.2859,
+      "direction": 0,
+      "scale": 1,
+      "name": "T5"
+    },
+    {
+      "start": 0.5012,
+      "marker": 0.5039,
+      "end": 0.5064,
+      "direction": 0,
+      "scale": 1,
+      "name": "T6"
+    },
+    {
+      "start": 0.5131,
+      "marker": 0.5167,
+      "end": 0.5197,
+      "direction": 1,
+      "scale": 2,
+      "name": "T7"
+    },
+    {
+      "start": 0.5323,
+      "marker": 0.5536,
+      "end": 0.5714,
+      "direction": 0,
+      "scale": 4,
+      "name": "T8"
+    },
+    {
+      "start": 0.688,
+      "marker": 0.6984,
+      "end": 0.738,
+      "direction": 0,
+      "scale": 2,
+      "name": "T9"
+    },
+    {
+      "start": 0.7734,
+      "marker": 0.7798,
+      "end": 0.785,
+      "direction": 1,
+      "scale": 4,
+      "name": "T10"
+    },
+    {
+      "start": 0.7985,
+      "marker": 0.8046,
+      "end": 0.8094,
+      "direction": 1,
+      "scale": 3,
+      "name": "T11"
+    },
+    {
+      "start": 0.8254,
+      "marker": 0.8291,
+      "end": 0.8336,
+      "direction": 1,
+      "scale": 2,
+      "name": "T12"
+    },
+    {
+      "start": 0.8446,
+      "marker": 0.8487,
+      "end": 0.8566,
+      "direction": 0,
+      "scale": 2,
+      "name": "T13"
+    },
+    {
+      "start": 0.8673,
+      "marker": 0.871,
+      "end": 0.8777,
+      "direction": 0,
+      "scale": 2,
+      "name": "T14"
+    },
+    {
+      "start": 0.9177,
+      "marker": 0.928,
+      "end": 0.9354,
+      "direction": 1,
+      "scale": 3,
+      "name": "T15"
+    },
+    {
+      "start": 0.9592,
+      "marker": 0.9703,
+      "end": 0.9746,
+      "direction": 1,
+      "scale": 3,
+      "name": "T16"
+    }
+  ]
+}
