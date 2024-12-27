@@ -122,9 +122,9 @@
 | Misano World Circuit Marco Simoncelli        | Grand Prix - 2007                | Misano Grand Prix - 2007         | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Grand Prix - Historic Reverse    | Misano GP - Historic Reverse     | 3        |        |         |
 | Misano World Circuit Marco Simoncelli        | Truck                            | Misano Truck                     | 3        |        |         |
-| Mobility Resort Motegi                       | East                             | Twin Ring Motegi East            | 3        |        |         |
-| Mobility Resort Motegi                       | Grand Prix                       | Twin Ring Motegi GP              | 1        |        | Donutz does not own this track        |
-| Mobility Resort Motegi                       | West                             | Twin Ring Motegi West            | 3        |        |         |
+| Mobility Resort Motegi                       | East                             | Twin Ring Motegi East            | 3        | done       |         |
+| Mobility Resort Motegi                       | Grand Prix                       | Twin Ring Motegi GP              | 1        | done       |         |
+| Mobility Resort Motegi                       | West                             | Twin Ring Motegi West            | 3        | done       |         |
 | MotorLand Aragón                             | Grand Prix                       | Aragón GP                        | 1        |        | Donutz does not own this track        |
 | MotorLand Aragón                             | Motorcycle Grand Prix            | Motorcycle Grand Prix            | 3        |        |         |
 | MotorLand Aragón                             | Motorcycle National              | Motorcycle National              | 3        |        |         |
@@ -239,7 +239,7 @@
 | Watkins Glen International                   | [Retired] Classic Boot           | Watkins Glen Classic Boot [Ret]  | 3        |        |         |
 | Watkins Glen International                   | [Retired] Cup                    | Watkins Glen Cup [Retired]       | 3        |        |         |
 | WeatherTech Raceway at Laguna Seca           | Full Course                      | Laguna Seca                      | 1        | done       |         |
-| WeatherTech Raceway at Laguna Seca           | School                           | Laguna Seca School               | 3        |        |         |
+| WeatherTech Raceway at Laguna Seca           | School                           | Laguna Seca School               | 3        | done       |         |
 | Willow Springs International Raceway         | Big Willow                       | Big Willow                       | 1        |        |         |
 | Winton Motor Raceway                         | Club Circuit                     | Winton Club Circuit              | 1        |        |         |
 | Winton Motor Raceway                         | National Circuit                 | Winton National Circuit          | 1        | done       |         |
