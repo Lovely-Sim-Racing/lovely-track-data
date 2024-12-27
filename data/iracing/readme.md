@@ -132,9 +132,9 @@
 | MotorLand Aragón                             | Outer                            | Outer                            | 3        |        |         |
 | MotorLand Aragón                             | Touring Car                      | Touring Car                      | 2        |        |         |
 | MotorLand Aragón                             | West                             | West                             | 3        |        |         |
-| Motorsport Arena Oschersleben                | Alternate                        | Motorsport Alternate             | 2        |        |         |
-| Motorsport Arena Oschersleben                | B Course                         | Motorsport B Course              | 2        |        |         |
-| Motorsport Arena Oschersleben                | C Course                         | Motorsport C Course              | 2        |        |         |
+| Motorsport Arena Oschersleben                | Alternate                        | Motorsport Alternate             | 2        | done       |         |
+| Motorsport Arena Oschersleben                | B Course                         | Motorsport B Course              | 2        | done       |         |
+| Motorsport Arena Oschersleben                | C Course                         | Motorsport C Course              | 2        | done       |         |
 | Motorsport Arena Oschersleben                | Grand Prix                       | Motorsport Grand Prix            | 1        | done   |         |
 | Mount Panorama Circuit                       |                              | Bathurst                         | 1        | done       |         |
 | New Hampshire Motor Speedway                 | Road Course                      | New Hampshire Road               | 3        |        |         |
