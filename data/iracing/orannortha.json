@@ -1,0 +1,19 @@
+{
+  "name": "Oran Park Raceway - North A",
+  "country": "AU",
+  "length": 1060,
+  "sector": [
+    {
+      "marker": 0.197,
+      "name": "1"
+    },
+    {
+      "marker": 0.539,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

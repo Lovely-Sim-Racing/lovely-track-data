@@ -1,0 +1,19 @@
+{
+  "name": "Watkins Glen International - Cup",
+  "country": "US",
+  "length": 3940,
+  "sector": [
+    {
+      "marker": 0.415,
+      "name": "1"
+    },
+    {
+      "marker": 0.776,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

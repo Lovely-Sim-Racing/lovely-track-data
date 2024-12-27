@@ -1,0 +1,19 @@
+{
+  "name": "Hockenheimring Baden-W\u00fcrttemberg - National B",
+  "country": "DE",
+  "length": 3680,
+  "sector": [
+    {
+      "marker": 0.337,
+      "name": "1"
+    },
+    {
+      "marker": 0.759,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}
