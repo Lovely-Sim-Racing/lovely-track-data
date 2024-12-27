@@ -9,7 +9,7 @@
 | Auto Club Speedway                           | Interior                         | Auto Club Interior               | 3        |        |         |
 | Auto Club Speedway                           | Moto                             | Auto Club Moto                   | 3        |        |         |
 | Autodromo Internazionale del Mugello         | Grand Prix                       | Mugello Grand Prix               | 1        | done       |   |
-| Autodromo Internazionale del Mugello         | Short                            | Mugello Short                    | 2        |        |         |
+| Autodromo Internazionale del Mugello         | Short                            | Mugello Short                    | 2        | done       |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Grand Prix                       | Imola Grand Prix                 | 1        | done       |         |
 | Autodromo Internazionale Enzo e Dino Ferrari | Moto                             | Imola Moto                       | 2        |        |         |
 | Autódromo José Carlos Pace                   | Grand Prix                       | Interlagos Grand Prix            | 1        | done   |         |
@@ -174,8 +174,8 @@
 | Oulton Park Circuit                          | Island Historic                  | Oulton Park Island Historic      | 2        |        |         |
 | Phillip Island Circuit                       |                              | Phillip Island                   | 2        |        | Donutz does not own this track        |
 | Red Bull Ring                                | Grand Prix                       | Red Bull Grand Prix              | 1        | done       |         |
-| Red Bull Ring                                | National                         | Red Bull National                | 3    |        |         |
-| Red Bull Ring                                | North                            | Red Bull North                   | 3        |        |         |
+| Red Bull Ring                                | National                         | Red Bull National                | 3        | done       |         |
+| Red Bull Ring                                | North                            | Red Bull North                   | 3        | done       |         |
 | Road America                                 | Bend                             | Road America Bend                | 3        | done   |         |
 | Road America                                 | Full Course                      | Road America Full                | 1        | done       |         |
 | Road Atlanta                                 | Club                             | Road Atlanta Club                | 3        |        |         |
