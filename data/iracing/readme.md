@@ -60,7 +60,7 @@
 | Circuit Park Zandvoort                       | Nationaal - 2009                 | Zandvoort Nationaal - 2009       | 3        |        |         |
 | Circuit Park Zandvoort                       | Oostelijk                        | Oostelijk                        | 3        |        |         |
 | Circuit Park Zandvoort                       | Oostelijk - 2009                 | Zandvoort Oostelijk - 2009       | 3        |        |         |
-| Circuit Zolder                               | Alternate                        | Zolder Alternate                 | 3        |        |         |
+| Circuit Zolder                               | Alternate                        | Zolder Alternate                 | 3        | done       |         |
 | Circuit Zolder                               | Grand Prix                       | Zolder Grand Prix                | 1        | done       |         |
 | Circuito de Jerez - Ángel Nieto              | Grand Prix                       | Jerez GP                         | 1        | done       |         |
 | Circuito de Jerez - Ángel Nieto              | Moto                             | Moto                             | 3        | done       |         |
