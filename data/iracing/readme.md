@@ -148,9 +148,9 @@
 | Nürburgring Combined                         | Gesamtstrecke Long               | Gesamtstrecke Long               | 1        |        |         |
 | Nürburgring Combined                         | Gesamtstrecke Short w/out Arena  | Gesamtstrecke Short              | 1        |        |         |
 | Nürburgring Combined                         | Gesamtstrecke VLN                | Gesamtstrecke VLN                | 1        |        |         |
-| Nürburgring Grand-Prix-Strecke               | BES/WEC                          | Nürburgring BES/WEC              | 1        |        |         |
-| Nürburgring Grand-Prix-Strecke               | Grand Prix                       | Nürburgring Grand Prix           | 1        |        |         |
-| Nürburgring Grand-Prix-Strecke               | Grand Prix w/out Arena           | Nürburgring w/out Arena          | 1        |        |         |
+| Nürburgring Grand-Prix-Strecke               | BES/WEC                          | Nürburgring BES/WEC              | 1        |        | only sectors        |
+| Nürburgring Grand-Prix-Strecke               | Grand Prix                       | Nürburgring Grand Prix           | 1        |        | only sectors        |
+| Nürburgring Grand-Prix-Strecke               | Grand Prix w/out Arena           | Nürburgring w/out Arena          | 1        |        | only sectors        |
 | Nürburgring Grand-Prix-Strecke               | Kurzanbindung w/out Arena        | Kurzanbindung                    | 2        |        |         |
 | Nürburgring Grand-Prix-Strecke               | Müllenbachschleife               | Müllenbachschleife               | 2        |        |         |
 | Nürburgring Grand-Prix-Strecke               | Sprintstrecke                    | Sprintstrecke                    | 2        |        |         |
