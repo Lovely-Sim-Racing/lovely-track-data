@@ -1,0 +1,15 @@
+{
+  "name": "Snetterton Circuit - 100",
+  "country": "GB",
+  "length": 1570,
+  "sector": [
+    {
+      "marker": 0.53,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

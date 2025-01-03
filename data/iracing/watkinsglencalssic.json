@@ -1,0 +1,19 @@
+{
+  "name": "Watkins Glen International - Classic",
+  "country": "US",
+  "length": 3890,
+  "sector": [
+    {
+      "marker": 0.416,
+      "name": "1"
+    },
+    {
+      "marker": 0.776,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}
