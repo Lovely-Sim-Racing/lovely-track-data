@@ -212,10 +212,10 @@
 | Suzuka International Racing Course           | West                             | Suzuka West                      | 3        |        |         |
 | Suzuka International Racing Course           | West w/chicane                   | Suzuka West Chicane              | 3        |        |         |
 | Tsukuba Circuit                              | 1000 Chicane                     | Tsukuba 1000 Chicane             | 3        |        | only sectors        |
-| Tsukuba Circuit                              | 1000 Full                        | Tsukuba 1000 Full                | 1        |        | only sectors        |
+| Tsukuba Circuit                              | 1000 Full                        | Tsukuba 1000 Full                | 1        | done       |        |
 | Tsukuba Circuit                              | 1000 Full Reverse                | Tsukuba 1000 Full Reverse        | 3        |        | only sectors        |
 | Tsukuba Circuit                              | 1000 Outer                       | Tsukuba 1000 Outer               | 3        |        | only sectors        |
-| Tsukuba Circuit                              | 2000 Full                        | Tsukuba 2000 Full                | 1        |        | only sectors        |
+| Tsukuba Circuit                              | 2000 Full                        | Tsukuba 2000 Full                | 1        | done       |        |
 | Tsukuba Circuit                              | 2000 Moto                        | Tsukuba 2000 Moto                | 3        |        | only sectors        |
 | Tsukuba Circuit                              | 2000 Short                       | Tsukuba 2000 Short               | 3        |        | only sectors        |
 | Virginia International Raceway               | Full Course                      | VIR Full Course                  | 1        | done       |         |
