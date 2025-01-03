@@ -187,9 +187,9 @@
 | Rudskogen Motorsenter                        |                              | Rudskogen Motorsenter            | 1        | done       |         |
 | Sachsenring                                  |                              | Sachsenring                      | 1        | done       |         |
 | Sandown International Motor Raceway          |                              | Sandown                          | 2        |        |         |
-| Sebring International Raceway                | Club                             | Sebring Club                     | 3        |        |         |
+| Sebring International Raceway                | Club                             | Sebring Club                     | 3        |        | only sectors        |
 | Sebring International Raceway                | International                    | Sebring International            | 1        | done       |         |
-| Sebring International Raceway                | Modified                         | Sebring Modified                 | 3        |        |         |
+| Sebring International Raceway                | Modified                         | Sebring Modified                 | 3        |        | only sectors        |
 | Silverstone Circuit                          | Grand Prix                       | Silverstone Grand Prix           | 1        | done       |         |
 | Silverstone Circuit                          | International                    | Silverstone International        | 3        |        |         |
 | Silverstone Circuit                          | National                         | Silverstone National             | 2        |        |         |
@@ -241,7 +241,7 @@
 | WeatherTech Raceway at Laguna Seca           | Full Course                      | Laguna Seca                      | 1        | done       |         |
 | WeatherTech Raceway at Laguna Seca           | School                           | Laguna Seca School               | 3        | done       |         |
 | Willow Springs International Raceway         | Big Willow                       | Big Willow                       | 1        |        |         |
-| Winton Motor Raceway                         | Club Circuit                     | Winton Club Circuit              | 1        |        | only sectors        |
+| Winton Motor Raceway                         | Club Circuit                     | Winton Club Circuit              | 1        | done       |         |
 | Winton Motor Raceway                         | National Circuit                 | Winton National Circuit          | 1        | done       |         |
 | World Wide Technology Raceway (Gateway)      | Road Course                      | Gateway Road                     | 1        |        | Donutz does not own this track        |
 | [Legacy] Charlotte Motor Speedway - 2008     | Infield Road Course              | Charlotte Infield                | 3        |        |         |
