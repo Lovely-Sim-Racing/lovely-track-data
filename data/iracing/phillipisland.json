@@ -1,0 +1,71 @@
+{
+  "name": "Phillip Island Circuit",
+  "country": "AU",
+  "length": 4440,
+  "pitentry": 0.834,
+  "pitexit": 0.024,
+  "turn": [
+    {
+      "start": 0.1,
+      "end": 0.16
+    },
+    {
+      "start": 0.178,
+      "end": 0.267
+    },
+    {
+      "start": 0.324,
+      "end": 0.384
+    },
+    {
+      "start": 0.415,
+      "end": 0.448
+    },
+    {
+      "start": 0.456,
+      "end": 0.47
+    },
+    {
+      "start": 0.472,
+      "end": 0.525
+    },
+    {
+      "start": 0.546,
+      "end": 0.574
+    },
+    {
+      "start": 0.584,
+      "end": 0.632
+    },
+    {
+      "start": 0.648,
+      "end": 0.735
+    },
+    {
+      "start": 0.74,
+      "end": 0.768
+    },
+    {
+      "start": 0.77,
+      "end": 0.813
+    },
+    {
+      "start": 0.83,
+      "end": 0.913
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.371,
+      "name": "1"
+    },
+    {
+      "marker": 0.629,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}
