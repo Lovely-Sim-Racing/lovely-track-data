@@ -138,5 +138,13 @@
       "rotation": 15,
       "scale": 1
     }
+  ],
+  "companionPortrait": [
+    {
+      "top": -310,
+      "left": -125,
+      "rotation": -40,
+      "scale": 1.7
+    }
   ]
 }
