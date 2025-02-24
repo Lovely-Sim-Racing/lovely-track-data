@@ -133,10 +133,10 @@
   ],
   "companion": [
     {
-      "top": -60,
-      "left": -100,
+      "top": -27,
+      "left": -59,
       "rotation": 12,
-      "scale": 1.28
+      "scale": 1.17
     }
   ],
   "companionPortrait": [
