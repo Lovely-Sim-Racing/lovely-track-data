@@ -108,6 +108,11 @@ Every file is formatted as follows:
   # left        (Int)    - Distance to left
   # rotation    (Int)    - Rotation
   # scale       (Int)    - Auto Size Scale
+# companionPortrait      - (OPTIONAL) Optimal display of the Track Map on the Lovely Dashboard Companion Portrait
+  # top         (Int)    - Distance to top
+  # left        (Int)    - Distance to left
+  # rotation    (Int)    - Rotation
+  # scale       (Int)    - Auto Size Scale
 # extra                  - (OPTIONAL) An array of properties
   # keys        (Mixed)  - Key:Value
 ```

@@ -133,5 +133,21 @@
       "scale": 2,
       "name": "T14"
     }
+  ],
+  "companion": [
+    {
+      "top": -212,
+      "left": -408,
+      "rotation": 89,
+      "scale": 2
+    }
+  ],
+  "companionPortrait": [
+    {
+      "top": 47,
+      "left": -420,
+      "rotation": 0,
+      "scale": 1.67
+    }
   ]
 }
