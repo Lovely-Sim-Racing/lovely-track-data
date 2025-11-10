@@ -1,0 +1,177 @@
+{
+  "name": "Miami International Autodrome",
+  "trackId": "miami",
+  "country": "USA",
+  "year": 2022,
+  "length": 5412,
+  "pitentry": 0.9379,
+  "pitexit": 0.109,
+  "sector": [
+    {
+      "marker": 0.3444,
+      "name": "1"
+    },
+    {
+      "marker": 0.6864,
+      "name": "2"
+    },
+    {
+      "marker": 0.1,
+      "name": "3"
+    }
+  ],
+  "turn": [
+    {
+      "start": 0.0782,
+      "marker": 0.0837,
+      "end": 0.087,
+      "direction": 1,
+      "scale": 1,
+      "name": "T1"
+    },
+    {
+      "start": 0.097,
+      "marker": 0.1008,
+      "end": 0.1072,
+      "direction": 0,
+      "scale": 3,
+      "name": "T2"
+    },
+    {
+      "start": 0.1098,
+      "marker": 0.1164,
+      "end": 0.1713,
+      "direction": 1,
+      "scale": 5,
+      "name": "T3"
+    },
+    {
+      "start": 0.214,
+      "marker": 0.2277,
+      "end": 0.2335,
+      "direction": 0,
+      "scale": 4,
+      "name": "T4"
+    },
+    {
+      "start": 0.2401,
+      "marker": 0.2478,
+      "end": 0.2591,
+      "direction": 1,
+      "scale": 4,
+      "name": "T5"
+    },
+    {
+      "start": 0.2653,
+      "marker": 0.2701,
+      "end": 0.2793,
+      "direction": 0,
+      "scale": 4,
+      "name": "T6"
+    },
+    {
+      "start": 0.2848,
+      "marker": 0.3033,
+      "end": 0.3069,
+      "direction": 0,
+      "scale": 5,
+      "name": "T7"
+    },
+    {
+      "start": 0.313,
+      "marker": 0.3176,
+      "end": 0.3225,
+      "direction": 0,
+      "scale": 4,
+      "name": "T8"
+    },
+    {
+      "start": 0.4097,
+      "marker": 0.4162,
+      "end": 0.4215,
+      "direction": 1,
+      "scale": 5,
+      "name": "T9"
+    },
+    {
+      "start": 0.4488,
+      "marker": 0.4718,
+      "end": 0.4956,
+      "direction": 0,
+      "scale": 6,
+      "name": "T10"
+    },
+    {
+      "start": 0.5858,
+      "marker": 0.5901,
+      "end": 0.593,
+      "direction": 0,
+      "scale": 1,
+      "name": "T11"
+    },
+    {
+      "start": 0.5998,
+      "marker": 0.6026,
+      "end": 0.6223,
+      "direction": 1,
+      "scale": 2,
+      "name": "T12"
+    },
+    {
+      "start": 0.6309,
+      "marker": 0.6328,
+      "end": 0.6388,
+      "direction": 0,
+      "scale": 3,
+      "name": "T13"
+    },
+    {
+      "start": 0.649,
+      "marker": 0.6501,
+      "end": 0.6524,
+      "direction": 0,
+      "scale": 1,
+      "name": "T14"
+    },
+    {
+      "start": 0.6539,
+      "marker": 0.6553,
+      "end": 0.6569,
+      "direction": 1,
+      "scale": 1,
+      "name": "T15"
+    },
+    {
+      "start": 0.6702,
+      "marker": 0.6724,
+      "end": 0.6768,
+      "direction": 0,
+      "scale": 2,
+      "name": "T16"
+    },
+    {
+      "start": 0.9139,
+      "marker": 0.9183,
+      "end": 0.9243,
+      "direction": 0,
+      "scale": 1,
+      "name": "T17"
+    },
+    {
+      "start": 0.9381,
+      "marker": 0.9474,
+      "end": 0.9515,
+      "direction": 0,
+      "scale": 3,
+      "name": "T18"
+    },
+    {
+      "start": 0.9656,
+      "marker": 0.9826,
+      "end": 0.9988,
+      "direction": 1,
+      "scale": 4,
+      "name": "T19"
+    }
+  ]
+}

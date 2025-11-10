@@ -1,0 +1,105 @@
+{
+  "name": "Red Bull Ring",
+  "trackId": "austria",
+  "country": "Austria",
+  "year": 2022,
+  "length": 4323,
+  "pitentry": 0.8988,
+  "pitexit": 0.1303,
+  "sector": [
+    {
+      "marker": 0.2787,
+      "name": "1"
+    },
+    {
+      "marker": 0.68,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ],
+  "turn": [
+    {
+      "start": 0.1035,
+      "marker": 0.1067,
+      "end": 0.1087,
+      "direction": 1,
+      "scale": 2,
+      "name": "Niki Lauda Curve"
+    },
+    {
+      "start": 0.2384,
+      "marker": 0.2565,
+      "end": 0.2776,
+      "direction": 0,
+      "scale": 6,
+      "name": "T2"
+    },
+    {
+      "start": 0.3212,
+      "marker": 0.3251,
+      "end": 0.3267,
+      "direction": 1,
+      "scale": 1,
+      "name": "Remus"
+    },
+    {
+      "start": 0.5072,
+      "marker": 0.5149,
+      "end": 0.5223,
+      "direction": 1,
+      "scale": 2,
+      "name": "Schlossgold"
+    },
+    {
+      "start": 0.5276,
+      "marker": 0.5575,
+      "end": 0.5789,
+      "direction": 1,
+      "scale": 4,
+      "name": "T5"
+    },
+    {
+      "start": 0.6152,
+      "marker": 0.6359,
+      "end": 0.6562,
+      "direction": 0,
+      "scale": 3,
+      "name": "Rauch"
+    },
+    {
+      "start": 0.6896,
+      "marker": 0.7077,
+      "end": 0.7255,
+      "direction": 0,
+      "scale": 3,
+      "name": "W\u00fcrth"
+    },
+    {
+      "start": 0.7265,
+      "marker": 0.7512,
+      "end": 0.7669,
+      "direction": 1,
+      "scale": 4,
+      "name": "T8"
+    },
+    {
+      "start": 0.8678,
+      "marker": 0.8801,
+      "end": 0.8895,
+      "direction": 1,
+      "scale": 3,
+      "name": "Rindt"
+    },
+    {
+      "start": 0.9236,
+      "marker": 0.9271,
+      "end": 0.9308,
+      "direction": 1,
+      "scale": 2,
+      "name": "Red Bull Mobile"
+    }
+  ]
+}

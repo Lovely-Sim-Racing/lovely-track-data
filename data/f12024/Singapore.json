@@ -1,0 +1,177 @@
+{
+  "name": "Marina Bay Street Circuit",
+  "trackId": "simgapore",
+  "country": "Singapore",
+  "year": 2023,
+  "length": 4928,
+  "pitentry": 0.9407,
+  "pitexit": 0.1058,
+  "sector": [
+    {
+      "marker": 0.336,
+      "name": "1"
+    },
+    {
+      "marker": 0.7055,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ],
+  "turn": [
+    {
+      "start": 0.0836,
+      "marker": 0.0898,
+      "end": 0.0932,
+      "direction": 0,
+      "scale": 1,
+      "name": "Sheares"
+    },
+    {
+      "start": 0.0954,
+      "marker": 0.1024,
+      "end": 0.1095,
+      "direction": 1,
+      "scale": 4,
+      "name": "T2"
+    },
+    {
+      "start": 0.1115,
+      "marker": 0.1195,
+      "end": 0.1255,
+      "direction": 0,
+      "scale": 3,
+      "name": "T3"
+    },
+    {
+      "start": 0.1363,
+      "marker": 0.1447,
+      "end": 0.15,
+      "direction": 0,
+      "scale": 6,
+      "name": "T4"
+    },
+    {
+      "start": 0.1908,
+      "marker": 0.1999,
+      "end": 0.2117,
+      "direction": 1,
+      "scale": 3,
+      "name": "T5"
+    },
+    {
+      "start": 0.283,
+      "marker": 0.2965,
+      "end": 0.3082,
+      "direction": 1,
+      "scale": 6,
+      "name": "T6"
+    },
+    {
+      "start": 0.364,
+      "marker": 0.3693,
+      "end": 0.3724,
+      "direction": 0,
+      "scale": 2,
+      "name": "Memorial"
+    },
+    {
+      "start": 0.4079,
+      "marker": 0.4124,
+      "end": 0.4156,
+      "direction": 1,
+      "scale": 2,
+      "name": "Stamford"
+    },
+    {
+      "start": 0.4456,
+      "marker": 0.4511,
+      "end": 0.4627,
+      "direction": 0,
+      "scale": 2,
+      "name": "Padang"
+    },
+    {
+      "start": 0.5369,
+      "marker": 0.5385,
+      "end": 0.5494,
+      "direction": 0,
+      "scale": 2,
+      "name": "Singapore Sling"
+    },
+    {
+      "start": 0.5627,
+      "marker": 0.567,
+      "end": 0.572,
+      "direction": 1,
+      "scale": 3,
+      "name": "T11"
+    },
+    {
+      "start": 0.579,
+      "marker": 0.5839,
+      "end": 0.5874,
+      "direction": 0,
+      "scale": 3,
+      "name": "T12"
+    },
+    {
+      "start": 0.6198,
+      "marker": 0.6246,
+      "end": 0.6293,
+      "direction": 0,
+      "scale": 1,
+      "name": "T13"
+    },
+    {
+      "start": 0.7286,
+      "marker": 0.7339,
+      "end": 0.7385,
+      "direction": 1,
+      "scale": 2,
+      "name": "Connaught"
+    },
+    {
+      "start": 0.7749,
+      "marker": 0.7851,
+      "end": 0.7981,
+      "direction": 0,
+      "scale": 4,
+      "name": "T15"
+    },
+    {
+      "start": 0.8805,
+      "marker": 0.8846,
+      "end": 0.8893,
+      "direction": 1,
+      "scale": 2,
+      "name": "T16"
+    },
+    {
+      "start": 0.892,
+      "marker": 0.8966,
+      "end": 0.906,
+      "direction": 0,
+      "scale": 3,
+      "name": "T17"
+    },
+    {
+      "start": 0.9533,
+      "marker": 0.9579,
+      "end": 0.9611,
+      "direction": 0,
+      "scale": 2,
+      "name": "T18"
+    },
+    {
+      "start": 0.9746,
+      "marker": 0.9784,
+      "end": 0.9821,
+      "direction": 1,
+      "scale": 2,
+      "name": "T19"
+    }
+  ]
+}
