@@ -1,5 +1,6 @@
 {
-  "name": "Barcelona",
+  "name": "Circuit de Barcelona-Catalunya",
+  "trackId": "barcelona",
   "country": "ES",
   "length": 4675,
   "turn": [

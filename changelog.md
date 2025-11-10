@@ -8,6 +8,9 @@
 
 ## Changelog
 
+#### v2.0.0
+1. Add `trackId`
+
 #### v1.1.0
 1. Add `turn->number` as Int
 2. Either `turn->number` or `turn->name` is required

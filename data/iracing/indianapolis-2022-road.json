@@ -1,0 +1,99 @@
+{
+  "name": "Indianapolis Motor Speedway - Road Course",
+  "trackId": "indianapolis 2022 road",
+  "year": 2022,
+  "country": "US",
+  "length": 3850,
+  "pitentry": 0.833,
+  "pitexit": 0.107,
+  "turn": [
+    {
+      "start": 0.15,
+      "end": 0.183,
+      "name": "Turn 1"
+    },
+    {
+      "start": 0.184,
+      "end": 0.209,
+      "name": "Turn 2"
+    },
+    {
+      "start": 0.21,
+      "end": 0.254,
+      "name": "Turn 3"
+    },
+    {
+      "start": 0.255,
+      "end": 0.3,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.309,
+      "end": 0.326,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.327,
+      "end": 0.351,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.51,
+      "end": 0.549,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.55,
+      "end": 0.579,
+      "name": "Turn 8"
+    },
+    {
+      "start": 0.58,
+      "end": 0.604,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.605,
+      "end": 0.655,
+      "name": "Turn 10"
+    },
+    {
+      "start": 0.675,
+      "end": 0.733,
+      "name": "Turn 11"
+    },
+    {
+      "start": 0.77,
+      "end": 0.805,
+      "name": "Turn 12"
+    },
+    {
+      "start": 0.81,
+      "end": 0.843,
+      "name": "Turn 13"
+    },
+    {
+      "start": 0.85,
+      "end": 0.934,
+      "name": "Turn 14"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.261,
+      "name": "1"
+    },
+    {
+      "marker": 0.505,
+      "name": "2"
+    },
+    {
+      "marker": 0.662,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

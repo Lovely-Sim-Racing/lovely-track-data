@@ -1,0 +1,59 @@
+{
+  "name": "Red Bull Ring - GP",
+  "trackId": "spielberg gp",
+  "country": "AT",
+  "length": 4280,
+  "pitentry": 0.89,
+  "pitexit": 0.112,
+  "turn": [
+    {
+      "start": 0.075,
+      "end": 0.125,
+      "name": "Niki Lauda Kurve"
+    },
+    {
+      "start": 0.29,
+      "end": 0.345,
+      "name": "Remus"
+    },
+    {
+      "start": 0.47,
+      "end": 0.54,
+      "name": "Schlossgold"
+    },
+    {
+      "start": 0.59,
+      "end": 0.66,
+      "name": "Rauch"
+    },
+    {
+      "start": 0.675,
+      "end": 0.78,
+      "name": "Wuerth"
+    },
+    {
+      "start": 0.83,
+      "end": 0.9,
+      "name": "Rindt"
+    },
+    {
+      "start": 0.905,
+      "end": 0.951,
+      "name": "Red Bull Mobile"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.272,
+      "name": "1"
+    },
+    {
+      "marker": 0.668,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

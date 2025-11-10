@@ -1,0 +1,16 @@
+{
+  "name": "Cadwell Park Circuit - Club",
+  "trackId": "cadwell club",
+  "country": "GB",
+  "length": 2360,
+  "sector": [
+    {
+      "marker": 0.556,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

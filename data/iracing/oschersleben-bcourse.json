@@ -1,0 +1,58 @@
+{
+  "name": "Motorsport Arena Oschersleben - B Course",
+  "trackId": "oschersleben bcourse",
+  "country": "DE",
+  "length": 2390,
+  "pitentry": 0.841,
+  "pitexit": 0.249,
+  "turn": [
+    {
+      "start": 0.156,
+      "end": 0.207
+    },
+    {
+      "start": 0.208,
+      "end": 0.318,
+      "name": "Hotel"
+    },
+    {
+      "start": 0.387,
+      "end": 0.471,
+      "name": "Hasser\u00f6der"
+    },
+    {
+      "start": 0.488,
+      "end": 0.546
+    },
+    {
+      "start": 0.604,
+      "end": 0.658,
+      "name": "Shell Kurve"
+    },
+    {
+      "start": 0.659,
+      "end": 0.721,
+      "name": "Amman Kurve"
+    },
+    {
+      "start": 0.766,
+      "end": 0.825,
+      "name": "Bauer Kurve"
+    },
+    {
+      "start": 0.841,
+      "end": 0.931,
+      "name": "Zeppelin Kurve"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.601,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

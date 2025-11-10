@@ -1,0 +1,24 @@
+{
+  "name": "Lime Rock Park - School",
+  "trackId": "limerock 2019 school",
+  "country": "US",
+  "length": 2460,
+  "sector": [
+    {
+      "marker": 0.229,
+      "name": "1"
+    },
+    {
+      "marker": 0.476,
+      "name": "2"
+    },
+    {
+      "marker": 0.631,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "name": "Nuerburgring Gesamtstrecke 24h",
+  "trackId": "nurburgring combined",
+  "country": "DE",
+  "length": 25180,
+  "pitentry": 0.99,
+  "pitexit": 0.012,
+  "turn": [
+    {
+      "start": 0.021,
+      "end": 0.033,
+      "name": "Yokohama-S"
+    },
+    {
+      "start": 0.042,
+      "end": 0.05,
+      "name": "Valvoline Kurve"
+    },
+    {
+      "start": 0.051,
+      "end": 0.058,
+      "name": "Ford-Kurve"
+    },
+    {
+      "start": 0.071,
+      "end": 0.082,
+      "name": "Dunlop-Kehre"
+    },
+    {
+      "start": 0.087,
+      "end": 0.102,
+      "name": "Michael-Schumacher-S"
+    },
+    {
+      "start": 0.11,
+      "end": 0.117,
+      "name": "Michelin-Kurve"
+    },
+    {
+      "start": 0.118,
+      "end": 0.128,
+      "name": "Warsteiner-Kurve"
+    },
+    {
+      "start": 0.135,
+      "end": 0.145,
+      "name": "ADVAN-Bogen"
+    },
+    {
+      "start": 0.153,
+      "end": 0.164,
+      "name": "NGK-Schikane"
+    },
+    {
+      "start": 0.165,
+      "end": 0.173,
+      "name": "T13"
+    },
+    {
+      "name": "Hatzenbach",
+      "start": 0.183,
+      "end": 0.224
+    },
+    {
+      "name": "Hoheneichen",
+      "start": 0.226,
+      "end": 0.25
+    },
+    {
+      "name": "Quiddelbacher Hoehe",
+      "start": 0.251,
+      "end": 0.264
+    },
+    {
+      "name": "Flugplatz",
+      "start": 0.252,
+      "end": 0.301
+    },
+    {
+      "name": "Schwedenkreuz",
+      "start": 0.304,
+      "end": 0.316
+    },
+    {
+      "name": "Aremberg",
+      "start": 0.317,
+      "end": 0.341
+    },
+    {
+      "name": "Fuchsroehre",
+      "start": 0.342,
+      "end": 0.365
+    },
+    {
+      "name": "Adenauer Forst",
+      "start": 0.368,
+      "end": 0.397
+    },
+    {
+      "name": "Metzgesfeld",
+      "start": 0.398,
+      "end": 0.415
+    },
+    {
+      "name": "Kallenhard",
+      "start": 0.417,
+      "end": 0.429
+    },
+    {
+      "name": "Spiegelkurve",
+      "start": 0.43,
+      "end": 0.437
+    },
+    {
+      "name": "Dreifach-Rechts",
+      "start": 0.438,
+      "end": 0.454
+    },
+    {
+      "name": "Wehrseifen",
+      "start": 0.455,
+      "end": 0.472
+    },
+    {
+      "name": "ExMuehle",
+      "start": 0.487,
+      "end": 0.505
+    },
+    {
+      "name": "Bergwerk",
+      "start": 0.514,
+      "end": 0.535
+    },
+    {
+      "name": "Kesselchen",
+      "start": 0.56,
+      "end": 0.575
+    },
+    {
+      "name": "Klostertal",
+      "start": 0.576,
+      "end": 0.586
+    },
+    {
+      "name": "Mutkurve",
+      "start": 0.587,
+      "end": 0.605
+    },
+    {
+      "name": "Caracciola-Karussell",
+      "start": 0.639,
+      "end": 0.65
+    },
+    {
+      "name": "Hohe Acht",
+      "start": 0.675,
+      "end": 0.685
+    },
+    {
+      "name": "Hedwigshoehe",
+      "start": 0.686,
+      "end": 0.702
+    },
+    {
+      "name": "Wippermann",
+      "start": 0.703,
+      "end": 0.716
+    },
+    {
+      "name": "Eschbach",
+      "start": 0.717,
+      "end": 0.73
+    },
+    {
+      "name": "Bruennchen",
+      "start": 0.731,
+      "end": 0.76
+    },
+    {
+      "name": "Pflanzgarten",
+      "start": 0.761,
+      "end": 0.798
+    },
+    {
+      "name": "Stefan-Bellof-S",
+      "start": 0.799,
+      "end": 0.82
+    },
+    {
+      "name": "Schwalbenschwanz",
+      "start": 0.821,
+      "end": 0.845
+    },
+    {
+      "name": "Galgenkopf",
+      "start": 0.848,
+      "end": 0.865
+    },
+    {
+      "name": "Doettinger Hoehe",
+      "start": 0.866,
+      "end": 0.936
+    },
+    {
+      "name": "Antoniusbuche",
+      "start": 0.94,
+      "end": 0.955
+    },
+    {
+      "name": "Tiergarten",
+      "start": 0.959,
+      "end": 0.965
+    },
+    {
+      "name": "Hohenrain",
+      "start": 0.966,
+      "end": 0.989
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.037
+    },
+    {
+      "name": "2",
+      "marker": 0.067
+    },
+    {
+      "name": "3",
+      "marker": 0.108
+    },
+    {
+      "name": "4",
+      "marker": 0.15
+    },
+    {
+      "name": "5",
+      "marker": 0.251
+    },
+    {
+      "name": "6",
+      "marker": 0.358
+    },
+    {
+      "name": "7",
+      "marker": 0.421
+    },
+    {
+      "name": "8",
+      "marker": 0.504
+    },
+    {
+      "name": "9",
+      "marker": 0.582
+    },
+    {
+      "name": "10",
+      "marker": 0.66
+    },
+    {
+      "name": "11",
+      "marker": 0.734
+    },
+    {
+      "name": "12",
+      "marker": 0.814
+    },
+    {
+      "name": "13",
+      "marker": 0.989
+    },
+    {
+      "name": "14",
+      "marker": 1.0
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "name": "Lusail International Circuit",
+  "trackId": "lusail international circuit",
+  "country": "QA",
+  "length": 5405,
+  "pitentry": 0.98,
+  "pitexit": 0.08,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.13,
+      "marker": 0.15,
+      "end": 0.17,
+      "direction": 1,
+      "scale": 1
+    },
+    {
+      "number": 2,
+      "start": 0.19,
+      "marker": 0.21,
+      "end": 0.22,
+      "direction": 0,
+      "scale": 2
+    },
+    {
+      "number": 3,
+      "start": 0.24,
+      "marker": 0.25,
+      "end": 0.26,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 4,
+      "start": 0.31,
+      "marker": 0.32,
+      "end": 0.33,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 5,
+      "start": 0.34,
+      "marker": 0.35,
+      "end": 0.37,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 6,
+      "start": 0.39,
+      "marker": 0.41,
+      "end": 0.42,
+      "direction": 0,
+      "scale": 1
+    },
+    {
+      "number": 7,
+      "start": 0.47,
+      "marker": 0.49,
+      "end": 0.5,
+      "direction": 1,
+      "scale": 2
+    },
+    {
+      "number": 8,
+      "start": 0.5,
+      "marker": 0.52,
+      "end": 0.53,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 9,
+      "start": 0.54,
+      "marker": 0.55,
+      "end": 0.56,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 10,
+      "start": 0.58,
+      "marker": 0.59,
+      "end": 0.6,
+      "direction": 0,
+      "scale": 2
+    },
+    {
+      "number": 11,
+      "start": 0.6,
+      "marker": 0.63,
+      "end": 0.66,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 12,
+      "start": 0.69,
+      "marker": 0.7,
+      "end": 0.72,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 13,
+      "start": 0.73,
+      "marker": 0.74,
+      "end": 0.75,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 14,
+      "start": 0.77,
+      "marker": 0.78,
+      "end": 0.79,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 15,
+      "start": 0.82,
+      "marker": 0.84,
+      "end": 0.86,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 16,
+      "start": 0.9,
+      "marker": 0.92,
+      "end": 0.94,
+      "direction": 1,
+      "scale": 2
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.95,
+      "end": 0.12
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.3
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.66
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 84
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 76
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 88
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 85
+        }
+      ]
+    }
+  ]
+}

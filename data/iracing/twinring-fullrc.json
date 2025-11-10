@@ -1,0 +1,92 @@
+{
+  "name": "Mobility Resort Motegi - Grand Prix",
+  "trackId": "twinring fullrc",
+  "country": "JP",
+  "length": 4796,
+  "pitentry": 0.911,
+  "pitexit": 0.02,
+  "turn": [
+    {
+      "start": 0.04,
+      "end": 0.064
+    },
+    {
+      "start": 0.065,
+      "end": 0.092
+    },
+    {
+      "start": 0.189,
+      "end": 0.207
+    },
+    {
+      "start": 0.208,
+      "end": 0.238
+    },
+    {
+      "start": 0.335,
+      "end": 0.361
+    },
+    {
+      "start": 0.386,
+      "end": 0.425
+    },
+    {
+      "start": 0.463,
+      "end": 0.491
+    },
+    {
+      "start": 0.492,
+      "end": 0.531
+    },
+    {
+      "start": 0.559,
+      "end": 0.586
+    },
+    {
+      "start": 0.648,
+      "end": 0.684
+    },
+    {
+      "start": 0.829,
+      "end": 0.855
+    },
+    {
+      "start": 0.875,
+      "end": 0.891
+    },
+    {
+      "start": 0.899,
+      "end": 0.915
+    },
+    {
+      "start": 0.916,
+      "end": 0.934
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.157,
+      "name": "1"
+    },
+    {
+      "marker": 0.301,
+      "name": "2"
+    },
+    {
+      "marker": 0.449,
+      "name": "3"
+    },
+    {
+      "marker": 0.629,
+      "name": "4"
+    },
+    {
+      "marker": 0.781,
+      "name": "5"
+    },
+    {
+      "marker": 1.0,
+      "name": "6"
+    }
+  ]
+}

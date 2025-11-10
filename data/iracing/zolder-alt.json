@@ -1,0 +1,93 @@
+{
+  "name": "Zolder Circuit - Alternate",
+  "trackId": "zolder alt",
+  "country": "BE",
+  "year": 2007,
+  "length": 4010,
+  "pitentry": 0.897,
+  "pitexit": 0.147,
+  "turn": [
+    {
+      "start": 0.049,
+      "end": 0.105,
+      "name": "Earste"
+    },
+    {
+      "start": 0.123,
+      "end": 0.175,
+      "name": "Sterrenwachtbocht"
+    },
+    {
+      "start": 0.18,
+      "end": 0.235,
+      "name": "Kanaalbocht"
+    },
+    {
+      "start": 0.26,
+      "end": 0.32,
+      "name": "Lucien Bianchbocht"
+    },
+    {
+      "start": 0.42,
+      "end": 0.466,
+      "name": "Kleine Chicane"
+    },
+    {
+      "start": 0.475,
+      "end": 0.52,
+      "name": "Sacramentshelling"
+    },
+    {
+      "start": 0.521,
+      "end": 0.565,
+      "name": "Butte"
+    },
+    {
+      "start": 0.57,
+      "end": 0.617,
+      "name": "Villeneuve Chicane"
+    },
+    {
+      "start": 0.622,
+      "end": 0.67,
+      "name": "Terlamenbocht"
+    },
+    {
+      "start": 0.74,
+      "end": 0.775,
+      "name": "Bolderbergbocht"
+    },
+    {
+      "start": 0.776,
+      "end": 0.81,
+      "name": "Jochen Rindtbocht"
+    },
+    {
+      "start": 0.88,
+      "end": 0.94,
+      "name": "Jacky Ickxbocht"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.403,
+      "name": "1"
+    },
+    {
+      "marker": 0.545,
+      "name": "2"
+    },
+    {
+      "marker": 0.724,
+      "name": "3"
+    },
+    {
+      "marker": 0.875,
+      "name": "4"
+    },
+    {
+      "marker": 1,
+      "name": "5"
+    }
+  ]
+}

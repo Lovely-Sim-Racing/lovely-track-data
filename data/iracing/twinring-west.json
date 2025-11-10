@@ -1,0 +1,44 @@
+{
+  "name": "Mobility Resort Motegi - West",
+  "trackId": "twinring west",
+  "country": "JP",
+  "length": 1400,
+  "pitentry": 0.771,
+  "pitexit": 0.079,
+  "turn": [
+    {
+      "start": 0.135,
+      "end": 0.217
+    },
+    {
+      "start": 0.218,
+      "end": 0.281
+    },
+    {
+      "start": 0.562,
+      "end": 0.618
+    },
+    {
+      "start": 0.619,
+      "end": 0.649
+    },
+    {
+      "start": 0.662,
+      "end": 0.704
+    },
+    {
+      "start": 0.715,
+      "end": 0.781
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.507,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

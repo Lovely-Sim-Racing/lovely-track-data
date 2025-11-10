@@ -1,0 +1,20 @@
+{
+  "name": "Cadwell Park Circuit - Full",
+  "trackId": "cadwell full",
+  "country": "GB",
+  "length": 2360,
+  "sector": [
+    {
+      "marker": 0.36,
+      "name": "1"
+    },
+    {
+      "marker": 0.718,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

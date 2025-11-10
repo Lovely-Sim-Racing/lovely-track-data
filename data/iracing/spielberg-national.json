@@ -1,0 +1,44 @@
+{
+  "name": "Red Bull Ring - National",
+  "trackId": "spielberg national",
+  "country": "AT",
+  "length": 2336,
+  "pitentry": 0.802,
+  "pitexit": 0.244,
+  "turn": [
+    {
+      "start": 0.168,
+      "end": 0.233
+    },
+    {
+      "start": 0.336,
+      "end": 0.418
+    },
+    {
+      "start": 0.419,
+      "end": 0.495
+    },
+    {
+      "start": 0.496,
+      "end": 0.591
+    },
+    {
+      "start": 0.735,
+      "end": 0.814
+    },
+    {
+      "start": 0.839,
+      "end": 0.904
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.684,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

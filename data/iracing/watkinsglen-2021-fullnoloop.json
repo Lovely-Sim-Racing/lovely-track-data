@@ -1,0 +1,28 @@
+{
+  "name": "Watkins Glen International - Classic Boot",
+  "trackId": "watkinsglen 2021 fullnoloop",
+  "country": "US",
+  "length": 5430,
+  "sector": [
+    {
+      "marker": 0.299,
+      "name": "1"
+    },
+    {
+      "marker": 0.471,
+      "name": "2"
+    },
+    {
+      "marker": 0.684,
+      "name": "3"
+    },
+    {
+      "marker": 0.839,
+      "name": "4"
+    },
+    {
+      "marker": 1,
+      "name": "5"
+    }
+  ]
+}

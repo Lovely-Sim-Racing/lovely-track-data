@@ -1,0 +1,99 @@
+{
+  "name": "Daytona",
+  "trackId": "daytona 2011 road",
+  "country": "US",
+  "turn": [
+    {
+      "name": "T1",
+      "marker": 0.085
+    },
+    {
+      "name": "T2",
+      "marker": 0.115
+    },
+    {
+      "name": "T3",
+      "marker": 0.169
+    },
+    {
+      "name": "T4",
+      "marker": 0.255
+    },
+    {
+      "name": "T5",
+      "marker": 0.309
+    },
+    {
+      "name": "T6",
+      "marker": 0.376
+    },
+    {
+      "name": "T7",
+      "marker": 0.451
+    },
+    {
+      "name": "T8",
+      "marker": 0.67
+    },
+    {
+      "name": "T9",
+      "marker": 0.68
+    },
+    {
+      "name": "T10",
+      "marker": 0.692
+    },
+    {
+      "name": "T11",
+      "marker": 0.703
+    },
+    {
+      "name": "T12",
+      "marker": 0.81
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.14
+    },
+    {
+      "name": "2",
+      "marker": 0.272
+    },
+    {
+      "name": "3",
+      "marker": 0.355
+    },
+    {
+      "name": "4",
+      "marker": 0.63
+    },
+    {
+      "name": "5",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 73
+        },
+        {
+          "name": "dt",
+          "time": 40
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": -100,
+      "left": -200,
+      "rotation": 52,
+      "scale": 1.5
+    }
+  ]
+}

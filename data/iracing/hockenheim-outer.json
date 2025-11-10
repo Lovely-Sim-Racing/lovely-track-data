@@ -1,0 +1,24 @@
+{
+  "name": "Hockenheimring Baden-W\u00fcrttemberg - Outer",
+  "trackId": "hockenheim outer",
+  "country": "DE",
+  "length": 4370,
+  "sector": [
+    {
+      "marker": 0.25,
+      "name": "1"
+    },
+    {
+      "marker": 0.5,
+      "name": "2"
+    },
+    {
+      "marker": 0.75,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

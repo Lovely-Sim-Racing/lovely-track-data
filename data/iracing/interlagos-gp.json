@@ -1,0 +1,106 @@
+{
+  "name": "Interlagos GP",
+  "trackId": "interlagos gp",
+  "country": "BR",
+  "year": 2017,
+  "length": 4220,
+  "pitentry": 0.95,
+  "pitexit": 0.195,
+  "turn": [
+    {
+      "start": 0.045,
+      "end": 0.113,
+      "name": "S do Senna"
+    },
+    {
+      "start": 0.114,
+      "end": 0.196,
+      "name": "Curva do Sol"
+    },
+    {
+      "start": 0.298,
+      "end": 0.403,
+      "name": "Descida do Lago"
+    },
+    {
+      "start": 0.456,
+      "end": 0.487,
+      "name": "Ferradura"
+    },
+    {
+      "start": 0.488,
+      "end": 0.517,
+      "name": "Laranjinha"
+    },
+    {
+      "start": 0.525,
+      "end": 0.556,
+      "name": "Esse"
+    },
+    {
+      "start": 0.557,
+      "end": 0.594,
+      "name": "Pinheirinho"
+    },
+    {
+      "start": 0.622,
+      "end": 0.657,
+      "name": "Bico de Pato"
+    },
+    {
+      "start": 0.659,
+      "end": 0.715,
+      "name": "Mergulho"
+    },
+    {
+      "start": 0.734,
+      "end": 0.77,
+      "name": "Juncao"
+    },
+    {
+      "start": 0.771,
+      "end": 0.8,
+      "name": "T13"
+    },
+    {
+      "start": 0.815,
+      "end": 0.874,
+      "name": "T14"
+    },
+    {
+      "start": 0.9,
+      "end": 0.955,
+      "name": "T15"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.197,
+      "marker": 0.24,
+      "end": 0.297,
+      "name": "Reta Oposta"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.278,
+      "name": "1"
+    },
+    {
+      "marker": 0.432,
+      "name": "2"
+    },
+    {
+      "marker": 0.609,
+      "name": "3"
+    },
+    {
+      "marker": 0.726,
+      "name": "4"
+    },
+    {
+      "marker": 1.0,
+      "name": "5"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Oran Park Raceway - North B",
+  "trackId": "oran northb",
+  "country": "AU",
+  "length": 1060,
+  "sector": [
+    {
+      "marker": 0.239,
+      "name": "1"
+    },
+    {
+      "marker": 0.553,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

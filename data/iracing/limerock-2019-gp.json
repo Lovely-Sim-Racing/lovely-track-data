@@ -1,0 +1,85 @@
+{
+  "name": "Limerock GP",
+  "trackId": "limerock 2019 gp",
+  "country": "US",
+  "length": 2340,
+  "pitentry": 0.9,
+  "pitexit": 0.046,
+  "turn": [
+    {
+      "start": 0.077,
+      "end": 0.219,
+      "name": "Big Bend"
+    },
+    {
+      "start": 0.234,
+      "end": 0.384,
+      "name": "Esses"
+    },
+    {
+      "start": 0.48,
+      "end": 0.595,
+      "name": "Uphill"
+    },
+    {
+      "start": 0.649,
+      "end": 0.735,
+      "name": "West Bend"
+    },
+    {
+      "start": 0.788,
+      "end": 0.858,
+      "name": "Diving Turn"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.001,
+      "marker": 0.04,
+      "end": 0.076,
+      "name": "Sam Posey Straight"
+    },
+    {
+      "start": 0.385,
+      "marker": 0.42,
+      "end": 0.479,
+      "name": "No Name Straight"
+    },
+    {
+      "start": 0.596,
+      "marker": 0.62,
+      "end": 0.648,
+      "name": "Back Straight"
+    },
+    {
+      "start": 0.736,
+      "marker": 0.75,
+      "end": 0.787,
+      "name": "Downhill"
+    },
+    {
+      "start": 0.859,
+      "marker": 0.92,
+      "end": 1,
+      "name": "Sam Posey Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.23,
+      "name": "1"
+    },
+    {
+      "marker": 0.479,
+      "name": "2"
+    },
+    {
+      "marker": 0.628,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

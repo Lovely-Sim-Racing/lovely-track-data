@@ -1,0 +1,22 @@
+{
+  "name": "Sebring International Raceway - Modified",
+  "trackId": "sebring modified",
+  "country": "US",
+  "length": 3170,
+  "pitentry": 0.921,
+  "pitexit": 0.143,
+  "sector": [
+    {
+      "marker": 0.358,
+      "name": "1"
+    },
+    {
+      "marker": 0.741,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

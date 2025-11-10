@@ -1,0 +1,36 @@
+{
+  "name": "Oulton Park Circuit - Intl w/out Brittens",
+  "trackId": "outlon intbrittens",
+  "country": "GB",
+  "length": 4330,
+  "sector": [
+    {
+      "marker": 0.138,
+      "name": "1"
+    },
+    {
+      "marker": 0.28,
+      "name": "2"
+    },
+    {
+      "marker": 0.452,
+      "name": "3"
+    },
+    {
+      "marker": 0.563,
+      "name": "4"
+    },
+    {
+      "marker": 0.737,
+      "name": "5"
+    },
+    {
+      "marker": 0.879,
+      "name": "6"
+    },
+    {
+      "marker": 1,
+      "name": "7"
+    }
+  ]
+}

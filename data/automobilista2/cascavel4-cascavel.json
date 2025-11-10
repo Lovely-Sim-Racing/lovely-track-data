@@ -1,0 +1,22 @@
+{
+  "name": "Autodromo Internacional de Cascavel",
+  "trackId": "cascavel4-cascavel",
+  "country": "BR",
+  "length": 3058,
+  "companion": [
+    {
+      "top": 35,
+      "left": -33,
+      "rotation": 24,
+      "scale": 1.17
+    }
+  ],
+  "companionPortrait": [
+      {
+        "top": -321,
+        "left": -108,
+        "rotation": -57,
+        "scale": 1.74
+      }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Circuito de Navarra - Speed Circuit - Short",
+  "trackId": "navarra speedshort",
+  "country": "ES",
+  "length": 1330,
+  "sector": [
+    {
+      "marker": 0.623,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

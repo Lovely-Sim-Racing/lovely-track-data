@@ -1,0 +1,77 @@
+{
+  "name": "Oran Park Raceway - GP",
+  "trackId": "oran gp",
+  "country": "AU",
+  "length": 2600,
+  "pitentry": 0.965,
+  "pitexit": 0.138,
+  "turn": [
+    {
+      "start": 0.147,
+      "end": 0.195,
+      "name": "The Sweeper"
+    },
+    {
+      "start": 0.196,
+      "end": 0.268,
+      "name": "Coca-Cola Corner"
+    },
+    {
+      "start": 0.32,
+      "end": 0.38,
+      "name": "Shell Corner"
+    },
+    {
+      "start": 0.414,
+      "end": 0.475,
+      "name": "Champion Curve"
+    },
+    {
+      "start": 0.478,
+      "end": 0.55,
+      "name": "Yokohama Bridge"
+    },
+    {
+      "start": 0.575,
+      "end": 0.65,
+      "name": "Foster's Dip"
+    },
+    {
+      "start": 0.67,
+      "end": 0.73,
+      "name": "Momo Corner"
+    },
+    {
+      "start": 0.755,
+      "end": 0.83,
+      "name": "O'Brien Aluminium Dogleg"
+    },
+    {
+      "start": 0.85,
+      "end": 0.93,
+      "name": "Recaro Corner"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.304,
+      "name": "1"
+    },
+    {
+      "marker": 0.481,
+      "name": "2"
+    },
+    {
+      "marker": 0.659,
+      "name": "3"
+    },
+    {
+      "marker": 0.84,
+      "name": "4"
+    },
+    {
+      "marker": 1.0,
+      "name": "5"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "Sebring International Raceway (School)",
+  "trackId": "sebring school circuit",
+  "country": "US",
+  "length": 3083,
+  "pitentry": 0.47,
+  "pitexit": 0.65,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.11,
+      "marker": 0.17,
+      "end": 0.21,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 2,
+      "start": 0.25,
+      "marker": 0.26,
+      "end": 0.27,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 3,
+      "start": 0.27,
+      "marker": 0.29,
+      "end": 0.3,
+      "direction": 1,
+      "scale": 3,
+      "name": "Bishop"
+    },
+    {
+      "number": 4,
+      "start": 0.38,
+      "marker": 0.41,
+      "end": 0.43,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 5,
+      "start": 0.47,
+      "marker": 0.49,
+      "end": 0.51,
+      "direction": 1,
+      "scale": 4,
+      "name": "Le Mans"
+    },
+    {
+      "number": 6,
+      "start": 0.78,
+      "marker": 0.86,
+      "end": 0.92,
+      "direction": 1,
+      "scale": 4,
+      "name": "Sunset Bend"
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.92,
+      "end": 0.1
+    },
+    {
+      "name": "Ullman Straight",
+      "start": 0.51,
+      "end": 0.78
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.34
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.51
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 87
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 79
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 91
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 88
+        }
+      ]
+    }
+  ]
+}

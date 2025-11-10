@@ -1,0 +1,69 @@
+{
+  "name": "Virginia International Raceway - South Course",
+  "trackId": "virginia 2022 south",
+  "country": "US",
+  "length": 2655,
+  "pitentry": 0.948,
+  "pitexit": 0.058,
+  "turn": [
+    {
+      "start": 0.233,
+      "end": 0.29,
+      "name": "Bitch"
+    },
+    {
+      "start": 0.348,
+      "end": 0.39
+    },
+    {
+      "start": 0.4,
+      "end": 0.44
+    },
+    {
+      "start": 0.441,
+      "end": 0.465,
+      "naem": "Spiral"
+    },
+    {
+      "start": 0.466,
+      "end": 0.518
+    },
+    {
+      "start": 0.565,
+      "end": 0.607,
+      "name": "Fish Hook"
+    },
+    {
+      "start": 0.63,
+      "end": 0.666
+    },
+    {
+      "start": 0.704,
+      "end": 0.798,
+      "name": "South Bend"
+    },
+    {
+      "start": 0.84,
+      "end": 0.868
+    },
+    {
+      "start": 0.869,
+      "end": 0.915,
+      "name": "Oak Tree"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.392,
+      "name": "1"
+    },
+    {
+      "marker": 0.711,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

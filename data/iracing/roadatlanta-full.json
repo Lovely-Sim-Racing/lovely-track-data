@@ -1,0 +1,99 @@
+{
+  "name": "Road Atlanta - Full Course",
+  "trackId": "roadatlanta full",
+  "country": "US",
+  "year": 2017,
+  "length": 4060,
+  "pitentry": 0.94,
+  "pitexit": 0.131,
+  "turn": [
+    {
+      "start": 0.049,
+      "end": 0.155,
+      "name": "Turn 1"
+    },
+    {
+      "start": 0.156,
+      "end": 0.195,
+      "name": "Turn 2"
+    },
+    {
+      "start": 0.196,
+      "end": 0.213,
+      "name": "Turn 3"
+    },
+    {
+      "start": 0.214,
+      "end": 0.249,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.26,
+      "end": 0.332,
+      "name": "The Esses"
+    },
+    {
+      "start": 0.333,
+      "end": 0.373,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.466,
+      "end": 0.505,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.515,
+      "end": 0.545,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.56,
+      "end": 0.63,
+      "name": "Turn 8"
+    },
+    {
+      "start": 0.729,
+      "end": 0.79,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.825,
+      "end": 0.866,
+      "name": "Turn 10A"
+    },
+    {
+      "start": 0.867,
+      "end": 0.897,
+      "name": "Turn 10B"
+    },
+    {
+      "start": 0.908,
+      "end": 0.941,
+      "name": "Turn 11"
+    },
+    {
+      "start": 0.959,
+      "end": 1.0,
+      "name": "Turn 12"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.168,
+      "name": "1"
+    },
+    {
+      "marker": 0.443,
+      "name": "2"
+    },
+    {
+      "marker": 0.787,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

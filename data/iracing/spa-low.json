@@ -1,0 +1,115 @@
+{
+  "name": "Spa Classic Pits",
+  "trackId": "spa low",
+  "country": "BE",
+  "length": 6930,
+  "pitentry": 0.966,
+  "pitexit": 0.212,
+  "turn": [
+    {
+      "start": 0.024,
+      "end": 0.042,
+      "name": "Eau Rouge"
+    },
+    {
+      "start": 0.043,
+      "end": 0.084,
+      "name": "Raidillon"
+    },
+    {
+      "start": 0.103,
+      "end": 0.125,
+      "name": "Kemmel"
+    },
+    {
+      "start": 0.211,
+      "end": 0.252,
+      "name": "Les Combes"
+    },
+    {
+      "start": 0.256,
+      "end": 0.277,
+      "name": "Malmedy"
+    },
+    {
+      "start": 0.3,
+      "end": 0.34,
+      "name": "Bruxelles"
+    },
+    {
+      "start": 0.343,
+      "end": 0.372,
+      "name": "Speaker's Corner"
+    },
+    {
+      "start": 0.415,
+      "end": 0.486,
+      "name": "Double Gauche"
+    },
+    {
+      "start": 0.51,
+      "end": 0.567,
+      "name": "Les Fagnes"
+    },
+    {
+      "start": 0.579,
+      "end": 0.601,
+      "name": "Campus"
+    },
+    {
+      "start": 0.611,
+      "end": 0.636,
+      "name": "Stavelot"
+    },
+    {
+      "start": 0.661,
+      "end": 0.73,
+      "name": "Courbe Paul Frere"
+    },
+    {
+      "start": 0.755,
+      "end": 0.8,
+      "name": "Blanchimont"
+    },
+    {
+      "start": 0.835,
+      "end": 0.868,
+      "name": "Chicane"
+    },
+    {
+      "start": 0.93,
+      "end": 0.96,
+      "name": "La Source"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.126,
+      "marker": 0.165,
+      "end": 0.195,
+      "name": "Kemmel Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.193,
+      "name": "1"
+    },
+    {
+      "marker": 0.405,
+      "name": "2"
+    },
+    {
+      "marker": 0.575,
+      "name": "3"
+    },
+    {
+      "marker": 0.814,
+      "name": "4"
+    },
+    {
+      "marker": 1.0,
+      "name": "5"
+    }
+  ]
+}

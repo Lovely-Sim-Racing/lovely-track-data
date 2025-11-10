@@ -1,0 +1,66 @@
+{
+  "name": "Tsukuba Circuit - 1000 Full",
+  "trackId": "tsukuba 1kfull",
+  "country": "JP",
+  "length": 9900,
+  "turn": [
+    {
+      "start": 0.138,
+      "end": 0.249
+    },
+    {
+      "start": 0.25,
+      "end": 0.37
+    },
+    {
+      "start": 0.395,
+      "end": 0.475
+    },
+    {
+      "start": 0.476,
+      "end": 0.518
+    },
+    {
+      "start": 0.519,
+      "end": 0.592
+    },
+    {
+      "start": 0.593,
+      "end": 0.651
+    },
+    {
+      "start": 0.721,
+      "end": 0.788
+    },
+    {
+      "start": 0.789,
+      "end": 0.834
+    },
+    {
+      "start": 0.835,
+      "end": 0.874
+    },
+    {
+      "start": 0.875,
+      "end": 0.951
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.25,
+      "name": "1"
+    },
+    {
+      "marker": 0.5,
+      "name": "2"
+    },
+    {
+      "marker": 0.75,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

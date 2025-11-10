@@ -1,0 +1,99 @@
+{
+  "name": "Snetterton 300 Circuit",
+  "trackId": "snetterton 300",
+  "country": "UK",
+  "length": 4740,
+  "pitentry": 0.94,
+  "pitexit": 0.02,
+  "turn": [
+    {
+      "start": 0.049,
+      "end": 0.118,
+      "name": "Riches"
+    },
+    {
+      "start": 0.15,
+      "end": 0.189,
+      "name": "Wilson"
+    },
+    {
+      "start": 0.221,
+      "end": 0.271,
+      "name": "Palmer"
+    },
+    {
+      "start": 0.325,
+      "end": 0.377,
+      "name": "Agostini"
+    },
+    {
+      "start": 0.404,
+      "end": 0.44,
+      "name": "Hamilton"
+    },
+    {
+      "start": 0.456,
+      "end": 0.492,
+      "name": "Oggies"
+    },
+    {
+      "start": 0.504,
+      "end": 0.549,
+      "name": "Williams"
+    },
+    {
+      "start": 0.675,
+      "end": 0.741,
+      "name": "Brundle"
+    },
+    {
+      "start": 0.755,
+      "end": 0.796,
+      "name": "Bomb Hole"
+    },
+    {
+      "start": 0.808,
+      "end": 0.89,
+      "name": "Coram"
+    },
+    {
+      "start": 0.891,
+      "end": 0.913,
+      "name": "Murrays"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.0,
+      "marker": 0.022,
+      "end": 0.044,
+      "name": "Senna Straight"
+    },
+    {
+      "start": 0.55,
+      "marker": 0.6,
+      "end": 0.674,
+      "name": "Bentley Straight"
+    },
+    {
+      "start": 0.95,
+      "marker": 0.97,
+      "end": 1.0,
+      "name": "Senna Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.321,
+      "name": "1"
+    },
+    {
+      "marker": 0.662,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

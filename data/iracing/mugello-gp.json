@@ -1,0 +1,99 @@
+{
+  "name": "Mugello Grand Prix",
+  "trackId": "mugello gp",
+  "country": "IT",
+  "length": 5190,
+  "pitentry": 0.912,
+  "pitexit": 0.06,
+  "turn": [
+    {
+      "start": 0.116,
+      "end": 0.167,
+      "name": "San Donato"
+    },
+    {
+      "start": 0.17,
+      "end": 0.194,
+      "name": "Luco"
+    },
+    {
+      "start": 0.195,
+      "end": 0.235,
+      "name": "Poggiosecco"
+    },
+    {
+      "start": 0.268,
+      "end": 0.294,
+      "name": "Materassi"
+    },
+    {
+      "start": 0.295,
+      "end": 0.32,
+      "name": "Borgo San Lorenzo"
+    },
+    {
+      "start": 0.355,
+      "end": 0.384,
+      "name": "Casanova"
+    },
+    {
+      "start": 0.39,
+      "end": 0.42,
+      "name": "Savelli"
+    },
+    {
+      "start": 0.436,
+      "end": 0.485,
+      "name": "Arrabbiata 1"
+    },
+    {
+      "start": 0.495,
+      "end": 0.535,
+      "name": "Arrabbiata 2"
+    },
+    {
+      "start": 0.57,
+      "end": 0.59,
+      "name": "Scarperia"
+    },
+    {
+      "start": 0.592,
+      "end": 0.625,
+      "name": "Palagio"
+    },
+    {
+      "start": 0.666,
+      "end": 0.722,
+      "name": "Correntaio"
+    },
+    {
+      "start": 0.73,
+      "end": 0.753,
+      "name": "Biondetti 1"
+    },
+    {
+      "start": 0.755,
+      "end": 0.77,
+      "name": "Biondetti 2"
+    },
+    {
+      "start": 0.83,
+      "end": 0.9,
+      "name": "Bucine"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.356,
+      "name": "1"
+    },
+    {
+      "marker": 0.645,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

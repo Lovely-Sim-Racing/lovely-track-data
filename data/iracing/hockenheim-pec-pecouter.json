@@ -1,0 +1,16 @@
+{
+  "name": "Hockenheimring Baden-W\u00fcrttemberg - Porsche Experience Center - Outer",
+  "trackId": "hockenheim pec pecouter",
+  "country": "DE",
+  "length": 1460,
+  "sector": [
+    {
+      "marker": 0.64,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

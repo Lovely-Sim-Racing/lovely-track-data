@@ -1,0 +1,127 @@
+{
+  "name": "Oulton Park Circuit - International",
+  "trackId": "oulton international",
+  "country": "UK",
+  "length": 4290,
+  "pitentry": 0.968,
+  "pitexit": 0.081,
+  "turn": [
+    {
+      "name": "Old Hall Corner",
+      "start": 0.043,
+      "end": 0.089
+    },
+    {
+      "name": "Denton's",
+      "start": 0.137,
+      "end": 0.151
+    },
+    {
+      "name": "Cascades",
+      "start": 0.162,
+      "end": 0.212
+    },
+    {
+      "name": "Island Bend",
+      "start": 0.303,
+      "end": 0.36
+    },
+    {
+      "name": "Shell Oils Corner",
+      "start": 0.365,
+      "end": 0.418
+    },
+    {
+      "name": "Britten's",
+      "start": 0.464,
+      "end": 0.499
+    },
+    {
+      "name": "Hislop's",
+      "start": 0.592,
+      "end": 0.624
+    },
+    {
+      "name": "Knickerbrook",
+      "start": 0.635,
+      "end": 0.663
+    },
+    {
+      "name": "Clay Hill",
+      "start": 0.686,
+      "end": 0.726
+    },
+    {
+      "name": "Water Tower",
+      "start": 0.746,
+      "end": 0.767
+    },
+    {
+      "name": "Druids Corner",
+      "start": 0.78,
+      "end": 0.824
+    },
+    {
+      "name": "Lodge Corner",
+      "start": 0.903,
+      "end": 0.941
+    },
+    {
+      "name": "Deer Leap",
+      "start": 0.956,
+      "end": 0.995
+    }
+  ],
+  "straight": [
+    {
+      "name": "The Avenue",
+      "start": 0.09,
+      "end": 0.136
+    },
+    {
+      "name": "Lakeside",
+      "start": 0.213,
+      "end": 0.303
+    },
+    {
+      "name": "Hilltop",
+      "start": 0.502,
+      "end": 0.581
+    },
+    {
+      "name": "Warwick Bridge",
+      "start": 0.835,
+      "end": 0.87
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.138
+    },
+    {
+      "name": "2",
+      "marker": 0.279
+    },
+    {
+      "name": "3",
+      "marker": 0.452
+    },
+    {
+      "name": "4",
+      "marker": 0.561
+    },
+    {
+      "name": "5",
+      "marker": 0.737
+    },
+    {
+      "name": "6",
+      "marker": 0.879
+    },
+    {
+      "name": "7",
+      "marker": 1
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Motorsport Arena Oschersleben - C Course",
+  "trackId": "oschersleben ccourse",
+  "country": "DE",
+  "length": 1070,
+  "pitentry": 0.721,
+  "pitexit": 0.764,
+  "turn": [
+    {
+      "start": 0.015,
+      "end": 0.075
+    },
+    {
+      "start": 0.076,
+      "end": 0.303
+    },
+    {
+      "start": 0.335,
+      "end": 0.402
+    },
+    {
+      "start": 0.403,
+      "end": 0.445
+    },
+    {
+      "start": 0.446,
+      "end": 0.601
+    },
+    {
+      "start": 0.685,
+      "end": 0.797
+    },
+    {
+      "start": 0.821,
+      "end": 0.914
+    },
+    {
+      "start": 0.915,
+      "end": 0.9
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.25,
+      "name": "1"
+    },
+    {
+      "marker": 0.5,
+      "name": "2"
+    },
+    {
+      "marker": 0.75,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

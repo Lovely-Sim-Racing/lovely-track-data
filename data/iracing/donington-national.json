@@ -1,0 +1,89 @@
+{
+  "name": "Donington Park Racing Circuit - National",
+  "trackId": "donington national",
+  "country": "UK",
+  "length": 3160,
+  "pitentry": 0.95,
+  "pitexit": 0.054,
+  "turn": [
+    {
+      "start": 0.085,
+      "end": 0.159,
+      "name": "Redgate"
+    },
+    {
+      "start": 0.185,
+      "end": 0.245,
+      "name": "Hollywood"
+    },
+    {
+      "start": 0.255,
+      "end": 0.308,
+      "name": "Craner Curves"
+    },
+    {
+      "start": 0.326,
+      "end": 0.387,
+      "name": "Old Hairpin"
+    },
+    {
+      "start": 0.405,
+      "end": 0.451,
+      "name": "Starkey's Bridge"
+    },
+    {
+      "start": 0.475,
+      "end": 0.517,
+      "name": "Schwantz Curve"
+    },
+    {
+      "start": 0.52,
+      "end": 0.595,
+      "name": "McLeans"
+    },
+    {
+      "start": 0.625,
+      "end": 0.725,
+      "name": "Coppice"
+    },
+    {
+      "start": 0.865,
+      "end": 0.929,
+      "name": "Roberts"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.001,
+      "marker": 0.03,
+      "end": 0.084,
+      "name": "Wheatcroft Straight"
+    },
+    {
+      "start": 0.726,
+      "marker": 0.79,
+      "end": 0.86,
+      "name": "Starkey's Straight"
+    },
+    {
+      "start": 0.93,
+      "marker": 0.98,
+      "end": 1.0,
+      "name": "Wheatcroft Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.298,
+      "name": "1"
+    },
+    {
+      "marker": 0.619,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

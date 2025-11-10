@@ -1,0 +1,179 @@
+{
+  "name": "Lusail Short Circuit",
+  "trackId": "lusail short circuit",
+  "country": "QA",
+  "length": 3676,
+  "pitentry": 0.97,
+  "pitexit": 0.11,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.19,
+      "marker": 0.22,
+      "end": 0.25,
+      "direction": 1,
+      "scale": 1
+    },
+    {
+      "number": 2,
+      "start": 0.26,
+      "marker": 0.28,
+      "end": 0.3,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 3,
+      "start": 0.32,
+      "marker": 0.33,
+      "end": 0.34,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 4,
+      "start": 0.34,
+      "marker": 0.35,
+      "end": 0.36,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 5,
+      "start": 0.36,
+      "marker": 0.38,
+      "end": 0.4,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 6,
+      "start": 0.4,
+      "marker": 0.43,
+      "end": 0.46,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 7,
+      "start": 0.54,
+      "marker": 0.57,
+      "end": 0.59,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 8,
+      "start": 0.6,
+      "marker": 0.62,
+      "end": 0.64,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 9,
+      "start": 0.65,
+      "marker": 0.68,
+      "end": 0.7,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 10,
+      "start": 0.74,
+      "marker": 0.76,
+      "end": 0.78,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 11,
+      "start": 0.86,
+      "marker": 0.69,
+      "end": 0.91,
+      "direction": 1,
+      "scale": 2
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.92,
+      "end": 0.18
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.37
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.75
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 84
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 76
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 88
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 30
+        },
+        {
+          "name": "sng10",
+          "time": 42
+        },
+        {
+          "name": "pit",
+          "time": 85
+        }
+      ]
+    }
+  ]
+}

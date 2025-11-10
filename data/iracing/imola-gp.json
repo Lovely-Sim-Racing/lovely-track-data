@@ -1,0 +1,149 @@
+{
+  "name": "Imola",
+  "trackId": "imola gp",
+  "country": "IT",
+  "pitentry": 0.908,
+  "pitexit": 0.068,
+  "length": 4909,
+  "year": 2021,
+  "turn": [
+    {
+      "name": "T1",
+      "marker": 0.025
+    },
+    {
+      "name": "Variante Tamburello",
+      "marker": 0.144,
+      "start": 0.115,
+      "end": 0.15
+    },
+    {
+      "name": "Variante Tamburello",
+      "marker": 0.159,
+      "start": 0.151,
+      "end": 0.165
+    },
+    {
+      "name": "T4",
+      "marker": 0.186
+    },
+    {
+      "name": "Variante Villeneuve",
+      "marker": 0.274,
+      "start": 0.252,
+      "end": 0.28
+    },
+    {
+      "name": "Variante Villeneuve",
+      "marker": 0.292,
+      "start": 0.281,
+      "end": 0.302
+    },
+    {
+      "name": "Tosa",
+      "marker": 0.349,
+      "start": 0.325,
+      "end": 0.37
+    },
+    {
+      "name": "T8",
+      "marker": 0.432
+    },
+    {
+      "name": "Piratella",
+      "marker": 0.476,
+      "start": 0.448,
+      "end": 0.508
+    },
+    {
+      "name": "T10",
+      "marker": 0.519
+    },
+    {
+      "name": "Acque Minerali",
+      "marker": 0.557,
+      "start": 0.54,
+      "end": 0.575
+    },
+    {
+      "name": "Acque Minerali",
+      "marker": 0.584,
+      "start": 0.575,
+      "end": 0.598
+    },
+    {
+      "name": "T13",
+      "marker": 0.607
+    },
+    {
+      "name": "GRESINI",
+      "marker": 0.683,
+      "start": 0.655,
+      "end": 0.69
+    },
+    {
+      "name": "GRESINI",
+      "marker": 0.697,
+      "start": 0.69,
+      "end": 0.705
+    },
+    {
+      "name": "T16",
+      "marker": 0.806
+    },
+    {
+      "name": "T17",
+      "marker": 0.846
+    },
+    {
+      "name": "Rivazza",
+      "marker": 0.874,
+      "start": 0.818,
+      "end": 0.887
+    },
+    {
+      "name": "T20",
+      "marker": 0.939
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.241
+    },
+    {
+      "name": "2",
+      "marker": 0.424
+    },
+    {
+      "name": "3",
+      "marker": 0.65
+    },
+    {
+      "name": "4",
+      "marker": 0.782
+    },
+    {
+      "name": "5",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 43
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": 20,
+      "left": 5,
+      "rotation": 15,
+      "scale": 1
+    }
+  ]
+}

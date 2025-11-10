@@ -1,0 +1,166 @@
+{
+  "name": "Virginia International Raceway - North Course",
+  "trackId": "virginia 2022 north",
+  "country": "US",
+  "length": 3621,
+  "pitentry": 0.859,
+  "pitexit": 0.022,
+  "turn": [
+    {
+      "start": 0.1,
+      "end": 0.15,
+      "name": "Horseshoe",
+      "direction": 1
+    },
+    {
+      "start": 0.19,
+      "end": 0.21,
+      "name": "Turn 2",
+      "direction": 0
+    },
+    {
+      "start": 0.22,
+      "end": 0.24,
+      "name": "Nascar Bend",
+      "direction": 0
+    },
+    {
+      "start": 0.265,
+      "end": 0.295,
+      "name": "Left Hook",
+      "direction": 0
+    },
+    {
+      "start": 0.296,
+      "end": 0.32,
+      "name": "Turn 4b",
+      "direction": 1
+    },
+    {
+      "start": 0.33,
+      "end": 0.35,
+      "name": "Turn 5a",
+      "direction": 1
+    },
+    {
+      "start": 0.351,
+      "end": 0.37,
+      "name": "Turn 5b",
+      "direction": 0
+    },
+    {
+      "start": 0.371,
+      "end": 0.384,
+      "name": "Snake",
+      "direction": 1
+    },
+    {
+      "start": 0.385,
+      "end": 0.4,
+      "name": "Turn 6b",
+      "direction": 0
+    },
+    {
+      "start": 0.48,
+      "end": 0.51,
+      "name": "Turn 7",
+      "direction": 1
+    },
+    {
+      "start": 0.52,
+      "end": 0.54,
+      "name": "Turn 8a",
+      "direction": 0
+    },
+    {
+      "start": 0.541,
+      "end": 0.565,
+      "name": "Turn 8b",
+      "direction": 1
+    },
+    {
+      "start": 0.57,
+      "end": 0.6,
+      "name": "Turn 9a",
+      "direction": 0
+    },
+    {
+      "start": 0.61,
+      "end": 0.645,
+      "name": "Turn 9b",
+      "direction": 1
+    },
+    {
+      "start": 0.646,
+      "end": 0.66,
+      "name": "Turn 9c",
+      "direction": 0
+    },
+    {
+      "start": 0.683,
+      "end": 0.71,
+      "name": "Roller Coaster",
+      "direction": 1
+    },
+    {
+      "start": 0.711,
+      "end": 0.74,
+      "name": "Turn 11",
+      "direction": 0
+    },
+    {
+      "start": 0.76,
+      "end": 0.787,
+      "name": "Turn 12a",
+      "direction": 0
+    },
+    {
+      "start": 0.787,
+      "end": 0.812,
+      "name": "Turn 12b",
+      "direction": 1
+    },
+    {
+      "start": 0.825,
+      "end": 0.85,
+      "name": "Turn 13",
+      "direction": 1
+    },
+    {
+      "start": 0.95,
+      "end": 0.999,
+      "name": "Turn 14",
+      "direction": 1
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.813,
+      "end": 0.824,
+      "name": "Front Straight"
+    },
+    {
+      "start": 0.87,
+      "end": 0.945,
+      "name": "Front Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.265,
+      "name": "1"
+    },
+    {
+      "marker": 0.473,
+      "name": "2"
+    },
+    {
+      "marker": 0.754,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

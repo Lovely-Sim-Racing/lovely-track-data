@@ -1,0 +1,20 @@
+{
+  "name": "Hockenheimring Baden-W\u00fcrttemberg - Porsche Experience Center - Handling",
+  "trackId": "hockenheim pec pechandling",
+  "country": "DE",
+  "length": 2620,
+  "sector": [
+    {
+      "marker": 0.377,
+      "name": "1"
+    },
+    {
+      "marker": 0.657,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

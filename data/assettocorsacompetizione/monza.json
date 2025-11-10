@@ -1,5 +1,6 @@
 {
-  "name": "Monza",
+  "name": "Autodromo Nazionale Monza",
+  "trackId": "monza",
   "country": "IT",
   "length": 5793,
   "pitentry": 0.963,

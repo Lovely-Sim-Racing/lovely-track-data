@@ -1,0 +1,224 @@
+{
+  "name": "Aut\u00f3dromo Internacional do Algarve",
+  "trackId": "algarve international circuit",
+  "country": "PT",
+  "length": 4635,
+  "pitentry": 0.93,
+  "pitexit": 0.03,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.07,
+      "marker": 0.09,
+      "end": 0.1,
+      "direction": 1,
+      "scale": 4,
+      "name": "Primeira"
+    },
+    {
+      "number": 2,
+      "start": 0.11,
+      "marker": 0.12,
+      "end": 0.13,
+      "direction": 1,
+      "scale": 6
+    },
+    {
+      "number": 3,
+      "start": 0.15,
+      "marker": 0.16,
+      "end": 0.17,
+      "direction": 1,
+      "scale": 1,
+      "name": "Lagos"
+    },
+    {
+      "number": 4,
+      "start": 0.18,
+      "marker": 0.19,
+      "end": 0.21,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 5,
+      "start": 0.3,
+      "marker": 0.31,
+      "end": 0.32,
+      "direction": 0,
+      "scale": 1,
+      "name": "Torre Vip"
+    },
+    {
+      "number": 6,
+      "start": 0.35,
+      "marker": 0.37,
+      "end": 0.38,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 7,
+      "start": 0.4,
+      "marker": 0.42,
+      "end": 0.43,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 8,
+      "start": 0.44,
+      "marker": 0.45,
+      "end": 0.46,
+      "direction": 1,
+      "scale": 2,
+      "name": "Samsung"
+    },
+    {
+      "number": 9,
+      "start": 0.51,
+      "marker": 0.53,
+      "end": 0.54,
+      "direction": 0,
+      "scale": 5,
+      "name": "Craig Jones"
+    },
+    {
+      "number": 10,
+      "start": 0.57,
+      "marker": 0.58,
+      "end": 0.59,
+      "direction": 1,
+      "scale": 6,
+      "name": "Portim\u00e3o"
+    },
+    {
+      "number": 11,
+      "start": 0.59,
+      "marker": 0.6,
+      "end": 0.61,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 12,
+      "start": 0.62,
+      "marker": 0.65,
+      "end": 0.66,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 13,
+      "start": 0.68,
+      "marker": 0.69,
+      "end": 0.7,
+      "direction": 0,
+      "scale": 1
+    },
+    {
+      "number": 14,
+      "start": 0.72,
+      "marker": 0.74,
+      "end": 0.77,
+      "direction": 1,
+      "scale": 2,
+      "name": "Sagres"
+    },
+    {
+      "number": 15,
+      "start": 0.8,
+      "marker": 0.83,
+      "end": 0.88,
+      "direction": 1,
+      "scale": 5,
+      "name": "Galp"
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.88,
+      "end": 0.07
+    },
+    {
+      "name": "Back Straight",
+      "start": 0.2,
+      "end": 0.3
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.21
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.56
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 28
+        },
+        {
+          "name": "sng10",
+          "time": 40
+        },
+        {
+          "name": "pit",
+          "time": 82
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 28
+        },
+        {
+          "name": "sng10",
+          "time": 40
+        },
+        {
+          "name": "pit",
+          "time": 76
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 28
+        },
+        {
+          "name": "sng10",
+          "time": 40
+        },
+        {
+          "name": "pit",
+          "time": 86
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 28
+        },
+        {
+          "name": "sng10",
+          "time": 40
+        },
+        {
+          "name": "pit",
+          "time": 83
+        }
+      ]
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 
 <p align="center">
 A comprehensive list of Track Data for Sim Racing games.<br>
-<strong>File Format v1.1.0 Beta</strong>
+<strong>File Format v2.0.0 Beta</strong>
 </p>
 
 ---
@@ -15,8 +15,48 @@ A comprehensive list of Track Data for Sim Racing games.<br>
 Fetch the data by retrieving the url:
 `/data/{simId}/{trackId}.json`
 
-* `{simId}` is the lowercase Simhub game id `DataCorePlugin.CurrentGame`
-* `{trackId}` is the lowercase Simhub track id `DataCorePlugin.TrackId`
+* `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
+* `{trackId}` is the Simhub track id `DataCorePlugin.TrackId`
+
+### Name Format
+
+Both `{SimId}` and `{trackId}` must adhere to the following naming format:
+
+1. Lowercase
+2. Replace accented chars with standard equivalent
+3. Replace spaces with hyphen
+4. Remove special characters
+
+### Example name formatting
+
+* `F12024/Baku (Azerbaijan).json` -> `f12024/baku-azerbaijan.json`
+* `F12024/Abu Dhabi.json` -> `f12024/abu-dhabi.json`
+* `F12024/Portimão.json` -> `f12024/portimao.json`
+* `iRacing/Imola GP.json` -> `iracing/imola-gp.json`
+
+### Example code 
+
+```
+function nameCleaner($cleanName)
+    {
+        // Convert to lowercase
+        $cleanName = mb_strtolower($cleanName, 'UTF-8');
+
+        // Replace accented character with standard
+        $cleanName = iconv('UTF-8', 'ASCII//TRANSLIT', $cleanName);
+        
+        // Replace special characters and spaces with hyphen
+        $cleanName = preg_replace('/[^a-z0-9\-]/', '-', $cleanName);
+        
+        // Replace multiple hyphens with single
+        $cleanName = preg_replace('/-+/', '-', $cleanName); 
+        
+        // Clean leading and trailign hyphens
+        $cleanName = trim($cleanName, '-');
+        
+        return $cleanName;
+    }  
+```
 
 ## Changelog
 Read the [changelog](changelog.md) to keep track of the format updates.

@@ -1,0 +1,16 @@
+{
+  "name": "Circuito de Navarra - Speed Circuit - Medium",
+  "trackId": "navara speedmedium",
+  "country": "ES",
+  "length": 2670,
+  "sector": [
+    {
+      "marker": 0.608,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

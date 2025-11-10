@@ -1,0 +1,91 @@
+{
+  "name": "Laguna Seca - School",
+  "trackId": "lagunaseca school",
+  "country": "AU",
+  "year": 1996,
+  "length": 3602,
+  "pitentry": 0.87,
+  "pitexit": 0.154,
+  "turn": [
+    {
+      "start": 0.045,
+      "end": 0.08,
+      "name": "Turn 1"
+    },
+    {
+      "start": 0.1,
+      "end": 0.173,
+      "name": "Andretti Hairpin"
+    },
+    {
+      "start": 0.191,
+      "end": 0.245,
+      "name": "Turn 3"
+    },
+    {
+      "start": 0.265,
+      "end": 0.321,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.4,
+      "end": 0.465,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.52,
+      "end": 0.575,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.661,
+      "end": 0.72,
+      "name": "The Corkscrew"
+    },
+    {
+      "start": 0.725,
+      "end": 0.79,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.805,
+      "end": 0.855,
+      "name": "Turn 10"
+    },
+    {
+      "start": 0.89,
+      "end": 0.94,
+      "name": "Turn 11"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.576,
+      "marker": 0.61,
+      "end": 0.66,
+      "name": "Rahal Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.184,
+      "name": "1"
+    },
+    {
+      "marker": 0.377,
+      "name": "2"
+    },
+    {
+      "marker": 0.643,
+      "name": "3"
+    },
+    {
+      "marker": 0.804,
+      "name": "4"
+    },
+    {
+      "marker": 1.0,
+      "name": "5"
+    }
+  ]
+}

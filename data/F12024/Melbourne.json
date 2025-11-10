@@ -1,5 +1,6 @@
 {
-  "name": "Melbourne",
+  "name": "Melbourne Grand Prix Circuit",
+  "trackId": "melbourne",
   "country": "Australia",
   "year": 2021,
   "length": 5276,

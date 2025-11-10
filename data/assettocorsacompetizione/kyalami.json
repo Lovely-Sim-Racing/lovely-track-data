@@ -1,5 +1,6 @@
 {
-  "name": "Kyalami",
+  "name": "Kyalami Grand Prix Circuit",
+  "trackId": "kyalami",
   "country": "ZA",
   "length": 4580,
   "turn": [

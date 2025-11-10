@@ -1,0 +1,99 @@
+{
+  "name": "Autodromo Internacional do Algarve",
+  "trackId": "algarve gp",
+  "country": "PT",
+  "length": 4580,
+  "pitentry": 0.95,
+  "pitexit": 0.09,
+  "turn": [
+    {
+      "start": 0.124,
+      "end": 0.166,
+      "name": "Primeira"
+    },
+    {
+      "start": 0.167,
+      "end": 0.193,
+      "name": "Turn 2"
+    },
+    {
+      "start": 0.194,
+      "end": 0.228,
+      "name": "Lagos"
+    },
+    {
+      "start": 0.229,
+      "end": 0.274,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.049,
+      "end": 0.118,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.355,
+      "end": 0.392,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.4,
+      "end": 0.449,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.45,
+      "end": 0.486,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.487,
+      "end": 0.537,
+      "name": "Samsung"
+    },
+    {
+      "start": 0.558,
+      "end": 0.617,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.618,
+      "end": 0.669,
+      "name": "Portimao"
+    },
+    {
+      "start": 0.67,
+      "end": 0.723,
+      "name": "Turn 12"
+    },
+    {
+      "start": 0.728,
+      "end": 0.77,
+      "name": "Turn 13"
+    },
+    {
+      "start": 0.775,
+      "end": 0.833,
+      "name": "Sagres"
+    },
+    {
+      "start": 0.85,
+      "end": 0.945,
+      "name": "Galp"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.316,
+      "name": "1"
+    },
+    {
+      "marker": 0.675,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

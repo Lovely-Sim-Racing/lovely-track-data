@@ -1,0 +1,249 @@
+{
+  "name": "Virginia International Raceway - Grand West Course",
+  "trackId": "virginia 2022 grand",
+  "country": "US",
+  "length": 6598,
+  "pitentry": 0.922,
+  "pitexit": 0.013,
+  "turn": [
+    {
+      "start": 0.051,
+      "end": 0.09,
+      "name": "Horseshoe",
+      "direction": 1
+    },
+    {
+      "start": 0.101,
+      "end": 0.118,
+      "direction": 0
+    },
+    {
+      "start": 0.12,
+      "end": 0.138,
+      "name": "Nascar Bend",
+      "direction": 1
+    },
+    {
+      "start": 0.151,
+      "end": 0.164,
+      "name": "Left Hook",
+      "direction": 0
+    },
+    {
+      "start": 0.165,
+      "end": 0.179,
+      "name": "T4b",
+      "direction": 1
+    },
+    {
+      "start": 0.182,
+      "end": 0.193,
+      "name": "T5a",
+      "direction": 1
+    },
+    {
+      "start": 0.193,
+      "end": 0.205,
+      "name": "T5b",
+      "direction": 0
+    },
+    {
+      "start": 0.205,
+      "end": 0.212,
+      "name": "Snake",
+      "direction": 1
+    },
+    {
+      "start": 0.213,
+      "end": 0.225,
+      "name": "T6b",
+      "direction": 0
+    },
+    {
+      "start": 0.276,
+      "end": 0.293,
+      "name": "T7",
+      "direction": 0
+    },
+    {
+      "start": 0.294,
+      "end": 0.308,
+      "name": "T8a",
+      "direction": 1
+    },
+    {
+      "start": 0.309,
+      "end": 0.324,
+      "name": "T8b",
+      "direction": 0
+    },
+    {
+      "start": 0.325,
+      "end": 0.34,
+      "name": "T9",
+      "direction": 1
+    },
+    {
+      "start": 0.358,
+      "end": 0.383,
+      "name": "South Bend",
+      "direction": 0
+    },
+    {
+      "start": 0.407,
+      "end": 0.419,
+      "name": "T11",
+      "direction": 1
+    },
+    {
+      "start": 0.42,
+      "end": 0.435,
+      "name": "Oak Tree",
+      "direction": 1
+    },
+    {
+      "start": 0.561,
+      "end": 0.588,
+      "name": "Bitch",
+      "direction": 1
+    },
+    {
+      "start": 0.607,
+      "end": 0.617,
+      "name": "T14",
+      "direction": 0
+    },
+    {
+      "start": 0.63,
+      "end": 0.644,
+      "name": "T15a",
+      "direction": 0
+    },
+    {
+      "start": 0.645,
+      "end": 0.652,
+      "name": "T15b",
+      "direction": 1
+    },
+    {
+      "start": 0.653,
+      "end": 0.673,
+      "name": "T16",
+      "direction": 0
+    },
+    {
+      "start": 0.699,
+      "end": 0.706,
+      "name": "T17a",
+      "direction": 1
+    },
+    {
+      "start": 0.706,
+      "end": 0.713,
+      "name": "T17b",
+      "direction": 0
+    },
+    {
+      "start": 0.714,
+      "end": 0.723,
+      "name": "T17c",
+      "direction": 1
+    },
+    {
+      "start": 0.724,
+      "end": 0.749,
+      "name": "T17d",
+      "direction": 0
+    },
+    {
+      "start": 0.75,
+      "end": 0.764,
+      "name": "T18a",
+      "direction": 1
+    },
+    {
+      "start": 0.765,
+      "end": 0.781,
+      "name": "T18b",
+      "direction": 0
+    },
+    {
+      "start": 0.782,
+      "end": 0.805,
+      "name": "T19a",
+      "direction": 1
+    },
+    {
+      "start": 0.783,
+      "end": 0.82,
+      "name": "T19b",
+      "direction": 0
+    },
+    {
+      "start": 0.825,
+      "end": 0.84,
+      "name": "Roller Coaster",
+      "direction": 1
+    },
+    {
+      "start": 0.841,
+      "end": 0.858,
+      "name": "T21",
+      "direction": 0
+    },
+    {
+      "start": 0.87,
+      "end": 0.883,
+      "name": "T22a",
+      "direction": 0
+    },
+    {
+      "start": 0.884,
+      "end": 0.899,
+      "name": "T22b",
+      "direction": 0
+    },
+    {
+      "start": 0.9,
+      "end": 0.915,
+      "name": "T23",
+      "direction": 1
+    },
+    {
+      "start": 0.97,
+      "end": 0.999,
+      "name": "T24",
+      "direction": 1
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.147,
+      "name": "1"
+    },
+    {
+      "marker": 0.268,
+      "name": "2"
+    },
+    {
+      "marker": 0.401,
+      "name": "3"
+    },
+    {
+      "marker": 0.592,
+      "name": "4"
+    },
+    {
+      "marker": 0.743,
+      "name": "5"
+    },
+    {
+      "marker": 0.865,
+      "name": "6"
+    },
+    {
+      "marker": 1.0,
+      "name": "6"
+    }
+  ]
+}

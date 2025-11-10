@@ -1,0 +1,24 @@
+{
+  "name": "Oulton Park Circuit - Intl w/out Hislop",
+  "trackId": "oulton fosterswithhislop",
+  "country": "GB",
+  "length": 4330,
+  "sector": [
+    {
+      "marker": 0.221,
+      "name": "1"
+    },
+    {
+      "marker": 0.557,
+      "name": "2"
+    },
+    {
+      "marker": 0.806,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

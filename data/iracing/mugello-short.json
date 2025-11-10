@@ -1,0 +1,48 @@
+{
+  "name": "Autodromo Internazionale del Mugello - Short",
+  "trackId": "mugello short",
+  "country": "IT",
+  "length": 1400,
+  "pitentry": 0.771,
+  "pitexit": 0.212,
+  "turn": [
+    {
+      "start": 0.249,
+      "end": 0.329
+    },
+    {
+      "start": 0.352,
+      "end": 0.401
+    },
+    {
+      "start": 0.402,
+      "end": 0.462
+    },
+    {
+      "start": 0.562,
+      "end": 0.61
+    },
+    {
+      "start": 0.611,
+      "end": 0.662
+    },
+    {
+      "start": 0.735,
+      "end": 0.785
+    },
+    {
+      "start": 0.812,
+      "end": 0.885
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.728,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

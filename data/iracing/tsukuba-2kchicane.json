@@ -1,0 +1,24 @@
+{
+  "name": "Tsukuba Circuit - 2000 Moto",
+  "trackId": "tsukuba 2kchicane",
+  "country": "JP",
+  "length": 2070,
+  "sector": [
+    {
+      "marker": 0.25,
+      "name": "1"
+    },
+    {
+      "marker": 0.5,
+      "name": "2"
+    },
+    {
+      "marker": 0.75,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

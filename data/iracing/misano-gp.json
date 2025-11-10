@@ -1,0 +1,64 @@
+{
+  "name": "Misano Grand Prix",
+  "trackId": "misano gp",
+  "country": "IT",
+  "length": 4170,
+  "pitentry": 0.905,
+  "pitexit": 0.117,
+  "turn": [
+    {
+      "start": 0.049,
+      "end": 0.118,
+      "name": "Variante del Parco"
+    },
+    {
+      "start": 0.17,
+      "end": 0.265,
+      "name": "Curva del Rio"
+    },
+    {
+      "start": 0.365,
+      "end": 0.445,
+      "name": "Curva Quericia"
+    },
+    {
+      "start": 0.475,
+      "end": 0.557,
+      "name": "Curva Tramonto"
+    },
+    {
+      "start": 0.645,
+      "end": 0.751,
+      "name": "Curvone"
+    },
+    {
+      "start": 0.79,
+      "end": 0.839,
+      "name": "Curva del Carro"
+    },
+    {
+      "start": 0.84,
+      "end": 0.89,
+      "name": "Turn 15"
+    },
+    {
+      "start": 0.9,
+      "end": 0.95,
+      "name": "Curva Misano"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.233,
+      "name": "1"
+    },
+    {
+      "marker": 0.639,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

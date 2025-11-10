@@ -1,0 +1,288 @@
+{
+  "name": "Bahrain International Circuit (Endurance)",
+  "trackId": "bahrain endurance circuit",
+  "country": "BH",
+  "length": 6256,
+  "pitentry": 0.99,
+  "pitexit": 0.07,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.11,
+      "marker": 0.12,
+      "end": 0.12,
+      "direction": 1,
+      "scale": 1
+    },
+    {
+      "number": 2,
+      "start": 0.12,
+      "marker": 0.13,
+      "end": 0.14,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 3,
+      "start": 0.14,
+      "marker": 0.15,
+      "end": 0.17,
+      "direction": 1,
+      "scale": 6
+    },
+    {
+      "number": 4,
+      "start": 0.23,
+      "marker": 0.24,
+      "end": 0.25,
+      "direction": 1,
+      "scale": 2
+    },
+    {
+      "number": 5,
+      "start": 0.25,
+      "marker": 0.27,
+      "end": 0.28,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 6,
+      "start": 0.29,
+      "marker": 0.31,
+      "end": 0.32,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 7,
+      "start": 0.32,
+      "marker": 0.32,
+      "end": 0.33,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 8,
+      "start": 0.33,
+      "marker": 0.33,
+      "end": 0.34,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 9,
+      "start": 0.34,
+      "marker": 0.24,
+      "end": 0.35,
+      "direction": 1,
+      "scale": 1
+    },
+    {
+      "number": 10,
+      "start": 0.35,
+      "marker": 0.35,
+      "end": 0.36,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 11,
+      "start": 0.37,
+      "marker": 0.37,
+      "end": 0.38,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 12,
+      "start": 0.38,
+      "marker": 0.39,
+      "end": 0.39,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 13,
+      "start": 0.39,
+      "marker": 0.4,
+      "end": 0.4,
+      "direction": 1,
+      "scale": 6
+    },
+    {
+      "number": 14,
+      "start": 0.41,
+      "marker": 0.42,
+      "end": 0.43,
+      "direction": 0,
+      "scale": 2
+    },
+    {
+      "number": 15,
+      "start": 0.43,
+      "marker": 0.44,
+      "end": 0.45,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 16,
+      "start": 0.45,
+      "marker": 0.46,
+      "end": 0.47,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 17,
+      "start": 0.49,
+      "marker": 0.5,
+      "end": 0.51,
+      "direction": 1,
+      "scale": 6
+    },
+    {
+      "number": 18,
+      "start": 0.55,
+      "marker": 0.56,
+      "end": 0.57,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 19,
+      "start": 0.57,
+      "marker": 0.58,
+      "end": 0.58,
+      "direction": 0,
+      "scale": 1
+    },
+    {
+      "number": 20,
+      "start": 0.68,
+      "marker": 0.69,
+      "end": 0.7,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 21,
+      "start": 0.73,
+      "marker": 0.75,
+      "end": 0.77,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 22,
+      "start": 0.78,
+      "marker": 0.79,
+      "end": 0.81,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 23,
+      "start": 0.91,
+      "marker": 0.92,
+      "end": 0.93,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 24,
+      "start": 0.93,
+      "marker": 0.94,
+      "end": 0.95,
+      "direction": 1,
+      "scale": 6
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.95,
+      "end": 0.11
+    },
+    {
+      "name": "Back Straight",
+      "start": 0.58,
+      "end": 0.68
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.36
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.53
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 79
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 71
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 83
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 80
+        }
+      ]
+    }
+  ]
+}
