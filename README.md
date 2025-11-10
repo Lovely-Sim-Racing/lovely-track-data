@@ -29,33 +29,36 @@ Both `{SimId}` and `{trackId}` must adhere to the following naming format:
 
 ### Example name formatting
 
-* `F12024/Baku (Azerbaijan).json` -> `f12024/baku-azerbaijan.json`
-* `F12024/Abu Dhabi.json` -> `f12024/abu-dhabi.json`
-* `F12024/Portimão.json` -> `f12024/portimao.json`
-* `iRacing/Imola GP.json` -> `iracing/imola-gp.json`
+* `F12024 / Baku (Azerbaijan)` -> `f12024/baku-azerbaijan.json`
+* `F12024 / Abu Dhabi` -> `f12024/abu-dhabi.json`
+* `F12024 / Portimão` -> `f12024/portimao.json`
+* `iRacing / Imola GP` -> `iracing/imola-gp.json`
 
-### Example code 
+### Example code
 
 ```
 function nameCleaner($cleanName)
-    {
-        // Convert to lowercase
-        $cleanName = mb_strtolower($cleanName, 'UTF-8');
+{
+    // Convert to lowercase
+    $cleanName = mb_strtolower($cleanName, 'UTF-8');
 
-        // Replace accented character with standard
-        $cleanName = iconv('UTF-8', 'ASCII//TRANSLIT', $cleanName);
-        
-        // Replace special characters and spaces with hyphen
-        $cleanName = preg_replace('/[^a-z0-9\-]/', '-', $cleanName);
-        
-        // Replace multiple hyphens with single
-        $cleanName = preg_replace('/-+/', '-', $cleanName); 
-        
-        // Clean leading and trailign hyphens
-        $cleanName = trim($cleanName, '-');
-        
-        return $cleanName;
-    }  
+    // Replace accented character with standard
+    $cleanName = iconv('UTF-8', 'ASCII//TRANSLIT', $cleanName);
+    
+    // Replace spaces with hyphen
+    $cleanName = preg_replace('/\s+/', '-', $cleanName);
+    
+    // Replace special characters with hyphen
+    $cleanName = preg_replace('/[^a-z0-9]/i', '-', $cleanName);
+    
+    // Replace multiple hyphens with single
+    $cleanName = preg_replace('/-+/', '-', $cleanName);
+    
+    // Clean leading and trailign hyphens
+    $cleanName = trim($cleanName, '-');
+    
+    return $cleanName;
+}   
 ```
 
 ## Changelog
