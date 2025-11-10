@@ -6,7 +6,7 @@
 
 <p align="center">
 A comprehensive list of Track Data for Sim Racing games.<br>
-<strong>File Format v2.0.0 Beta</strong>
+<strong>File Format v2.0.0</strong>
 </p>
 
 ---
