@@ -69,6 +69,7 @@ Every file is formatted as follows:
 
 ``` 
 # name          (String) - The full human readable track name
+# trackId       (String) - The trackId as it appears in SimHub
 # country       (String) - (OPTIONAL) The track's country code (ISO 3166 Alpha 2)
 # year          (Int)    - (OPTIONAL) The track's active year
 # length        (Int)    - (OPTIONAL) Length of the track in meters
