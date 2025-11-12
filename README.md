@@ -13,7 +13,7 @@ A comprehensive list of Track Data for Sim Racing games.<br>
 
 ## How to
 Fetch the data by retrieving the url:
-`/data/{simId}/{trackId}.json`
+`{version}/data/{simId}/{trackId}.json`
 
 * `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
 * `{trackId}` is the Simhub track id `DataCorePlugin.TrackId`
@@ -25,16 +25,15 @@ Both `{SimId}` and `{trackId}` must adhere to the following naming format:
 1. Lowercase
 2. Replace accented chars with standard equivalent
 3. Replace spaces with hyphen
-4. Remove special characters
+4. Replace special characters with hyphen
 5. Remove double Hyphens
-
-**Note:** Exception for all `F1XXXX` games, they get renamed to `f1`
+6. Remove leading and trailing hyphens
 
 ### Example name formatting
 
-* `F12024 / Baku (Azerbaijan)` -> `f1/baku-azerbaijan.json`
-* `F12024 / Abu Dhabi` -> `f1/abu-dhabi.json`
-* `F12024 / Portimão` -> `f1/portimao.json`
+* `F12024 / Baku (Azerbaijan)` -> `f12024/baku-azerbaijan.json`
+* `F12024 / Abu Dhabi` -> `f12024/abu-dhabi.json`
+* `F12025 / Portimão` -> `f12025/portimao.json`
 * `iRacing / Imola GP` -> `iracing/imola-gp.json`
 
 ### Example code
