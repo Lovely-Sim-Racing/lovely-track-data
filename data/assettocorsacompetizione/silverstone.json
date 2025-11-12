@@ -1,5 +1,6 @@
 {
-  "name": "Silverstone",
+  "name": "Silverstone Circuit",
+  "trackId": "silverstone",
   "country": "GB",
   "length": 5890,
   "pitentry": 0.97,

@@ -1,0 +1,185 @@
+{
+  "name": "Circuit of the Americas",
+  "trackId": "texas",
+  "country": "USA",
+  "year": 2012,
+  "length": 5514,
+  "pitentry": 0.9362,
+  "pitexit": 0.1021,
+  "sector": [
+    {
+      "marker": 0.3014,
+      "name": "1"
+    },
+    {
+      "marker": 0.7118,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ],
+  "turn": [
+    {
+      "start": 0.1126,
+      "marker": 0.1203,
+      "end": 0.1246,
+      "direction": 0,
+      "scale": 1,
+      "name": "T1"
+    },
+    {
+      "start": 0.1502,
+      "marker": 0.1658,
+      "end": 0.1786,
+      "direction": 1,
+      "scale": 2,
+      "name": "T2"
+    },
+    {
+      "start": 0.2057,
+      "marker": 0.2149,
+      "end": 0.2201,
+      "direction": 0,
+      "scale": 3,
+      "name": "T3"
+    },
+    {
+      "start": 0.2232,
+      "marker": 0.2308,
+      "end": 0.2356,
+      "direction": 1,
+      "scale": 2,
+      "name": "T4"
+    },
+    {
+      "start": 0.2387,
+      "marker": 0.2465,
+      "end": 0.2539,
+      "direction": 0,
+      "scale": 2,
+      "name": "T5"
+    },
+    {
+      "start": 0.2567,
+      "marker": 0.2773,
+      "end": 0.2922,
+      "direction": 1,
+      "scale": 3,
+      "name": "T6"
+    },
+    {
+      "start": 0.3075,
+      "marker": 0.3135,
+      "end": 0.3177,
+      "direction": 0,
+      "scale": 2,
+      "name": "T7"
+    },
+    {
+      "start": 0.3356,
+      "marker": 0.349,
+      "end": 0.3546,
+      "direction": 1,
+      "scale": 3,
+      "name": "T8"
+    },
+    {
+      "start": 0.3569,
+      "marker": 0.3604,
+      "end": 0.365,
+      "direction": 0,
+      "scale": 2,
+      "name": "T9"
+    },
+    {
+      "start": 0.3926,
+      "marker": 0.397,
+      "end": 0.4007,
+      "direction": 0,
+      "scale": 3,
+      "name": "T10"
+    },
+    {
+      "start": 0.4639,
+      "marker": 0.4702,
+      "end": 0.4751,
+      "direction": 0,
+      "scale": 1,
+      "name": "T11"
+    },
+    {
+      "start": 0.6833,
+      "marker": 0.6877,
+      "end": 0.6912,
+      "direction": 0,
+      "scale": 1,
+      "name": "T12"
+    },
+    {
+      "start": 0.7221,
+      "marker": 0.7286,
+      "end": 0.7345,
+      "direction": 1,
+      "scale": 1,
+      "name": "T13"
+    },
+    {
+      "start": 0.7418,
+      "marker": 0.7463,
+      "end": 0.7491,
+      "direction": 1,
+      "scale": 2,
+      "name": "T14"
+    },
+    {
+      "start": 0.7661,
+      "marker": 0.7813,
+      "end": 0.7848,
+      "direction": 0,
+      "scale": 1,
+      "name": "T15"
+    },
+    {
+      "start": 0.8124,
+      "marker": 0.822,
+      "end": 0.8246,
+      "direction": 1,
+      "scale": 3,
+      "name": "T16"
+    },
+    {
+      "start": 0.8317,
+      "marker": 0.8359,
+      "end": 0.841,
+      "direction": 1,
+      "scale": 4,
+      "name": "T17"
+    },
+    {
+      "start": 0.8503,
+      "marker": 0.855,
+      "end": 0.881,
+      "direction": 1,
+      "scale": 3,
+      "name": "T18"
+    },
+    {
+      "start": 0.9126,
+      "marker": 0.917,
+      "end": 0.9247,
+      "direction": 0,
+      "scale": 3,
+      "name": "T19"
+    },
+    {
+      "start": 0.9665,
+      "marker": 0.972,
+      "end": 0.978,
+      "direction": 0,
+      "scale": 2,
+      "name": "T20"
+    }
+  ]
+}

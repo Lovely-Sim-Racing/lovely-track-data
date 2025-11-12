@@ -1,0 +1,105 @@
+{
+  "name": "Winton National",
+  "trackId": "winton national",
+  "country": "AU",
+  "length": 2950,
+  "pitentry": 0.868,
+  "pitexit": 0.038,
+  "turn": [
+    {
+      "start": 0.063,
+      "end": 0.131,
+      "name": "Motorsport News Esses"
+    },
+    {
+      "start": 0.195,
+      "end": 0.244,
+      "name": "Honda Corner"
+    },
+    {
+      "start": 0.245,
+      "end": 0.29,
+      "name": "Nissan Corner"
+    },
+    {
+      "start": 0.321,
+      "end": 0.425,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.426,
+      "end": 0.459,
+      "name": "Roll-Over Corner"
+    },
+    {
+      "start": 0.46,
+      "end": 0.504,
+      "name": "Penrite Corner"
+    },
+    {
+      "start": 0.505,
+      "end": 0.557,
+      "name": "Turn 8"
+    },
+    {
+      "start": 0.558,
+      "end": 0.614,
+      "name": "Kitome Corner"
+    },
+    {
+      "start": 0.683,
+      "end": 0.73,
+      "name": "Northern BM Corner"
+    },
+    {
+      "start": 0.829,
+      "end": 0.919,
+      "name": "Advanced Petroleum Corner"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.132,
+      "end": 0.194,
+      "name": "BP Ultimate Straight"
+    },
+    {
+      "start": 0.287,
+      "end": 0.32,
+      "name": "Foot Waste Straight"
+    },
+    {
+      "start": 0.614,
+      "end": 0.682,
+      "name": "Shannon's Straight"
+    },
+    {
+      "start": 0.731,
+      "end": 0.828,
+      "name": "Falken Straight"
+    },
+    {
+      "start": 0.92,
+      "end": 1.0,
+      "name": "Kitome Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.25,
+      "name": "1"
+    },
+    {
+      "marker": 0.5,
+      "name": "2"
+    },
+    {
+      "marker": 0.75,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

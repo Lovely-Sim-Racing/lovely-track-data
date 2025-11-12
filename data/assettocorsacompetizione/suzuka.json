@@ -1,5 +1,6 @@
 {
-  "name": "Suzuka",
+  "name": "Suzuka Circuit",
+  "trackId": "suzuka",
   "country": "JP",
   "length": 5807,
   "turn": [

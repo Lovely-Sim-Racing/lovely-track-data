@@ -1,0 +1,251 @@
+{
+  "name": "Autodromo Internazionale Enzo e Dino Ferrari",
+  "trackId": "autodromo enzo e dino ferrari",
+  "country": "IT",
+  "length": 4900,
+  "pitentry": 0.93,
+  "pitexit": 0.04,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.99,
+      "marker": 0.01,
+      "end": 0.1,
+      "direction": 1,
+      "scale": 6,
+      "name": "Variante Bassa"
+    },
+    {
+      "number": 2,
+      "start": 0.13,
+      "marker": 0.14,
+      "end": 0.15,
+      "direction": 0,
+      "scale": 4,
+      "name": "Variante Tamburello"
+    },
+    {
+      "number": 3,
+      "start": 0.15,
+      "marker": 0.15,
+      "end": 0.16,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 4,
+      "start": 0.17,
+      "marker": 0.18,
+      "end": 0.19,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 5,
+      "start": 0.26,
+      "marker": 0.27,
+      "end": 0.28,
+      "direction": 0,
+      "scale": 5,
+      "name": "Variante Villeneuve"
+    },
+    {
+      "number": 6,
+      "start": 0.28,
+      "marker": 0.29,
+      "end": 0.3,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 7,
+      "start": 0.33,
+      "marker": 0.34,
+      "end": 0.35,
+      "direction": 0,
+      "scale": 1,
+      "name": "Tosa"
+    },
+    {
+      "number": 8,
+      "start": 0.42,
+      "marker": 0.43,
+      "end": 0.44,
+      "direction": 1,
+      "scale": 6
+    },
+    {
+      "number": 9,
+      "start": 0.45,
+      "marker": 0.47,
+      "end": 0.49,
+      "direction": 0,
+      "scale": 4,
+      "name": "Piratella"
+    },
+    {
+      "number": 10,
+      "start": 0.5,
+      "marker": 0.51,
+      "end": 0.52,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 11,
+      "start": 0.54,
+      "marker": 0.55,
+      "end": 0.57,
+      "direction": 1,
+      "scale": 6
+    },
+    {
+      "number": 12,
+      "start": 0.57,
+      "marker": 0.58,
+      "end": 0.59,
+      "direction": 1,
+      "scale": 4,
+      "name": "Acque Minerali"
+    },
+    {
+      "number": 13,
+      "start": 0.59,
+      "marker": 0.59,
+      "end": 0.61,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 14,
+      "start": 0.67,
+      "marker": 0.68,
+      "end": 0.69,
+      "direction": 1,
+      "scale": 4,
+      "name": "Variante Alta"
+    },
+    {
+      "number": 15,
+      "start": 0.69,
+      "marker": 0.69,
+      "end": 0.7,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 16,
+      "start": 0.78,
+      "marker": 0.81,
+      "end": 0.82,
+      "direction": 1,
+      "scale": 6
+    },
+    {
+      "number": 17,
+      "start": 0.83,
+      "marker": 0.84,
+      "end": 0.85,
+      "direction": 0,
+      "scale": 3,
+      "name": "Rivazza"
+    },
+    {
+      "number": 18,
+      "start": 0.86,
+      "marker": 0.87,
+      "end": 0.88,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 19,
+      "start": 0.92,
+      "marker": 0.94,
+      "end": 0.96,
+      "direction": 1,
+      "scale": 6
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.96,
+      "end": 0.12
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.33
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.65
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 87
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 79
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 91
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 33
+        },
+        {
+          "name": "sng10",
+          "time": 45
+        },
+        {
+          "name": "pit",
+          "time": 88
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Sebring Int. Raceway",
+  "trackId": "sebring international",
+  "country": "US",
+  "length": 5954,
+  "pitentry": 0.962,
+  "pitexit": 0.08,
+  "turn": [
+    {
+      "name": "Turn One",
+      "start": 0.053,
+      "end": 0.117,
+      "marker": 0.094
+    },
+    {
+      "name": "Turn Two",
+      "start": 0.125,
+      "end": 0.151,
+      "marker": 0.143
+    },
+    {
+      "name": "T3",
+      "start": 0.152,
+      "end": 0.17,
+      "marker": 0.164
+    },
+    {
+      "name": "T4",
+      "start": 0.171,
+      "end": 0.185,
+      "marker": 0.183
+    },
+    {
+      "name": "T5",
+      "start": 0.186,
+      "end": 0.213,
+      "marker": 0.197
+    },
+    {
+      "name": "Gurney Bend",
+      "start": 0.214,
+      "end": 0.287,
+      "marker": 0.236
+    },
+    {
+      "name": "Hairpin Turn",
+      "start": 0.329,
+      "end": 0.373,
+      "marker": 0.346
+    },
+    {
+      "name": "Fangio Chicane",
+      "start": 0.374,
+      "end": 0.402,
+      "marker": 0.387
+    },
+    {
+      "name": "Fangio Chicane",
+      "start": 0.403,
+      "end": 0.447,
+      "marker": 0.429
+    },
+    {
+      "name": "Cunningham",
+      "start": 0.466,
+      "end": 0.489,
+      "marker": 0.478
+    },
+    {
+      "name": "T11",
+      "start": 0.493,
+      "end": 0.524,
+      "marker": 0.508
+    },
+    {
+      "name": "T12",
+      "start": 0.53,
+      "end": 0.548,
+      "marker": 0.539
+    },
+    {
+      "name": "Tower Turn",
+      "start": 0.552,
+      "end": 0.581,
+      "marker": 0.563
+    },
+    {
+      "name": "Bishop Bend",
+      "start": 0.62,
+      "end": 0.675,
+      "marker": 0.638
+    },
+    {
+      "name": "Gendebien Bend",
+      "start": 0.68,
+      "end": 0.707,
+      "marker": 0.698
+    },
+    {
+      "name": "Le Mans Curve",
+      "start": 0.712,
+      "end": 0.753,
+      "marker": 0.736
+    },
+    {
+      "name": "Sunset Bend",
+      "start": 0.881,
+      "end": 0.972,
+      "marker": 0.93
+    }
+  ],
+  "straight": [
+    {
+      "name": "Flying Fortress Straight",
+      "start": 0.582,
+      "end": 0.619,
+      "marker": 0.604
+    },
+    {
+      "name": "Ulmann Straight",
+      "start": 0.754,
+      "end": 0.88,
+      "marker": 0.82
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.132
+    },
+    {
+      "name": "2",
+      "marker": 0.308
+    },
+    {
+      "name": "3",
+      "marker": 0.443
+    },
+    {
+      "name": "4",
+      "marker": 0.531
+    },
+    {
+      "name": "5",
+      "marker": 0.659
+    },
+    {
+      "name": "6",
+      "marker": 0.876
+    },
+    {
+      "name": "7",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 25
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": -5,
+      "left": 10,
+      "rotation": 0,
+      "scale": 1
+    }
+  ]
+}

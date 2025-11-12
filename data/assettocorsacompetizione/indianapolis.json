@@ -1,5 +1,6 @@
 {
-  "name": "Indianapolis",
+  "name": "Indianapolis Motor Speedway",
+  "trackId": "indianpolis",
   "country": "US",
   "length": 4170,
   "turn": [

@@ -1,0 +1,99 @@
+{
+  "name": "Barcelona Historic",
+  "trackId": "barcelona historic",
+  "country": "ES",
+  "year": 1995,
+  "length": 4680,
+  "pitentry": 0.922,
+  "pitexit": 0.098,
+  "turn": [
+    {
+      "name": "Elf",
+      "start": 0.167,
+      "end": 0.213,
+      "marker": 0.195
+    },
+    {
+      "name": "Renault",
+      "start": 0.226,
+      "end": 0.31,
+      "marker": 0.263
+    },
+    {
+      "name": "Repsol",
+      "start": 0.345,
+      "end": 0.409,
+      "marker": 0.373
+    },
+    {
+      "name": "Seat",
+      "start": 0.425,
+      "end": 0.472,
+      "marker": 0.453
+    },
+    {
+      "name": "T6",
+      "start": 0.427,
+      "end": 0.525,
+      "marker": 0.48
+    },
+    {
+      "name": "Wuerth",
+      "start": 0.525,
+      "end": 0.569,
+      "marker": 0.544
+    },
+    {
+      "name": "Campsa",
+      "start": 0.595,
+      "end": 0.637,
+      "marker": 0.614
+    },
+    {
+      "name": "La Caixa",
+      "start": 0.731,
+      "end": 0.789,
+      "marker": 0.771
+    },
+    {
+      "name": "Banc Sabadell",
+      "start": 0.795,
+      "end": 0.842,
+      "marker": 0.825
+    },
+    {
+      "name": "Europcar",
+      "start": 0.866,
+      "end": 0.894,
+      "marker": 0.883
+    },
+    {
+      "name": "New Holland",
+      "start": 0.921,
+      "end": 0.954,
+      "marker": 0.942
+    }
+  ],
+  "straight": [
+    {
+      "name": "Grid Lane",
+      "start": 0,
+      "end": 0.166,
+      "marker": 0.083
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.336
+    },
+    {
+      "name": "2",
+      "marker": 0.707
+    },
+    {
+      "name": "3",
+      "marker": 1
+    }
+  ]
+}

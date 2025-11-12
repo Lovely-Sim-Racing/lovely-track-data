@@ -1,0 +1,112 @@
+{
+  "name": "Oulton Park",
+  "trackId": "oulton_park",
+  "country": "GB",
+  "length": 4333,
+  "turn": [
+    {
+      "name": "1",
+      "marker": 0.067
+    },
+    {
+      "name": "2",
+      "marker": 0.14
+    },
+    {
+      "name": "3",
+      "marker": 0.18
+    },
+    {
+      "name": "4",
+      "marker": 0.323
+    },
+    {
+      "name": "5",
+      "marker": 0.388
+    },
+    {
+      "name": "6",
+      "marker": 0.449
+    },
+    {
+      "name": "7",
+      "marker": 0.475
+    },
+    {
+      "name": "8",
+      "marker": 0.485
+    },
+    {
+      "name": "9",
+      "marker": 0.499
+    },
+    {
+      "name": "10",
+      "marker": 0.605
+    },
+    {
+      "name": "11",
+      "marker": 0.617
+    },
+    {
+      "name": "12",
+      "marker": 0.645
+    },
+    {
+      "name": "13",
+      "marker": 0.716
+    },
+    {
+      "name": "14",
+      "marker": 0.759
+    },
+    {
+      "name": "15",
+      "marker": 0.803
+    },
+    {
+      "name": "16",
+      "marker": 0.925
+    },
+    {
+      "name": "17",
+      "marker": 0.971
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.272
+    },
+    {
+      "name": "2",
+      "marker": 0.716
+    },
+    {
+      "name": "3",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 60
+        },
+        {
+          "name": "dt",
+          "time": 24
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": -170,
+      "left": -325,
+      "rotation": -90,
+      "scale": 1.8
+    }
+  ]
+}

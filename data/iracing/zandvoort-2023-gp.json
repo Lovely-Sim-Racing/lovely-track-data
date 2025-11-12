@@ -1,0 +1,87 @@
+{
+  "name": "Circuit Zandvoort - GP",
+  "trackId": "zandvoort 2023 gp",
+  "country": "NL",
+  "length": 4210,
+  "pitentry": 0.965,
+  "pitexit": 0.095,
+  "turn": [
+    {
+      "start": 0.05,
+      "end": 0.118,
+      "name": "Tarzanbocht"
+    },
+    {
+      "start": 0.129,
+      "end": 0.174,
+      "name": "Gerlachbocht"
+    },
+    {
+      "start": 0.175,
+      "end": 0.231,
+      "name": "Hugenholzbocht"
+    },
+    {
+      "start": 0.305,
+      "end": 0.357,
+      "name": "Rob Slotemakerbocht"
+    },
+    {
+      "start": 0.37,
+      "end": 0.438,
+      "name": "Scheivlak"
+    },
+    {
+      "start": 0.46,
+      "end": 0.522,
+      "name": "Mastersbocht"
+    },
+    {
+      "start": 0.523,
+      "end": 0.555,
+      "name": "Bocht 9"
+    },
+    {
+      "start": 0.556,
+      "end": 0.63,
+      "name": "Bocht 10"
+    },
+    {
+      "start": 0.706,
+      "end": 0.772,
+      "name": "Hans Ernst Bocht"
+    },
+    {
+      "start": 0.8,
+      "end": 0.845,
+      "name": "Kumho"
+    },
+    {
+      "start": 0.85,
+      "end": 0.93,
+      "name": "Arie Luyendijk Bocht"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.232,
+      "marker": 0.25,
+      "end": 0.274,
+      "name": "Hunserug"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.356,
+      "name": "1"
+    },
+    {
+      "marker": 0.698,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

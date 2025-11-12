@@ -1,0 +1,20 @@
+{
+  "name": "Summit Point Raceway - Jefferson Circuit Reverse",
+  "trackId": "summit jefferson rev",
+  "country": "US",
+  "length": 1780,
+  "sector": [
+    {
+      "marker": 0.346,
+      "name": "1"
+    },
+    {
+      "marker": 0.525,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

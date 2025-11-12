@@ -1,0 +1,83 @@
+{
+  "name": "Okayama Full Course",
+  "trackId": "okayama full",
+  "country": "JP",
+  "length": 3650,
+  "pitentry": 0.824,
+  "pitexit": 0.006,
+  "turn": [
+    {
+      "start": 0.038,
+      "end": 0.098,
+      "name": "First Corner"
+    },
+    {
+      "start": 0.115,
+      "end": 0.175,
+      "name": "Williams"
+    },
+    {
+      "start": 0.19,
+      "end": 0.267,
+      "name": "Moss S"
+    },
+    {
+      "start": 0.28,
+      "end": 0.36,
+      "name": "Attwood Curve"
+    },
+    {
+      "start": 0.525,
+      "end": 0.58,
+      "name": "Hairpin Corner"
+    },
+    {
+      "start": 0.585,
+      "end": 0.619,
+      "name": "Revolver Corner"
+    },
+    {
+      "start": 0.622,
+      "end": 0.67,
+      "name": "Piper Corner"
+    },
+    {
+      "start": 0.705,
+      "end": 0.75,
+      "name": "Redman Corner"
+    },
+    {
+      "start": 0.755,
+      "end": 0.8,
+      "name": "Hobbs Corner"
+    },
+    {
+      "start": 0.82,
+      "end": 0.858,
+      "name": "Mike Knight Corner"
+    },
+    {
+      "start": 0.859,
+      "end": 0.92,
+      "name": "Last Corner"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.26,
+      "name": "1"
+    },
+    {
+      "marker": 0.51,
+      "name": "2"
+    },
+    {
+      "marker": 0.695,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

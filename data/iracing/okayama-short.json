@@ -1,0 +1,24 @@
+{
+  "name": "Okayama International Circuit - Short",
+  "trackId": "okayama short",
+  "country": "JP",
+  "length": 2090,
+  "sector": [
+    {
+      "marker": 0.206,
+      "name": "1"
+    },
+    {
+      "marker": 0.422,
+      "name": "2"
+    },
+    {
+      "marker": 0.738,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

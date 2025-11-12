@@ -1,0 +1,124 @@
+{
+  "name": "Brands Hatch GP",
+  "trackId": "brandshatch grandprix",
+  "country": "UK",
+  "length": 3890,
+  "pitentry": 0.902,
+  "pitexit": 0.025,
+  "turn": [
+    {
+      "start": 0.035,
+      "end": 0.1,
+      "name": "Paddock Hill Bend"
+    },
+    {
+      "start": 0.136,
+      "end": 0.181,
+      "name": "Druids"
+    },
+    {
+      "start": 0.206,
+      "end": 0.255,
+      "name": "Graham Hill Bend"
+    },
+    {
+      "start": 0.295,
+      "end": 0.352,
+      "name": "Surtees"
+    },
+    {
+      "start": 0.49,
+      "end": 0.55,
+      "name": "Hawthorn Bend"
+    },
+    {
+      "start": 0.591,
+      "end": 0.647,
+      "name": "Westfield Bend"
+    },
+    {
+      "start": 0.664,
+      "end": 0.69,
+      "name": "Dingle Dell"
+    },
+    {
+      "start": 0.691,
+      "end": 0.726,
+      "name": "Sheene's"
+    },
+    {
+      "start": 0.749,
+      "end": 0.793,
+      "name": "Stirling's"
+    },
+    {
+      "start": 0.863,
+      "end": 0.954,
+      "name": "Clark Curve"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.101,
+      "marker": 0.115,
+      "end": 0.135,
+      "name": "Pilgrim's Rise"
+    },
+    {
+      "start": 0.256,
+      "marker": 0.28,
+      "end": 0.294,
+      "name": "Cooper Straight"
+    },
+    {
+      "start": 0.353,
+      "marker": 0.41,
+      "end": 0.489,
+      "name": "Pilgrim's Drop"
+    },
+    {
+      "start": 0.551,
+      "marker": 0.57,
+      "end": 0.59,
+      "name": "Derek Minter Straight"
+    },
+    {
+      "start": 0.797,
+      "marker": 0.82,
+      "end": 0.862,
+      "name": "Clearways"
+    },
+    {
+      "start": 0.955,
+      "marker": 0.975,
+      "end": 1,
+      "name": "Brabham Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.121,
+      "name": "1"
+    },
+    {
+      "marker": 0.279,
+      "name": "2"
+    },
+    {
+      "marker": 0.474,
+      "name": "3"
+    },
+    {
+      "marker": 0.675,
+      "name": "4"
+    },
+    {
+      "marker": 0.846,
+      "name": "5"
+    },
+    {
+      "marker": 1.0,
+      "name": "6"
+    }
+  ]
+}

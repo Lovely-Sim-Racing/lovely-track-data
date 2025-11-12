@@ -1,0 +1,103 @@
+{
+  "name": "Donington Park Racing Circuit - GP",
+  "trackId": "donington gp",
+  "country": "UK",
+  "length": 3940,
+  "pitentry": 0.96,
+  "pitexit": 0.05,
+  "turn": [
+    {
+      "start": 0.066,
+      "end": 0.127,
+      "name": "Redgate"
+    },
+    {
+      "start": 0.133,
+      "end": 0.195,
+      "name": "Hollywood"
+    },
+    {
+      "start": 0.2,
+      "end": 0.245,
+      "name": "Craner Curves"
+    },
+    {
+      "start": 0.26,
+      "end": 0.308,
+      "name": "Old Hairpin"
+    },
+    {
+      "start": 0.32,
+      "end": 0.365,
+      "name": "Starkey's Bridge"
+    },
+    {
+      "start": 0.375,
+      "end": 0.413,
+      "name": "Schwantz Curve"
+    },
+    {
+      "start": 0.42,
+      "end": 0.475,
+      "name": "McLeans"
+    },
+    {
+      "start": 0.495,
+      "end": 0.584,
+      "name": "Coppice"
+    },
+    {
+      "start": 0.696,
+      "end": 0.75,
+      "name": "Fogarty Esses"
+    },
+    {
+      "start": 0.815,
+      "end": 0.86,
+      "name": "Melbourne Hairpin"
+    },
+    {
+      "start": 0.915,
+      "end": 0.965,
+      "name": "Goddards"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.001,
+      "marker": 0.03,
+      "end": 0.065,
+      "name": "Wheatcroft Straight"
+    },
+    {
+      "start": 0.585,
+      "marker": 0.65,
+      "end": 0.695,
+      "name": "Starkey's Straight"
+    },
+    {
+      "start": 0.966,
+      "marker": 0.98,
+      "end": 1.0,
+      "name": "Wheatcroft Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.238,
+      "name": "1"
+    },
+    {
+      "marker": 0.495,
+      "name": "2"
+    },
+    {
+      "marker": 0.795,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

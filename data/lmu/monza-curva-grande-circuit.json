@@ -1,0 +1,168 @@
+{
+  "name": "Autodromo Nazionale Monza (Curva Grande)",
+  "trackId": "monza curva grande circuit",
+  "country": "IT",
+  "length": 5745,
+  "pitentry": 0.98,
+  "pitexit": 0.05,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.21,
+      "marker": 0.24,
+      "end": 0.29,
+      "direction": 1,
+      "scale": 5,
+      "name": "Curva Grande"
+    },
+    {
+      "number": 2,
+      "start": 0.36,
+      "marker": 0.37,
+      "end": 0.38,
+      "direction": 0,
+      "scale": 4,
+      "name": "Variante della Roggia"
+    },
+    {
+      "number": 3,
+      "start": 0.37,
+      "marker": 0.38,
+      "end": 0.38,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 4,
+      "start": 0.42,
+      "marker": 0.44,
+      "end": 0.45,
+      "direction": 1,
+      "scale": 3,
+      "name": "Curve di Lesmo"
+    },
+    {
+      "number": 5,
+      "start": 0.49,
+      "marker": 0.49,
+      "end": 0.5,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 6,
+      "start": 0.68,
+      "marker": 0.68,
+      "end": 0.69,
+      "direction": 0,
+      "scale": 5,
+      "name": "Variante Ascari"
+    },
+    {
+      "number": 7,
+      "start": 0.69,
+      "marker": 0.69,
+      "end": 0.7,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 8,
+      "start": 0.71,
+      "marker": 0.71,
+      "end": 0.72,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 9,
+      "start": 0.88,
+      "marker": 0.9,
+      "end": 0.95,
+      "direction": 1,
+      "scale": 3,
+      "name": "Curva Parabolica"
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.96,
+      "end": 0.21
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.35
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.65
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 79
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 71
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 83
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 80
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Virginia International Raceway - Full Course",
+  "trackId": "virginia 2022 full",
+  "country": "US",
+  "length": 5220,
+  "pitentry": 0.9,
+  "pitexit": 0.015,
+  "turn": [
+    {
+      "start": 0.05,
+      "end": 0.113,
+      "name": "Horseshoe"
+    },
+    {
+      "start": 0.12,
+      "end": 0.148,
+      "name": "Turn 2"
+    },
+    {
+      "start": 0.149,
+      "end": 0.18,
+      "name": "Nascar Bend"
+    },
+    {
+      "start": 0.181,
+      "end": 0.206,
+      "name": "Left Hook"
+    },
+    {
+      "start": 0.207,
+      "end": 0.225,
+      "name": "Turn 4b"
+    },
+    {
+      "start": 0.226,
+      "end": 0.243,
+      "name": "Turn 5a"
+    },
+    {
+      "start": 0.244,
+      "end": 0.308,
+      "name": "Snake"
+    },
+    {
+      "start": 0.347,
+      "end": 0.367,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.368,
+      "end": 0.386,
+      "name": "Turn 8a"
+    },
+    {
+      "start": 0.387,
+      "end": 0.404,
+      "name": "Turn 8b"
+    },
+    {
+      "start": 0.405,
+      "end": 0.43,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.44,
+      "end": 0.477,
+      "name": "South Bend"
+    },
+    {
+      "start": 0.502,
+      "end": 0.55,
+      "name": "Oak Tree"
+    },
+    {
+      "start": 0.748,
+      "end": 0.83,
+      "name": "Roller Coaster"
+    },
+    {
+      "start": 0.831,
+      "end": 0.9,
+      "name": "Hog Pen"
+    },
+    {
+      "start": 0.049,
+      "end": 0.118,
+      "name": "Turn 18"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.551,
+      "marker": 0.65,
+      "end": 0.747,
+      "name": "Back Straight"
+    },
+    {
+      "start": 0.901,
+      "marker": 0.945,
+      "end": 0.975,
+      "name": "Front Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.185,
+      "name": "1"
+    },
+    {
+      "marker": 0.337,
+      "name": "2"
+    },
+    {
+      "marker": 0.505,
+      "name": "3"
+    },
+    {
+      "marker": 0.735,
+      "name": "4"
+    },
+    {
+      "marker": 0.829,
+      "name": "5"
+    },
+    {
+      "marker": 1.0,
+      "name": "6"
+    }
+  ]
+}

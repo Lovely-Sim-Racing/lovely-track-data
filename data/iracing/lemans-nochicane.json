@@ -1,0 +1,135 @@
+{
+  "name": "Circuit des 24 Heures du Mans",
+  "trackId": "lemans nochicane",
+  "country": "FR",
+  "length": 13500,
+  "pitentry": 0.962,
+  "pitexit": 0.03,
+  "turn": [
+    {
+      "start": 0.04,
+      "end": 0.054,
+      "name": "Courbe Dunlop"
+    },
+    {
+      "start": 0.057,
+      "end": 0.074,
+      "name": "Ralentisseur Dunlop"
+    },
+    {
+      "start": 0.077,
+      "end": 0.085,
+      "name": "Descente de la Chapelle"
+    },
+    {
+      "start": 0.087,
+      "end": 0.121,
+      "name": "S du Tetre Rouge"
+    },
+    {
+      "start": 0.133,
+      "end": 0.165,
+      "name": "Virage du Tertre Rouge"
+    },
+    {
+      "start": 0.182,
+      "end": 0.2,
+      "name": "Courbe d'Antares"
+    },
+    {
+      "start": 0.468,
+      "end": 0.485,
+      "name": "Courbe des Hunaudieres"
+    },
+    {
+      "start": 0.55,
+      "end": 0.575,
+      "name": "Virage de Mulsanne"
+    },
+    {
+      "start": 0.61,
+      "end": 0.632,
+      "name": "Courbe du Golf"
+    },
+    {
+      "start": 0.695,
+      "end": 0.73,
+      "name": "Esses d'Indianapolis"
+    },
+    {
+      "start": 0.74,
+      "end": 0.753,
+      "name": "Virage d'Arnage"
+    },
+    {
+      "start": 0.77,
+      "end": 0.8,
+      "name": "Courbe du Buisson"
+    },
+    {
+      "start": 0.829,
+      "end": 0.855,
+      "name": "Virage Porsche"
+    },
+    {
+      "start": 0.856,
+      "end": 0.876,
+      "name": "Virage du Pont"
+    },
+    {
+      "start": 0.877,
+      "end": 0.906,
+      "name": "Esses du Karting"
+    },
+    {
+      "start": 0.907,
+      "end": 0.923,
+      "name": "Virage Corvette"
+    },
+    {
+      "start": 0.933,
+      "end": 0.947,
+      "name": "Maison Blanche"
+    },
+    {
+      "start": 0.968,
+      "end": 0.979,
+      "name": "Virage Ford"
+    },
+    {
+      "start": 0.98,
+      "end": 0.994,
+      "name": "Virage du Raccordement"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.202,
+      "marker": 0.315,
+      "end": 0.43,
+      "name": "Hundaudieres"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.13,
+      "name": "1"
+    },
+    {
+      "marker": 0.528,
+      "name": "2"
+    },
+    {
+      "marker": 0.685,
+      "name": "3"
+    },
+    {
+      "marker": 0.815,
+      "name": "4"
+    },
+    {
+      "marker": 1,
+      "name": "5"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "name": "Silverstone Circuit - Arena Grand Prix",
+  "trackId": "silverstone 2019 gp",
+  "country": "UK",
+  "year": 2021,
+  "length": 5800,
+  "pitentry": 0.905,
+  "pitexit": 0.02,
+  "turn": [
+    {
+      "start": 0.05,
+      "end": 0.089,
+      "name": "Abbey"
+    },
+    {
+      "start": 0.092,
+      "end": 0.123,
+      "name": "Farm Curve"
+    },
+    {
+      "start": 0.141,
+      "end": 0.167,
+      "name": "Village"
+    },
+    {
+      "start": 0.168,
+      "end": 0.191,
+      "name": "The Loop"
+    },
+    {
+      "start": 0.195,
+      "end": 0.232,
+      "name": "Aintree"
+    },
+    {
+      "start": 0.313,
+      "end": 0.352,
+      "name": "Brooklands"
+    },
+    {
+      "start": 0.353,
+      "end": 0.397,
+      "name": "Luffield"
+    },
+    {
+      "start": 0.407,
+      "end": 0.455,
+      "name": "Woodcote"
+    },
+    {
+      "start": 0.5,
+      "end": 0.559,
+      "name": "Copse"
+    },
+    {
+      "start": 0.604,
+      "end": 0.643,
+      "name": "Maggots"
+    },
+    {
+      "start": 0.644,
+      "end": 0.671,
+      "name": "Becketts"
+    },
+    {
+      "start": 0.672,
+      "end": 0.723,
+      "name": "Chapel"
+    },
+    {
+      "start": 0.836,
+      "end": 0.888,
+      "name": "Stowe"
+    },
+    {
+      "start": 0.924,
+      "end": 0.947,
+      "name": "Vale"
+    },
+    {
+      "start": 0.948,
+      "end": 1.0,
+      "name": "Club"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.0,
+      "marker": 0.025,
+      "end": 0.049,
+      "name": "Hamilton Straight"
+    },
+    {
+      "start": 0.233,
+      "marker": 0.274,
+      "end": 0.309,
+      "name": "Wellington Straight"
+    },
+    {
+      "start": 0.724,
+      "marker": 0.78,
+      "end": 0.835,
+      "name": "Hangar Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.135,
+      "name": "1"
+    },
+    {
+      "marker": 0.293,
+      "name": "2"
+    },
+    {
+      "marker": 0.609,
+      "name": "3"
+    },
+    {
+      "marker": 0.83,
+      "name": "4"
+    },
+    {
+      "marker": 1.0,
+      "name": "5"
+    }
+  ]
+}

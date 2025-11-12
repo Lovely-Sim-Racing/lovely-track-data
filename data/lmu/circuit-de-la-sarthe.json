@@ -1,0 +1,284 @@
+{
+  "name": "Circuit de la Sarthe",
+  "trackId": "circuit de la sarthe",
+  "country": "FR",
+  "length": 13623,
+  "pitentry": 0.99,
+  "pitexit": 0.03,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.02,
+      "marker": 0.05,
+      "end": 0.06,
+      "direction": 1,
+      "scale": 5,
+      "name": "Courbe Dunlop"
+    },
+    {
+      "number": 2,
+      "start": 0.06,
+      "marker": 0.06,
+      "end": 0.06,
+      "direction": 0,
+      "scale": 4,
+      "name": "Chicane Dunlop"
+    },
+    {
+      "number": 3,
+      "start": 0.06,
+      "marker": 0.07,
+      "end": 0.07,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 4,
+      "start": 0.1,
+      "marker": 0.11,
+      "end": 0.11,
+      "direction": 0,
+      "scale": 4,
+      "name": "Esses de la Foret"
+    },
+    {
+      "number": 5,
+      "start": 0.11,
+      "marker": 0.12,
+      "end": 0.12,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 6,
+      "start": 0.14,
+      "marker": 0.14,
+      "end": 0.15,
+      "direction": 1,
+      "scale": 4,
+      "name": "Virage du Tertre Rouge"
+    },
+    {
+      "number": 7,
+      "start": 0.29,
+      "marker": 0.3,
+      "end": 0.32,
+      "direction": 1,
+      "scale": 2,
+      "name": "Chicane Daytona"
+    },
+    {
+      "number": 8,
+      "start": 0.44,
+      "marker": 0.45,
+      "end": 0.46,
+      "direction": 0,
+      "scale": 2,
+      "name": "Chicane Michelin"
+    },
+    {
+      "number": 9,
+      "start": 0.56,
+      "marker": 0.57,
+      "end": 0.57,
+      "direction": 1,
+      "scale": 2,
+      "name": "Virage de Mulsanne"
+    },
+    {
+      "number": 10,
+      "start": 0.7,
+      "marker": 0.7,
+      "end": 0.71,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 11,
+      "start": 0.72,
+      "marker": 0.72,
+      "end": 0.73,
+      "direction": 0,
+      "scale": 4,
+      "name": "Virage d'Indianapolis"
+    },
+    {
+      "number": 12,
+      "start": 0.74,
+      "marker": 0.74,
+      "end": 0.75,
+      "direction": 1,
+      "scale": 3,
+      "name": "Virage d'Arange"
+    },
+    {
+      "number": 13,
+      "start": 0.82,
+      "marker": 0.82,
+      "end": 0.83,
+      "direction": 0,
+      "scale": 6
+    },
+    {
+      "number": 14,
+      "start": 0.84,
+      "marker": 0.85,
+      "end": 0.85,
+      "direction": 1,
+      "scale": 5,
+      "name": "Virage Porsche"
+    },
+    {
+      "number": 15,
+      "start": 0.86,
+      "marker": 0.87,
+      "end": 0.88,
+      "direction": 0,
+      "scale": 5,
+      "name": "Virage du Pont"
+    },
+    {
+      "number": 16,
+      "start": 0.88,
+      "marker": 0.89,
+      "end": 0.9,
+      "direction": 1,
+      "scale": 5,
+      "name": "Virage du Karting"
+    },
+    {
+      "number": 17,
+      "start": 0.91,
+      "marker": 0.91,
+      "end": 0.92,
+      "direction": 0,
+      "scale": 5,
+      "name": "Virage du Corvette"
+    },
+    {
+      "number": 18,
+      "start": 0.97,
+      "marker": 0.97,
+      "end": 0.97,
+      "direction": 0,
+      "scale": 4,
+      "name": "Chicane Ford"
+    },
+    {
+      "number": 19,
+      "start": 0.97,
+      "marker": 0.98,
+      "end": 0.98,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 20,
+      "start": 0.98,
+      "marker": 0.98,
+      "end": 0.98,
+      "direction": 0,
+      "scale": 4,
+      "name": "Chicane du Raccordement"
+    },
+    {
+      "number": 21,
+      "start": 0.98,
+      "marker": 0.99,
+      "end": 0.99,
+      "direction": 1,
+      "scale": 4
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.99,
+      "end": 0.02
+    },
+    {
+      "name": "Hunaudi\u00e8res",
+      "start": 0.16,
+      "end": 0.029
+    },
+    {
+      "name": "Hunaudi\u00e8res",
+      "start": 0.32,
+      "end": 0.043
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.14
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.57
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 32
+        },
+        {
+          "name": "sng10",
+          "time": 44
+        },
+        {
+          "name": "pit",
+          "time": 86
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 32
+        },
+        {
+          "name": "sng10",
+          "time": 44
+        },
+        {
+          "name": "pit",
+          "time": 78
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 32
+        },
+        {
+          "name": "sng10",
+          "time": 44
+        },
+        {
+          "name": "pit",
+          "time": 97
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 32
+        },
+        {
+          "name": "sng10",
+          "time": 44
+        },
+        {
+          "name": "pit",
+          "time": 87
+        }
+      ]
+    }
+  ]
+}

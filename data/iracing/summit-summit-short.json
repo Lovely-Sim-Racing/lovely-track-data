@@ -1,0 +1,20 @@
+{
+  "name": "Summit Point Raceway - Short",
+  "trackId": "summit summit short",
+  "country": "US",
+  "length": 2340,
+  "sector": [
+    {
+      "marker": 0.28,
+      "name": "1"
+    },
+    {
+      "marker": 0.735,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

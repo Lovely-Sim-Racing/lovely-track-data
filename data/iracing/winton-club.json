@@ -1,0 +1,71 @@
+{
+  "name": "Winton Motor Raceway - Club Circuit",
+  "trackId": "winton club",
+  "country": "AU",
+  "length": 2020,
+  "turn": [
+    {
+      "start": 0.061,
+      "end": 0.116,
+      "name": "Honda Corner"
+    },
+    {
+      "start": 0.117,
+      "end": 0.204,
+      "name": "Nissan Corner"
+    },
+    {
+      "start": 0.26,
+      "end": 0.388
+    },
+    {
+      "start": 0.389,
+      "end": 0.44,
+      "name": "Roll-Over Corner"
+    },
+    {
+      "start": 0.441,
+      "end": 0.509,
+      "name": "Penrite Corner"
+    },
+    {
+      "start": 0.51,
+      "end": 0.59
+    },
+    {
+      "start": 0.591,
+      "end": 0.673,
+      "name": "Kitome Corner"
+    },
+    {
+      "start": 0.809,
+      "end": 0.866
+    },
+    {
+      "start": 0.867,
+      "end": 0.909
+    },
+    {
+      "start": 0.91,
+      "end": 0.95
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.25,
+      "name": "1"
+    },
+    {
+      "marker": 0.5,
+      "name": "2"
+    },
+    {
+      "marker": 0.75,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

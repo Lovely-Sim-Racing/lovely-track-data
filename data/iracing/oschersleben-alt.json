@@ -1,0 +1,88 @@
+{
+  "name": "Motorsport Arena Oschersleben - Alternate",
+  "trackId": "oschersleben alt",
+  "country": "DE",
+  "length": 3660,
+  "pitentry": 0.895,
+  "pitexit": 0.169,
+  "turn": [
+    {
+      "start": 0.125,
+      "end": 0.138
+    },
+    {
+      "start": 0.139,
+      "end": 0.213,
+      "name": "Hotel"
+    },
+    {
+      "start": 0.25,
+      "end": 0.32,
+      "name": "Hasseroeder"
+    },
+    {
+      "start": 0.375,
+      "end": 0.415
+    },
+    {
+      "start": 0.416,
+      "end": 0.441,
+      "name": "Triple"
+    },
+    {
+      "start": 0.442,
+      "end": 0.462
+    },
+    {
+      "start": 0.463,
+      "end": 0.529
+    },
+    {
+      "start": 0.544,
+      "end": 0.559
+    },
+    {
+      "start": 0.56,
+      "end": 0.575
+    },
+    {
+      "start": 0.578,
+      "end": 0.63,
+      "name": "McDonald's"
+    },
+    {
+      "start": 0.73,
+      "end": 0.77,
+      "name": "Shell Kurve"
+    },
+    {
+      "start": 0.771,
+      "end": 0.814,
+      "name": "Amman Kurve"
+    },
+    {
+      "start": 0.841,
+      "end": 0.88,
+      "name": "Bauer Kurve"
+    },
+    {
+      "start": 0.895,
+      "end": 0.95,
+      "name": "Zeppelin Kurve"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.365,
+      "name": "1"
+    },
+    {
+      "marker": 0.718,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "WeatherTech Raceway Laguna Seca",
+  "trackId": "laguna_seca",
+  "country": "US",
+  "length": 3602,
+  "turn": [
+    {
+      "name": "T1",
+      "marker": 0.075
+    },
+    {
+      "name": "Andretti Hairpin",
+      "marker": 0.145,
+      "start": 0.1,
+      "end": 0.16
+    },
+    {
+      "name": "T3",
+      "marker": 0.22,
+      "start": 0.185,
+      "end": 0.243
+    },
+    {
+      "name": "T4",
+      "marker": 0.3,
+      "start": 0.258,
+      "end": 0.312
+    },
+    {
+      "name": "T5",
+      "marker": 0.43,
+      "start": 0.39,
+      "end": 0.47
+    },
+    {
+      "name": "T6",
+      "marker": 0.546,
+      "start": 0.52,
+      "end": 0.555
+    },
+    {
+      "name": "T7",
+      "marker": 0.664
+    },
+    {
+      "name": "The Corkscrew",
+      "marker": 0.694,
+      "start": 0.674,
+      "end": 0.718
+    },
+    {
+      "name": "T9",
+      "marker": 0.757,
+      "start": 0.74,
+      "end": 0.785
+    },
+    {
+      "name": "T10",
+      "marker": 0.832,
+      "start": 0.805,
+      "end": 0.862
+    },
+    {
+      "name": "T11",
+      "marker": 0.913,
+      "start": 0.88,
+      "end": 0.93
+    }
+  ],
+  "straight": [
+    {
+      "name": "Rahal Straight",
+      "start": 0.57,
+      "end": 0.65
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.254
+    },
+    {
+      "name": "2",
+      "marker": 0.636
+    },
+    {
+      "name": "3",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 67
+        },
+        {
+          "name": "dt",
+          "time": 33
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": -40,
+      "left": -80,
+      "rotation": -220,
+      "scale": 1.2
+    }
+  ]
+}

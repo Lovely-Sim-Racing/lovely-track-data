@@ -1,0 +1,112 @@
+{
+  "name": "Watkins Glen",
+  "trackId": "watkinsglen 2021 fullcourse",
+  "country": "US",
+  "length": 5410,
+  "pitentry": 0.947,
+  "pitexit": 0.078,
+  "turn": [
+    {
+      "start": 0.045,
+      "end": 0.087,
+      "name": "The 90"
+    },
+    {
+      "start": 0.113,
+      "end": 0.254,
+      "name": "Esses"
+    },
+    {
+      "start": 0.341,
+      "end": 0.391,
+      "name": "Inner Loop"
+    },
+    {
+      "start": 0.392,
+      "end": 0.464,
+      "name": "Outer Loop"
+    },
+    {
+      "start": 0.49,
+      "end": 0.54,
+      "name": "Chute"
+    },
+    {
+      "start": 0.58,
+      "end": 0.637,
+      "name": "Toe"
+    },
+    {
+      "start": 0.718,
+      "end": 0.762,
+      "name": "Heel"
+    },
+    {
+      "start": 0.781,
+      "end": 0.82,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.844,
+      "end": 0.895,
+      "name": "Turn 10"
+    },
+    {
+      "start": 0.913,
+      "end": 0.96,
+      "name": "Turn 11"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.255,
+      "marker": 0.3,
+      "end": 0.34,
+      "name": "Back Straight"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.299,
+      "name": "1"
+    },
+    {
+      "marker": 0.472,
+      "name": "2"
+    },
+    {
+      "marker": 0.686,
+      "name": "3"
+    },
+    {
+      "marker": 0.839,
+      "name": "4"
+    },
+    {
+      "marker": 1.0,
+      "name": "5"
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 78
+        },
+        {
+          "name": "dt",
+          "time": 43
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": -180,
+      "left": -330,
+      "rotation": -89,
+      "scale": 1.8
+    }
+  ]
+}

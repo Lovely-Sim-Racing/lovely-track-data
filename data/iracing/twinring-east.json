@@ -1,0 +1,72 @@
+{
+  "name": "Mobility Resort Motegi - East",
+  "trackId": "twinring east",
+  "country": "JP",
+  "length": 3400,
+  "pitentry": 0.871,
+  "pitexit": 0.029,
+  "turn": [
+    {
+      "start": 0.149,
+      "end": 0.186
+    },
+    {
+      "start": 0.205,
+      "end": 0.226
+    },
+    {
+      "start": 0.227,
+      "end": 0.269
+    },
+    {
+      "start": 0.271,
+      "end": 0.293
+    },
+    {
+      "start": 0.294,
+      "end": 0.315
+    },
+    {
+      "start": 0.455,
+      "end": 0.492
+    },
+    {
+      "start": 0.529,
+      "end": 0.589
+    },
+    {
+      "start": 0.632,
+      "end": 0.676
+    },
+    {
+      "start": 0.677,
+      "end": 0.731
+    },
+    {
+      "start": 0.762,
+      "end": 0.809
+    },
+    {
+      "start": 0.899,
+      "end": 0.944
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.407,
+      "name": "1"
+    },
+    {
+      "marker": 0.614,
+      "name": "2"
+    },
+    {
+      "marker": 0.867,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

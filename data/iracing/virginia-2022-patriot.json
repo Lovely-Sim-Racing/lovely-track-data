@@ -1,0 +1,65 @@
+{
+  "name": "Virginia International Raceway - Patriot Course",
+  "trackId": "virginia 2022 patriot",
+  "country": "US",
+  "length": 1770,
+  "pitentry": 0.986,
+  "pitexit": 0.095,
+  "turn": [
+    {
+      "start": 0.039,
+      "end": 0.091
+    },
+    {
+      "start": 0.092,
+      "end": 0.175
+    },
+    {
+      "start": 0.175,
+      "end": 0.245
+    },
+    {
+      "start": 0.246,
+      "end": 0.27
+    },
+    {
+      "start": 0.271,
+      "end": 0.348
+    },
+    {
+      "start": 0.52,
+      "end": 0.589
+    },
+    {
+      "start": 0.59,
+      "end": 0.624,
+      "name": "Spiral"
+    },
+    {
+      "start": 0.625,
+      "end": 0.711
+    },
+    {
+      "start": 0.825,
+      "end": 0.95
+    },
+    {
+      "start": 0.951,
+      "end": 0.999
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.37,
+      "name": "1"
+    },
+    {
+      "marker": 0.73,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Cadwell Park Circuit - Woodlands",
+  "trackId": "cadwell woodlands",
+  "country": "GB",
+  "length": 1360,
+  "sector": [
+    {
+      "marker": 0.471,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

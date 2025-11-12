@@ -1,0 +1,20 @@
+{
+  "name": "Watkins Glen International - Cup",
+  "trackId": "watkinsglen 2021 cupcircuit",
+  "country": "US",
+  "length": 3940,
+  "sector": [
+    {
+      "marker": 0.415,
+      "name": "1"
+    },
+    {
+      "marker": 0.776,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

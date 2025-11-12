@@ -1,0 +1,256 @@
+{
+  "name": "Circuit of the Americas",
+  "trackId": "circuit of the americas",
+  "country": "US",
+  "length": 5497,
+  "pitentry": 0.99,
+  "pitexit": 0.07,
+  "turn": [
+    {
+      "number": 1,
+      "start": 0.1,
+      "marker": 0.12,
+      "end": 0.13,
+      "direction": 0,
+      "scale": 1
+    },
+    {
+      "number": 2,
+      "start": 0.14,
+      "marker": 0.16,
+      "end": 0.18,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 3,
+      "start": 0.2,
+      "marker": 0.21,
+      "end": 0.22,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 4,
+      "start": 0.22,
+      "marker": 0.23,
+      "end": 0.24,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 5,
+      "start": 0.24,
+      "marker": 0.25,
+      "end": 0.26,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 6,
+      "start": 0.26,
+      "marker": 0.27,
+      "end": 0.29,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 7,
+      "start": 0.3,
+      "marker": 0.31,
+      "end": 0.32,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 8,
+      "start": 0.33,
+      "marker": 0.34,
+      "end": 0.35,
+      "direction": 1,
+      "scale": 2
+    },
+    {
+      "number": 9,
+      "start": 0.35,
+      "marker": 0.36,
+      "end": 0.37,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 10,
+      "start": 0.38,
+      "marker": 0.39,
+      "end": 0.4,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 11,
+      "start": 0.45,
+      "marker": 0.47,
+      "end": 0.48,
+      "direction": 0,
+      "scale": 1
+    },
+    {
+      "number": 12,
+      "start": 0.68,
+      "marker": 0.69,
+      "end": 0.7,
+      "direction": 0,
+      "scale": 1
+    },
+    {
+      "number": 13,
+      "start": 0.71,
+      "marker": 0.72,
+      "end": 0.73,
+      "direction": 1,
+      "scale": 2
+    },
+    {
+      "number": 14,
+      "start": 0.73,
+      "marker": 0.74,
+      "end": 0.75,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 15,
+      "start": 0.75,
+      "marker": 0.76,
+      "end": 0.77,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 16,
+      "start": 0.77,
+      "marker": 0.78,
+      "end": 0.79,
+      "direction": 0,
+      "scale": 2
+    },
+    {
+      "number": 17,
+      "start": 0.8,
+      "marker": 0.81,
+      "end": 0.83,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 18,
+      "start": 0.85,
+      "marker": 0.86,
+      "end": 0.88,
+      "direction": 1,
+      "scale": 5
+    },
+    {
+      "number": 19,
+      "start": 0.9,
+      "marker": 0.91,
+      "end": 0.92,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 20,
+      "start": 0.95,
+      "marker": 0.96,
+      "end": 0.98,
+      "direction": 0,
+      "scale": 2
+    }
+  ],
+  "straight": [
+    {
+      "name": "Main Straight",
+      "start": 0.98,
+      "end": 0.1
+    },
+    {
+      "name": "Back Straight",
+      "start": 0.48,
+      "end": 0.67
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.3
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.7
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 79
+        }
+      ],
+      "gte": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 71
+        }
+      ],
+      "lmp2": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 83
+        }
+      ],
+      "hyper": [
+        {
+          "name": "dt",
+          "time": 25
+        },
+        {
+          "name": "sng10",
+          "time": 37
+        },
+        {
+          "name": "pit",
+          "time": 80
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Magny-Cours",
+  "trackId": "magnycours gp",
+  "country": "FR",
+  "length": 4410,
+  "pitentry": 0.983,
+  "pitexit": 0.13,
+  "turn": [
+    {
+      "start": 0.074,
+      "end": 0.128,
+      "name": "Grande Courbe"
+    },
+    {
+      "start": 0.129,
+      "end": 0.227,
+      "name": "Estoril"
+    },
+    {
+      "start": 0.285,
+      "end": 0.35,
+      "name": "Golf"
+    },
+    {
+      "start": 0.395,
+      "end": 0.44,
+      "name": "Adelaide"
+    },
+    {
+      "start": 0.51,
+      "end": 0.57,
+      "name": "Nuerburgring"
+    },
+    {
+      "start": 0.59,
+      "end": 0.633,
+      "name": "180\u00b0"
+    },
+    {
+      "start": 0.735,
+      "end": 0.795,
+      "name": "Imola"
+    },
+    {
+      "start": 0.805,
+      "end": 0.845,
+      "name": "Chateaou d'Eau"
+    },
+    {
+      "start": 0.88,
+      "end": 0.925,
+      "name": "Chicane"
+    },
+    {
+      "start": 0.94,
+      "end": 1.0,
+      "name": "Complexe du Lycee"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.38,
+      "name": "1"
+    },
+    {
+      "marker": 0.72,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

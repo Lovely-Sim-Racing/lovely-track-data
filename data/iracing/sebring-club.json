@@ -1,0 +1,22 @@
+{
+  "name": "Sebring International Raceway - Club",
+  "trackId": "sebring club",
+  "country": "US",
+  "length": 2810,
+  "pitentry": 0.981,
+  "pitexit": 0.168,
+  "sector": [
+    {
+      "marker": 0.32,
+      "name": "1"
+    },
+    {
+      "marker": 0.705,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

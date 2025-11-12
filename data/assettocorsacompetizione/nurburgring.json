@@ -1,5 +1,6 @@
 {
-  "name": "Nurburgring",
+  "name": "Nurburgring Grand Prix",
+  "trackId": "murburgring",
   "country": "DE",
   "length": 5137,
   "turn": [

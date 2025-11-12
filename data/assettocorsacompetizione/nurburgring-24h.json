@@ -1,0 +1,376 @@
+{
+  "name": "Nurburgring Nordschleife",
+  "trackId": "nurburgring-24h",
+  "country": "DE",
+  "length": 25378,
+  "turn": [
+    {
+      "name": "Yokohama S",
+      "start": 0.019,
+      "marker": 0.025,
+      "end": 0.026
+    },
+    {
+      "name": "T2",
+      "start": 0.027,
+      "marker": 0.028,
+      "end": 0.033
+    },
+    {
+      "name": "Valvoline Curve",
+      "start": 0.04,
+      "marker": 0.046,
+      "end": 0.049
+    },
+    {
+      "name": "Ford Curve",
+      "start": 0.05,
+      "marker": 0.053,
+      "end": 0.058
+    },
+    {
+      "name": "Dunlop Hairpin",
+      "start": 0.07,
+      "marker": 0.077,
+      "end": 0.082
+    },
+    {
+      "name": "Schumacher S",
+      "start": 0.087,
+      "marker": 0.092,
+      "end": 0.094
+    },
+    {
+      "name": "Schumacher S",
+      "start": 0.094,
+      "marker": 0.097,
+      "end": 0.102
+    },
+    {
+      "name": "Ravenol Curve",
+      "start": 0.109,
+      "marker": 0.114,
+      "end": 0.118
+    },
+    {
+      "name": "Bilstein Curve",
+      "start": 0.118,
+      "marker": 0.123,
+      "end": 0.128
+    },
+    {
+      "name": "Advan Arch",
+      "start": 0.134,
+      "marker": 0.139,
+      "end": 0.145
+    },
+    {
+      "name": "NGK Chicane",
+      "start": 0.152,
+      "marker": 0.158,
+      "end": 0.16
+    },
+    {
+      "name": "NGK Chicane",
+      "start": 0.16,
+      "marker": 0.162,
+      "end": 0.165
+    },
+    {
+      "name": "T13",
+      "start": 0.166,
+      "marker": 0.171,
+      "end": 0.174
+    },
+    {
+      "name": "Sabine Schmitz Curve",
+      "start": 0.174,
+      "marker": 0.177,
+      "end": 0.181
+    },
+    {
+      "name": "T15",
+      "start": 0.182,
+      "marker": 0.184,
+      "end": 0.186
+    },
+    {
+      "name": "Hatzenbach Arch",
+      "start": 0.187,
+      "marker": 0.191,
+      "end": 0.195
+    },
+    {
+      "name": "Hatzenbach",
+      "start": 0.197,
+      "marker": 0.21,
+      "end": 0.222
+    },
+    {
+      "name": "Hoheichen",
+      "start": 0.224,
+      "marker": 0.21,
+      "end": 0.235
+    },
+    {
+      "name": "Quidelbacher Hohe",
+      "start": 0.243,
+      "marker": 0.255,
+      "end": 0.268
+    },
+    {
+      "name": "Flugplatz",
+      "start": 0.269,
+      "marker": 0.271,
+      "end": 0.273
+    },
+    {
+      "name": "Kotenborn",
+      "start": 0.285,
+      "marker": 0.29,
+      "end": 0.295
+    },
+    {
+      "name": "Schwedenkreuz",
+      "start": 0.303,
+      "marker": 0.308,
+      "end": 0.315
+    },
+    {
+      "name": "Aremberg",
+      "start": 0.317,
+      "marker": 0.321,
+      "end": 0.327
+    },
+    {
+      "name": "Fuchsrohre / Foxhole",
+      "start": 0.337,
+      "marker": 0.35,
+      "end": 0.362
+    },
+    {
+      "name": "Adenauer Forst",
+      "start": 0.366,
+      "marker": 0.374,
+      "end": 0.381
+    },
+    {
+      "name": "Metzgesfeld 1",
+      "start": 0.401,
+      "marker": 0.404,
+      "end": 0.409
+    },
+    {
+      "name": "Metzgesfeld 2",
+      "start": 0.409,
+      "marker": 0.412,
+      "end": 0.416
+    },
+    {
+      "name": "Kallenhard",
+      "start": 0.421,
+      "marker": 0.425,
+      "end": 0.429
+    },
+    {
+      "name": "Spiegelkurve",
+      "start": 0.433,
+      "marker": 0.436,
+      "end": 0.44
+    },
+    {
+      "name": "Miss Hit Miss",
+      "start": 0.442,
+      "marker": 0.445,
+      "end": 0.452
+    },
+    {
+      "name": "Wehrseifen",
+      "start": 0.457,
+      "marker": 0.462,
+      "end": 0.467
+    },
+    {
+      "name": "Breidscheid",
+      "start": 0.473,
+      "marker": 0.479,
+      "end": 0.487
+    },
+    {
+      "name": "Ex-Muhle",
+      "start": 0.488,
+      "marker": 0.491,
+      "end": 0.494
+    },
+    {
+      "name": "Lauda Links",
+      "start": 0.508,
+      "marker": 0.521,
+      "end": 0.514
+    },
+    {
+      "name": "Bergwerk",
+      "start": 0.517,
+      "marker": 0.511,
+      "end": 0.527
+    },
+    {
+      "name": "Kesselchen",
+      "start": 0.555,
+      "marker": 0.559,
+      "end": 0.563
+    },
+    {
+      "name": "Klostertal",
+      "start": 0.577,
+      "marker": 0.582,
+      "end": 0.588
+    },
+    {
+      "name": "Mutkurve",
+      "start": 0.594,
+      "marker": 0.6,
+      "end": 0.603
+    },
+    {
+      "name": "Steilstrecke",
+      "start": 0.622,
+      "marker": 0.628,
+      "end": 0.634
+    },
+    {
+      "name": "Karussell",
+      "start": 0.639,
+      "marker": 0.645,
+      "end": 0.65
+    },
+    {
+      "name": "Hohe Acht",
+      "start": 0.679,
+      "marker": 0.683,
+      "end": 0.687
+    },
+    {
+      "name": "Hedgwigshohe",
+      "start": 0.687,
+      "marker": 0.693,
+      "end": 0.699
+    },
+    {
+      "name": "Wippermann",
+      "start": 0.699,
+      "marker": 0.703,
+      "end": 0.708
+    },
+    {
+      "name": "Eschbach",
+      "start": 0.71,
+      "marker": 0.719,
+      "end": 0.728
+    },
+    {
+      "name": "Brunnchen",
+      "start": 0.728,
+      "marker": 0.736,
+      "end": 0.744
+    },
+    {
+      "name": "Eiskurve",
+      "start": 0.747,
+      "marker": 0.75,
+      "end": 0.754
+    },
+    {
+      "name": "Eiskurve",
+      "start": 0.747,
+      "marker": 0.75,
+      "end": 0.754
+    },
+    {
+      "name": "Pflanzgarten I",
+      "start": 0.767,
+      "marker": 0.773,
+      "end": 0.779
+    },
+    {
+      "name": "Pflanzgarten II",
+      "start": 0.779,
+      "marker": 0.786,
+      "end": 0.793
+    },
+    {
+      "name": "Stefan Bellof S",
+      "start": 0.795,
+      "marker": 0.803,
+      "end": 0.811
+    },
+    {
+      "name": "Schwalbenschwanz",
+      "start": 0.814,
+      "marker": 0.824,
+      "end": 0.832
+    },
+    {
+      "name": "Kleine Karussell",
+      "start": 0.835,
+      "marker": 0.839,
+      "end": 0.843
+    },
+    {
+      "name": "Galgenkopf",
+      "start": 0.848,
+      "marker": 0.86,
+      "end": 0.87
+    },
+    {
+      "name": "Antoniusbuche",
+      "start": 0.938,
+      "marker": 0.948,
+      "end": 0.957
+    },
+    {
+      "name": "Tiergarten",
+      "start": 0.963,
+      "marker": 0.968,
+      "end": 0.974
+    },
+    {
+      "name": "Hohenrain Chicane",
+      "start": 0.973,
+      "marker": 0.977,
+      "end": 0.986
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.329
+    },
+    {
+      "name": "2",
+      "marker": 0.642
+    },
+    {
+      "name": "3",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "dt",
+          "time": 43
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": -10,
+      "left": -85,
+      "rotation": 42,
+      "scale": 1.4
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Autodromo Nazionale Monza - Junior",
+  "trackId": "monza junior",
+  "country": "IT",
+  "length": 2400,
+  "sector": [
+    {
+      "marker": 0.647,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

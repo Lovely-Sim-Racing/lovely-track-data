@@ -1,5 +1,6 @@
 {
   "name": "Circuit of the Americas",
+  "trackId": "cota",
   "country": "US",
   "length": 5513,
   "turn": [

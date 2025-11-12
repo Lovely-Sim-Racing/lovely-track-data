@@ -1,0 +1,86 @@
+{
+  "name": "Red Bull Ring",
+  "trackId": "red_bull_ring",
+  "country": "AT",
+  "length": 4318,
+  "pitentry": 0.893,
+  "pitexit": 0.124,
+  "turn": [
+    {
+      "name": "Niki Lauda Kurve",
+      "marker": 0.106
+    },
+    {
+      "name": "2",
+      "marker": 0.254
+    },
+    {
+      "name": "Remus",
+      "marker": 0.324
+    },
+    {
+      "name": "4",
+      "marker": 0.514
+    },
+    {
+      "name": "5",
+      "marker": 0.57
+    },
+    {
+      "name": "Rauch",
+      "marker": 0.64
+    },
+    {
+      "name": "Wurth",
+      "marker": 0.709
+    },
+    {
+      "name": "8",
+      "marker": 0.74
+    },
+    {
+      "name": "Rindt",
+      "marker": 0.879
+    },
+    {
+      "name": "Red Bull Mobile",
+      "marker": 0.926
+    }
+  ],
+  "sector": [
+    {
+      "name": "1",
+      "marker": 0.287
+    },
+    {
+      "name": "2",
+      "marker": 0.687
+    },
+    {
+      "name": "3",
+      "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 80
+        },
+        {
+          "name": "dt",
+          "time": 42
+        }
+      ]
+    }
+  ],
+  "companion": [
+    {
+      "top": 0,
+      "left": -40,
+      "rotation": 0,
+      "scale": 1.1
+    }
+  ]
+}

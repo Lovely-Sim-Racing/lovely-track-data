@@ -1,0 +1,30 @@
+{
+  "name": "Nuerburgring Grand-Prix-Strecke - Grand Prix w/out Arena",
+  "trackId": "nurburgring gpshort",
+  "country": "DE",
+  "length": 4570,
+  "pitentry": 0.901,
+  "pitexit": 0.125,
+  "sector": [
+    {
+      "marker": 0.204,
+      "name": "1"
+    },
+    {
+      "marker": 0.368,
+      "name": "2"
+    },
+    {
+      "marker": 0.596,
+      "name": "3"
+    },
+    {
+      "marker": 0.825,
+      "name": "4"
+    },
+    {
+      "marker": 1,
+      "name": "5"
+    }
+  ]
+}

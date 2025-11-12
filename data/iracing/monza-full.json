@@ -1,0 +1,82 @@
+{
+  "name": "Monza Full",
+  "trackId": "monza full",
+  "country": "IT",
+  "length": 5750,
+  "pitentry": 0.966,
+  "pitexit": 0.061,
+  "turn": [
+    {
+      "start": 0.143,
+      "end": 0.206,
+      "name": "Prima Variante"
+    },
+    {
+      "start": 0.218,
+      "end": 0.32,
+      "name": "Curva Biassono"
+    },
+    {
+      "start": 0.35,
+      "end": 0.392,
+      "name": "Seconda Variante"
+    },
+    {
+      "start": 0.423,
+      "end": 0.467,
+      "name": "Prima Curva di Lesmo"
+    },
+    {
+      "start": 0.484,
+      "end": 0.52,
+      "name": "Seconda Curva di Lesmo"
+    },
+    {
+      "start": 0.555,
+      "end": 0.594,
+      "name": "Curva del Serraglio"
+    },
+    {
+      "start": 0.65,
+      "end": 0.73,
+      "name": "Variante Ascari"
+    },
+    {
+      "start": 0.866,
+      "end": 0.96,
+      "name": "Curva Parabolica"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.345,
+      "name": "1"
+    },
+    {
+      "marker": 0.476,
+      "name": "2"
+    },
+    {
+      "marker": 0.658,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "sg30",
+          "time": 48
+        },
+        {
+          "name": "dt",
+          "time": 43
+        }
+      ]
+    }
+  ]
+}

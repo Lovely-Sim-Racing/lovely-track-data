@@ -1,0 +1,103 @@
+{
+  "name": "Circuito de Navarra Speed Circuit Long",
+  "trackId": "navarra speedlong",
+  "country": "ES",
+  "length": 3890,
+  "pitentry": 0.802,
+  "pitexit": 0.029,
+  "turn": [
+    {
+      "start": 0.089,
+      "end": 0.125,
+      "name": "Turn 1"
+    },
+    {
+      "start": 0.126,
+      "end": 0.16,
+      "name": "Turn 2"
+    },
+    {
+      "start": 0.161,
+      "end": 0.201,
+      "name": "Turn 3"
+    },
+    {
+      "start": 0.202,
+      "end": 0.26,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.29,
+      "end": 0.345,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.346,
+      "end": 0.385,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.386,
+      "end": 0.43,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.435,
+      "end": 0.477,
+      "name": "Turn 8"
+    },
+    {
+      "start": 0.565,
+      "end": 0.605,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.606,
+      "end": 0.641,
+      "name": "Turn 10"
+    },
+    {
+      "start": 0.646,
+      "end": 0.687,
+      "name": "Turn 11"
+    },
+    {
+      "start": 0.69,
+      "end": 0.727,
+      "name": "Turn 12"
+    },
+    {
+      "start": 0.75,
+      "end": 0.795,
+      "name": "Turn 13"
+    },
+    {
+      "start": 0.815,
+      "end": 0.855,
+      "name": "Turn 14"
+    },
+    {
+      "start": 0.868,
+      "end": 0.915,
+      "name": "Turn 15"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.27,
+      "name": "1"
+    },
+    {
+      "marker": 0.568,
+      "name": "2"
+    },
+    {
+      "marker": 0.735,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

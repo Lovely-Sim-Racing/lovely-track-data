@@ -1,0 +1,20 @@
+{
+  "name": "Hockenheimring Baden-W\u00fcrttemberg - Short A",
+  "trackId": "hockenheim shorta",
+  "country": "DE",
+  "length": 2630,
+  "sector": [
+    {
+      "marker": 0.378,
+      "name": "1"
+    },
+    {
+      "marker": 0.843,
+      "name": "2"
+    },
+    {
+      "marker": 1,
+      "name": "3"
+    }
+  ]
+}

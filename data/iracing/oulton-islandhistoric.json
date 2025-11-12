@@ -1,0 +1,32 @@
+{
+  "name": "Oulton Park Circuit - Island Historic",
+  "trackId": "oulton islandhistoric",
+  "country": "GB",
+  "length": 3630,
+  "sector": [
+    {
+      "marker": 0.167,
+      "name": "1"
+    },
+    {
+      "marker": 0.314,
+      "name": "2"
+    },
+    {
+      "marker": 0.472,
+      "name": "3"
+    },
+    {
+      "marker": 0.682,
+      "name": "4"
+    },
+    {
+      "marker": 0.854,
+      "name": "5"
+    },
+    {
+      "marker": 1,
+      "name": "6"
+    }
+  ]
+}

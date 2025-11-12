@@ -1,0 +1,24 @@
+{
+  "name": "Oulton Park Circuit - Fosters",
+  "trackId": "oulton fosters",
+  "country": "GB",
+  "length": 2670,
+  "sector": [
+    {
+      "marker": 0.223,
+      "name": "1"
+    },
+    {
+      "marker": 0.574,
+      "name": "2"
+    },
+    {
+      "marker": 0.804,
+      "name": "3"
+    },
+    {
+      "marker": 1,
+      "name": "4"
+    }
+  ]
+}

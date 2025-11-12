@@ -1,0 +1,36 @@
+{
+  "name": "Mobility Resort Motegi - Oval",
+  "trackId": "twinring oval",
+  "country": "JP",
+  "length": 2493,
+  "pitentry": 0.852,
+  "pitexit": 0.44,
+  "turn": [
+    {
+      "start": 0.115,
+      "end": 0.284
+    },
+    {
+      "start": 0.285,
+      "end": 0.452
+    },
+    {
+      "start": 0.641,
+      "end": 0.759
+    },
+    {
+      "start": 0.761,
+      "end": 0.903
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.5,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

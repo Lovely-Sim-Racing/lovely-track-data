@@ -1,0 +1,36 @@
+{
+  "name": "Autodromo Nazionale Monza - Combined",
+  "trackId": "monza combinedchicanes",
+  "country": "IT",
+  "length": 9.99,
+  "sector": [
+    {
+      "marker": 0.255,
+      "name": "1"
+    },
+    {
+      "marker": 0.518,
+      "name": "2"
+    },
+    {
+      "marker": 0.624,
+      "name": "3"
+    },
+    {
+      "marker": 0.699,
+      "name": "4"
+    },
+    {
+      "marker": 0.803,
+      "name": "5"
+    },
+    {
+      "marker": 0.916,
+      "name": "6"
+    },
+    {
+      "marker": 1,
+      "name": "7"
+    }
+  ]
+}

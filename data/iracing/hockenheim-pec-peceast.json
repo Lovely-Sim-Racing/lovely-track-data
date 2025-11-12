@@ -1,0 +1,16 @@
+{
+  "name": "Hockenheimring Baden-W\u00fcrttemberg - Porsche Experience Center - East",
+  "trackId": "hockenheim pec peceast",
+  "country": "DE",
+  "lenght": 1680,
+  "sector": [
+    {
+      "marker": 0.583,
+      "name": "1"
+    },
+    {
+      "marker": 1,
+      "name": "2"
+    }
+  ]
+}

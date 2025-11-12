@@ -6,17 +6,63 @@
 
 <p align="center">
 A comprehensive list of Track Data for Sim Racing games.<br>
-<strong>File Format v1.1.0 Beta</strong>
+<strong>File Format v2.0.0</strong>
 </p>
 
 ---
 
 ## How to
 Fetch the data by retrieving the url:
-`/data/{simId}/{trackId}.json`
+`{version}/data/{simId}/{trackId}.json`
 
-* `{simId}` is the lowercase Simhub game id `DataCorePlugin.CurrentGame`
-* `{trackId}` is the lowercase Simhub track id `DataCorePlugin.TrackId`
+* `{version}` is the specific branch of track data. `main` will always have the latest version.
+* `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
+* `{trackId}` is the Simhub track id `DataCorePlugin.TrackId`
+
+### Name Format
+
+Both `{SimId}` and `{trackId}` must adhere to the following naming format:
+
+1. Lowercase
+2. Replace accented chars with standard equivalent
+3. Replace spaces with hyphen
+4. Replace special characters with hyphen
+5. Remove double Hyphens
+6. Remove leading and trailing hyphens
+
+### Example name formatting
+
+* `F12024 / Baku (Azerbaijan)` -> `f12024/baku-azerbaijan.json`
+* `F12024 / Abu Dhabi` -> `f12024/abu-dhabi.json`
+* `F12025 / Portimão` -> `f12025/portimao.json`
+* `iRacing / Imola GP` -> `iracing/imola-gp.json`
+
+### Example code
+
+```
+function nameCleaner($cleanName)
+{
+    // Convert to lowercase
+    $cleanName = mb_strtolower($cleanName, 'UTF-8');
+
+    // Replace accented character with standard
+    $cleanName = iconv('UTF-8', 'ASCII//TRANSLIT', $cleanName);
+    
+    // Replace spaces with hyphen
+    $cleanName = preg_replace('/\s+/', '-', $cleanName);
+    
+    // Replace special characters with hyphen
+    $cleanName = preg_replace('/[^a-z0-9]/i', '-', $cleanName);
+    
+    // Replace multiple hyphens with single
+    $cleanName = preg_replace('/-+/', '-', $cleanName);
+    
+    // Clean leading and trailign hyphens
+    $cleanName = trim($cleanName, '-');
+    
+    return $cleanName;
+}   
+```
 
 ## Changelog
 Read the [changelog](changelog.md) to keep track of the format updates.
@@ -26,6 +72,7 @@ Every file is formatted as follows:
 
 ``` 
 # name          (String) - The full human readable track name
+# trackId       (String) - The trackId as it appears in SimHub
 # country       (String) - (OPTIONAL) The track's country code (ISO 3166 Alpha 2)
 # year          (Int)    - (OPTIONAL) The track's active year
 # length        (Int)    - (OPTIONAL) Length of the track in meters
@@ -57,6 +104,11 @@ Every file is formatted as follows:
     # name      (String) - Name of the time delay
     # time      (Int)    - Time delay in seconds
 # companion              - (OPTIONAL) Optimal display of the Track Map on the Lovely Dashboard Companion
+  # top         (Int)    - Distance to top
+  # left        (Int)    - Distance to left
+  # rotation    (Int)    - Rotation
+  # scale       (Int)    - Auto Size Scale
+# companionPortrait      - (OPTIONAL) Optimal display of the Track Map on the Lovely Dashboard Companion Portrait
   # top         (Int)    - Distance to top
   # left        (Int)    - Distance to left
   # rotation    (Int)    - Rotation

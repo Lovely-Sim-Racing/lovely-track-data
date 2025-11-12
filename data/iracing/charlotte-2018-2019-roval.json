@@ -1,0 +1,114 @@
+{
+  "name": "Charlotte Motor Speedway - Roval",
+  "trackId": "charlotte 2018 2019 roval",
+  "country": "US",
+  "year": 2019,
+  "length": 3600,
+  "pitentry": 0.91,
+  "pitexit": 0.11,
+  "turn": [
+    {
+      "start": 0.03,
+      "end": 0.08,
+      "name": "Turn 1"
+    },
+    {
+      "start": 0.081,
+      "end": 0.13,
+      "name": "Turn 2"
+    },
+    {
+      "start": 0.15,
+      "end": 0.184,
+      "name": "Turn 3"
+    },
+    {
+      "start": 0.19,
+      "end": 0.23,
+      "name": "Turn 4"
+    },
+    {
+      "start": 0.28,
+      "end": 0.315,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.316,
+      "end": 0.354,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.355,
+      "end": 0.4,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.401,
+      "end": 0.439,
+      "name": "Turn 8"
+    },
+    {
+      "start": 0.44,
+      "end": 0.505,
+      "name": "Turn 9"
+    },
+    {
+      "start": 0.506,
+      "end": 0.6,
+      "name": "Turn 10"
+    },
+    {
+      "start": 0.66,
+      "end": 0.709,
+      "name": "Turn 11"
+    },
+    {
+      "start": 0.71,
+      "end": 0.75,
+      "name": "Turn 12"
+    },
+    {
+      "start": 0.751,
+      "end": 0.825,
+      "name": "Turn 13"
+    },
+    {
+      "start": 0.826,
+      "end": 0.905,
+      "name": "Turn 14"
+    },
+    {
+      "start": 0.91,
+      "end": 0.944,
+      "name": "Turn 15"
+    },
+    {
+      "start": 0.945,
+      "end": 0.965,
+      "name": "Turn 16"
+    },
+    {
+      "start": 0.966,
+      "end": 0.99,
+      "name": "Turn 17"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.146,
+      "name": "1"
+    },
+    {
+      "marker": 0.277,
+      "name": "2"
+    },
+    {
+      "marker": 0.616,
+      "name": "3"
+    },
+    {
+      "marker": 1.0,
+      "name": "4"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "Road America Bend",
+  "trackId": "roadamerica bend",
+  "country": "US",
+  "length": 6480,
+  "pitentry": 0.926,
+  "pitexit": 0.055,
+  "turn": [
+    {
+      "start": 0.079,
+      "end": 0.117,
+      "name": "Turn 1"
+    },
+    {
+      "start": 0.153,
+      "end": 0.188,
+      "name": "Turn 3"
+    },
+    {
+      "start": 0.252,
+      "end": 0.297,
+      "name": "Moraine Sweep"
+    },
+    {
+      "start": 0.331,
+      "end": 0.366,
+      "name": "Turn 5"
+    },
+    {
+      "start": 0.386,
+      "end": 0.411,
+      "name": "Turn 6"
+    },
+    {
+      "start": 0.425,
+      "end": 0.445,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.479,
+      "end": 0.509,
+      "name": "Turn 8"
+    },
+    {
+      "start": 0.524,
+      "end": 0.608,
+      "name": "The Carousel"
+    },
+    {
+      "start": 0.624,
+      "end": 0.652,
+      "name": "The Bend"
+    },
+    {
+      "start": 0.713,
+      "end": 0.763,
+      "name": "Kettle Bottoms"
+    },
+    {
+      "start": 0.777,
+      "end": 0.808,
+      "name": "Canada Corner"
+    },
+    {
+      "start": 0.826,
+      "end": 0.857,
+      "name": "Bill Mitchell Bend"
+    },
+    {
+      "start": 0.872,
+      "end": 0.911,
+      "name": "Turn 14"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.446,
+      "marker": 0.46,
+      "end": 0.475,
+      "name": "Hurry Downs"
+    },
+    {
+      "start": 0.809,
+      "marker": 0.817,
+      "end": 0.825,
+      "name": "Thunder Valley"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.141,
+      "name": "1"
+    },
+    {
+      "marker": 0.323,
+      "name": "2"
+    },
+    {
+      "marker": 0.473,
+      "name": "3"
+    },
+    {
+      "marker": 0.763,
+      "name": "4"
+    },
+    {
+      "marker": 0.867,
+      "name": "5"
+    },
+    {
+      "marker": 1.0,
+      "name": "6"
+    }
+  ]
+}

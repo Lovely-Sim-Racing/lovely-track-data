@@ -1,0 +1,82 @@
+{
+  "name": "Motorsport Arena Oschersleben - Grand Prix",
+  "trackId": "oschersleben gp",
+  "country": "DE",
+  "length": 3610,
+  "pitentry": 0.89,
+  "pitexit": 0.144,
+  "turn": [
+    {
+      "start": 0.1,
+      "end": 0.21,
+      "name": "Hotel"
+    },
+    {
+      "start": 0.25,
+      "end": 0.32,
+      "name": "Hasseroeder"
+    },
+    {
+      "start": 0.375,
+      "end": 0.46,
+      "name": "Triple"
+    },
+    {
+      "start": 0.463,
+      "end": 0.529,
+      "name": "Turn 7"
+    },
+    {
+      "start": 0.544,
+      "end": 0.577,
+      "name": "Schikane"
+    },
+    {
+      "start": 0.578,
+      "end": 0.63,
+      "name": "McDonald's"
+    },
+    {
+      "start": 0.73,
+      "end": 0.77,
+      "name": "Shell Kurve"
+    },
+    {
+      "start": 0.771,
+      "end": 0.814,
+      "name": "Amman Kurve"
+    },
+    {
+      "start": 0.841,
+      "end": 0.88,
+      "name": "Bauer Kurve"
+    },
+    {
+      "start": 0.895,
+      "end": 0.95,
+      "name": "Zeppelin Kurve"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.633,
+      "marker": 0.69,
+      "end": 0.725,
+      "name": "Stadiongerade"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.362,
+      "name": "1"
+    },
+    {
+      "marker": 0.717,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}

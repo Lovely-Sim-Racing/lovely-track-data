@@ -1,0 +1,100 @@
+{
+  "name": "Suzuka Int Racing Course - GP",
+  "trackId": "suzuka grandprix",
+  "country": "JP",
+  "year": 2009,
+  "length": 5750,
+  "pitentry": 0.962,
+  "pitexit": 0.07,
+  "turn": [
+    {
+      "start": 0.104,
+      "end": 0.169,
+      "name": "First Corner"
+    },
+    {
+      "start": 0.18,
+      "end": 0.249,
+      "name": "Snake"
+    },
+    {
+      "start": 0.254,
+      "end": 0.287,
+      "name": "Anti-Banked Curve"
+    },
+    {
+      "start": 0.29,
+      "end": 0.37,
+      "name": "Dunlop"
+    },
+    {
+      "start": 0.385,
+      "end": 0.438,
+      "name": "Degner"
+    },
+    {
+      "start": 0.49,
+      "end": 0.52,
+      "name": "Hairpin"
+    },
+    {
+      "start": 0.54,
+      "end": 0.625,
+      "name": "200R"
+    },
+    {
+      "start": 0.645,
+      "end": 0.72,
+      "name": "Spoon Curve"
+    },
+    {
+      "start": 0.841,
+      "end": 0.896,
+      "name": "130R"
+    },
+    {
+      "start": 0.915,
+      "end": 0.948,
+      "name": "Casio Triangle"
+    },
+    {
+      "start": 0.949,
+      "end": 1.0,
+      "name": "Last Curve"
+    }
+  ],
+  "straight": [
+    {
+      "start": 0.721,
+      "marker": 0.77,
+      "end": 0.84,
+      "name": "Backstretch"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.175,
+      "name": "1"
+    },
+    {
+      "marker": 0.372,
+      "name": "2"
+    },
+    {
+      "marker": 0.478,
+      "name": "3"
+    },
+    {
+      "marker": 0.625,
+      "name": "4"
+    },
+    {
+      "marker": 0.815,
+      "name": "5"
+    },
+    {
+      "marker": 1.0,
+      "name": "6"
+    }
+  ]
+}
