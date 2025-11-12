@@ -15,6 +15,7 @@ A comprehensive list of Track Data for Sim Racing games.<br>
 Fetch the data by retrieving the url:
 `{version}/data/{simId}/{trackId}.json`
 
+* `{version}` is the specific branch of track data. `main` will always have the latest version.
 * `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
 * `{trackId}` is the Simhub track id `DataCorePlugin.TrackId`
 
