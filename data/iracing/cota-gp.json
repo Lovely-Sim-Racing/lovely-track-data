@@ -1,0 +1,122 @@
+{
+  "name": "Circuit of the Americas",
+  "trackId": "cota-gp",
+  "country": "US",
+  "length": 5794,
+  "turn": [
+    {
+      "start": 0.105,
+      "end": 0.14,
+      "name": "T1"
+    },
+    {
+      "start": 0.14,
+      "end": 0.185,
+      "name": "T2"
+    },
+    {
+      "start": 0.185,
+      "end": 0.22,
+      "name": "T3"
+    },
+    {
+      "start": 0.22,
+      "end": 0.238,
+      "name": "T4"
+    },
+    {
+      "start": 0.238,
+      "end": 0.263,
+      "name": "T5"
+    },
+    {
+      "start": 0.263,
+      "end": 0.298,
+      "name": "T6"
+    },
+    {
+      "start": 0.298,
+      "end": 0.328,
+      "name": "T7"
+    },
+    {
+      "start": 0.328,
+      "end": 0.35,
+      "name": "T8"
+    },
+    {
+      "start": 0.35,
+      "end": 0.38,
+      "name": "T9"
+    },
+    {
+      "start": 0.38,
+      "end": 0.43,
+      "name": "T10"
+    },
+    {
+      "start": 0.44,
+      "end": 0.5,
+      "name": "T11"
+    },
+    {
+      "start": 0.66,
+      "end": 0.708,
+      "name": "T12"
+    },
+    {
+      "start": 0.708,
+      "end": 0.738,
+      "name": "T13"
+    },
+    {
+      "start": 0.738,
+      "end": 0.76,
+      "name": "T14"
+    },
+    {
+      "start": 0.76,
+      "end": 0.775,
+      "name": "T15"
+    },
+    {
+      "start": 0.775,
+      "end": 0.803,
+      "name": "T16"
+    },
+    {
+      "start": 0.803,
+      "end": 0.848,
+      "name": "T17"
+    },
+    {
+      "start": 0.848,
+      "end": 0.893,
+      "name": "T18"
+    },
+    {
+      "start": 0.893,
+      "end": 0.945,
+      "name": "T19"
+    },
+    {
+      "start": 0.945,
+      "end": 0.99,
+      "name": "T20"
+    }
+  ],
+  "sector": [
+    {
+      "name": "S1",
+      "marker": 0.191735
+    },
+    {
+      "name": "S2",
+      "marker": 0.425991
+    },
+    {
+      "name": "S3",
+      "marker": 0.649928
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     }
   ],
   "companionPortrait": [
-      {
-        "top": -321,
-        "left": -108,
-        "rotation": -57,
-        "scale": 1.74
-      }
+    {
+      "top": -321,
+      "left": -108,
+      "rotation": -57,
+      "scale": 1.74
+    }
   ]
 }
