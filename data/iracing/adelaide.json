@@ -1,0 +1,88 @@
+{
+  "name": "Adelaide Street Circuit",
+  "trackId": "adelaide",
+  "turn": [
+    {
+      "start": 0.055,
+      "end": 0.083,
+      "name": "T1"
+    },
+    {
+      "start": 0.083,
+      "end": 0.113,
+      "name": "T2"
+    },
+    {
+      "start": 0.113,
+      "end": 0.16,
+      "name": "T3"
+    },
+    {
+      "start": 0.19,
+      "end": 0.245,
+      "name": "T4"
+    },
+    {
+      "start": 0.245,
+      "end": 0.293,
+      "name": "T5"
+    },
+    {
+      "start": 0.293,
+      "end": 0.338,
+      "name": "T6"
+    },
+    {
+      "start": 0.338,
+      "end": 0.39,
+      "name": "T7"
+    },
+    {
+      "start": 0.53,
+      "end": 0.59,
+      "name": "T8"
+    },
+    {
+      "start": 0.66,
+      "end": 0.71,
+      "name": "T9"
+    },
+    {
+      "start": 0.71,
+      "end": 0.75,
+      "name": "T10"
+    },
+    {
+      "start": 0.75,
+      "end": 0.798,
+      "name": "T11"
+    },
+    {
+      "start": 0.798,
+      "end": 0.853,
+      "name": "T12"
+    },
+    {
+      "start": 0.853,
+      "end": 0.9,
+      "name": "T13"
+    },
+    {
+      "start": 0.9,
+      "end": 0.935,
+      "name": "T14"
+    }
+  ],
+  "sector": [
+    {
+      "name": "S1",
+      "marker": 0.328407
+    },
+    {
+      "name": "S2",
+      "marker": 0.634463
+    }
+  ],
+  "pitentry": 0.995,
+  "pitexit": 0.001
+}
