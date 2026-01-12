@@ -18,9 +18,10 @@
       "marker": 1,
       "name": "3"
     }
+  ]
     "time": [
     {
-      "supercars: [
+      "supercars chevycamarogen3": [
         {
           "name": "tyres+60L",
           "time": 38
@@ -40,5 +41,4 @@
       ]
     }
   ],
-  ]
 }
