@@ -18,19 +18,19 @@
       "marker": 1,
       "name": "3"
     }
-  ]
-    "time": [
+  ],
+  "time": [
     {
       "SUP": [
         {
           "name": "tyres+60L",
           "time": 38
         },
-         {
+        {
           "name": "tyres+80L",
           "time": 46
         },
-          {
+        {
           "name": "tyres+100L",
           "time": 66
         },
@@ -40,5 +40,5 @@
         }
       ]
     }
-  ],
+  ]
 }
