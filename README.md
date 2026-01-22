@@ -19,6 +19,23 @@ Fetch the data by retrieving the url:
 * `{simId}` is the Simhub game id `DataCorePlugin.CurrentGame`
 * `{trackId}` is the Simhub track id `DataCorePlugin.TrackId`
 
+### Manifest
+A single root manifest at `data/manifest.json` lists all tracks, grouped by game.
+
+Structure:
+```
+{
+  "tracks": {
+    "{simId}": [
+      { "trackName": "...", "trackId": "...", "path": "{simId}/...json" }
+    ]
+  }
+}
+```
+
+- Filter by game using the `{simId}` key in `tracks`.
+- `path` is relative to `data/` and includes the game folder.
+
 ### Name Format
 
 Both `{SimId}` and `{trackId}` must adhere to the following naming format:
