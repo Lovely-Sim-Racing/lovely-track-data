@@ -1,0 +1,1141 @@
+{
+  "tracks": {
+    "assettocorsacompetizione": [
+      {
+        "trackName": "Circuit de Barcelona-Catalunya",
+        "trackId": "barcelona",
+        "path": "assettocorsacompetizione/barcelona.json"
+      },
+      {
+        "trackName": "Brands Hatch",
+        "trackId": "brands_hatch",
+        "path": "assettocorsacompetizione/brands-hatch.json"
+      },
+      {
+        "trackName": "Circuit of the Americas",
+        "trackId": "cota",
+        "path": "assettocorsacompetizione/cota.json"
+      },
+      {
+        "trackName": "Donington Park",
+        "trackId": "donington",
+        "path": "assettocorsacompetizione/donington.json"
+      },
+      {
+        "trackName": "Hungaroring",
+        "trackId": "hungaroring",
+        "path": "assettocorsacompetizione/hungaroring.json"
+      },
+      {
+        "trackName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "trackId": "imola",
+        "path": "assettocorsacompetizione/imola.json"
+      },
+      {
+        "trackName": "Indianapolis Motor Speedway",
+        "trackId": "indianpolis",
+        "path": "assettocorsacompetizione/indianapolis.json"
+      },
+      {
+        "trackName": "Kyalami Grand Prix Circuit",
+        "trackId": "kyalami",
+        "path": "assettocorsacompetizione/kyalami.json"
+      },
+      {
+        "trackName": "WeatherTech Raceway Laguna Seca",
+        "trackId": "laguna_seca",
+        "path": "assettocorsacompetizione/laguna-seca.json"
+      },
+      {
+        "trackName": "Misano World Circuit Marco Simoncelli",
+        "trackId": "misano",
+        "path": "assettocorsacompetizione/misano.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza",
+        "trackId": "monza",
+        "path": "assettocorsacompetizione/monza.json"
+      },
+      {
+        "trackName": "Mount Panorama Circuit",
+        "trackId": "mount_panorama",
+        "path": "assettocorsacompetizione/mount-panorama.json"
+      },
+      {
+        "trackName": "Nurburgring Nordschleife",
+        "trackId": "nurburgring-24h",
+        "path": "assettocorsacompetizione/nurburgring-24h.json"
+      },
+      {
+        "trackName": "Nurburgring Grand Prix",
+        "trackId": "murburgring",
+        "path": "assettocorsacompetizione/nurburgring.json"
+      },
+      {
+        "trackName": "Oulton Park",
+        "trackId": "oulton_park",
+        "path": "assettocorsacompetizione/oulton-park.json"
+      },
+      {
+        "trackName": "Circuit Paul Ricard",
+        "trackId": "paul_ricard",
+        "path": "assettocorsacompetizione/paul-ricard.json"
+      },
+      {
+        "trackName": "Red Bull Ring",
+        "trackId": "red_bull_ring",
+        "path": "assettocorsacompetizione/red-bull-ring.json"
+      },
+      {
+        "trackName": "Silverstone Circuit",
+        "trackId": "silverstone",
+        "path": "assettocorsacompetizione/silverstone.json"
+      },
+      {
+        "trackName": "Snetterton Circuit",
+        "trackId": "snetterton",
+        "path": "assettocorsacompetizione/snetterton.json"
+      },
+      {
+        "trackName": "Spa Francorchamps",
+        "trackId": "spa",
+        "path": "assettocorsacompetizione/spa.json"
+      },
+      {
+        "trackName": "Suzuka Circuit",
+        "trackId": "suzuka",
+        "path": "assettocorsacompetizione/suzuka.json"
+      },
+      {
+        "trackName": "Circuit Ricardo Tormo",
+        "trackId": "valencia",
+        "path": "assettocorsacompetizione/valencia.json"
+      },
+      {
+        "trackName": "Watkins Glen International",
+        "trackId": "watkins_glen",
+        "path": "assettocorsacompetizione/watkins-glen.json"
+      },
+      {
+        "trackName": "Circuit Zandvoort",
+        "trackId": "zandvoort",
+        "path": "assettocorsacompetizione/zandvoort.json"
+      },
+      {
+        "trackName": "Circuit Zolder",
+        "trackId": "zolder",
+        "path": "assettocorsacompetizione/zolder.json"
+      }
+    ],
+    "automobilista2": [
+      {
+        "trackName": "Autodromo Internacional de Cascavel",
+        "trackId": "cascavel4-cascavel",
+        "path": "automobilista2/cascavel4-cascavel.json"
+      }
+    ],
+    "f12024": [
+      {
+        "trackName": "Yas Marina Circuit",
+        "trackId": "abu dhabi",
+        "path": "f12024/abu-dhabi.json"
+      },
+      {
+        "trackName": "Red Bull Ring",
+        "trackId": "austria",
+        "path": "f12024/austria.json"
+      },
+      {
+        "trackName": "Baku City Circuit",
+        "trackId": "baku (azerbaijan)",
+        "path": "f12024/baku-azerbaijan.json"
+      },
+      {
+        "trackName": "Autódromo José Carlos Pace",
+        "trackId": "brazil",
+        "path": "f12024/brazil.json"
+      },
+      {
+        "trackName": "Circuit de Barcelona-Catalunya",
+        "trackId": "catalunya",
+        "path": "f12024/catalunya.json"
+      },
+      {
+        "trackName": "Hungaroring",
+        "trackId": "hungaroring",
+        "path": "f12024/hungaroring.json"
+      },
+      {
+        "trackName": "Autodromo Enzo e Dino Ferrari",
+        "trackId": "imola",
+        "path": "f12024/imola.json"
+      },
+      {
+        "trackName": "Jeddah Corniche Circuit",
+        "trackId": "jeddah",
+        "path": "f12024/jeddah.json"
+      },
+      {
+        "trackName": "Las Vegas Street Circuit",
+        "trackId": "las vegas",
+        "path": "f12024/las-vegas.json"
+      },
+      {
+        "trackName": "Lusail International Circuit",
+        "trackId": "losail",
+        "path": "f12024/losail.json"
+      },
+      {
+        "trackName": "Melbourne Grand Prix Circuit",
+        "trackId": "melbourne",
+        "path": "f12024/melbourne.json"
+      },
+      {
+        "trackName": "Autódromo Hermanos Rodríguez",
+        "trackId": "mexico",
+        "path": "f12024/mexico.json"
+      },
+      {
+        "trackName": "Miami International Autodrome",
+        "trackId": "miami",
+        "path": "f12024/miami.json"
+      },
+      {
+        "trackName": "Circuit de Monaco",
+        "trackId": "monaco",
+        "path": "f12024/monaco.json"
+      },
+      {
+        "trackName": "Circuit Gilles Villeneuve",
+        "trackId": "montreal",
+        "path": "f12024/montreal.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza",
+        "trackId": "monza",
+        "path": "f12024/monza.json"
+      },
+      {
+        "trackName": "Alrgarve International Circuit",
+        "trackId": "portimáo",
+        "path": "f12024/portimao.json"
+      },
+      {
+        "trackName": "Bahrain International Circuit",
+        "trackId": "sakhir (bahrain)",
+        "path": "f12024/sakhir-bahrain.json"
+      },
+      {
+        "trackName": "Shanghai International Circuit",
+        "trackId": "shanghai",
+        "path": "f12024/shanghai.json"
+      },
+      {
+        "trackName": "Silverstone Circuit",
+        "trackId": "silverstone",
+        "path": "f12024/silverstone.json"
+      },
+      {
+        "trackName": "Marina Bay Street Circuit",
+        "trackId": "simgapore",
+        "path": "f12024/singapore.json"
+      },
+      {
+        "trackName": "Spa-Francorchamps",
+        "trackId": "spa",
+        "path": "f12024/spa.json"
+      },
+      {
+        "trackName": "Suzuka Circuit",
+        "trackId": "suzuka",
+        "path": "f12024/suzuka.json"
+      },
+      {
+        "trackName": "Circuit of the Americas",
+        "trackId": "texas",
+        "path": "f12024/texas.json"
+      },
+      {
+        "trackName": "Circuit Zandvoort",
+        "trackId": "zandvoort",
+        "path": "f12024/zandvoort.json"
+      }
+    ],
+    "f12025": [
+      {
+        "trackName": "Yas Marina Circuit",
+        "trackId": "abu dhabi",
+        "path": "f12025/abu-dhabi.json"
+      },
+      {
+        "trackName": "Red Bull Ring",
+        "trackId": "austria",
+        "path": "f12025/austria.json"
+      },
+      {
+        "trackName": "Baku City Circuit",
+        "trackId": "baku (azerbaijan)",
+        "path": "f12025/baku-azerbaijan.json"
+      },
+      {
+        "trackName": "Autódromo José Carlos Pace",
+        "trackId": "brazil",
+        "path": "f12025/brazil.json"
+      },
+      {
+        "trackName": "Circuit de Barcelona-Catalunya",
+        "trackId": "catalunya",
+        "path": "f12025/catalunya.json"
+      },
+      {
+        "trackName": "Hungaroring",
+        "trackId": "hungaroring",
+        "path": "f12025/hungaroring.json"
+      },
+      {
+        "trackName": "Autodromo Enzo e Dino Ferrari",
+        "trackId": "imola",
+        "path": "f12025/imola.json"
+      },
+      {
+        "trackName": "Jeddah Corniche Circuit",
+        "trackId": "jeddah",
+        "path": "f12025/jeddah.json"
+      },
+      {
+        "trackName": "Las Vegas Street Circuit",
+        "trackId": "las vegas",
+        "path": "f12025/las-vegas.json"
+      },
+      {
+        "trackName": "Lusail International Circuit",
+        "trackId": "losail",
+        "path": "f12025/losail.json"
+      },
+      {
+        "trackName": "Melbourne Grand Prix Circuit",
+        "trackId": "melbourne",
+        "path": "f12025/melbourne.json"
+      },
+      {
+        "trackName": "Autódromo Hermanos Rodríguez",
+        "trackId": "mexico",
+        "path": "f12025/mexico.json"
+      },
+      {
+        "trackName": "Miami International Autodrome",
+        "trackId": "miami",
+        "path": "f12025/miami.json"
+      },
+      {
+        "trackName": "Circuit de Monaco",
+        "trackId": "monaco",
+        "path": "f12025/monaco.json"
+      },
+      {
+        "trackName": "Circuit Gilles Villeneuve",
+        "trackId": "montreal",
+        "path": "f12025/montreal.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza",
+        "trackId": "monza",
+        "path": "f12025/monza.json"
+      },
+      {
+        "trackName": "Alrgarve International Circuit",
+        "trackId": "portimáo",
+        "path": "f12025/portimao.json"
+      },
+      {
+        "trackName": "Bahrain International Circuit",
+        "trackId": "sakhir (bahrain)",
+        "path": "f12025/sakhir-bahrain.json"
+      },
+      {
+        "trackName": "Shanghai International Circuit",
+        "trackId": "shanghai",
+        "path": "f12025/shanghai.json"
+      },
+      {
+        "trackName": "Silverstone Circuit",
+        "trackId": "silverstone",
+        "path": "f12025/silverstone.json"
+      },
+      {
+        "trackName": "Marina Bay Street Circuit",
+        "trackId": "simgapore",
+        "path": "f12025/singapore.json"
+      },
+      {
+        "trackName": "Spa-Francorchamps",
+        "trackId": "spa",
+        "path": "f12025/spa.json"
+      },
+      {
+        "trackName": "Suzuka Circuit",
+        "trackId": "suzuka",
+        "path": "f12025/suzuka.json"
+      },
+      {
+        "trackName": "Circuit of the Americas",
+        "trackId": "texas",
+        "path": "f12025/texas.json"
+      },
+      {
+        "trackName": "Circuit Zandvoort",
+        "trackId": "zandvoort",
+        "path": "f12025/zandvoort.json"
+      }
+    ],
+    "iracing": [
+      {
+        "trackName": "Adelaide Street Circuit",
+        "trackId": "adelaide",
+        "path": "iracing/adelaide.json"
+      },
+      {
+        "trackName": "Autodromo Internacional do Algarve",
+        "trackId": "algarve gp",
+        "path": "iracing/algarve-gp.json"
+      },
+      {
+        "trackName": "Circuit de Barcelona-Catalunya - GP",
+        "trackId": "barcelona gp",
+        "path": "iracing/barcelona-gp.json"
+      },
+      {
+        "trackName": "Barcelona Historic",
+        "trackId": "barcelona historic",
+        "path": "iracing/barcelona-historic.json"
+      },
+      {
+        "trackName": "Mount Panorama Circuit",
+        "trackId": "bathurst",
+        "path": "iracing/bathurst.json"
+      },
+      {
+        "trackName": "Brands Hatch GP",
+        "trackId": "brandshatch grandprix",
+        "path": "iracing/brandshatch-grandprix.json"
+      },
+      {
+        "trackName": "Cadwell Park Circuit - Club",
+        "trackId": "cadwell club",
+        "path": "iracing/cadwell-club.json"
+      },
+      {
+        "trackName": "Cadwell Park Circuit - Full",
+        "trackId": "cadwell full",
+        "path": "iracing/cadwell-full.json"
+      },
+      {
+        "trackName": "Cadwell Park Circuit - Moto",
+        "trackId": "cadwell moto",
+        "path": "iracing/cadwell-moto.json"
+      },
+      {
+        "trackName": "Cadwell Park Circuit - Woodlands",
+        "trackId": "cadwell woodlands",
+        "path": "iracing/cadwell-woodlands.json"
+      },
+      {
+        "trackName": "Charlotte Motor Speedway - Roval",
+        "trackId": "charlotte 2018 2019 roval",
+        "path": "iracing/charlotte-2018-2019-roval.json"
+      },
+      {
+        "trackName": "Circuit of the Americas",
+        "trackId": "cota-gp",
+        "path": "iracing/cota-gp.json"
+      },
+      {
+        "trackName": "Daytona",
+        "trackId": "daytona 2011 road",
+        "path": "iracing/daytona-2011-road.json"
+      },
+      {
+        "trackName": "Donington Park Racing Circuit - GP",
+        "trackId": "donington gp",
+        "path": "iracing/donington-gp.json"
+      },
+      {
+        "trackName": "Donington Park Racing Circuit - National",
+        "trackId": "donington national",
+        "path": "iracing/donington-national.json"
+      },
+      {
+        "trackName": "Hockenheimring - GP",
+        "trackId": "hockenheim gp",
+        "path": "iracing/hockenheim-gp.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - National A",
+        "trackId": "hockenheim nationala",
+        "path": "iracing/hockenheim-nationala.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - National B",
+        "trackId": "hockenheim nationalb",
+        "path": "iracing/hockenheim-nationalb.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - Outer",
+        "trackId": "hockenheim outer",
+        "path": "iracing/hockenheim-outer.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - East",
+        "trackId": "hockenheim pec peceast",
+        "path": "iracing/hockenheim-pec-peceast.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - Handling",
+        "trackId": "hockenheim pec pechandling",
+        "path": "iracing/hockenheim-pec-pechandling.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - Outer",
+        "trackId": "hockenheim pec pecouter",
+        "path": "iracing/hockenheim-pec-pecouter.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - West",
+        "trackId": "hockenheim pec pecwest",
+        "path": "iracing/hockenheim-pec-pecwest.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - Short A",
+        "trackId": "hockenheim shorta",
+        "path": "iracing/hockenheim-shorta.json"
+      },
+      {
+        "trackName": "Hockenheimring Baden-Württemberg - Short B",
+        "trackId": "hockenheim shortb",
+        "path": "iracing/hockenheim-shortb.json"
+      },
+      {
+        "trackName": "Imola",
+        "trackId": "imola gp",
+        "path": "iracing/imola-gp.json"
+      },
+      {
+        "trackName": "Indianapolis Motor Speedway - Road Course",
+        "trackId": "indianapolis 2022 road",
+        "path": "iracing/indianapolis-2022-road.json"
+      },
+      {
+        "trackName": "Interlagos GP",
+        "trackId": "interlagos gp",
+        "path": "iracing/interlagos-gp.json"
+      },
+      {
+        "trackName": "Circuito de Jerez - GP",
+        "trackId": "jerez gp",
+        "path": "iracing/jerez-gp.json"
+      },
+      {
+        "trackName": "Circuito de Jerez - Moto",
+        "trackId": "jerez moto",
+        "path": "iracing/jerez-moto.json"
+      },
+      {
+        "trackName": "Laguna Seca - School",
+        "trackId": "lagunaseca school",
+        "path": "iracing/lagunaseca-school.json"
+      },
+      {
+        "trackName": "Laguna Seca - Full Course",
+        "trackId": "lagunaseca",
+        "path": "iracing/lagunaseca.json"
+      },
+      {
+        "trackName": "Circuit de Ledenon",
+        "trackId": "ledenon",
+        "path": "iracing/ledenon.json"
+      },
+      {
+        "trackName": "Circuit des 24 Heures du Mans",
+        "trackId": "lemans full",
+        "path": "iracing/lemans-full.json"
+      },
+      {
+        "trackName": "Circuit des 24 Heures du Mans",
+        "trackId": "lemans nochicane",
+        "path": "iracing/lemans-nochicane.json"
+      },
+      {
+        "trackName": "Lime Rock Park - Chicanes",
+        "trackId": "limerock 2019 chicanes",
+        "path": "iracing/limerock-2019-chicanes.json"
+      },
+      {
+        "trackName": "Lime Rock Park - West Bend Chicane",
+        "trackId": "limerock 2019 chicanewestb",
+        "path": "iracing/limerock-2019-chicanewestb.json"
+      },
+      {
+        "trackName": "Limerock GP",
+        "trackId": "limerock 2019 classic",
+        "path": "iracing/limerock-2019-classic.json"
+      },
+      {
+        "trackName": "Limerock GP",
+        "trackId": "limerock 2019 gp",
+        "path": "iracing/limerock-2019-gp.json"
+      },
+      {
+        "trackName": "Lime Rock Park - School",
+        "trackId": "limerock 2019 school",
+        "path": "iracing/limerock-2019-school.json"
+      },
+      {
+        "trackName": "Longbeach",
+        "trackId": "longbeach",
+        "path": "iracing/longbeach.json"
+      },
+      {
+        "trackName": "Magny-Cours",
+        "trackId": "magnycours gp",
+        "path": "iracing/magnycours-gp.json"
+      },
+      {
+        "trackName": "Misano Grand Prix",
+        "trackId": "misano gp",
+        "path": "iracing/misano-gp.json"
+      },
+      {
+        "trackName": "Circuit Gilles Villeneuve",
+        "trackId": "montreal",
+        "path": "iracing/montreal.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza - Combined",
+        "trackId": "monza combinedchicanes",
+        "path": "iracing/monza-combinedchicanes.json"
+      },
+      {
+        "trackName": "Monza Full",
+        "trackId": "monza full",
+        "path": "iracing/monza-full.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza - Junior",
+        "trackId": "monza junior",
+        "path": "iracing/monza-junior.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza - GP without chicanes",
+        "trackId": "monza nochicane",
+        "path": "iracing/monza-nochicane.json"
+      },
+      {
+        "trackName": "Mugello Grand Prix",
+        "trackId": "mugello gp",
+        "path": "iracing/mugello-gp.json"
+      },
+      {
+        "trackName": "Autodromo Internazionale del Mugello - Short",
+        "trackId": "mugello short",
+        "path": "iracing/mugello-short.json"
+      },
+      {
+        "trackName": "Circuito de Navarra Speed Circuit Long",
+        "trackId": "navarra speedlong",
+        "path": "iracing/navarra-speedlong.json"
+      },
+      {
+        "trackName": "Circuito de Navarra - Speed Circuit - Medium",
+        "trackId": "navara speedmedium",
+        "path": "iracing/navarra-speedmedium.json"
+      },
+      {
+        "trackName": "Circuito de Navarra - Speed Circuit - Short",
+        "trackId": "navarra speedshort",
+        "path": "iracing/navarra-speedshort.json"
+      },
+      {
+        "trackName": "Nuerburgring Gesamtstrecke 24h",
+        "trackId": "nurburgring combined",
+        "path": "iracing/nurburgring-combined.json"
+      },
+      {
+        "trackName": "Nuerburgring Grand-Prix-Strecke - Grand Prix",
+        "trackId": "nurburgring gp",
+        "path": "iracing/nurburgring-gp.json"
+      },
+      {
+        "trackName": "Nuerburgring Grand-Prix-Strecke - BES/WEC",
+        "trackId": "nurburgring gpnochicane",
+        "path": "iracing/nurburgring-gpnochicane.json"
+      },
+      {
+        "trackName": "Nuerburgring Grand-Prix-Strecke - Grand Prix w/out Arena",
+        "trackId": "nurburgring gpshort",
+        "path": "iracing/nurburgring-gpshort.json"
+      },
+      {
+        "trackName": "Nuerburgring Nordschleife",
+        "trackId": "nurburgring nordschleife",
+        "path": "iracing/nurburgring-nordschleife.json"
+      },
+      {
+        "trackName": "Okayama Full Course",
+        "trackId": "okayama full",
+        "path": "iracing/okayama-full.json"
+      },
+      {
+        "trackName": "Okayama International Circuit - Short",
+        "trackId": "okayama short",
+        "path": "iracing/okayama-short.json"
+      },
+      {
+        "trackName": "Oran Park Raceway - GP",
+        "trackId": "oran gp",
+        "path": "iracing/oran-gp.json"
+      },
+      {
+        "trackName": "Oran Park Raceway - Moto",
+        "trackId": "oran moto",
+        "path": "iracing/oran-moto.json"
+      },
+      {
+        "trackName": "Oran Park Raceway - North",
+        "trackId": "oran north",
+        "path": "iracing/oran-north.json"
+      },
+      {
+        "trackName": "Oran Park Raceway - North A",
+        "trackId": "oran northa",
+        "path": "iracing/oran-northa.json"
+      },
+      {
+        "trackName": "Oran Park Raceway - North B",
+        "trackId": "oran northb",
+        "path": "iracing/oran-northb.json"
+      },
+      {
+        "trackName": "Oran Park Raceway - South",
+        "trackId": "oran south",
+        "path": "iracing/oran-south.json"
+      },
+      {
+        "trackName": "Motorsport Arena Oschersleben - Alternate",
+        "trackId": "oschersleben alt",
+        "path": "iracing/oschersleben-alt.json"
+      },
+      {
+        "trackName": "Motorsport Arena Oschersleben - B Course",
+        "trackId": "oschersleben bcourse",
+        "path": "iracing/oschersleben-bcourse.json"
+      },
+      {
+        "trackName": "Motorsport Arena Oschersleben - C Course",
+        "trackId": "oschersleben ccourse",
+        "path": "iracing/oschersleben-ccourse.json"
+      },
+      {
+        "trackName": "Motorsport Arena Oschersleben - Grand Prix",
+        "trackId": "oschersleben gp",
+        "path": "iracing/oschersleben-gp.json"
+      },
+      {
+        "trackName": "Oulton Park Circuit - Fosters",
+        "trackId": "oulton fosters",
+        "path": "iracing/oulton-fosters.json"
+      },
+      {
+        "trackName": "Oulton Park Circuit - Intl w/out Hislop",
+        "trackId": "oulton fosterswithhislop",
+        "path": "iracing/oulton-fosterswithhislop.json"
+      },
+      {
+        "trackName": "Oulton Park Circuit - Intl w/out Brittens",
+        "trackId": "outlon intbrittens",
+        "path": "iracing/oulton-intbrittens.json"
+      },
+      {
+        "trackName": "Oulton Park Circuit - International",
+        "trackId": "oulton international",
+        "path": "iracing/oulton-international.json"
+      },
+      {
+        "trackName": "Oulton Park intl w/out Brittens",
+        "trackId": "oulton inthislop",
+        "path": "iracing/oulton-inthislop.json"
+      },
+      {
+        "trackName": "Oulton Park Circuit - Intl w/no Chicanes",
+        "trackId": "oulton intnochicane",
+        "path": "iracing/oulton-intnochicane.json"
+      },
+      {
+        "trackName": "Oulton Park Circuit - Island Historic",
+        "trackId": "oulton islandhistoric",
+        "path": "iracing/oulton-islandhistoric.json"
+      },
+      {
+        "trackName": "Oulton Park Circuit - Island",
+        "trackId": "oulton island",
+        "path": "iracing/outlon-island.json"
+      },
+      {
+        "trackName": "Phillip Island Circuit",
+        "trackId": "phillipisland",
+        "path": "iracing/phillipisland.json"
+      },
+      {
+        "trackName": "Road America Bend",
+        "trackId": "roadamerica bend",
+        "path": "iracing/roadamerica-bend.json"
+      },
+      {
+        "trackName": "Road America Full Course",
+        "trackId": "roadamerica full",
+        "path": "iracing/roadamerica-full.json"
+      },
+      {
+        "trackName": "Road Atlanta - Full Course",
+        "trackId": "roadatlanta full",
+        "path": "iracing/roadatlanta-full.json"
+      },
+      {
+        "trackName": "Rudskogen Motorsenter",
+        "trackId": "rudskogen",
+        "path": "iracing/rudskogen.json"
+      },
+      {
+        "trackName": "Sachsenring",
+        "trackId": "sachsenring",
+        "path": "iracing/sachsenring.json"
+      },
+      {
+        "trackName": "Sebring International Raceway - Club",
+        "trackId": "sebring club",
+        "path": "iracing/sebring-club.json"
+      },
+      {
+        "trackName": "Sebring Int. Raceway",
+        "trackId": "sebring international",
+        "path": "iracing/sebring-international.json"
+      },
+      {
+        "trackName": "Sebring International Raceway - Modified",
+        "trackId": "sebring modified",
+        "path": "iracing/sebring-modified.json"
+      },
+      {
+        "trackName": "Silverstone Circuit - Arena Grand Prix",
+        "trackId": "silverstone 2019 gp",
+        "path": "iracing/silverstone-2019-gp.json"
+      },
+      {
+        "trackName": "Snetterton Circuit - 100",
+        "trackId": "snetterton 100",
+        "path": "iracing/snetterton-100.json"
+      },
+      {
+        "trackName": "Snetterton Circuit - 200",
+        "trackId": "snetterton 200",
+        "path": "iracing/snetterton-200.json"
+      },
+      {
+        "trackName": "Snetterton 300 Circuit",
+        "trackId": "snetterton 300",
+        "path": "iracing/snetterton-300.json"
+      },
+      {
+        "trackName": "Spa Endurance",
+        "trackId": "spa combined",
+        "path": "iracing/spa-combined.json"
+      },
+      {
+        "trackName": "Spa Classic Pits",
+        "trackId": "spa low",
+        "path": "iracing/spa-low.json"
+      },
+      {
+        "trackName": "Spa Grand Prix Pits",
+        "trackId": "spa up",
+        "path": "iracing/spa-up.json"
+      },
+      {
+        "trackName": "Red Bull Ring - GP",
+        "trackId": "spielberg gp",
+        "path": "iracing/spielberg-gp.json"
+      },
+      {
+        "trackName": "Red Bull Ring - National",
+        "trackId": "spielberg national",
+        "path": "iracing/spielberg-national.json"
+      },
+      {
+        "trackName": "Red Bull Ring - North",
+        "trackId": "speilberg north",
+        "path": "iracing/spielberg-north.json"
+      },
+      {
+        "trackName": "Summit Point Raceway - Jefferson Circuit Reverse",
+        "trackId": "summit jefferson rev",
+        "path": "iracing/summit-jefferson-rev.json"
+      },
+      {
+        "trackName": "Summit Point Raceway - Jefferson Circuit",
+        "trackId": "summit jefferson",
+        "path": "iracing/summit-jefferson.json"
+      },
+      {
+        "trackName": "Summit Point Raceway - School",
+        "trackId": "summit summit raceway school",
+        "path": "iracing/summit-summit-raceway-school.json"
+      },
+      {
+        "trackName": "Summit Point Raceway",
+        "trackId": "summit summit raceway",
+        "path": "iracing/summit-summit-raceway.json"
+      },
+      {
+        "trackName": "Summit Point Raceway - Short",
+        "trackId": "summit summit short",
+        "path": "iracing/summit-summit-short.json"
+      },
+      {
+        "trackName": "Suzuka Int Racing Course - GP",
+        "trackId": "suzuka grandprix",
+        "path": "iracing/suzuka-grandprix.json"
+      },
+      {
+        "trackName": "Tsukuba Circuit - 1000 Chicane",
+        "trackId": "tsukuba 1kchicane",
+        "path": "iracing/tsukuba-1kchicane.json"
+      },
+      {
+        "trackName": "Tsukuba Circuit - 1000 Full",
+        "trackId": "tsukuba 1kfull",
+        "path": "iracing/tsukuba-1kfull.json"
+      },
+      {
+        "trackName": "Tsukuba Circuit - 1000 Full Reverse",
+        "trackId": "tsukuba 1kfullreverse",
+        "path": "iracing/tsukuba-1kfullreverse.json"
+      },
+      {
+        "trackName": "Tsukuba Circuit - 1000 Outer",
+        "trackId": "tsukuba 1kouter",
+        "path": "iracing/tsukuba-1kouter.json"
+      },
+      {
+        "trackName": "Tsukuba Circuit - 2000 Moto",
+        "trackId": "tsukuba 2kchicane",
+        "path": "iracing/tsukuba-2kchicane.json"
+      },
+      {
+        "trackName": "Tsukuba Circuit - 2000 Full",
+        "trackId": "tsukuba 2kfull",
+        "path": "iracing/tsukuba-2kfull.json"
+      },
+      {
+        "trackName": "Tsukuba Circuit - 2000 Short",
+        "trackId": "tsukuba 2kshort",
+        "path": "iracing/tsukuba-2kshort.json"
+      },
+      {
+        "trackName": "Mobility Resort Motegi - East",
+        "trackId": "twinring east",
+        "path": "iracing/twinring-east.json"
+      },
+      {
+        "trackName": "Mobility Resort Motegi - Grand Prix",
+        "trackId": "twinring fullrc",
+        "path": "iracing/twinring-fullrc.json"
+      },
+      {
+        "trackName": "Mobility Resort Motegi - Oval",
+        "trackId": "twinring oval",
+        "path": "iracing/twinring-oval.json"
+      },
+      {
+        "trackName": "Mobility Resort Motegi - West",
+        "trackId": "twinring west",
+        "path": "iracing/twinring-west.json"
+      },
+      {
+        "trackName": "Virginia International Raceway - Full Course",
+        "trackId": "virginia 2022 full",
+        "path": "iracing/virginia-2022-full.json"
+      },
+      {
+        "trackName": "Virginia International Raceway - Grand West Course",
+        "trackId": "virginia 2022 grand",
+        "path": "iracing/virginia-2022-grand.json"
+      },
+      {
+        "trackName": "Virginia International Raceway - North Course",
+        "trackId": "virginia 2022 north",
+        "path": "iracing/virginia-2022-north.json"
+      },
+      {
+        "trackName": "Virginia International Raceway - Patriot Course",
+        "trackId": "virginia 2022 patriot",
+        "path": "iracing/virginia-2022-patriot.json"
+      },
+      {
+        "trackName": "Virginia International Raceway - South Course",
+        "trackId": "virginia 2022 south",
+        "path": "iracing/virginia-2022-south.json"
+      },
+      {
+        "trackName": "Watkins Glen International - Classic",
+        "trackId": "watkinsglen 2021 classic",
+        "path": "iracing/watkinsglen-2021-classic.json"
+      },
+      {
+        "trackName": "Watkins Glen International - Cup",
+        "trackId": "watkinsglen 2021 cupcircuit",
+        "path": "iracing/watkinsglen-2021-cupcircuit.json"
+      },
+      {
+        "trackName": "Watkins Glen",
+        "trackId": "watkinsglen 2021 fullcourse",
+        "path": "iracing/watkinsglen-2021-fullcourse.json"
+      },
+      {
+        "trackName": "Watkins Glen International - Classic Boot",
+        "trackId": "watkinsglen 2021 fullnoloop",
+        "path": "iracing/watkinsglen-2021-fullnoloop.json"
+      },
+      {
+        "trackName": "Winton Motor Raceway - Club Circuit",
+        "trackId": "winton club",
+        "path": "iracing/winton-club.json"
+      },
+      {
+        "trackName": "Winton National",
+        "trackId": "winton national",
+        "path": "iracing/winton-national.json"
+      },
+      {
+        "trackName": "Circuit Zandvoort - GP",
+        "trackId": "zandvoort 2023 gp",
+        "path": "iracing/zandvoort-2023-gp.json"
+      },
+      {
+        "trackName": "Zolder Circuit - Alternate",
+        "trackId": "zolder alt",
+        "path": "iracing/zolder-alt.json"
+      },
+      {
+        "trackName": "Zolder Circuit - Grand Prix",
+        "trackId": "zolder gp",
+        "path": "iracing/zolder-gp.json"
+      }
+    ],
+    "lmu": [
+      {
+        "trackName": "Autódromo Internacional do Algarve",
+        "trackId": "algarve international circuit",
+        "path": "lmu/algarve-international-circuit.json"
+      },
+      {
+        "trackName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "trackId": "autodromo enzo e dino ferrari",
+        "path": "lmu/autodromo-enzo-e-dino-ferrari.json"
+      },
+      {
+        "trackName": "Autódromo José Carlos Pace",
+        "trackId": "autódromo josé carlos pace",
+        "path": "lmu/autodromo-jose-carlos-pace.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza",
+        "trackId": "autodromo nazionale monza",
+        "path": "lmu/autodromo-nazionale-monza.json"
+      },
+      {
+        "trackName": "Bahrain International Circuit (Endurance)",
+        "trackId": "bahrain endurance circuit",
+        "path": "lmu/bahrain-endurance-circuit.json"
+      },
+      {
+        "trackName": "Bahrain International Circuit",
+        "trackId": "bahrain international circuit",
+        "path": "lmu/bahrain-international-circuit.json"
+      },
+      {
+        "trackName": "Bahrain International Circuit (Outer)",
+        "trackId": "bahrain outer circuit",
+        "path": "lmu/bahrain-outer-circuit.json"
+      },
+      {
+        "trackName": "Bahrain International Circuit (Paddock)",
+        "trackId": "bahrain paddock circuit",
+        "path": "lmu/bahrain-paddock-circuit.json"
+      },
+      {
+        "trackName": "Circuit de la Sarthe (Mulsanne)",
+        "trackId": "circuit de la sarthe mulsanne",
+        "path": "lmu/circuit-de-la-sarthe-mulsanne.json"
+      },
+      {
+        "trackName": "Circuit de la Sarthe",
+        "trackId": "circuit de la sarthe",
+        "path": "lmu/circuit-de-la-sarthe.json"
+      },
+      {
+        "trackName": "Circuit de Spa-Francorchamps (Endurance)",
+        "trackId": "circuit de spa-francorchamps endurance",
+        "path": "lmu/circuit-de-spa-francorchamps-endurance.json"
+      },
+      {
+        "trackName": "Circuit de Spa-Francorchamps",
+        "trackId": "circuit de spa-francorchamps",
+        "path": "lmu/circuit-de-spa-francorchamps.json"
+      },
+      {
+        "trackName": "Circuit of the Americas",
+        "trackId": "circuit of the americas",
+        "path": "lmu/circuit-of-the-americas.json"
+      },
+      {
+        "trackName": "Circuit of the Americas (National)",
+        "trackId": "cota national circuit",
+        "path": "lmu/cota-national-circuit.json"
+      },
+      {
+        "trackName": "Fuji International Speedway (Classic)",
+        "trackId": "fuji speedway classic",
+        "path": "lmu/fuji-speedway-classic.json"
+      },
+      {
+        "trackName": "Fuji International Speedway",
+        "trackId": "fuji speedway",
+        "path": "lmu/fuji-speedway.json"
+      },
+      {
+        "trackName": "Lusail International Circuit",
+        "trackId": "lusail international circuit",
+        "path": "lmu/lusail-international-circuit.json"
+      },
+      {
+        "trackName": "Lusail Short Circuit",
+        "trackId": "lusail short circuit",
+        "path": "lmu/lusail-short-circuit.json"
+      },
+      {
+        "trackName": "Autodromo Nazionale Monza (Curva Grande)",
+        "trackId": "monza curva grande circuit",
+        "path": "lmu/monza-curva-grande-circuit.json"
+      },
+      {
+        "trackName": "Sebring International Raceway",
+        "trackId": "sebring international raceway",
+        "path": "lmu/sebring-international-raceway.json"
+      },
+      {
+        "trackName": "Sebring International Raceway (School)",
+        "trackId": "sebring school circuit",
+        "path": "lmu/sebring-school-circuit.json"
+      }
+    ]
+  }
+}
