@@ -1,5 +1,12 @@
 {
   "tracks": {
+    "assettocorsa": [
+      {
+        "trackName": "Lime Rock Park",
+        "trackId": "rt_lime_rock_park",
+        "path": "assettocorsa/rt-lime-rock-park.json"
+      }
+    ],
     "assettocorsacompetizione": [
       {
         "trackName": "Circuit de Barcelona-Catalunya",
