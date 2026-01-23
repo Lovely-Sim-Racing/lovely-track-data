@@ -9,6 +9,7 @@ repos:
         args: ['--autofix', '--no-sort-keys']
         types: [file]  # override `types: [json]`
         files: \.(json)$
+        exclude: ^data/manifest\.json$
   - repo: local
     hooks:
       - id: generate-manifest
@@ -23,14 +24,3 @@ repos:
           '
         pass_filenames: false
         always_run: true
-repos:
-- repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.3.0
-  hooks:
-  - id: check-json
-    types: [file]  # override `types: [json]`
-    files: \.(json)$
-  - id: pretty-format-json
-    args: ['--autofix', '--no-sort-keys']
-    types: [file]  # override `types: [json]`
-    files: \.(json)$
