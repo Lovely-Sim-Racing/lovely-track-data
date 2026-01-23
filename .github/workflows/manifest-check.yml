@@ -1,0 +1,44 @@
+name: Manifest Check
+
+"on":
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'data/**'
+      - '.github/workflows/manifest-check.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/**'
+      - 'data/**'
+      - '.github/workflows/manifest-check.yml'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Generate manifest
+        run: python scripts/generate_manifest.py
+      - name: Check if manifest is up-to-date
+        run: |
+          if ! git diff --quiet -- data/manifest.json; then
+            echo "❌ Manifest is out of date!"
+            echo ""
+            echo "The generated manifest differs from the committed version."
+            echo ""
+            echo "To fix this:"
+            echo "  1. Run 'python scripts/generate_manifest.py' locally"
+            echo "  2. Commit the updated data/manifest.json"
+            echo ""
+            echo "OR install pre-commit hooks to auto-generate on commit:"
+            echo "  - Run 'pre-commit install'"
+            echo "  - Pre-commit will auto-generate and stage the manifest"
+            echo ""
+            echo "Diff:"
+            git diff -- data/manifest.json
+            exit 1
+          fi
