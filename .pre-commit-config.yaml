@@ -1,11 +1,26 @@
 repos:
-- repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.3.0
-  hooks:
-  - id: check-json
-    types: [file]  # override `types: [json]`
-    files: \.(json)$
-  - id: pretty-format-json
-    args: ['--autofix', '--no-sort-keys']
-    types: [file]  # override `types: [json]`
-    files: \.(json)$
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.3.0
+    hooks:
+      - id: check-json
+        types: [file]  # override `types: [json]`
+        files: \.(json)$
+      - id: pretty-format-json
+        args: ['--autofix', '--no-sort-keys']
+        types: [file]  # override `types: [json]`
+        files: \.(json)$
+        exclude: ^data/manifest\.json$
+  - repo: local
+    hooks:
+      - id: generate-manifest
+        name: Generate data/manifest.json
+        language: system
+        entry: |
+          bash -lc '
+            python3 scripts/generate_manifest.py
+            if ! git diff --quiet -- data/manifest.json; then
+              git add data/manifest.json
+            fi
+          '
+        pass_filenames: false
+        always_run: true
