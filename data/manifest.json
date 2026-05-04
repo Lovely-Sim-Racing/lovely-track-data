@@ -158,7 +158,7 @@
         "path": "f12024/baku-azerbaijan.json"
       },
       {
-        "trackName": "Autódromo José Carlos Pace",
+        "trackName": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
         "trackId": "brazil",
         "path": "f12024/brazil.json"
       },
@@ -198,7 +198,7 @@
         "path": "f12024/melbourne.json"
       },
       {
-        "trackName": "Autódromo Hermanos Rodríguez",
+        "trackName": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
         "trackId": "mexico",
         "path": "f12024/mexico.json"
       },
@@ -224,7 +224,7 @@
       },
       {
         "trackName": "Alrgarve International Circuit",
-        "trackId": "portimáo",
+        "trackId": "portim\u00e1o",
         "path": "f12024/portimao.json"
       },
       {
@@ -285,7 +285,7 @@
         "path": "f12025/baku-azerbaijan.json"
       },
       {
-        "trackName": "Autódromo José Carlos Pace",
+        "trackName": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
         "trackId": "brazil",
         "path": "f12025/brazil.json"
       },
@@ -325,7 +325,7 @@
         "path": "f12025/melbourne.json"
       },
       {
-        "trackName": "Autódromo Hermanos Rodríguez",
+        "trackName": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
         "trackId": "mexico",
         "path": "f12025/mexico.json"
       },
@@ -351,7 +351,7 @@
       },
       {
         "trackName": "Alrgarve International Circuit",
-        "trackId": "portimáo",
+        "trackId": "portim\u00e1o",
         "path": "f12025/portimao.json"
       },
       {
@@ -477,47 +477,47 @@
         "path": "iracing/hockenheim-gp.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - National A",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - National A",
         "trackId": "hockenheim nationala",
         "path": "iracing/hockenheim-nationala.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - National B",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - National B",
         "trackId": "hockenheim nationalb",
         "path": "iracing/hockenheim-nationalb.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - Outer",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - Outer",
         "trackId": "hockenheim outer",
         "path": "iracing/hockenheim-outer.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - East",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - Porsche Experience Center - East",
         "trackId": "hockenheim pec peceast",
         "path": "iracing/hockenheim-pec-peceast.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - Handling",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - Porsche Experience Center - Handling",
         "trackId": "hockenheim pec pechandling",
         "path": "iracing/hockenheim-pec-pechandling.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - Outer",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - Porsche Experience Center - Outer",
         "trackId": "hockenheim pec pecouter",
         "path": "iracing/hockenheim-pec-pecouter.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - Porsche Experience Center - West",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - Porsche Experience Center - West",
         "trackId": "hockenheim pec pecwest",
         "path": "iracing/hockenheim-pec-pecwest.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - Short A",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - Short A",
         "trackId": "hockenheim shorta",
         "path": "iracing/hockenheim-shorta.json"
       },
       {
-        "trackName": "Hockenheimring Baden-Württemberg - Short B",
+        "trackName": "Hockenheimring Baden-W\u00fcrttemberg - Short B",
         "trackId": "hockenheim shortb",
         "path": "iracing/hockenheim-shortb.json"
       },
@@ -853,16 +853,31 @@
       },
       {
         "trackName": "Spa Endurance",
+        "trackId": "spa 2024 combined",
+        "path": "iracing/spa-2024-combined.json"
+      },
+      {
+        "trackName": "Spa Classic Pits",
+        "trackId": "spa 2024 low",
+        "path": "iracing/spa-2024-low.json"
+      },
+      {
+        "trackName": "Spa Grand Prix Pits",
+        "trackId": "spa 2024 up",
+        "path": "iracing/spa-2024-up.json"
+      },
+      {
+        "trackName": "Spa Endurance - 2010",
         "trackId": "spa combined",
         "path": "iracing/spa-combined.json"
       },
       {
-        "trackName": "Spa Classic Pits",
+        "trackName": "Spa Classic Pits - 2010",
         "trackId": "spa low",
         "path": "iracing/spa-low.json"
       },
       {
-        "trackName": "Spa Grand Prix Pits",
+        "trackName": "Spa Grand Prix Pits - 2010",
         "trackId": "spa up",
         "path": "iracing/spa-up.json"
       },
@@ -1039,7 +1054,7 @@
     ],
     "lmu": [
       {
-        "trackName": "Autódromo Internacional do Algarve",
+        "trackName": "Aut\u00f3dromo Internacional do Algarve",
         "trackId": "algarve international circuit",
         "path": "lmu/algarve-international-circuit.json"
       },
@@ -1049,8 +1064,8 @@
         "path": "lmu/autodromo-enzo-e-dino-ferrari.json"
       },
       {
-        "trackName": "Autódromo José Carlos Pace",
-        "trackId": "autódromo josé carlos pace",
+        "trackName": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+        "trackId": "aut\u00f3dromo jos\u00e9 carlos pace",
         "path": "lmu/autodromo-jose-carlos-pace.json"
       },
       {
