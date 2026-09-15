@@ -792,6 +792,16 @@
         "path": "iracing/phillipisland.json"
       },
       {
+        "trackName": "Road America 2026 Bend",
+        "trackId": "roadamerica 2026 bend",
+        "path": "iracing/roadamerica-2026-bend.json"
+      },
+      {
+        "trackName": "Road America 2026 Full Course",
+        "trackId": "roadamerica 2026 full",
+        "path": "iracing/roadamerica-2026-full.json"
+      },
+      {
         "trackName": "Road America Bend",
         "trackId": "roadamerica bend",
         "path": "iracing/roadamerica-bend.json"
