@@ -1,0 +1,30 @@
+# When track files change on v2.0.0 (the branch api.lsr.gg/track-data serves), Cloudflare's cached copies are
+# dropped (the API tags them "track-data"), so plugins get the new files at once instead of when the cache expires.
+# Needs the repository secrets CLOUDFLARE_ZONE_ID and CLOUDFLARE_API_TOKEN (a token with Zone > Cache Purge);
+# without them it only says so.
+name: Refresh the API's track data cache
+
+on:
+  push:
+    branches:
+      - v2.0.0
+    paths:
+      - "data/**"
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge the track-data cache tag
+        env:
+          ZONE: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -z "$ZONE" ] || [ -z "$TOKEN" ]; then
+            echo "::notice::CLOUDFLARE_ZONE_ID / CLOUDFLARE_API_TOKEN not set: cache not purged"
+            exit 0
+          fi
+          curl --fail-with-body -sS -X POST "https://api.cloudflare.com/client/v4/zones/$ZONE/purge_cache" \
+            -H "Authorization: Bearer $TOKEN" -H "Content-Type: application/json" \
+            --data '{"tags":["track-data"]}'

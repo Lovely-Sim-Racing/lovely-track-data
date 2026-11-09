@@ -1,0 +1,45 @@
+# Weekly: the pit loss the Lovely API has combined from drivers' online races (complete combos only) goes into the
+# track files, as one pull request into main (none when nothing changed). Merging it, then main into v2.0.0, publishes
+# it (cloudflare-purge.yml refreshes the API's cache).
+# Needs the repository secret PIT_EXPORT_TOKEN (the API's auth_tokens row named export-pit-loss), and
+# Settings > Actions > General > "Allow GitHub Actions to create and approve pull requests".
+name: Pit loss from the Lovely API
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays, 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update the track files from the API's export
+        id: publish
+        env:
+          PIT_EXPORT_TOKEN: ${{ secrets.PIT_EXPORT_TOKEN }}
+        run: python scripts/publish_pit_loss.py --summary "${{ runner.temp }}/pit-loss-summary.md"
+
+      - name: Open the pull request
+        if: steps.publish.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: pit-loss/weekly
+          base: main
+          add-paths: data/**
+          commit-message: "Pit loss from the Lovely API"
+          title: "Pit loss from the Lovely API"
+          body-path: ${{ runner.temp }}/pit-loss-summary.md
+          delete-branch: true

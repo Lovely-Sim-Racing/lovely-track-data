@@ -117,9 +117,11 @@ Every file is formatted as follows:
   # extra                - (OPTIONAL) An array of properties
     # keys      (Mixed)  - Key:Value
 # time                   - (OPTIONAL) An array of estimated time delays
-  # class       (String) - The car class, lower case, as SimHub reports it (sim dependant)
+  # class       (String) - The car class: the car data's class code, lower case (lovely-car-data's carClass, e.g. "gt3", "hyp", "lmp2")
     # name      (String) - Name of the time delay: "dt" (drive-through) or "pit" (a typical race stop)
     # time      (Int)    - Time lost in seconds, compared with staying on track
+    # Updated weekly from the Lovely API (drivers' online races, complete classes only) by a pull request from the
+    # "Pit loss from the Lovely API" workflow, which also updates pitentry / pitexit (scripts/publish_pit_loss.py)
 # companion              - (OPTIONAL) Optimal display of the Track Map on the Lovely Dashboard Companion
   # top         (Int)    - Distance to top
   # left        (Int)    - Distance to left
