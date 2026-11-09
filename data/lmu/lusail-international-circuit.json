@@ -164,10 +164,6 @@
           "time": 30
         },
         {
-          "name": "sng10",
-          "time": 42
-        },
-        {
           "name": "pit",
           "time": 84
         }
@@ -176,10 +172,6 @@
         {
           "name": "dt",
           "time": 30
-        },
-        {
-          "name": "sng10",
-          "time": 42
         },
         {
           "name": "pit",
@@ -192,10 +184,6 @@
           "time": 30
         },
         {
-          "name": "sng10",
-          "time": 42
-        },
-        {
           "name": "pit",
           "time": 88
         }
@@ -204,10 +192,6 @@
         {
           "name": "dt",
           "time": 30
-        },
-        {
-          "name": "sng10",
-          "time": 42
         },
         {
           "name": "pit",

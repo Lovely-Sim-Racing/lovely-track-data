@@ -117,9 +117,9 @@ Every file is formatted as follows:
   # extra                - (OPTIONAL) An array of properties
     # keys      (Mixed)  - Key:Value
 # time                   - (OPTIONAL) An array of estimated time delays
-  # class       (String) - The car class (sim dependant)
-    # name      (String) - Name of the time delay
-    # time      (Int)    - Time delay in seconds
+  # class       (String) - The car class, lower case, as SimHub reports it (sim dependant)
+    # name      (String) - Name of the time delay: "dt" (drive-through) or "pit" (a typical race stop)
+    # time      (Int)    - Time lost in seconds, compared with staying on track
 # companion              - (OPTIONAL) Optimal display of the Track Map on the Lovely Dashboard Companion
   # top         (Int)    - Distance to top
   # left        (Int)    - Distance to left
