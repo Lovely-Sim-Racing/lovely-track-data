@@ -4,8 +4,8 @@
   "country": "ES",
   "year": 1995,
   "length": 4670,
-  "pitentry": 0.915,
-  "pitexit": 0.098,
+  "pitentry": 0.99,
+  "pitexit": 0.07,
   "turn": [
     {
       "name": "Elf",
@@ -98,6 +98,20 @@
     {
       "name": "3",
       "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "pit",
+          "time": 75
+        },
+        {
+          "name": "dt",
+          "time": 11
+        }
+      ]
     }
   ]
 }

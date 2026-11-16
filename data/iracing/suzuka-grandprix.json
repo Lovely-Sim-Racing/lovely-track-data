@@ -4,8 +4,8 @@
   "country": "JP",
   "year": 2009,
   "length": 5750,
-  "pitentry": 0.962,
-  "pitexit": 0.07,
+  "pitentry": 0.994,
+  "pitexit": 0.063,
   "turn": [
     {
       "start": 0.104,
@@ -95,6 +95,30 @@
     {
       "marker": 1.0,
       "name": "6"
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        {
+          "name": "pit",
+          "time": 23
+        },
+        {
+          "name": "dt",
+          "time": 11
+        }
+      ],
+      "gtp": [
+        {
+          "name": "pit",
+          "time": 37
+        },
+        {
+          "name": "dt",
+          "time": 12
+        }
+      ]
     }
   ]
 }

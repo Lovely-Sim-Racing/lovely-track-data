@@ -3,7 +3,7 @@
   "trackId": "nurburgring nordschleife",
   "country": "DE",
   "length": 20640,
-  "pitentry": 0.993,
+  "pitentry": 0.002,
   "pitexit": 0.006,
   "turn": [
     {
@@ -239,6 +239,20 @@
     {
       "name": "10",
       "marker": 1
+    }
+  ],
+  "time": [
+    {
+      "gt4": [
+        {
+          "name": "pit",
+          "time": 138
+        },
+        {
+          "name": "dt",
+          "time": 1
+        }
+      ]
     }
   ]
 }

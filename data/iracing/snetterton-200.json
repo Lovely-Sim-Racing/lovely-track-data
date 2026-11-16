@@ -16,5 +16,21 @@
       "marker": 1,
       "name": "3"
     }
-  ]
+  ],
+  "time": [
+    {
+      "f296": [
+        {
+          "name": "pit",
+          "time": 70
+        },
+        {
+          "name": "dt",
+          "time": 3
+        }
+      ]
+    }
+  ],
+  "pitentry": 0.982,
+  "pitexit": 0.013
 }

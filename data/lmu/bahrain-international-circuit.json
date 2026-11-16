@@ -3,7 +3,7 @@
   "trackId": "bahrain international circuit",
   "country": "BH",
   "length": 5386,
-  "pitentry": 0.99,
+  "pitentry": 0.993,
   "pitexit": 0.07,
   "turn": [
     {
@@ -158,11 +158,11 @@
       "gt3": [
         {
           "name": "dt",
-          "time": 25
+          "time": 19
         },
         {
           "name": "pit",
-          "time": 79
+          "time": 55
         }
       ],
       "gte": [
@@ -188,11 +188,11 @@
       "hyp": [
         {
           "name": "dt",
-          "time": 25
+          "time": 19
         },
         {
           "name": "pit",
-          "time": 80
+          "time": 45
         }
       ]
     }

@@ -3,8 +3,8 @@
   "trackId": "monza",
   "country": "IT",
   "length": 5793,
-  "pitentry": 0.963,
-  "pitexit": 0.079,
+  "pitentry": 0.021,
+  "pitexit": 0.098,
   "turn": [
     {
       "name": "Variante Rettifilo",
@@ -92,11 +92,11 @@
       "gt3": [
         {
           "name": "pit",
-          "time": 74
+          "time": 89
         },
         {
           "name": "dt",
-          "time": 39
+          "time": 16
         }
       ]
     }

@@ -78,7 +78,19 @@
           "name": "dt",
           "time": 31
         }
+      ],
+      "cup": [
+        {
+          "name": "pit",
+          "time": 72
+        },
+        {
+          "name": "dt",
+          "time": 9
+        }
       ]
     }
-  ]
+  ],
+  "pitentry": 0.015,
+  "pitexit": 0.124
 }

@@ -4,8 +4,8 @@
   "country": "US",
   "year": 2014,
   "length": 3200,
-  "pitentry": 0.96,
-  "pitexit": 0.02,
+  "pitentry": 0.907,
+  "pitexit": 0.949,
   "turn": [
     {
       "start": 0.141,
@@ -50,6 +50,20 @@
     {
       "marker": 1.0,
       "name": "3"
+    }
+  ],
+  "time": [
+    {
+      "f4": [
+        {
+          "name": "pit",
+          "time": 24
+        },
+        {
+          "name": "dt",
+          "time": 10
+        }
+      ]
     }
   ]
 }

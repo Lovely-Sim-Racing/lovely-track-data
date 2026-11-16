@@ -3,7 +3,7 @@
   "trackId": "circuit de spa-francorchamps",
   "country": "BE",
   "length": 6981,
-  "pitentry": 0.97,
+  "pitentry": 0.973,
   "pitexit": 0.03,
   "turn": [
     {
@@ -208,11 +208,11 @@
       "gt3": [
         {
           "name": "dt",
-          "time": 23
+          "time": 15
         },
         {
           "name": "pit",
-          "time": 77
+          "time": 44
         }
       ],
       "gte": [
