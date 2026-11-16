@@ -10,6 +10,7 @@ manifest, as the API's track-data endpoint does), class = the car data's class (
 
 - The API's values replace the file's when they differ.
 - Tracks without a file in the repo are skipped (listed in the summary): a new file needs more than pit data.
+- Classes the API held back (its "held" list: the races disagree, or the values don't add up) are only listed.
 - Files are written in the repo's own format (pre-commit pretty-format-json: 2 spaces, keys unsorted, non-ASCII kept).
 - The summary (markdown) is the pull request's description: what changed, old -> new, and the evidence.
 
@@ -219,6 +220,12 @@ def build_summary(export, rows, written, missing) -> str:
         for combo in missing:
             lines.append("- %s / %s, class %s (%s races): pit %s, dt %s" % (
                 combo["sim"], combo["track"], combo["class"], combo.get("races"), combo.get("pit"), combo.get("dt")))
+    held = export.get("held", [])
+    if held:
+        lines += ["", "Held back by the API (not published until the races agree):", ""]
+        for combo in held:
+            lines.append("- %s / %s, class %s (%s races): %s; would be pit %s, dt %s" % (
+                combo["sim"], combo["track"], combo["class"], combo.get("races"), combo.get("reason"), combo.get("pit"), combo.get("dt")))
     return "\n".join(lines) + "\n"
 
 
