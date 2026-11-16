@@ -3,8 +3,8 @@
   "trackId": "zandvoort 2023 gp",
   "country": "NL",
   "length": 4210,
-  "pitentry": 0.965,
-  "pitexit": 0.095,
+  "pitentry": 0.993,
+  "pitexit": 0.049,
   "turn": [
     {
       "start": 0.05,
@@ -82,6 +82,20 @@
     {
       "marker": 1.0,
       "name": "3"
+    }
+  ],
+  "time": [
+    {
+      "sr8": [
+        {
+          "name": "pit",
+          "time": 49
+        },
+        {
+          "name": "dt",
+          "time": 13
+        }
+      ]
     }
   ]
 }

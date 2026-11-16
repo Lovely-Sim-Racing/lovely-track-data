@@ -3,8 +3,8 @@
   "trackId": "circuit de la sarthe",
   "country": "FR",
   "length": 13623,
-  "pitentry": 0.99,
-  "pitexit": 0.03,
+  "pitentry": 0.989,
+  "pitexit": 0.029,
   "turn": [
     {
       "number": 1,
@@ -226,11 +226,11 @@
       "gt3": [
         {
           "name": "dt",
-          "time": 32
+          "time": 21
         },
         {
           "name": "pit",
-          "time": 86
+          "time": 76
         }
       ],
       "gte": [
