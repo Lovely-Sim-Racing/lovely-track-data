@@ -3,8 +3,8 @@
   "trackId": "monza curva grande circuit",
   "country": "IT",
   "length": 5745,
-  "pitentry": 0.98,
-  "pitexit": 0.05,
+  "pitentry": 0.985,
+  "pitexit": 0.057,
   "turn": [
     {
       "number": 1,
@@ -145,6 +145,16 @@
         {
           "name": "pit",
           "time": 80
+        }
+      ],
+      "lmp3": [
+        {
+          "name": "pit",
+          "time": 40
+        },
+        {
+          "name": "dt",
+          "time": 19
         }
       ]
     }

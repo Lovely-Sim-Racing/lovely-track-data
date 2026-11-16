@@ -4,8 +4,8 @@
   "country": "Canada",
   "year": 2002,
   "length": 4371,
-  "pitentry": 0.8937,
-  "pitexit": 0.0849,
+  "pitentry": 0.916,
+  "pitexit": 0.007,
   "sector": [
     {
       "marker": 0.2521,
@@ -148,6 +148,20 @@
       "left": -490,
       "rotation": 0,
       "scale": 1.8
+    }
+  ],
+  "time": [
+    {
+      "f1": [
+        {
+          "name": "pit",
+          "time": 16
+        },
+        {
+          "name": "dt",
+          "time": 11
+        }
+      ]
     }
   ]
 }

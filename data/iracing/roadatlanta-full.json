@@ -4,8 +4,8 @@
   "country": "US",
   "year": 2017,
   "length": 4060,
-  "pitentry": 0.94,
-  "pitexit": 0.131,
+  "pitentry": 0.957,
+  "pitexit": 0.088,
   "turn": [
     {
       "start": 0.049,
@@ -94,6 +94,20 @@
     {
       "marker": 1.0,
       "name": "4"
+    }
+  ],
+  "time": [
+    {
+      "gr86": [
+        {
+          "name": "pit",
+          "time": 47
+        },
+        {
+          "name": "dt",
+          "time": 16
+        }
+      ]
     }
   ]
 }

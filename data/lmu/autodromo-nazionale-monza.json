@@ -3,8 +3,8 @@
   "trackId": "autodromo nazionale monza",
   "country": "IT",
   "length": 5780,
-  "pitentry": 0.98,
-  "pitexit": 0.05,
+  "pitentry": 0.985,
+  "pitexit": 0.057,
   "turn": [
     {
       "number": 1,
@@ -127,11 +127,11 @@
       "gt3": [
         {
           "name": "dt",
-          "time": 25
+          "time": 19
         },
         {
           "name": "pit",
-          "time": 79
+          "time": 61
         }
       ],
       "gte": [
@@ -157,11 +157,11 @@
       "hyp": [
         {
           "name": "dt",
-          "time": 25
+          "time": 21
         },
         {
           "name": "pit",
-          "time": 80
+          "time": 87
         }
       ]
     }

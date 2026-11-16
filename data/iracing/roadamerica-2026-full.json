@@ -3,8 +3,8 @@
   "trackId": "roadamerica 2026 full",
   "country": "US",
   "length": 6410,
-  "pitentry": 0.925,
-  "pitexit": 0.056,
+  "pitentry": 0.954,
+  "pitexit": 0.055,
   "turn": [
     {
       "start": 0.08,
@@ -112,5 +112,19 @@
       "name": "6"
     }
   ],
-  "year": 2026
+  "year": 2026,
+  "time": [
+    {
+      "gte": [
+        {
+          "name": "pit",
+          "time": 40
+        },
+        {
+          "name": "dt",
+          "time": 19
+        }
+      ]
+    }
+  ]
 }
