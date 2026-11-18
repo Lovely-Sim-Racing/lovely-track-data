@@ -117,7 +117,7 @@
     {
       "name": "Caracciola-Karussell",
       "start": 0.576,
-      "marker": 0.57,
+      "marker": 0.582,
       "end": 0.588
     },
     {
@@ -175,12 +175,6 @@
       "end": 0.852
     },
     {
-      "name": "Doettinger Hoehe",
-      "start": 0.855,
-      "marker": 0.9,
-      "end": 0.94
-    },
-    {
       "name": "Antoniusbuche",
       "start": 0.945,
       "marker": 0.952,
@@ -197,6 +191,14 @@
       "start": 0.973,
       "marker": 0.99,
       "end": 1
+    }
+  ],
+  "straight": [
+    {
+      "name": "Doettinger Hoehe",
+      "start": 0.855,
+      "marker": 0.9,
+      "end": 0.94
     }
   ],
   "sector": [
