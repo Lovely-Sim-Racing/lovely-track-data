@@ -1,0 +1,158 @@
+{
+  "name": "Autódromo Hermanos Rodríguez - Grand Prix",
+  "trackId": "mexicocity gp",
+  "country": "MX",
+  "length": 4239,
+  "turn": [
+    {
+      "start": 0.276,
+      "marker": 0.2855,
+      "end": 0.294,
+      "direction": 1,
+      "scale": 2,
+      "name": "Esses Moisés Solana"
+    },
+    {
+      "start": 0.297,
+      "marker": 0.3015,
+      "end": 0.309,
+      "direction": 0,
+      "scale": 3,
+      "name": "Esses Moisés Solana"
+    },
+    {
+      "start": 0.311,
+      "marker": 0.3155,
+      "end": 0.323,
+      "direction": 1,
+      "scale": 3,
+      "name": "Esses Moisés Solana"
+    },
+    {
+      "start": 0.473,
+      "marker": 0.4815,
+      "end": 0.488,
+      "direction": 0,
+      "scale": 2,
+      "name": "Ese del Lago"
+    },
+    {
+      "start": 0.49,
+      "marker": 0.4955,
+      "end": 0.503,
+      "direction": 1,
+      "scale": 2,
+      "name": "Ese del Lago"
+    },
+    {
+      "start": 0.521,
+      "marker": 0.5295,
+      "end": 0.54,
+      "direction": 1,
+      "scale": 1,
+      "name": "Horquilla"
+    },
+    {
+      "start": 0.596,
+      "marker": 0.6065,
+      "end": 0.62,
+      "direction": 0,
+      "scale": 3,
+      "name": "Esses"
+    },
+    {
+      "start": 0.624,
+      "marker": 0.6335,
+      "end": 0.64,
+      "direction": 1,
+      "scale": 5,
+      "name": "Esses"
+    },
+    {
+      "start": 0.642,
+      "marker": 0.6635,
+      "end": 0.673,
+      "direction": 0,
+      "scale": 4,
+      "name": "Esses"
+    },
+    {
+      "start": 0.685,
+      "marker": 0.6935,
+      "end": 0.708,
+      "direction": 1,
+      "scale": 5,
+      "name": "T10"
+    },
+    {
+      "start": 0.711,
+      "marker": 0.7165,
+      "end": 0.737,
+      "direction": 0,
+      "scale": 5,
+      "name": "T11"
+    },
+    {
+      "start": 0.843,
+      "marker": 0.8475,
+      "end": 0.867,
+      "direction": 1,
+      "scale": 3,
+      "name": "T12"
+    },
+    {
+      "start": 0.887,
+      "marker": 0.8935,
+      "end": 0.899,
+      "direction": 0,
+      "scale": 1,
+      "name": "Foro Sol"
+    },
+    {
+      "start": 0.903,
+      "marker": 0.9065,
+      "end": 0.911,
+      "direction": 1,
+      "scale": 2,
+      "name": "T14"
+    },
+    {
+      "start": 0.918,
+      "marker": 0.9205,
+      "end": 0.922,
+      "direction": 0,
+      "scale": 6,
+      "name": "T15"
+    },
+    {
+      "start": 0.926,
+      "marker": 0.9345,
+      "end": 0.944,
+      "direction": 1,
+      "scale": 2,
+      "name": "T16"
+    },
+    {
+      "start": 0.944,
+      "marker": 0.9455,
+      "end": 0.973,
+      "direction": 1,
+      "scale": 5,
+      "name": "Peraltada"
+    }
+  ],
+  "sector": [
+    {
+      "marker": 0.4479,
+      "name": "1"
+    },
+    {
+      "marker": 0.8086,
+      "name": "2"
+    },
+    {
+      "marker": 1.0,
+      "name": "3"
+    }
+  ]
+}
