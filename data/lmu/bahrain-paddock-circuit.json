@@ -3,7 +3,7 @@
   "trackId": "bahrain paddock circuit",
   "country": "BH",
   "length": 3511,
-  "pitentry": 0.98,
+  "pitentry": 0.989,
   "pitexit": 0.1,
   "turn": [
     {
@@ -153,6 +153,16 @@
         {
           "name": "pit",
           "time": 80
+        }
+      ],
+      "lmp3": [
+        {
+          "name": "pit",
+          "time": 52
+        },
+        {
+          "name": "dt",
+          "time": 19
         }
       ]
     }

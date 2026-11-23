@@ -3,8 +3,8 @@
   "trackId": "virginia 2022 grand",
   "country": "US",
   "length": 6598,
-  "pitentry": 0.922,
-  "pitexit": 0.013,
+  "pitentry": 0.945,
+  "pitexit": 0.998,
   "turn": [
     {
       "start": 0.051,
@@ -244,6 +244,20 @@
     {
       "marker": 1.0,
       "name": "6"
+    }
+  ],
+  "time": [
+    {
+      "gr86": [
+        {
+          "name": "pit",
+          "time": 89
+        },
+        {
+          "name": "dt",
+          "time": 14
+        }
+      ]
     }
   ]
 }

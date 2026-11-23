@@ -131,7 +131,7 @@
         },
         {
           "name": "pit",
-          "time": 61
+          "time": 62
         }
       ],
       "gte": [
@@ -157,11 +157,11 @@
       "hyp": [
         {
           "name": "dt",
-          "time": 21
+          "time": 20
         },
         {
           "name": "pit",
-          "time": 87
+          "time": 58
         }
       ]
     }

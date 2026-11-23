@@ -95,6 +95,16 @@
           "name": "dt",
           "time": 13
         }
+      ],
+      "gr86": [
+        {
+          "name": "pit",
+          "time": 57
+        },
+        {
+          "name": "dt",
+          "time": 14
+        }
       ]
     }
   ]
