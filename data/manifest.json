@@ -607,6 +607,11 @@
         "path": "iracing/magnycours-gp.json"
       },
       {
+        "trackName": "Autódromo Hermanos Rodríguez - Grand Prix",
+        "trackId": "mexicocity gp",
+        "path": "iracing/mexicocity-gp.json"
+      },
+      {
         "trackName": "Misano Grand Prix",
         "trackId": "misano gp",
         "path": "iracing/misano-gp.json"
