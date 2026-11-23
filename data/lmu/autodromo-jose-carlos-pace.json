@@ -3,8 +3,8 @@
   "trackId": "autódromo josé carlos pace",
   "country": "BR",
   "length": 4273,
-  "pitentry": 0.98,
-  "pitexit": 0.07,
+  "pitentry": 0.984,
+  "pitexit": 0.078,
   "turn": [
     {
       "number": 1,
@@ -164,11 +164,11 @@
       "gt3": [
         {
           "name": "dt",
-          "time": 23
+          "time": 17
         },
         {
           "name": "pit",
-          "time": 77
+          "time": 62
         }
       ],
       "gte": [
@@ -184,11 +184,11 @@
       "lmp2": [
         {
           "name": "dt",
-          "time": 23
+          "time": 17
         },
         {
           "name": "pit",
-          "time": 81
+          "time": 65
         }
       ],
       "hyp": [

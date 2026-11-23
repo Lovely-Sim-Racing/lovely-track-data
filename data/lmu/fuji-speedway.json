@@ -3,7 +3,7 @@
   "trackId": "fuji speedway",
   "country": "JP",
   "length": 4535,
-  "pitentry": 0.99,
+  "pitentry": 0.992,
   "pitexit": 0.1,
   "turn": [
     {
@@ -170,11 +170,11 @@
       "gt3": [
         {
           "name": "dt",
-          "time": 29
+          "time": 23
         },
         {
           "name": "pit",
-          "time": 83
+          "time": 64
         }
       ],
       "gte": [
@@ -200,11 +200,11 @@
       "hyp": [
         {
           "name": "dt",
-          "time": 29
+          "time": 24
         },
         {
           "name": "pit",
-          "time": 84
+          "time": 69
         }
       ]
     }

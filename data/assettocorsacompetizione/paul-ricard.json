@@ -105,11 +105,11 @@
       "gt3": [
         {
           "name": "pit",
-          "time": 70
+          "time": 61
         },
         {
           "name": "dt",
-          "time": 32
+          "time": 26
         }
       ]
     }
@@ -121,5 +121,7 @@
       "rotation": -10,
       "scale": 1.1
     }
-  ]
+  ],
+  "pitentry": 0.974,
+  "pitexit": 0.052
 }
