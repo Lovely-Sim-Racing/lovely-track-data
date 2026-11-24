@@ -1,0 +1,49 @@
+# When track files change on v2.0.0 (the branch the plugin reads), a summary goes to Discord: new tracks, fixes,
+# pit loss updates and the contributors to thank. Nothing is posted when only scripts or docs change.
+# Needs the repository secret DISCORD_WEBHOOK_URL (Discord: Edit Channel > Integrations > Webhooks);
+# without it the post is only printed in the run's log.
+# Run it by hand with two commits to re-post (or preview, with dry run) an earlier update.
+name: Post track data updates to Discord
+
+on:
+  push:
+    branches:
+      - v2.0.0
+    paths:
+      - "data/**"
+  workflow_dispatch:
+    inputs:
+      before:
+        description: "Commit before the update"
+        required: true
+      after:
+        description: "Commit after the update"
+        required: true
+      dry_run:
+        description: "Only print the post"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Post to Discord
+        shell: pwsh
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GITHUB_TOKEN: ${{ github.token }}
+          BEFORE: ${{ inputs.before || github.event.before }}
+          AFTER: ${{ inputs.after || github.sha }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          $dry = $env:DRY_RUN -eq "true"
+          ./scripts/post_discord.ps1 -Before $env:BEFORE -After $env:AFTER -DryRun:$dry
