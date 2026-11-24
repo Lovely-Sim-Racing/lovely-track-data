@@ -1,7 +1,8 @@
 # Posts a summary of a push to v2.0.0 to Discord: new tracks, fixes, pit loss updates and the contributors to thank.
 # Run by .github/workflows/discord-post.yml; works in Windows PowerShell 5.1 and pwsh 7.
 #   ./scripts/post_discord.ps1 -Before <sha> -After <sha> [-DryRun]
-# Env: DISCORD_WEBHOOK_URL (no webhook = print only), GITHUB_TOKEN (optional, for the GitHub API),
+# Env: DISCORD_WEBHOOK_URL (no webhook = print only), DISCORD_ROLE_ID (optional, a role to ping),
+#      GITHUB_TOKEN (optional, for the GitHub API),
 #      GITHUB_REPOSITORY (defaults to Lovely-Sim-Racing/lovely-track-data), GIT (git executable, defaults to "git").
 param(
     [string]$Before,
@@ -179,7 +180,16 @@ $embed = [ordered]@{
     footer      = [ordered]@{ text = $footer }
     timestamp   = $when
 }
-$payload = [ordered]@{ embeds = @($embed); allowed_mentions = [ordered]@{ parse = @() } }
+# DISCORD_ROLE_ID: a role to ping with the post (mentions inside an embed never ping, so it goes in the content).
+$payload = [ordered]@{}
+if ($env:DISCORD_ROLE_ID -match '^\d+$') {
+    $payload["content"] = "<@&$($env:DISCORD_ROLE_ID)>"
+    $payload["embeds"] = @($embed)
+    $payload["allowed_mentions"] = [ordered]@{ parse = @(); roles = @($env:DISCORD_ROLE_ID) }
+} else {
+    $payload["embeds"] = @($embed)
+    $payload["allowed_mentions"] = [ordered]@{ parse = @() }
+}
 $json = ConvertTo-Json -InputObject $payload -Depth 10
 
 if ($DryRun -or -not $env:DISCORD_WEBHOOK_URL) {
